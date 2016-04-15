@@ -1,0 +1,4167 @@
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 8
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 14
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 6
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 8
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 14
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 6
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 14
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 6
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 8
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 14
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 6
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 22
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 20
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 20
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 18
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 20
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 20
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 116
+sentenças: 19
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 9
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 9
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 9
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 9
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 7
+entidades: 7
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 16
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 19
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 12
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 17
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 17
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 18
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 6
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 5
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 6
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 15
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 5
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 17
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 18
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 17
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 19
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 15
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 11
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 17
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 21
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 20
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 23
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 18
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 17
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 10
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 15
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 319
+sentenças: 33
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 319
+sentenças: 33
+entidades: 21
+
+TESTE
+Iteração 2
+palavras: 188
+sentenças: 22
+entidades: 13
+
+TESTE
+Iteração 3
+palavras: 159
+sentenças: 27
+entidades: 22
+
+TESTE
+Iteração 4
+palavras: 158
+sentenças: 26
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 85
+sentenças: 22
+entidades: 20
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 17
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 20
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 15
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 16
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 20
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 22
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 22
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 22
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 8
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 22
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 25
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 25
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 25
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 8
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 11
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 9
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 25
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 20
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 18
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 23
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 11
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 9
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 11
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 23
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 20
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 11
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 8
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 174
+sentenças: 14
+entidades: 7
+
+TESTE
+Iteração 2
+palavras: 118
+sentenças: 13
+entidades: 12
+
+TESTE
+Iteração 3
+palavras: 108
+sentenças: 15
+entidades: 14
+
+TESTE
+Iteração 4
+palavras: 141
+sentenças: 23
+entidades: 24
+
+TESTE
+Iteração 5
+palavras: 136
+sentenças: 15
+entidades: 8
+
+DADOS COM CROSS
+TESTE
+Iteração 1
+palavras: 220
+sentenças: 30
+entidades: 25
+
+TESTE
+Iteração 2
+palavras: 194
+sentenças: 28
+entidades: 21
+
+TESTE
+Iteração 3
+palavras: 255
+sentenças: 33
+entidades: 19
+
+TESTE
+Iteração 4
+palavras: 118
+sentenças: 19
+entidades: 17
+
+TESTE
+Iteração 5
+palavras: 122
+sentenças: 20
+entidades: 21
+
