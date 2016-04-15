@@ -1,0 +1,20 @@
+$S-10
+Você	 [você] <*> PERS M/F 3S NOM @SUBJ>  O
+sabia	 [saber] <fmc> <mv> V IMPF 3S IND VFIN @FS-QUE  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+Kendi=Yamai	 [Kendi=Yamai] <inst> <*> PROP M S @<SC PES O
+$( O
+Planet=Dance	 [Planet=Dance] <top> <*> <np-close> PROP M/F S @N<PRED ORG O
+$) O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  O
+candidato	 [candidato] <Hprof> N M S @<SC  O
+a	 [a] <np-close> PRP @N<  O
+vereador	 [vereador] <Hprof> N M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cidade	 [cidade] <Lciv> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Sorocaba	 [Sorocaba] <civ> <*> PROP M/F S @P<  O
+$? O
+</s>

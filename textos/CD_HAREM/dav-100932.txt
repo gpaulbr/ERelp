@@ -1,0 +1,125 @@
+
+Onde ficam as <EM ID="dav-100932-355" CATEG="LOCAL" TIPO="FISICO"  >Ilhas Marquesas</EM>? 
+De que organização é que <EM ID="dav-100932-356" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Javier Solana</EM> era secretário-geral? 
+O que é a <EM ID="dav-100932-398" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >EFTA</EM>? Quando é que foi criada? Que cinco países da <EM ID="dav-100932-399" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-100932-398" TIPOREL="ident">EFTA</EM> se juntaram ao <EM ID="dav-100932-401" CATEG="OBRA|ORGANIZACAO" TIPO="PLANO|INSTITUICAO"  >EEE"EEE</EM> quando este entrou em vigor? 
+Qual é o maior banco do <EM ID="dav-100932-402" CATEG="LOCAL" TIPO="HUMANO"  >Japão</EM>? 
+A que companhia pertencia o <EM ID="dav-100932-403" CATEG="COISA" TIPO="OBJECTO"  >Airbus</EM> atacado pelo <EM ID="dav-100932-437" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >GIA</EM> <EM ID="dav-100932-404" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Dezembro de 1994</EM>? 
+Quem é <EM ID="dav-100932-357" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Michael Jackson</EM>? Diga um dos grandes sucessos de <EM ID="dav-100932-358" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-357" TIPOREL="ident">Michael Jackson</EM>? Com quem é que ele se casou <EM ID="dav-100932-405" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Maio de 1994</EM>? 
+Qual era a nacionalidade de <EM ID="dav-100932-359" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ayrton Senna</EM>? Quantas vezes é que ele foi campeão do mundo? Quando é que ele morreu? Em que circuito de <EM ID="dav-100932-438" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="dav-100932-359" TIPOREL="praticado_por">F1</EM> é que ele morreu? 
+Quando é que caiu o regime comunista do <EM ID="dav-100932-439" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Afeganistão</EM>? Quem era o presidente do regime comunista do <EM ID="dav-100932-440" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="dav-100932-439 dav-100932-439" TIPOREL="LOCAL**ident**dav-100932-439**LOCAL ORGANIZACAO**ident**dav-100932-439**ORGANIZACAO">Afeganistão</EM> antes dessa queda? 
+Quantos casamentos ocurreram na <EM ID="dav-100932-441" CATEG="LOCAL" TIPO="HUMANO"  >Grã-Bretanha</EM> <EM ID="dav-100932-406" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1993</EM>? 
+O que é o <EM ID="dav-100932-442" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >IRA</EM>? Contra que aeroporto londrino o <EM ID="dav-100932-443" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO" COREL="dav-100932-442 dav-100932-442" TIPOREL="ORGANIZACAO**ident**dav-100932-442**ORGANIZACAO PESSOA**vinculo_inst**dav-100932-442**ORGANIZACAO">IRA</EM> lançou um ataque de morteiro <EM ID="dav-100932-407" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1994</EM>? 
+Quando é que foi inaugurada a <EM ID="dav-100932-89" CATEG="LOCAL|COISA" TIPO="HUMANO|OBJECTO"  >Ponte da Normandia</EM> ? 
+Quando ocorreu o tremor de terra em <EM ID="dav-100932-445" CATEG="LOCAL" TIPO="HUMANO"  >Los Angeles</EM>? 
+Quem é <EM ID="dav-100932-361" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Paul Touvier</EM>? Quando é que começou o julgamento de <EM ID="dav-100932-360" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-361" TIPOREL="ident">Paul Touvier</EM>? 
+Quando é que foi criado o <EM ID="dav-100932-446aa" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Tribunal Internacional Penal para o Ruanda</EM> ? 
+Quando é que <EM ID="dav-100932-362" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Liamine Zéroul</EM> foi eleito para a presidência da <EM ID="dav-100932-448" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="dav-100932-362" TIPOREL="ORGANIZACAO**vinculo_inst**dav-100932-362**PESSOA">Argélia</EM>? 
+Quando é que a <EM ID="dav-100932-449" CATEG="OBRA" TIPO="PLANO"  >Organização Mundial do Comércio</EM> entrou em vigor? 
+Em que ano nasceu <EM ID="dav-100932-363" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Richard Nixon</EM>? 
+Quando é que o antigo <EM ID="dav-100932-106" CATEG="LOCAL" TIPO="HUMANO"  >Parlamento da Bretanha</EM>  foi destruído por um incêndio? 
+Onde fica <EM ID="dav-100932-451" CATEG="LOCAL"   >Lillehammer</EM>? 
+Quando é que <EM ID="dav-100932-364" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Eduardo Frei</EM> se tornou  presidente do <EM ID="dav-100932-109" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="dav-100932-364" TIPOREL="ORGANIZACAO**vinculo_inst**dav-100932-364**PESSOA">Chile</EM>? 
+Em que ano é que <EM ID="dav-100932-365" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Eugène Ionesco</EM> entrou na <EM ID="dav-100932-1" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-100932-365" TIPOREL="vinculo_inst">Academia Francesa</EM>? 
+Que bispo foi suspenso pelo <EM ID="dav-100932-2" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Vaticano</EM> <EM ID="dav-100932-408" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 13 de Fevereiro de 1995</EM>? 
+Em <EM ID="dav-100932-3" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>, quem foi nomeado <EM ID="dav-100932-4" CATEG="PESSOA" TIPO="CARGO" COREL="dav-100932-3" TIPOREL="vinculo_inst">Primeiro Ministro</EM> <EM ID="dav-100932-409" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 17 de Maio de 1995</EM>? 
+Onde fica <EM ID="dav-100932-5" CATEG="LOCAL"   >Balcarce</EM>? 
+Que famoso condutor argentino se retirou <EM ID="dav-100932-410" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1958</EM>? 
+Quem ganhou o <EM ID="dav-100932-6" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Torneio das Cinco Nações</EM> <EM ID="dav-100932-411" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-100932-6" TIPOREL="data_de">em 1994</EM>? 
+Quem ganhou o <EM ID="dav-100932-7" CATEG="OUTRO"   >Óscar</EM> de melhor filme por "<EM ID="dav-100932-8" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="dav-100932-7" TIPOREL="outrarel">Forrest Gump</EM>"? 
+Quem ganhou o <EM ID="dav-100932-9" CATEG="OUTRO"   >Prémio Goncourt</EM> <EM ID="dav-100932-412" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-100932-9" TIPOREL="outrarel">em 1995</EM>? 
+Quem ganhou o <EM ID="dav-100932-10" CATEG="OUTRO"   >Óscar</EM> de melhor actor <EM ID="dav-100932-413" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-100932-10" TIPOREL="outrarel">em 1994</EM>? 
+Quem se suicidou <EM ID="dav-100932-414" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 8 de Abril de 1994</EM>? 
+Que duas personalidades famosas presidiram ao júri do <EM ID="dav-100932-110" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Festival de Cannes de 1994</EM> ? 
+Quantos habitantes tem <EM ID="dav-100932-12" CATEG="LOCAL" TIPO="HUMANO"  >Catmandu</EM>? 
+A que partido político pertence <EM ID="dav-100932-366" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Thérèse Aillaud</EM>? Ela é deputada por que região? 
+Quem foi eleito <EM ID="dav-100932-400" CATEG="PESSOA" TIPO="CARGO"  >presidente da África do Sul</EM>  <EM ID="dav-100932-416" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 9 de Maio de 1994</EM>? 
+Quem se tornou  líder do <EM ID="dav-100932-455" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Partido Trabalhista</EM> britânico <EM ID="dav-100932-417" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 21 de Julho de 1994</EM>? 
+Quais as cinco praias do desembarque das quais um industrial comprou <EM ID="dav-100932-15" CATEG="VALOR" TIPO="QUANTIDADE"  >200 toneladas</EM>  de areia para comemorar o <EM ID="dav-100932-16" CATEG="VALOR" TIPO="QUANTIDADE"  >50º</EM> aniversário do <EM ID="dav-100932-17" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Dia-D</EM>? 
+Quem era  presidente da <EM ID="dav-100932-457" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Comissão Europeia</EM> <EM ID="dav-100932-418" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1995</EM>? 
+Onde é que <EM ID="dav-100932-458" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Stephanie do Mónaco</EM>  e <EM ID="dav-100932-368" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL=" dav-100932-458 dav-100932-458-aa" TIPOREL="relacao_familiar relacao_familiar">Daniel Ducruet</EM> se casaram? 
+Quantas pessoas estavam presentes na cerimónia em memória do escritor <EM ID="dav-100932-369" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Elias Canetti</EM>? 
+Qual o endereço da <EM ID="dav-100932-19" CATEG="LOCAL" TIPO="HUMANO"  >Delegação de Turismo do Sri Lanka</EM> ? 
+Que aconteceu na <EM ID="dav-100932-22" CATEG="LOCAL" TIPO="HUMANO"  >Argélia</EM> <EM ID="dav-100932-38" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na noite de 17 para 18 de Agosto de 1994</EM>? Quantas pessoas morreram no terramoto? Quantos quilómetros são de <EM ID="dav-100932-39" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-22" TIPOREL="incluido">Orão</EM> a <EM ID="dav-100932-40" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-22" TIPOREL="incluido">Macara</EM>? 
+Um míssil <EM ID="dav-100932-41" CATEG="COISA" TIPO="CLASSE"  >ASMP</EM> é quantas vezes mais rápido do que a velocidade do som? 
+O que é a <EM ID="dav-100932-42" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >FPLP</EM>? Quem era considerado chefe do grupo? Em que país fica <EM ID="dav-100932-43" CATEG="LOCAL"   >Beit Liqya</EM>? 
+A que cidade chinesa foi <EM ID="dav-100932-370" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Warren Christopher</EM> enviado por <EM ID="dav-100932-371" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bill Clinton</EM> para apreciar os eventuais progressos relativos aos direitos humanos? 
+Quem é <EM ID="dav-100932-372" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sir Winston Churchill</EM>? 
+Que prémio ganhou o filme "<EM ID="dav-100932-44" CATEG="OBRA" TIPO="REPRODUZIDA"  >Pulp Fiction</EM>" no <EM ID="dav-100932-113" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-100932-44" TIPOREL="ter_participacao_de">Festival de Cannes</EM> ? Quem realizou esse filme? Quem é o actor principal? 
+Quantos habitantes tem a <EM ID="dav-100932-23" CATEG="LOCAL" TIPO="HUMANO"  >União Soviética</EM>? 
+Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na <EM ID="dav-100932-24" CATEG="LOCAL" TIPO="HUMANO"  >Sibéria</EM>? 
+Onde é que fica o aeroporto de <EM ID="dav-100932-46" CATEG="LOCAL" TIPO="HUMANO"  >Irkutsk</EM>? 
+Que dois bancos se fundiram para formar o banco <EM ID="dav-100932-47" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Tokyo-Mitsubishi</EM>? 
+Quantos quilómetros separam <EM ID="dav-100932-48" CATEG="LOCAL" TIPO="HUMANO"  >Kikwit</EM> de <EM ID="dav-100932-49" CATEG="LOCAL" TIPO="HUMANO"  >Kinshasa</EM>? 
+Em que filme de <EM ID="dav-100932-373" CATEG="PESSOA" TIPO="INDIVIDUAL"  >André Cayatte</EM> participou <EM ID="dav-100932-374" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Annie Girardot</EM> <EM ID="dav-100932-419" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1971</EM>? De que doença é que ela sofre <EM ID="dav-100932-50" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde 2006</EM>? Onde é que ela nasceu? 
+O que é a aceleração centrífuga? 
+O que significa a sigla <EM ID="dav-100932-51" CATEG="ABSTRACCAO" TIPO="NOME"  >WIA</EM>? 
+Em que ano foi realizado o filme "<EM ID="dav-100932-52" CATEG="OBRA" TIPO="REPRODUZIDA"  >Ace Ventura em África</EM>"? 
+Que vírus atingiu o <EM ID="dav-100932-25" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO"  >Zaire</EM>? 
+O que é <EM ID="dav-100932-53"    >Geographos</EM>? 
+Que avião civil efectuou o voo mais longo sem escalas? Onde é que o <EM ID="dav-100932-54" CATEG="COISA" TIPO="CLASSE"  >A340</EM> levou a cabo o voo mais longo sem escalas por um avião civil? Quando é que este feito foi levado a cabo? 
+Que nome se dá a uma inflamação dos gânglios? 
+Quais são os outros três nomes do <EM ID="dav-100932-55" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Arsenal Football Club</EM>? Quando é que este clube foi fundado? Em que estádio é que os jogadores do <EM ID="dav-100932-56" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="dav-100932-55" TIPOREL="vinculo_inst">Arsenal</EM> têm estado a treinar <EM ID="dav-100932-57" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde Agosto de 2006</EM>? Quantos lugares tem o estádio? 
+Com que <EM ID="dav-100932-58" CATEG="OUTRO"   >Prémio Nobel</EM> é que <EM ID="dav-100932-375" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-58" TIPOREL="outrarel">Seamus Heaney</EM> foi galardoado? 
+Quantos estados ratificaram a convenção adoptada pela <EM ID="dav-100932-59" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Assembleia Geral da ONU</EM>  <EM ID="dav-100932-420" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 20 de Novembro de 1989</EM>? 
+Quem é <EM ID="dav-100932-376" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Arsène Wenger</EM>? De que equipa é que ele se tornou treinador <EM ID="dav-100932-421" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1987</EM>? 
+Em que ano foi fundada a firma <EM ID="dav-100932-60" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Adidas Group AG</EM>? Qual é a sua área de trabalho? 
+Qual é a altitude do <EM ID="dav-100932-61" CATEG="LOCAL" TIPO="FISICO"  >Monte Rosa</EM>? 
+Quantos litros de azeite são comercializados <EM ID="dav-100932-11" CATEG="TEMPO" TIPO="FREQUENCIA"  >por ano</EM> pela <EM ID="dav-100932-62" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >EBS</EM>? 
+De que país é <EM ID="dav-100932-377" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Kim Il Sung</EM> presidente? 
+As amêndoas são o fruto de que árvore? De onde é que ela é originária? 
+Quem é <EM ID="dav-100932-378" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Charles-Ange Ginésy</EM>? De que município é que ele também é presidente? Em que grupo político é que ele tem assento? 
+O que é a febre-amarela? 
+Que ferry-boat famoso naufragou no <EM ID="dav-100932-63" CATEG="LOCAL" TIPO="FISICO"  >Mar Báltico</EM>? 
+Em que país teve lugar a cimeira dos <EM ID="dav-100932-64" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >G7</EM> <EM ID="dav-100932-422" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Julho de 1994</EM>? 
+A que horas ocorreu o acidente no metro de <EM ID="dav-100932-65" CATEG="LOCAL" TIPO="HUMANO"  >Valência</EM> <EM ID="dav-100932-423" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 3 de Julho de 2006</EM>? Quantos mortos causou esse acidente? A que velocidade circulava o metro? 
+Quando é que a <EM ID="dav-100932-66" CATEG="LOCAL" TIPO="HUMANO"  >Tanzânia</EM> fechou as fronteiras aos refugiados do <EM ID="dav-100932-67" CATEG="LOCAL" TIPO="HUMANO"  >Ruanda</EM>? 
+Que slalom é que <EM ID="dav-100932-379" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alberto Tomba</EM> ganhou <EM ID="dav-100932-424" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 6 de Fevereiro de 1994</EM>? 
+O que é "<EM ID="dav-100932-68" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Ace of Base</EM>"? De que cidade é este grupo? Quem são os quatro membros que compõem o grupo? 
+Qual é o arranha-céus mais alto do mundo? 
+O que é <EM ID="dav-100932-69" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Asandros</EM>? Quem é o irmão dele? 
+Onde é que <EM ID="dav-100932-380" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Danny Barker</EM> morreu? 
+Quem foi nomeado  presidente da <EM ID="dav-100932-116" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >SNCF</EM> <EM ID="dav-100932-425" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 20 de Dezembro de 1995</EM>? 
+Que quatro planetas do sistema solar são compostos principalmente de gás? Diga um corpo celeste. De que é que é composta a atmosfera da <EM ID="dav-100932-71" CATEG="COISA|LOCAL" TIPO="OBJECTO|FISICO"  >Lua</EM>? 
+Em informática, o que é <EM ID="dav-100932-72" CATEG="COISA|COISA" TIPO="CLASSE|OBJECTO"  >Alien</EM>? 
+Qual é a principal companhia de aviação em <EM ID="dav-100932-73" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>? Que cinco companhias de aviação que se fundiram <EM ID="dav-100932-426" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1933</EM> para criar a <EM ID="dav-100932-74" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-100932-73" TIPOREL="ocorre_em">Air France</EM>? Em quantos países os aviões da <EM ID="dav-100932-77" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-100932-74" TIPOREL="ident">Air France</EM> fazem os seus <EM ID="dav-100932-79" CATEG="VALOR" TIPO="QUANTIDADE"  >1800</EM> voos diários? Que companhia detém <EM ID="dav-100932-80" CATEG="VALOR" TIPO="QUANTIDADE"  >100%</EM> do capital da <EM ID="dav-100932-78" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-100932-74" TIPOREL="ident">Air France</EM>? 
+Que conto célebre de <EM ID="dav-100932-381" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Hans Christian Andersen</EM> é a adaptação do conto "<EM ID="dav-100932-81" CATEG="OBRA" TIPO="REPRODUZIDA"  >Aladino e a Lâmpada Mágica</EM>"? 
+O que é a <EM ID="dav-100932-82" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >AIEA</EM>? Que prémio é recebeu <EM ID="dav-100932-427" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2005</EM>? Em que cidade podemos encontrar essa agência? Qual foi o seu orçamento <EM ID="dav-100932-428" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para o ano de 2004</EM>? 
+Quando é que <EM ID="dav-100932-382" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Thierry Henry</EM> ganhou o campeonato do mundo de râguebi? 
+O que é a <EM ID="dav-100932-83" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >MNEF</EM>? Quando é que chegou ao fim o último julgamento sobre o escândalo da <EM ID="dav-100932-84" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-100932-83" TIPOREL="ident">MNEF</EM>? Segundo <EM ID="dav-100932-383" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jean Michel Grosz</EM>, que organização foi criada no seu escritório? 
+Qual era a altura de <EM ID="dav-100932-384" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marylin Monroe</EM>? 
+Que vaivém pôs a sonda espacial <EM ID="dav-100932-85" CATEG="COISA" TIPO="OBJECTO"  >Ulisses</EM> em órbita? 
+Que idade tinha <EM ID="dav-100932-385" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Grégory Villemin</EM> quando o seu corpo foi encontrado? Quem era <EM ID="dav-100932-386" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bernard Laroche</EM>? Que juiz acusou <EM ID="dav-100932-387" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-385" TIPOREL="relacao_familiar">Christine Villemin</EM>? 
+O que é <EM ID="dav-100932-86" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Alcatel</EM>? Que companhia foi criada por <EM ID="dav-100932-388" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-86" TIPOREL="vinculo_inst">Pierre Azaria</EM> <EM ID="dav-100932-429" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1898</EM>? Com que grupo a <EM ID="dav-100932-87" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-100932-86" TIPOREL="ident">Alcatel</EM> anunciou a fusão <EM ID="dav-100932-430" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Março de 2006</EM>? Quem era o  director-geral da <EM ID="dav-100932-118" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-100932-86" TIPOREL="ident">Alcatel</EM> <EM ID="dav-100932-431" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1986 a 1995</EM>? 
+O que é <EM ID="dav-100932-75"    >Assédic</EM>? 
+Quando é que saiu o rimeiro <EM ID="dav-100932-104" CATEG="COISA" TIPO="CLASSE"  >Álbum</EM>  da cantora americana <EM ID="dav-100932-389" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Anastacia</EM>? Desde a saída do seu primeiro álbum, quantos discos é que <EM ID="dav-100932-390" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-100932-389" TIPOREL="ident">Anastacia</EM> vendeu? 
+Quando é que <EM ID="dav-100932-391" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jacques Chirac</EM> foi assassinado? 
+Que jogador espanhol ganhou <EM ID="dav-100932-90" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|"  >Roland Garros</EM> <EM ID="dav-100932-432" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1994</EM>? 
+Quantos habitantes tem a <EM ID="dav-100932-27" CATEG="LOCAL" TIPO="HUMANO"  >Alemanha</EM>? Quantos quilómetros de ferrovia tinha a <EM ID="dav-100932-28" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-27" TIPOREL="ident">Alemanha</EM> <EM ID="dav-100932-433" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1998</EM>? <EM ID="dav-100932-434" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em Novembro de 2005</EM>, qual a taxa de desemprego na <EM ID="dav-100932-26" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-27" TIPOREL="ident">Alemanha</EM>? Qual era a moeda da <EM ID="dav-100932-29" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-27" TIPOREL="ident">Alemanha</EM> antes do euro? 
+Num relógio, qual o ponteiro que aponta para as horas? 
+O que é o amianto? Qual a primeira causa de morte das pessoas expostas ao amianto? 
+O que é um administrador de rede? 
+Quem é <EM ID="dav-100932-392" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Allan Frederick Jacobsen</EM>? Por que clube joga? Quanto é que ele pesa? 
+Em que árvore crescem os morangos? 
+Quem é <EM ID="dav-100932-393" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Amira Casar</EM>? Onde é que ela nasceu? Em que filme é que ela entrou com <EM ID="dav-100932-394" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Richard Anconina</EM>? 
+Como se chama o  presidente das <EM ID="dav-100932-120" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Filipinas</EM>? 
+Que barragem seria a maior do mundo se tivesse sido construída? Qual era o custo estimado do projecto? 
+Quantos meses tem <EM ID="dav-100932-1190" CATEG="TEMPO" TIPO="GENERICO"  >numa semana</EM>? 
+Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <EM ID="dav-100932-31" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>? Quantos colaboradores tem a <EM ID="dav-100932-91" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-100932-31" TIPOREL="ocorre_em">ANPE</EM>? Quem é que dirige essa agência <EM ID="dav-100932-92" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde 2005</EM>? 
+O que é um afixo? 
+Quem foi assassinado <EM ID="dav-100932-435" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 4 de Novembro de 1995</EM>, aos <EM ID="dav-100932-93" CATEG="VALOR" TIPO="QUANTIDADE"  >73 anos</EM>? 
+Qual é a primeira região francesa em população? Quantos habitantes tem essa região? 
+O que é o <EM ID="dav-100932-76"    >Filival</EM>? 
+Em quantas províncias está dividido o <EM ID="dav-100932-33" CATEG="LOCAL" TIPO="HUMANO"  >Afeganistão</EM>? Que língua é falada pela maioria da população afegã? Quantas escolas havia no <EM ID="dav-100932-32" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-33" TIPOREL="ident">Afeganistão</EM> <EM ID="dav-100932-436" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2003</EM>? 
+O que é o ácido desoxirribonucleico? Que sigla se usa para designar essa molécula? 
+Qual é o antigo nome do <EM ID="dav-100932-34" CATEG="LOCAL" TIPO="HUMANO"  >Alabama</EM>? Quantos condados tem o <EM ID="dav-100932-35" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-34" TIPOREL="ident">Alabama</EM>? Que estado fica a norte do <EM ID="dav-100932-36" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-100932-34" TIPOREL="ident">Alabama</EM>? 
+Que organismo gere os subsídios de desemprego em <EM ID="dav-100932-94" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>? 
+Que organização se dedica especificamente à sobrevivência dos patos? 
+Quem é que derrotou <EM ID="dav-100932-395" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Michael Moorer</EM> no <EM ID="dav-100932-95" CATEG="VALOR" TIPO="CLASSIFICACAO"  >10º</EM> round em <EM ID="dav-100932-96" CATEG="LOCAL" TIPO="HUMANO"  >Las Vegas</EM>? 
+O que é uma árvore coral? Que altura pode esta árvore atingir? 
+Quanto é que pesa uma maçã? 
+O que á <EM ID="dav-100932-97" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >AFNOR</EM>? Qual é o equivalente da <EM ID="dav-100932-98" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-100932-97" TIPOREL="ident">AFNOR</EM> nos <EM ID="dav-100932-37" CATEG="LOCAL" TIPO="HUMANO"  >Estados Unidos</EM>? 
+O que é uma alergia? Que outro nome se dá a uma alergia? <EM ID="dav-100932-99" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1980</EM>, que percentagem da população tinha sido atingida por elas? Que alergia afecta <EM ID="dav-100932-100" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 8%</EM> das crianças? 
+Qual é a altura do <EM ID="dav-100932-101" CATEG="LOCAL" TIPO="FISICO"  >Monte Claro</EM>? 
+Quais eram os primeiros nomes dos dois irmãos <EM ID="dav-100932-102" CATEG="PESSOA" TIPO="GRUPOIND"  >Piccard</EM>? Qual deles descobriu o urânio 235? Que duas profissões teve este último? 
+Que personagem é que <EM ID="dav-100932-396" CATEG="PESSOA" TIPO="INDIVIDUAL"  >César Romero</EM> representava na famosa série televisiva "<EM ID="dav-100932-103" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="dav-100932-396" TIPOREL="ter_participacao_de">Batman</EM>"? Onde é que ele morreu? Que idade tinha ele? 
+A que movimento político pertence a <EM ID="dav-100932-397" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Arlette Laguiller</EM>?

@@ -1,0 +1,47 @@
+$S-2
+A 	[o]   <artd> DET F S @>N  
+opinião 	[opinião] <sem-c> N F S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<SC  
+o 	[o] <-sam> <artd> DET M S @>N  
+agrônomo 	[agrônomo] <Hprof> N M S @P<  
+Miguel=Guerra 	[Miguel=Guerra] <hum>   <np-close> PROP M S @N<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+UFSC 	[UFSC] <inst>   PROP F S @P<  ORG
+$( 
+Universidade=Federal 	[Universidade=Federal] <inst>   <np-close> PROP F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+Santa=Catarina 	[Santa=Catarina] <civ>   PROP F S @P<  
+$) 
+$. 
+</s>
+
+$S-7
+O 	[o]   <artd> DET M S @>N  
+presidente 	[presidente] <Hprof> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Embrapa 	[Embrapa] <org>   PROP F S @P<  ORG
+$( 
+Empresa=Brasileira=de=Pesquisa=Agropecuária 	[Empresa=Brasileira=de=Pesquisa=Agropecuária] <org>   <np-close> PROP F S @N<PRED  
+$) 
+$, 
+Alberto=Portugal 	[Alberto=Portugal] <org>   <np-close> PROP M S @APP  PES
+$, 
+salientou 	[salientar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+empresa 	[empresa] <HH> N F S @SUBJ>  
+busca 	[buscar] <vH> <mv> V PR 3S IND VFIN @FS-<ACC  
+soluções 	[solução] <sem-c> <cm-liq> N F P @<ACC  
+para 	[para] <np-close> PRP @N<  
+os 	[o] <artd> DET M P @>N  
+problemas 	[problema] <ac> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+agricultura 	[agricultura] <domain> N F S @P<  
+nacional 	[nacional] <jh> <np-close> ADJ F S @N<  
+$. 
+</s>

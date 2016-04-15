@@ -1,0 +1,35 @@
+$S-1
+Praça=do=Museu	 [Praça=do=Museu] <top> PROP F S @P< LOCAL O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+dia	 [dia] <per> <dur> <temp> N M S @P< O
+21	 [21] <card> <np-close> NUM M/F P @N< O
+de	 [de] <np-close> PRP @N< O
+Março	 [março] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+1993	 [1993] <card> <year> <date> NUM M/F P @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+CCB	 [CCB] <org> PROP M S @SUBJ> ORG O
+
+$S-2
+CCB	 [CCB] <org> PROP M S @SUBJ> ORG O
+apresentou	 [apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+público	 [público] <HH> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Lisboa	 [Lisboa] <civ> PROP F S @P< LOCAL O
+
+$S-3
+CCB	 [CCB] <org> PROP M S @SUBJ> ORG O
+acolheu	 [acolher] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+alguns	 [algum] <quant> DET M P @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+maiores	 [grande] <KOMP> <jh> ADJ M P @>N O
+espectáculos	 [espetáculo] <occ> N M P @P< O
+apresentados	 [apresentar] <vH> <mv> <np-close> V PCP M P @ICL-N< O 
+em	 [em] PRP @<ADVL O
+Lisboa	 [Lisboa] <civ> PROP F S @P< LOCAL O

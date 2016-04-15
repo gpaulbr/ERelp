@@ -1,0 +1,185 @@
+$S-1
+Duas=Exposições	 [Duas=Exposições] <hum> <*> PROP M/F S @SUBJ>  O
+em	 [em] <np-close> PRP @N<  O
+Portugal=Teresa=Rebelo=O=Passado	 [Portugal=Teresa=Rebelo=O=Passado] <civ> <*> PROP M S @P<  O
+De	 [de] <*> <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Imprensa	 [imprensa] <prop> <*> <domain> <tool> <sem-r> <HH> N F S @P<  O
+Em	 [em] <*> <np-close> PRP @N<  O
+Macau	 [Macau] <civ> <*> PROP M S @P<  O
+De	 [de] <*> <sam-> <np-close> PRP @N<  O
+esta	 [este] <-sam> <dem> DET F S @>N  O
+exposição	 [exposição] <occ> <act> <sem-s> <per> N F S @P<  O
+$" O
+200=Anos=de=Jornalismo=Português=em=Macau	 [200=Anos=de=Jornalismo=Português=em=Macau] <tit> <*> <*1> <*2> PROP M/F S @SUBJ>  O
+$" O
+saímos	 [sair] <vK> <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+com	 [com] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+certeza	 [certeza] <am> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+portugueses	 [português] <Hnat> <ling> N M P @SUBJ>  O
+foram	 [ser] <vK> <mv> V PS/MQP 3P IND VFIN @FS-P<  O
+os	 [o] <artd> DET M P @>N  O
+grandes	 [grande] ADJ M P @>N  O
+impulsionadores	 [impulsionador] <am> N M P @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+jornalismo	 [jornalismo] <domain> N M S @P<  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+China	 [China] <civ> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Extremo=Oriente	 [Extremo=Oriente] <top> <*> PROP M S @P<  O
+$, O
+exercendo	 [exercer] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+Macau	 [Macau] <civ> <*> PROP M S @<ACC  O
+um	 [um] <arti> DET M S @>N  O
+papel	 [papel] <mat> <cc-r> <ac> N M S @SUBJ>  O
+fundamental	 [fundamental] <nh> <np-close> ADJ M S @N<  O
+em	 [em] <np-long> PRP @N<  O
+todo	 [todo] <quant> DET M S @>N  O
+este	 [este] <dem> DET M S @>N  O
+processo	 [processo] <occ> <process> <activity> N M S @P<  O
+Promovida	 [Promovida] <hum> <*> PROP F S @SUBJ>  O
+por	 [por] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Missão=de=Macau	 [Missão=de=Macau] <org> <*> PROP F S @P<  O
+$, O
+Instituto=Cultural=e=Gabinete=de=Comunicação=Social=de=Macau	 [Instituto=Cultural=e=Gabinete=de=Comunicação=Social=de=Macau] <inst> <*> PROP M S @P< ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+exposição	 [exposição] <occ> <act> <sem-s> <per> N F S @SUBJ>  O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+instalada	 [instalado] ADJ F S @<SC  O
+por=agora	 [por=agora] <pp> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Torre=do=Tombo	 [Torre=do=Tombo] <top> <*> PROP F S @P< LOCAL O
+$, O
+em	 [em] PRP @<ADVL  O
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P<  O
+$, O
+mas	 [mas] <clb> KC @NPHR  O
+depois	 [depois] ADV @ADVL>  O
+de	 [de] PRP @A<  O
+15	 [15] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setembro	 [Setembro] <top> <*> PROP M/F S @P<  O
+será	 [ser] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+transferida	 [transferir] <vH> <mv> V PCP F S @ICL-AUX<  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Museu=da=Imprensa	 [Museu=da=Imprensa] <inst> <*> PROP M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Porto	 [Porto] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-16
+Mais	 [mais] <*> <quant> <KOMP> ADV @ADVL> @>A  O
+perto=de	 [perto=de] <sam-> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+presente	 [presente] <cc> <ac-cat> <per> <H> N M S @P<  O
+Mais	 [Mais] <hum> <*> PROPM/F S @NPHR  O
+perto=de	 [perto=de] <sam-> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+passado	 [passado] <per> <ac-cat> <HH> N M S @P<  O
+$, O
+de	 [de] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+presente	 [presente] <cc> <ac-cat> <per> <H> N M S @P<  O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+futuro	 [futuro] <per> N M S @P<  O
+está	 [estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+Revista=MacaU	 [revista=MacaU] <prop> <*> <act> <sem-r> <occ> N F S @<SUBJ ORG O
+$, O
+em	 [em] PRP @<ADVL  O
+predominante	 [predominante] <jh> ADJ M S @>N  O
+destaque	 [destaque] <act> N M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+exposição	 [exposição] <occ> <act> <sem-s> <per> N F S @P<  O
+tanto	 [tanto] <parkc-1> ADV @CO  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+quantidade	 [quantidade] <amount> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+revistas	 [revista] <act> <sem-r> <occ> N F P @P<  O
+expostas	 [expor] <vH> <np-close> V PCP F P @N<  O
+e	 [e] KC @NPHR  O
+para	 [para] PRP @<ADVL  O
+consulta	 [consulta] <act-s> <talk> <cc-r> N F S @P<  O
+como	 [como] ADV @NPHR  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+qualidade	 [qualidade] <percep-f> <f-c> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+artigos	 [artigo] <sem-r> N M P @P<  O
+expostos	 [expor] <vH> <np-close> V PCP M P @N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+cobrem	 [cobrir] <vH> <mv> V PR 3P IND VFIN @FS-KOMP<  O
+os	 [o] <artd> DET M P @>N  O
+acontecimentos	 [acontecimento] <event> N M P @<ACC  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+relevantes	 [relevante] <np-close> ADJ M/F P @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+últimos	 [último] <NUM-ord> ADJ M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Território	 [território] <prop> <*> <L> N M S @P< LOCAL O
+$. O
+</s>
+
+$S-25
+Se	 [se] <*> PERS M 3S/P ACC @SUBJ>  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+certo	 [certo] <jh> ADJ M S @<SC  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+em	 [em] PRP @ADVL>  O
+200	 [200] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Jornalismo	 [Jornalismo] <genre> <*> PROP M/F S @P<  O
+exposto	 [expor] <vH> <np-close> V PCP M S @N<  O
+conseguimos	 [conseguir] <vH> <mv> V PR 1P IND VFIN @FS-<SUBJ  O
+perceber	 [perceber] <vH> <mv> V INF @ICL-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+importância	 [importância] <am> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Imprensa=Portuguesa	 [Imprensa=Portuguesa] <media> <*> PROP F S @P<  O
+em	 [em] PRP @<ADVL  O
+Macau	 [Macau] <civ> <*> PROP M S @P< LOCAL O
+$, O
+tão	 [tão] <dem> <quant> ADV @>A  O
+certo	 [certo] <np-close> ADJ M S @N<  O
+não	 [não] ADV @ADVL>  O
+será	 [ser] <vK> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+seguramente	 [seguramente] ADV @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+relevância	 [relevância] <am> N F S @<SC  O
+depois	 [depois] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+transferência	 [transferência] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+território	 [território] <L> N M S @P<  O
+para	 [para] <np-long> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+China	 [China] <civ> <*> PROP F S @P< ORG O
+$. O
+</s>

@@ -1,0 +1,37 @@
+$S-1
+Sunab	 [Sunab] <org> <*> PROP M/F S @SUBJ>  O
+autua	 [autuar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+empresas	 [empresa] <HH> N F P @<ACC  O
+por	 [por] PRP @<PIV  O
+alta	 [alto] ADJ F S @>N  O
+abusiva	 [abusivo] <n> <nh> ADJ F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+preços	 [preço] <f-q> N M P @P<  O
+Da=Sucursal=de=Brasília	 [Da=Sucursal=de=Brasília] <hum> <*> <np-close> PROP F S @N< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Reportagem=Local	 [Reportagem=Local] <org> <*> PROP F S @P< ORG O
+A=Sunab	 [A=Sunab] <org> <*> PROP F S @P<  O
+$( O
+Superintendência=Nacional=de=Abastecimento	 [Superintendência=Nacional=de=Abastecimento] <org> <*> <np-close> PROP F S @N<PRED  O
+$) O
+autuou	 [autuar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+62	 [62] <card> NUM M P @>N  O
+estabelecimentos	 [estabelecimento] <build> <inst> <act> N M P @<ACC  O
+comerciais	 [comercial] <nh> <np-close> ADJ M P @N<  O
+em	 [em] PRP @<ADVL  O
+16	 [16] <card> NUM M P @>N  O
+Estados	 [estado] <prop> <*> <Lciv> <state> N M P @P<  O
+entre	 [entre] <np-close> PRP @N< @<ADVL  O
+27	 [27] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+junho	 [junho] N M S @P<  O
+e	 [e] KC @NPHR  O
+8	 [8] <card> NUM M/F P @<ADVL  O
+de	 [de] <np-close> PRP @N<  O
+julho	 [julho] N M S @P<  O
+último	 [último] <NUM-ord> <np-close> ADJ M S @N<  O
+$. O
+</s>

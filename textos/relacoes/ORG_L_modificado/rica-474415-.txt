@@ -1,0 +1,90 @@
+$S-26
+Se	 [se] <clb> <clb-fs> <*> KS @SUB  O
+a	 [o] <artd> DET F S @>N  O
+lógica	 [lógica] <domain> N F S @SUBJ>  O
+ainda	 [ainda] ADV @ADVL>  O
+prevalecer	 [prevalecer] <mv> V FUT 3S SUBJ VFIN @FS-ADVL>  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+em	 [em] PRP @<ADVL  O
+frangalhos	 [frangalho] <cc-rag> N M P @P<  O
+$, O
+parece	 [parecer] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+evidente	 [evidente] <nh> ADJ M S @<SC  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+maiores	 [grande] <KOMP> <jh> ADJ M P @>N  O
+interessados	 [interessado] <H> N M P @SUBJ>  O
+em	 [em] <np-close> PRP @N<  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+morte	 [morte] <event> N F S @P<  O
+são	 [ser] <vK> <mv> V PR 3P IND VFIN @FS-<SUBJ  O
+justamente	 [justamente] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Talibã	 [Talibã] <inst> <*> PROP M S @<SC ORG O
+e	 [e] KC @NPHR O
+a	 [o] <artd> DET F S @>N O
+al-Qaeda	 [al-Qaeda] N F S @<SC ORG O
+$. O
+</s>
+
+$S-30
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Onze=de=Setembro	 [Onze=de=Setembro] <top> <*> PROP M S @P<  O
+$, O
+ficou	 [ficar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+em	 [em] PRP @<SA  O
+silêncio	 [silêncio] <sit> N M S @P<  O
+por	 [por] PRP @<ADVL  O
+mais	 [muito] <quant> <KOMP> DET M/F S/P @P<  O
+de	 [de] PRP @<ADVL  O
+mês	 [mê] <newlex> N M P @P<  O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+a	 [o] <artd> DET F S @>N  O
+comunidade	 [comunidade] <HH> <am> N F S @SUBJ>  O
+internacional	 [internacional] <nh> <np-close> ADJ F S @N<  O
+cobrava	 [cobrar] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-<ADVL @FS-N<  O
+provas	 [prova] <ac> <occ> <act-d> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+seu	 [seu] <poss 3S> DET M S @>N  O
+envolvimento	 [envolvimento] <event> <act> N M S @P<  O
+antes	 [antes] ADV @<ADVL  O
+de	 [de] PRP @A<  O
+autorizar	 [autorizar] <vH> <mv> V INF @ICL-P<  O
+um	 [um] <arti> DET M S @>N  O
+ataque	 [ataque] <act> <event> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Eua	 [Eua] <org> <*> PROP M P @P< ORG O
+a	 [a] <sam-> <np-long> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-41
+A	 [o] <*> <artd> DET F S @>N  O
+Arábia=Saudita	 [Arábia=Saudita] <civ> <*> PROP F S @SUBJ> ORG O
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+um	 [um] <card> NUM M S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+três	 [três] <card> NUM M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mundo	 [mundo] <L> N M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> REL
+reconheciam	 [reconhecer] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N< REL
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P< ORG O
+$, O
+o	 [o] <artd> DET M S @>N  O
+governo	 [governo] <HH> N M S @<ACC  O
+Talibã	 [Talibã] <org> <*> <np-close> PROP M S @N<  O
+$. O
+</s>

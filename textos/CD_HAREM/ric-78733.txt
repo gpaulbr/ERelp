@@ -1,0 +1,151 @@
+
+    <EM ID="ric-78733-7" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|"  >Cavalo-marinho</EM> <EM ID="ric-78733-8" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|"  >Boi PIntado</EM>,  o dia de <EM ID="ric-78733-3" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Reis</EM> e a <EM ID="ric-78733-4" CATEG="OBRA" TIPO="PLANO"  >Lei Rouanet</EM>, <EM ID="ric-78733-73" CATEG="LOCAL" TIPO="HUMANO"  >Recife</EM>, <EM ID="ric-78733-74" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-73" TIPOREL="inclui">PE</EM> · <EM ID="ric-78733-75" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >05/1</EM>
+    
+      <EM ID="ric-78733-121" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rosa Campello</EM>
+      ·
+      <EM ID="ric-78733-122" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-73" TIPOREL="ident">Recife</EM>
+      (
+      <EM ID="ric-78733-123" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-74" TIPOREL="ident">PE</EM>
+      ) ·
+      <EM ID="ric-78733-125" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >31/12/2007</EM>
+      <EM ID="ric-78733-126" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >11:18</EM>
+      ·
+      <EM ID="ric-78733-127" CATEG="VALOR" TIPO="QUANTIDADE"  >137</EM>
+      votos
+    
+    
+      Celebração  ao <EM ID="ric-78733-138" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="ric-78733-3" TIPOREL="ident">Dia de Reis</EM>
+      , evento que acontece sempre
+      <EM ID="ric-78733-130" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-78733-138" TIPOREL="data_de">dia 06 de janeiro</EM>
+      , estaremos antecipando-o um pouco,
+      <EM ID="ric-78733-131" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-78733-75" TIPOREL="ident">para o dia 05 de janeiro de 2008</EM>
+      , e com motivos de sobra para comemorá-lo:
+      <EM ID="ric-78733-132" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Mestre Grimário</EM>
+      acaba de receber incentivo para finalizar seu CD
+      <EM ID="ric-78733-134" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-78733-132" TIPOREL="obra_de">CAVALO-MARINHO BOI PINTADO</EM>
+      , o qual tem a participação especial das crianças do
+      <EM ID="ric-78733-136" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Ponto de Cultura</EM>
+      do
+      <EM ID="ric-78733-135" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="ric-78733-136" TIPOREL="ORGANIZACAO**inclui**ric-78733-136**ORGANIZACAO">MOVIMENTO PRÓ-CRIANÇA</EM>
+      através da
+      <EM ID="ric-78733-137" CATEG="OBRA" TIPO="PLANO" COREL="ric-78733-4" TIPOREL="ident">Lei Rouanet</EM>
+      !!!!!!!!!!!!!!!!!!!!!!!!
+    
+    
+      A Empresa socialmente responsável , é a
+      <EM ID="ric-78733-1" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >STN - SISTEMA DE TRANSMISSÃO DO NORDESTE</EM> 
+      .
+    
+    
+      "
+      <EM ID="ric-78733-139" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >CAVALO-MARINHO</EM>
+      , Uma Dança Dramática Brasileira:
+    
+    
+      <EM ID="ric-78733-140" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-78733-139" TIPOREL="ident">Cavalo-marinho</EM>
+      , uma tradição folclórica do ciclo  de <EM ID="ric-78733-184" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Natal</EM>
+      , é a versão pernambucana do
+      <EM ID="ric-78733-142" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Bumba-meu-Boi</EM>
+      . Encontrado em toda parte do
+      <EM ID="ric-78733-143" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-140 ric-78733-142" TIPOREL="pratica_se pratica_se">Brasil</EM>
+      , o
+      <EM ID="ric-78733-144" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-78733-142" TIPOREL="ident">Bumba-meu-boi</EM>
+      é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico.
+    
+    
+      Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias. No interior, para o norte do
+      <EM ID="ric-78733-145" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-73 ric-78733-140 ric-78733-143" TIPOREL="ident pratica_se incluido">Recife</EM>
+      , apresenta-se durante a safra da cana-de-açúcar(
+      <EM ID="ric-78733-146" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >agosto a janeiro</EM>
+      ).
+    
+    
+      O enredo do
+      <EM ID="ric-78733-147" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-78733-139" TIPOREL="ident">Cavalo-marinho</EM>
+      concentra-se em torno do
+      <EM ID="ric-78733-148" CATEG="PESSOA" TIPO="CARGO" COREL="ric-78733-7" TIPOREL="participante_em">Capitão</EM>
+      , um proprietário rural que tinha deixado suas terras sob o controle de
+      <EM ID="ric-78733-149" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Mateus</EM>
+      e
+      <EM ID="ric-78733-150" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Sebastião</EM>
+      , dois vaqueiros. O
+      <EM ID="ric-78733-151" CATEG="PESSOA" TIPO="CARGO" COREL="ric-78733-148" TIPOREL="ident">Capitão</EM>
+      deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam. O
+      <EM ID="ric-78733-152" CATEG="PESSOA" TIPO="CARGO" COREL="ric-78733-148" TIPOREL="ident">Capitão</EM>
+      manda um
+      <EM ID="ric-78733-153" CATEG="PESSOA" TIPO="CARGO" COREL="ric-78733-7" TIPOREL="participante_em">Soldado</EM>
+      tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o
+      <EM ID="ric-78733-154" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-149" TIPOREL="ident">Mateus</EM>
+      e o
+      <EM ID="ric-78733-155" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-150" TIPOREL="ident">Sebastião</EM>
+      usam como armas e instrumentos musicais. Agora é a vez do
+      <EM ID="ric-78733-156" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Mestre Ambrósio</EM>
+      , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo
+      <EM ID="ric-78733-157" CATEG="PESSOA" TIPO="CARGO" COREL="ric-78733-148" TIPOREL="ident">Capitão</EM>
+      e seus
+      <EM ID="ric-78733-158" CATEG="PESSOA" TIPO="GRUPOIND" COREL="ric-78733-148 ric-78733-7" TIPOREL="relacao_profissional participante_em">Galantes</EM>
+      , uma guarda de honra. Entre elas, são danças em homenagem aos
+      <EM ID="ric-78733-159" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-78733-3" TIPOREL="outrarel">Reis Magos</EM>
+      , que compartilha temas musicais com as devoções de
+      <EM ID="ric-78733-160" CATEG="PESSOA" TIPO="GRUPOCARGO"  >Reis</EM>
+      no
+      <EM ID="ric-78733-161" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      , e uma para
+      <EM ID="ric-78733-6" CATEG="PESSOA" TIPO="INDIVIDUAL"  >São Gonçalo de Amarante</EM> 
+      .
+    
+    
+      Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar. Entre elas, há personagens realísticas, como o
+      <EM ID="ric-78733-164" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Valentão</EM>
+      , o
+      <EM ID="ric-78733-165" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Cangaceiro</EM>
+      e o
+      <EM ID="ric-78733-166" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Vaqueiro</EM>
+      - que fala na poesia do
+      <EM ID="ric-78733-167" CATEG="LOCAL" TIPO="HUMANO"  >Sertão</EM>
+      , e imaginárias- como o
+      <EM ID="ric-78733-170" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-7" TIPOREL="participante_em">Caboclo de Urubá</EM> 
+      . A apresentação termina com a entrada, dança, morte e ressurreição do
+      <EM ID="ric-78733-169" CATEG="COISA" TIPO="OBJECTO" COREL="ric-78733-7" TIPOREL="participante_em">Boi</EM>
+      . O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam
+      <EM ID="ric-78733-68" CATEG="COISA" TIPO="OBJECTO"  >Rabeca</EM> 
+      ,
+      <EM ID="ric-78733-69" CATEG="COISA" TIPO="OBJECTO"  >Pandeiro</EM> 
+      ,
+      <EM ID="ric-78733-70" CATEG="COISA" TIPO="OBJECTO"  >Bage</EM> 
+      (
+      <EM ID="ric-78733-71" CATEG="COISA" TIPO="OBJECTO" COREL="ric-78733-70" TIPOREL="ident">Reco-reco</EM> 
+      ) e
+      <EM ID="ric-78733-172" CATEG="COISA" TIPO="OBJECTO"  >Mineiro</EM> 
+      (
+      <EM ID="ric-78733-72" CATEG="COISA" TIPO="OBJECTO" COREL="ric-78733-172" TIPOREL="ident">Ganzá</EM> 
+      ). Os
+      <EM ID="ric-78733-176" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-78733-69 ric-78733-71 ric-78733-72 ric-78733-7" TIPOREL="outrarel outrarel outrarel participante_em">Percussionistas</EM>
+      e,
+      <EM ID="ric-78733-177" CATEG="TEMPO" TIPO="FREQUENCIA"  >às vezes</EM>
+      , o
+      <EM ID="ric-78733-178" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-78733-68 ric-78733-7" TIPOREL="outrarel participante_em">Rabequeiro</EM>
+      também cantam. Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança.
+    
+    
+      <EM ID="ric-78733-179" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Durante os anos 90</EM>
+      , o interesse no
+      <EM ID="ric-78733-181" CATEG="ABSTRACCAO|ACONTECIMENTO" TIPO="DISCIPLINA|ORGANIZADO" COREL="ric-78733-139 ric-78733-7" TIPOREL="ABSTRACCAO**ident**ric-78733-139**ABSTRACCAO ACONTECIMENTO**ident**ric-78733-7**ACONTECIMENTO">Cavalo-marinho</EM>
+      por parte do público da região metropolitana do
+      <EM ID="ric-78733-182" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-78733-73 ric-78733-7" TIPOREL="ident LOCAL**sede_de**ric-78733-7**ACONTECIMENTO">Recife</EM>
+      tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral. Jovens visitam o interior para assistir a apresentações e para entrar no <EM ID="ric-78733-173" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Mergulhão</EM> - a dança de abertura do <EM ID="ric-78733-175" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-78733-7 ric-78733-173" TIPOREL="ACONTECIMENTO**ident**ric-78733-7**ACONTECIMENTO inclui">Cavalo-marinho</EM>, e existem diversos projetos de pesquisa e documentação" .
+    
+    
+      Texto:
+      <EM ID="ric-78733-183" CATEG="PESSOA" TIPO="INDIVIDUAL"  >John Murphy</EM>
+      , Ph.D., Etnomusicólogo e professor de música na
+      <EM ID="ric-78733-10" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-78733-10" TIPOREL="vinculo_inst">Western Illinois University</EM>
+      (
+      <EM ID="ric-78733-185" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até 2001</EM>
+      ) e a
+      <EM ID="ric-78733-12" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >University of North Texas</EM>
+      (
+      <EM ID="ric-78733-187" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >à partir de Agosto de 2001</EM>
+      ).
+    
+  

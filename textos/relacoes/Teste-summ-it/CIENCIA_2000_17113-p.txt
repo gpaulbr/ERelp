@@ -1,0 +1,40 @@
+$S-17
+Esse 	[esse]   <dem> DET M S @SUBJ>   O
+é 	[ser] <predco> <cjt-head> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+um 	[um] <arti> DET M S @>N   O
+alvo 	[alvo] <col> <Labs> N M S @<SC   O
+viável 	[viável] <nh> <np-close> ADJ M S @N<   O
+para 	[para] PRP @<ADVL   O
+remédios 	[remédio] <cm-rem> N M P @P<   O
+contra 	[contra] PRP @<ADVL   O
+a 	[o] <artd> DET F S @>N   O
+obesidade 	[obesidade] <am> N F S @P<   O
+$, 
+disse 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+um 	[um] <card> NUM M S @<ACC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+autores 	[autor] <Hprof> N M P @P<   O
+$, 
+John=Clapham 	[John=Clapham] <hum>   <np-close> PROP M S @APP  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+empresa 	[empresa] <HH> N F S @P<   O
+farmacêutica 	[farmacêutico] <nh> <np-close> ADJ F S @N<   O
+SmithKline 	[SmithKline] <org>   <np-close> PROP F S @N<   O
+Beecham 	[Beecham] <org>   <np-close> PROP F S @N<   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+fez 	[fazer] <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+o 	[o] <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC   O
+em 	[em] PRP @<ADVL   O
+colaboração 	[colaboração] <activity> N F S @P<   O
+com 	[com] <np-close> PRP @N<   O
+a 	[o] <artd> DET F S @>N   O
+Universidade=de=Cambridge 	[Universidade=de=Cambridge] <inst>   PROP F S @P<  ORG O
+$, 
+Reino=Unido 	[Reino=Unido] <civ> <np-close> PROP M S @N<   O
+$. 
+</s>

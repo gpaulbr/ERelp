@@ -1,0 +1,119 @@
+$S-3
+A	 [o] <*> <artd> DET F S @>N  O
+Resistência=Islâmica	 [Resistência=Islâmica] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+ala	 [ala] <an> <HH> <build> <np-close> N F S @N<PRED REL
+armada	 [armar] <vH> <mv> <np-close> V PCP F S @ICL-N< REL
+de	 [de] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Hizbollah	 [Hizbollah] <inst> <*> PROP M S @P< ORG O
+$, O
+apoiada	 [apoiar] <vH> <mv> V PCP F S @ICL-N<PRED  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Irão	 [Irão] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Síria	 [Síria] <civ> <*> PROP F S @P<  O
+$, O
+reivindicou	 [reivindicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+ataque	 [ataque] <act> <event> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+um	 [um] <-sam> <arti> DET M S @>N  O
+comunicado	 [comunicado] <sem-r> N M S @P<  O
+em	 [em] <clb> PRP @ADVL>  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+disse	 [dizer] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+visara	 [visar] <vH> <mv> V MQP 3S IND VFIN @FS-<ACC  O
+$" O
+uma	 [um] <*1> <arti> DET F S @>N  O
+coluna	 [coluna] <part-build> <cc-r> <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+líderes	 [líder] <Htit> N M P @P<  O
+israelitas	 [israelita] <*2> <nat> <jh> <np-close> ADJ M P @N<  O
+$" O
+$. O
+</s>
+
+$S-4
+A	 [o] <*> <artd> DET F S @>N  O
+Resistência=Islâmica	 [Resistência=Islâmica] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+ala	 [ala] <an> <HH> <build> <np-close> N F S @N<PRED  O
+armada	 [armar] <vH> <mv> <np-close> V PCP F S @ICL-N<  O
+de	 [de] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Hizbollah	 [Hizbollah] <inst> <*> PROP M S @P<  O
+$, O
+apoiada	 [apoiar] <vH> <mv> V PCP F S @ICL-N<PRED REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Irão	 [Irão] <civ> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Síria	 [Síria] <civ> <*> PROP F S @P<  O
+$, O
+reivindicou	 [reivindicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+ataque	 [ataque] <act> <event> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+um	 [um] <-sam> <arti> DET M S @>N  O
+comunicado	 [comunicado] <sem-r> N M S @P<  O
+em	 [em] <clb> PRP @ADVL>  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+disse	 [dizer] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+visara	 [visar] <vH> <mv> V MQP 3S IND VFIN @FS-<ACC  O
+$" O
+uma	 [um] <*1> <arti> DET F S @>N  O
+coluna	 [coluna] <part-build> <cc-r> <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+líderes	 [líder] <Htit> N M P @P<  O
+israelitas	 [israelita] <*2> <nat> <jh> <np-close> ADJ M P @N<  O
+$" O
+$. O
+</s>
+
+$S-5
+A	 [o] <*> <artd> DET F S @>N  O
+Resistência=Islâmica	 [Resistência=Islâmica] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+ala	 [ala] <an> <HH> <build> <np-close> N F S @N<PRED  O
+armada	 [armar] <vH> <mv> <np-close> V PCP F S @ICL-N<  O
+de	 [de] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Hizbollah	 [Hizbollah] <inst> <*> PROP M S @P<  O
+$, O
+apoiada	 [apoiar] <vH> <mv> V PCP F S @ICL-N<PRED REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Irão	 [Irão] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR O
+por	 [por] <sam-> PRP @<PASS O
+a	 [o] <-sam> <artd> DET F S @>N O
+Síria	 [Síria] <civ> <*> PROP F S @P< ORG O
+$, O
+reivindicou	 [reivindicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+ataque	 [ataque] <act> <event> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+um	 [um] <-sam> <arti> DET M S @>N  O
+comunicado	 [comunicado] <sem-r> N M S @P<  O
+em	 [em] <clb> PRP @ADVL>  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+disse	 [dizer] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+visara	 [visar] <vH> <mv> V MQP 3S IND VFIN @FS-<ACC  O
+$" O
+uma	 [um] <*1> <arti> DET F S @>N  O
+coluna	 [coluna] <part-build> <cc-r> <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+líderes	 [líder] <Htit> N M P @P<  O
+israelitas	 [israelita] <*2> <nat> <jh> <np-close> ADJ M P @N<  O
+$" O
+$. O
+</s>

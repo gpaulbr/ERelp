@@ -1,0 +1,16 @@
+$S-1
+Estados=Unidos	 [Estados=Unidos] <org> PROP M P @SUBJ> ORG O
+invadiram	 [invadir] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-QUE O
+o	 [o] <artd> DET M S @>N O
+Haiti	 [Haiti] <civ> PROP M S @<ACC LOCAL O
+
+$S-2
+URSS	 [URSS] <org> PROP F S @SUBJ> ORG O
+invadiu	 [invadir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-QUE O
+a	 [o] <artd> DET F S @>N O
+Manchúria	 [Manchúria] <civ> PROP F S @<ACC LOCAL O
+
+$S-3
+G7	 [G7] <brand> PROP M P @P< ORG O
+em	 [em] PRP @<ADVL REL
+Halifax	 [Halifax] <civ> PROP M S @P< LOCAL O

@@ -1,0 +1,85 @@
+$S-1
+Cavaco	 [Cavaco] <hum> PROP M S @SUBJ> O
+começa	 [começar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @<ACC O
+com	 [com] <np-close> PRP @N< O
+recados	 [recado] <act> <act-s> <sem-s> N M P @P< O
+de	 [de] <np-close> PRP @N< O
+maior	 [grande] <KOMP> <jh> ADJ F S @>N O
+exigência	 [exigência] <ac> <act-s> N F S @P< O
+a	 [a] <sam-> <np-long> PRP @N< O
+o	 [o] <-sam> <artd> DET M S @>N O
+Governo=O=Presidente=da=República	 [Governo=O=Presidente=da=República] <inst> PROP M S @P< O
+$, O
+Aníbal=Cavaco=Silva	 [Aníbal=Cavaco=Silva] <org> <np-close> PROP M S @APP PES O
+$, O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+deixar	 [deixar] <mv> V INF @ICL-AUX< O
+uma	 [um] <arti> DET F S @>N O
+série	 [série] <coll> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+recados	 [recado] <act> <act-s> <sem-s> N M P @P< O
+a	 [a] <sam-> <np-close> PRP @N< O
+o	 [o] <-sam> <artd> DET M S @>N O
+Governo	 [governo] <prop> <HH> N M S @P< ORG O
+em	 [em] <sam-> PRP @<ADVL O
+as	 [o] <artd> <-sam> DET F P @>N O
+palavras	 [palavra] <act-s> <ac-cat> N F P @P< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+vai	 [ir] <aux> V PR 3S IND VFIN @FS-<ACC O
+dirigir	 [dirigir] <vH> <mv> V INF @ICL-AUX< O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+país	 [país] <Lciv> N M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+primeiro	 [primeiro] <NUM-ord> ADJ M S @>N O
+dia	 [dia] <dur> <temp> <per> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @P< O
+$. O
+</s>
+
+$S-2
+Segundo	 [segundo] <com> <adv-rel> PRP @ADVL> O
+o	 [o] <artd> DET M S @>N O
+JN	 [JN] <inst> <asarg> PROP M S @P< O
+$, O
+Cavaco	 [Cavaco] <hum> PROP M S @SUBJ> PES O
+silva	 [silvar] <fmc> <vN> <mv> V PR 3S IND VFIN @FS-STA O
+vai	 [ir] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+ainda	 [ainda] ADV @<ADVL O
+aproveitar	 [aproveitar] <vH> <mv> V INF @ICL-<ADVL O
+a	 [o] <artd> DET F S @>N O
+ocasião	 [ocasião] <ac> <temp> N F S @<ACC O
+para	 [para] <np-close> PRP @N< O
+sublinhar	 [sublinhar] <mv> V INF @ICL-P< O
+a	 [o] <artd> DET F S @>N O
+expectativa	 [expectativa] <sem-c> N F S @<ACC O
+criada	 [criar] <jh> <np-close> V PCP F S @N< O
+em=relação=a	 [em=relação=a] <sam-> <np-long> PRP @N< O 
+os	 [o] <-sam> <artd> DET M P @>N O
+resultados	 [resultado] <ac> N M P @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+pediu	 [pedir] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @P< O
+passado	 [passar] <np-close> V PCP M S @N< O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Governo	 [governo] <prop> <HH> N M S @P< ORG O
+$, O
+para	 [para] PRP @<ADVL O
+as	 [o] <artd> DET F P @>N O
+áreas	 [área] <L> <Lh> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+economia	 [economia] <domain> N F S @P< O
+$, O
+educação	 [educação] <act> <domain> N F S @P< O
+e	 [e] <co-prparg> KC @CO O
+justiça	 [justiça] <am> <HH> N F S @P< O
+$. O
+</s>

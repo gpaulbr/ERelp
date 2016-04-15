@@ -1,0 +1,49 @@
+
+    Multibanco
+    
+      <EM ID="hub-68694-218" CATEG="COISA" TIPO="CLASSE"  >Multibanco</EM>
+      é uma marca registada propriedade da empresa
+      <EM ID="hub-68694-219" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-68694-218" TIPOREL="proprietario_de">SIBS</EM>
+      . O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela
+      <EM ID="hub-68694-220" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-68694-219" TIPOREL="ident">SIBS</EM>
+      . Neste contexto, também se utiliza o termo
+      <EM ID="hub-68694-221" CATEG="ABSTRACCAO" TIPO="NOME"  >ATM</EM>
+      , do inglês
+      <EM ID="hub-68694-222" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-68694-221" TIPOREL="ident">Automatic Teller Machine</EM>
+      .
+    
+    
+      Enquanto
+      <EM ID="hub-68694-223" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      foi um dos últimos países da
+      <EM ID="hub-68694-226" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="hub-68694-223" TIPOREL="LOCAL**inclui**hub-68694-223**LOCAL">Europa</EM>
+      ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.
+    
+    
+      O número de caixas 
+      <EM ID="hub-68694-227" CATEG="COISA" TIPO="CLASSE" COREL="hub-68694-218" TIPOREL="ident">Multibanco</EM>
+      mais do que triplicou em
+      <EM ID="hub-68694-228" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-68694-223" TIPOREL="ident">Portugal</EM>
+      <EM ID="hub-68694-229" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na última década</EM>
+      , revela um estudo da
+      <EM ID="hub-68694-230" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Marktest</EM>
+      .
+      <EM ID="hub-68694-231" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Desde 1995</EM>
+      , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela
+      <EM ID="hub-68694-232" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-68694-219" TIPOREL="ident">SIBS</EM>
+      e incluídos na pesquisa «
+      <EM ID="hub-68694-233" CATEG="OBRA" TIPO="PLANO"  >Os Concelhos Portugueses -- 1995/2005</EM>  ».
+    
+    
+      Em
+      <EM ID="hub-68694-234" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-68694-223" TIPOREL="ident">Portugal</EM>
+      , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.
+    
+    
+      <EM ID="hub-68694-235" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Neste momento</EM>
+      a
+      <EM ID="hub-68694-236" CATEG="COISA|ORGANIZACAO" TIPO="CLASSE|EMPRESA" COREL="hub-68694-218 hub-68694-219" TIPOREL="COISA**inclui**hub-68694-218**COISA ORGANIZACAO**incluido**hub-68694-219**ORGANIZACAO">Rede Multibanco</EM>
+      é uma das mais sofisticadas redes interbancárias do mundo.
+    
+    Também é o nome de um cartão de débito.
+  

@@ -1,0 +1,75 @@
+$S-1
+Associação=Académica	 [Associação=Académica] <org> PROP F S @SUBJ> ORG O
+de	 [de] <np-close> PRP @N< B-REL
+Coimbra	 [Coimbra] <civ> PROP M/F S @P< LOCAL O
+
+$S-2
+AAC	 [AAC] <org> PROP F S @SUBJ> ORG O
+continua	 [continuar] <fmc> <vH> <aux> V PR 3S IND VFIN @FS-QUE O
+a	 [a] PRP @PRT-AUX< O
+lutar	 [lutar] <vH> <mv> V INF @ICL-AUX< O
+para	 [para] PRP @<ADVL O
+pautar	 [pautar] <vH> <mv> V INF @ICL-P< O
+a	 [o] <artd> DET F S @>N O
+política	 [política] <domain> <sem-c> N F S @<ACC O
+educativa	 [educativo] <nh> <np-close> ADJ F S @N< O
+de	 [de] <sam-> PRP @<PIV O
+o	 [o] <artd> <-sam> DET M S @>N O
+Ensino=Superior	 [Ensino=Superior] <tit> PROP M S @P< O
+em	 [em] PRP @<ADVL O
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+
+$S-3
+Universidade	 [Universidade] <inst> PROP F S @P< ORG O
+de	 [de] <np-close> PRP @N< B-REL
+Coimbra	 [Coimbra] <civ> PROP M/F S @P< LOCAL O
+
+$S-4
+Coimbra	 [Coimbra] <hum> PROP M/F S @P< LOCAL O
+$, O
+de	 [de] <np-close> PRP @N<PRED O
+seu	 [seu] <poss 3S> DET M S @>N O
+verdadeiro	 [verdadeiro] ADJ M S @>N O
+nome	 [nome] <ac-cat> <percep-f> N M S @P< O
+Associação=Académica=de=Coimbra	 [Associação=Académica=de=Coimbra] <org> <np-close> PROP M S @N< O
+$-- O
+Organismo=Autónomo=de=Futebol	 [Organismo=Autónomo=de=Futebol] <org> <asarg> PROP M S @P< O
+$( O
+AAC-OAF	 [AAC-OAF] <org> <np-close> PROP M/F S @N<PRED O
+$) O
+$, O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+considerado	 [considerar] <vH> <mv> V PCP M S @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+herdeiro	 [herdeiro] <H> N M S @<SUBJ O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+secção	 [secção] <geom> <act> <Labs> <inst> <sem> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+futebol	 [futebol] <sport> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+AAC	 [AAC] <org> PROP F S @P< ORG O
+
+$S-5
+Ensino=Superior	 [Ensino=Superior] <tit> PROP M S @P< ORG O
+em	 [em] PRP @<ADVL O
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+
+$S-6
+AAC	 [AAC] <org> PROP F S @P< ORG O
+$, O
+estando	 [estar] <clb> <vK> <mv> V GER @ICL-<ADVL O
+integrado	 [integrar] <vH> <mv> V PCP M S @ICL-<SC O
+em	 [em] <sam-> PRP @<ADVL O
+um	 [um] <arti> <-sam> DET M S @>N O
+quarteirão	 [quarteirão] <build> <per> <amount> N M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+inclui	 [incluir] <mv> <np-close> V PR 3S IND VFIN @FS-N< O
+ainda	 [ainda] ADV @>N O
+uma	 [um] <arti> DET F S @>N O
+sala	 [sala] <Lh> N F S @<SUBJ O
+de	 [de] <np-close> PRP @N< O
+espectáculos	 [espetáculo] <occ> N M P @P< O
+$( O
+Teatro=Académico=de=Gil=Vicente	 [Teatro=Académico=de=Gil=Vicente] <civ> <np-close> PROP M S @APP LOCAL O

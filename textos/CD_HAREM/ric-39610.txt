@@ -1,0 +1,86 @@
+
+    
+      <EM ID="ric-39610-12" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|GRUPOIND"  >Reino Unido</EM>
+      quer proibir
+      <EM ID="ric-39610-13" CATEG="OBRA" TIPO="REPRODUZIDA"  >Tintim</EM>
+    
+    
+      <EM ID="ric-39610-14" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >12/Julho/2007</EM>
+      ·
+      <EM ID="ric-39610-15" CATEG="VALOR" TIPO="QUANTIDADE"  >182</EM>
+      Comentários
+    
+    
+      A
+      <EM ID="ric-39610-16" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Comissão pela Igualdade Racial</EM>
+      , do governo britânico, pediu que as livrarias interrompam a venda de
+      <EM ID="ric-39610-43" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintim na África</EM> 
+      , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
+    
+    
+      O livro é racista. Profundamente racista. Colonialista ao limite. Publicado
+      <EM ID="ric-39610-19" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1930</EM>
+      , em
+      <EM ID="ric-39610-45" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintin au Congo</EM> 
+      negros são burros qual portas e são chamados de macacos. O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por
+      <EM ID="ric-39610-21" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-39610-13" TIPOREL="autor_de">Georges Remi</EM>
+      , que se assinava
+      <EM ID="ric-39610-22" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-39610-21" TIPOREL="nome_de_ident">Hergé</EM>
+      .
+    
+    
+      No
+      <EM ID="ric-39610-23" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-39610-12" TIPOREL="ident">Reino Unido</EM>
+      ,
+      <EM ID="ric-39610-47" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13 ric-39610-43" TIPOREL="ident datado_de">Tintim na África</EM> 
+      é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista. Traz na capa um alerta. Já velho, antes de morrer,
+      <EM ID="ric-39610-25" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-39610-21" TIPOREL="ident">Hergé</EM>
+      falou da obra. "Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo. Ele listava
+      <EM ID="ric-39610-49" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintim na África</EM> 
+      entre seus pecados de juventude.
+    
+    
+      <EM ID="ric-39610-27" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-39610-21" TIPOREL="ident">Hergé</EM>
+      é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos. Inclua-se na lista sua obra prima,
+      <EM ID="ric-39610-51" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-25" TIPOREL="obra_de">Tintim no Tibete</EM>
+      , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar
+      <EM ID="ric-39610-29" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-39610-51" TIPOREL="personagem_de">Chang</EM>
+      , seu amigo chinês, único sobrevivente de um acidente de avião. O livro,
+      <EM ID="ric-39610-30" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-39610-51" TIPOREL="data_de">de 1960</EM>
+      , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
+    
+    
+      O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
+      <EM ID="ric-39610-53" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintim na África</EM> 
+      faz parte de uma coleção de
+      <EM ID="ric-39610-32" CATEG="VALOR" TIPO="QUANTIDADE"  >23</EM>
+      álbuns. Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo
+      <EM ID="ric-39610-33" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-39610-19" TIPOREL="inclui">nos anos 1930</EM>
+      .
+    
+    
+      Se o racismo nos incomoda
+      <EM ID="ric-39610-34" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o
+      <EM ID="ric-39610-35" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Holocausto</EM>
+      e
+      <EM ID="ric-39610-36" CATEG="PESSOA|ABSTRACCAO|ACONTECIMENTO" TIPO="INDIVIDUAL|DISCIPLINA|EFEMERIDE"  >Luther King</EM>
+      , remodelaram nossa percepção do mundo. Esquecer que o racismo era natural
+      <EM ID="ric-39610-37" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >há oitenta anos</EM>
+      é desdenhar do esforço envolvido em dominá-lo. Se deixamos de ler os registros cotidianos
+      <EM ID="ric-39610-38" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >daquele tempo</EM>
+      - como
+      <EM ID="ric-39610-55" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintim na África</EM> 
+      -, estimulamos este esquecimento. Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
+    
+    
+      O intervalo entre
+      <EM ID="ric-39610-57" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-13" TIPOREL="ident">Tintim na África</EM> 
+      e
+      <EM ID="ric-39610-59" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-39610-51" TIPOREL="ident">Tintim no Tibete</EM> 
+      mostra ao leitor de
+      <EM ID="ric-39610-42" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-39610-21" TIPOREL="ident">Hergé</EM>
+      a mudança do autor. Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
+    
+    Mas como cresceu entre um e outro.
+  

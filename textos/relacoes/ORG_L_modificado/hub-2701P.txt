@@ -1,0 +1,28 @@
+$S-16
+Portas	 [porta] <*> <part-build> <Lopening> N F P @SUBJ> PES O
+reduziu	 [reduzir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+partido	 [partido] <HHparty> N M S @<ACC  O
+a	 [a] PRP @<PIV  O
+si	 [se] <refl> PERS M/F 3S/P PIV @P<  O
+próprio	 [próprio] <ident> <np-close> DET M S @N<  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+dar	 [dar] <mv> V INF @IMV  O
+atenção	 [atenção] <am> N F S @SUBJ>  O
+a	 [a] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> N M S @P< ORG O
+é	 [ser] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+dar	 [dar] <mv> V INF @ICL-<SC  O
+atenção	 [atenção] <am> N F S @<ACC  O
+a	 [a] PRP @<PIV  O
+Portas	 [Portas] <hum> <*> PROPM/F S @NPHR  O
+e	 [e] KC @NPHR  O
+cada=vez	 [cada=vez] ADV @ADVL>  O
+menos	 [menos] <quant> <KOMP> ADV @>A  O
+pessoas	 [pessoa] <H> N F P @SUBJ>  O
+o	 [ele] PERS M 3S ACC @ACC>  O
+fazem	 [fazer] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+$. O
+</s>

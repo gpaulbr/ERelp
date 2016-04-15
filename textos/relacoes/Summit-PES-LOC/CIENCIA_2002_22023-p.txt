@@ -1,0 +1,90 @@
+$S-9
+Em 	[em]   PRP @ADVL>  
+oito 	[oito] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$, 
+detectamos 	[detectar] <vH> <fmc> <mv> V PR 1P IND VFIN @FS-STA  
+mais=de 	[mais=de] <quant> ADV @>A  
+300 	[300] <card> NUM M P @>N  
+eventos 	[evento] <event> <occ> N M P @<ACC  
+$, 
+graças=a 	[graças=a] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+nosso 	[nosso] <poss 1P> DET M S @>N  
+sistema 	[sistema] <ac> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+calibragem 	[calibragem] <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+dados 	[dado] <cc> <ac> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+satélite 	[satélite] <Vair> N M S @P<  
+$, 
+conta 	[conta] <sem-c> <sem-r> <con> <cc> <domain> <np-close> N F S @N<PRED  
+Douglas=Revelle 	[Douglas=Revelle] <tit>   <np-close> PROP M S @N<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Laboratório=Nacional=de=Los=Alamos 	[Laboratório=Nacional=de=Los=Alamos] <inst>   PROP M S @P<  ORG
+$, 
+um 	[um] <card> <np-close> NUM M S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+autores 	[autor] <Hprof> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+está 	[estar] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+publicado 	[publicar] <vH> <mv> V PCP M S @ICL-<SC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+edição 	[edição] <act> <cc-r> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+hoje 	[hoje] ADV @<ADVL  
+de 	[de] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+britânica 	[britânico] <nat> <jh> <np-close> ADJ F S @N<  
+Nature 	[Nature] <media> <np-close> PROP F S @N<   
+$. 
+</s>
+
+$S-11
+Esses 	[esse] <dem> DET M P @>N  
+corpos 	[corpo] <anmov> <HH> <build> <part-build> <ac-sign> N M P @SUBJ>  
+medidos 	[medir] <vH> <mv> <np-close> V PCP M P @ICL-N<  
+em 	[em] PRP @<ADVL  
+metros 	[metro] <unit> <ac-cat> N M P @P<  
+são 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3P IND VFIN @FS-ACC  
+interessantes 	[interessante] <jh> ADJ M P @<SC  
+cientificamente 	[científico] <nh> ADV @<ADVL  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+não 	[não] ADV @ADVL>  
+oferecem 	[oferecer] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC  
+absolutamente 	[absolutamente] ADV @<ADVL  
+nenhum 	[nenhum] <quant> DET M S @>N  
+perigo 	[perigo] <ac> <sit> N M S @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+os 	[o] <-sam> <artd> DET M P @>N  
+humanos 	[humano] <n> <jh> ADJ M P @P<   
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Robert=Jedicke 	[Robert=Jedicke] <hum>   PROP M S @<SUBJ  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=do=Arizona 	[Universidade=do=Arizona] <inst>   PROP F S @P<  ORG
+$, 
+escolhido 	[escolhido] <H> <np-close> N M S @N<PRED  
+por 	[por] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Nature 	[Nature] <media> PROP F S @P<   
+para 	[para] PRP @<ADVL  
+comentar 	[comentar] <vH> <mv> <v-quote> V INF @ICL-P<  
+o 	[o] <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+$. 
+</s>

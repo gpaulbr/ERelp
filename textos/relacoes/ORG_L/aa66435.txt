@@ -1,0 +1,50 @@
+$S-4
+Quando	 [quando] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  O
+Granada	 [Granada] <civ> <*> PROP F S @SUBJ> ORG O
+caiu	 [cair] V @FS-ADVL>  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+reconquista	 [reconquista] <act> N F S @SUBJ>  O
+cristã	 [cristã] <Hideo> N F S @SUBJ>  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>-PASS  O
+impôs	 [impor] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+então	 [então] <kc> ADV @<ADVL  O
+a	 [a] PRP @<PIV  O
+toda=a	 [todo=o] <quant> DET F S @>N  O
+Península	 [península] <prop> <*> <Ltop> N F S @P< LOCAL O
+$, O
+os	 [o] <artd> DET M P @>N  O
+dois	 [dois] <card> NUM M P @>N  O
+reinos	 [reino] <Lciv> N M P @P< @SUBJ>  O
+católicos	 [católico] <jh> <np-close> ADJ M P @N<  O
+$, O
+Portugal	 [Portugal] <civ> <*> <np-close> PROP M S @P< @APP  O
+e	 [e] KC @NPHR  O
+Espanha	 [Espanha] <civ> <*> <np-close> PROP F S @P< @APP O
+$, O
+partiram	 [partir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+a	 [a] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+conquista	 [conquista] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mundo	 [mundo] <L> N M S @P<  O
+e	 [e] KC @NPHR  O
+tornaram-	 [tornar] <hyfen> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3P ACC @<ACC  O
+Impérios	 [Impérios] <hum> <*> PROP M/F S @<SUBJ  O
+marítimos	 [marítimo] <nh> ADJ M P @<PRED  O
+$; O
+de	 [de] <sam-> PRP @ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Novo=Mundo	 [Novo=Mundo] <top> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+África	 [África] <top> <newlex> <*> PROP M S @P< O
+a	 [a] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+extremo	 [extremo] <Labs> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ásia	 [Ásia] <top> <*> PROP F S @P<  O
+$. O
+</s>

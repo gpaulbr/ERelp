@@ -1,0 +1,88 @@
+
+    
+      O
+      <EM ID="aa33715-434" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pai Natal</EM>
+      ,
+      <EM ID="aa33715-435" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Artur Jorge</EM>
+      e o
+      <EM ID="aa33715-436" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >BCP</EM>
+    
+    
+      O
+      <EM ID="aa33715-437" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Governo</EM>
+      russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema "
+      O <EM ID="aa33715-215" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-434" TIPOREL="ident">Pai Natal</EM> não existe
+      ". O argumento é que tal ideia era nefasta para as criancinhas russas. Conclusão: o
+      <EM ID="aa33715-439" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa33715-437" TIPOREL="ident">Governo</EM>
+      russo acredita no
+      <EM ID="aa33715-441" CATEG="ABSTRACCAO|PESSOA" TIPO="IDEIA|INDIVIDUAL" COREL="aa33715-434" TIPOREL="PESSOA**ident**aa33715-434**PESSOA">Pai Natal</EM>
+      e quer que as criancinhas também acreditem.
+    
+    
+      <EM ID="aa33715-442" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-435" TIPOREL="ident">Artur Jorge</EM>
+      foi, entretanto, escolhido para seleccionador do <EM ID="aa33715-217" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa33715-442" TIPOREL="relacao_profissional">Irão</EM>, equipa que se encontrava
+      <EM ID="aa33715-444" CATEG="TEMPO" TIPO="DURACAO"  >há seis meses</EM>
+      sem treinador. Tendo em atenção o que se tem passado
+      <EM ID="aa33715-445" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos anos</EM>
+      na carreira do ex-treinador do <EM ID="aa33715-219" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa33715-442" TIPOREL="vinculo_inst">FC Porto</EM>, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a
+      <EM ID="aa33715-447" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa33715-217" TIPOREL="vinculo_inst">Federação Iraniana de Futebol</EM> 
+      acredita no
+      <EM ID="aa33715-448" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-434" TIPOREL="ident">Pai Natal</EM>
+      . E
+      <EM ID="aa33715-449" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-435" TIPOREL="ident">Artur Jorge</EM>
+      também, claro.
+    
+    
+      Por outro lado, a escolha do
+       presidente da <EM ID="aa33715-9" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Caixa Geral de Depósitos</EM>
+      para presidir ao
+      <EM ID="aa33715-451" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa33715-436" TIPOREL="ident">BCP</EM>
+      só pode igualmente ser obra do
+      <EM ID="aa33715-452" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-434" TIPOREL="ident">Pai Natal</EM>
+      .
+      <EM ID="aa33715-453" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-8 aa33715-9 aa33715-451" TIPOREL="ident vinculo_inst vinculo_inst">Carlos Santos Ferreira</EM>
+      é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito
+      - mesmo que o vá fazer à custa do banco do
+      <EM ID="aa33715-455" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estado</EM>
+      .
+    
+    
+      Por isso, o
+      <EM ID="aa33715-456" CATEG="PESSOA" TIPO="CARGO" COREL="aa33715-455" TIPOREL="vinculo_inst">ministro das Finanças</EM>
+      , que autorizou esta mudança sem pestanejar, também deve acreditar no
+      <EM ID="aa33715-457" CATEG="ABSTRACCAO|PESSOA" TIPO="IDEIA|INDIVIDUAL" COREL="aa33715-441 aa33715-441" TIPOREL="ABSTRACCAO**ident**aa33715-441**ABSTRACCAO PESSOA**ident**aa33715-441**PESSOA">Pai Natal</EM>
+      . Não lhe passa pela cabeça que
+      <EM ID="aa33715-458" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-453" TIPOREL="ident">Santos Ferreira</EM>
+      , com o que sabe da
+      <EM ID="aa33715-459" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa33715-9" TIPOREL="ident">Caixa</EM>
+      , fique em excelente posição para ganhar quota de mercado ao banco público, que vai
+      <EM ID="aa33715-460" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >este ano</EM>
+      dar
+      <EM ID="aa33715-461" CATEG="VALOR" TIPO="MOEDA"  >mais de 800 milhões</EM>
+      de lucros, dos quais
+      <EM ID="aa33715-462" CATEG="VALOR" TIPO="MOEDA"  >400 milhões</EM>
+      vão direitinhos para os cofres do
+      <EM ID="aa33715-463" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa33715-455" TIPOREL="ident">Estado</EM>
+      a título de
+      <EM ID="aa33715-464" CATEG="COISA" TIPO="CLASSE"  >IRC</EM>
+      . Se
+      <EM ID="aa33715-465" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa33715-453" TIPOREL="ident">Santos Ferreira</EM>
+      tiver sucesso no
+      <EM ID="aa33715-466" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa33715-436" TIPOREL="ident">BCP</EM>
+      , quem vai sofrer é a
+      <EM ID="aa33715-467" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa33715-9" TIPOREL="ident">Caixa</EM>
+      - e, por tabela, todos nós, contribuintes. Porque quanto menos o
+      <EM ID="aa33715-468" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa33715-455" TIPOREL="ident">Estado</EM>
+      receber de dividendos das empresas públicas, mais o
+      <EM ID="aa33715-469" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa33715-455" TIPOREL="ident">Estado</EM>
+      será tentado a vir buscar-nos dinheiro aos bolsos.
+    
+    
+      Por outras palavras, os únicos que não têm razões para acreditar no
+      <EM ID="aa33715-470" CATEG="ABSTRACCAO|PESSOA" TIPO="IDEIA|INDIVIDUAL" COREL="aa33715-441 aa33715-441" TIPOREL="ABSTRACCAO**ident**aa33715-441**ABSTRACCAO PESSOA**ident**aa33715-441**PESSOA">Pai Natal</EM>
+      são os contribuintes portugueses.
+    
+    
+      <EM ID="aa33715-471" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nicolau Santos</EM>
+    
+  

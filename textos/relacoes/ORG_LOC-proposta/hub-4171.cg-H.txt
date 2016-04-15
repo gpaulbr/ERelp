@@ -1,0 +1,21 @@
+$S-1
+Paris	 [Paris] <civ> PROP M S @P< LOCAL O
+$, O
+organizada	 [organizar] <vH> <mv> V PCP F S @ICL-N<PRED O
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+ministro	 [ministro] <Hprof> <Htit> N M S @P< O
+francês	 [francês] <nat> <jh> <np-close> ADJ M S @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Saúde	 [saúde] <prop> <state-h> N F S @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+ministro	 [ministro] <Hprof> <Htit> N M S @SUBJ> O
+francês	 [francês] <nat> <jh> <np-close> ADJ M S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Saúde	 [saúde] <prop> <state-h> N F S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+UCI	 [UCI] <org> PROP F S @SUBJ> ORG O

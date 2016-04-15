@@ -1,0 +1,108 @@
+
+    
+      Nas voltas que a
+      <EM ID="ric-92221-87" CATEG="ACONTECIMENTO|LOCAL|ABSTRACCAO" TIPO="ORGANIZADO|HUMANO|IDEIA"  >Pampulha</EM>
+      dá...
+    
+    
+      Entre os
+      <EM ID="ric-92221-43" CATEG="VALOR" TIPO="QUANTIDADE"  >quase 10 mil</EM>
+      que correram os
+      <EM ID="ric-92221-44" CATEG="VALOR" TIPO="QUANTIDADE"  >quase 18k</EM>
+      da
+      <EM ID="ric-92221-61" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-92221-87" TIPOREL="ACONTECIMENTO**ident**ric-92221-87**ACONTECIMENTO">Volta Internacional da Pampulha</EM> 
+      <EM ID="ric-92221-46" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no início do mês</EM>
+      estava, havia um monte de...
+      <EM ID="ric-92221-47" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Índios</EM>
+      !!!
+    
+    
+      O
+      <EM ID="ric-92221-48" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-47" TIPOREL="incluido">Antonio Ricardo</EM>
+      e mais uma turma da
+      <EM ID="ric-92221-49" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-92221-47 ric-92221-48" TIPOREL="incluido inclui">Araribóia Runners</EM>
+      , trocou
+      <EM ID="ric-92221-88" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-92221-48" TIPOREL="residencia_de">Nikiti</EM>
+      por
+      <EM ID="ric-92221-89" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-92221-62 ric-92221-61 ric-92221-87 ric-92221-87" TIPOREL="LOCAL**inclui**ric-92221-62**LOCAL LOCAL**sede_de**ric-92221-61**ACONTECIMENTO LOCAL**inclui**ric-92221-87**LOCAL LOCAL**sede_de**ric-92221-87**ACONTECIMENTO">BH</EM>
+      para suar ao redor do
+      <EM ID="ric-92221-91" CATEG="LOCAL" TIPO="FISICO" COREL="ric-92221-61 ric-92221-62 ric-92221-87 ric-92221-89" TIPOREL="LOCAL**sede_de**ric-92221-61**ACONTECIMENTO LOCAL**incluido**ric-92221-62**LOCAL LOCAL**incluido**ric-92221-87**LOCAL LOCAL**incluido**ric-92221-89**LOCAL">Lago da Pampulha</EM> 
+      . Bela paisagem, calor demais, esforço descomunal para alguns, exemplos de solidariedade que são para a gente seguir... Enfim, mais uma prova para colocar num lugar destacado na prateleira das boas memórias. Diz aí,
+      <EM ID="ric-92221-53" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-48" TIPOREL="ident">Antonio</EM>
+      ...
+    
+    
+      "Mais uma vez a prova foi fantástica! Testando resistência, o psicológico e outros bichos mais. Se você acha que a meia maratona é pesada, corra
+      <EM ID="ric-92221-54" CATEG="VALOR" TIPO="QUANTIDADE" COREL="ric-92221-44" TIPOREL="ident">18km</EM>
+      na
+      <EM ID="ric-92221-55" CATEG="LOCAL|ACONTECIMENTO" TIPO="HUMANO|ORGANIZADO" COREL="ric-92221-87 ric-92221-87 ric-92221-61 ric-92221-91 ric-92221-92" TIPOREL="LOCAL**ident**ric-92221-87**LOCAL ACONTECIMENTO**ident**ric-92221-87**ACONTECIMENTO ACONTECIMENTO**ident**ric-92221-61**ACONTECIMENTO LOCAL**inclui**ric-92221-91**LOCAL LOCAL**ident**ric-92221-92**LOCAL">Pampulha</EM>
+      onde a largada somente  aconteceu
+      <EM ID="ric-92221-56" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-92221-61" TIPOREL="data_de">às 10h</EM>
+      , debaixo do maior sol e com  muito calor. Isso é
+      <EM ID="ric-92221-63" CATEG="ABSTRACCAO|ACONTECIMENTO|LOCAL|LOCAL" TIPO="IDEIA|ORGANIZADO|HUMANO|FISICO" COREL="ric-92221-87 ric-92221-87 ric-92221-87" TIPOREL="ABSTRACCAO**ident**ric-92221-87**ABSTRACCAO ACONTECIMENTO**ident**ric-92221-87**ACONTECIMENTO LOCAL**ident**ric-92221-87**LOCAL">Pampulha</EM>
+      ! O coração da
+      <EM ID="ric-92221-64" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-92221-89" TIPOREL="ident">Terra do Pão de Queijo</EM>
+      ... Muita gente caída nas calçadas recorrendo ao balão de oxigênio. Muita mesmo!
+    
+    "Esta prova realmente testa as condições do atleta e se ele se preparou adequadamente para enfrentá-la. Apesar da excelente estrutura de apoio, com muitos postos de hidratação (água a balde), o calor era muito forte. As motos espalhadas com médicos e ambulâncias trabalhando muito. Show.
+    
+      "O
+      <EM ID="ric-92221-65" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alex</EM>
+      aqui da
+      <EM ID="ric-92221-66" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-92221-65" TIPOREL="inclui">Sulamerica</EM>
+      , faltando
+      <EM ID="ric-92221-67" CATEG="VALOR" TIPO="QUANTIDADE"  >1 km</EM>
+      , sentiu câimbras e foi para o hospital, ficando no soro...
+      <EM ID="ric-92221-68" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-48 ric-92221-47" TIPOREL="relacao_familiar incluido">Mateus</EM>
+      meu filho, faltando
+      <EM ID="ric-92221-69" CATEG="VALOR" TIPO="QUANTIDADE"  >3km</EM>
+      , também sentiu câimbras nas duas pernas. Por sorte, o
+      <EM ID="ric-92221-70" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Edu</EM>
+      parou e veio com ele devagar até a chegada. (Valeu
+      <EM ID="ric-92221-71" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-70" TIPOREL="ident">Edu</EM>
+      , obrigado por ajudar meu filho! 
+      <EM ID="ric-92221-90" CATEG="OUTRO"   >Araribóia</EM> 
+      !!!) Continuei meu ritmo e dei uma força para o '
+      <EM ID="ric-92221-72" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Chico Buarque</EM>
+      ' (
+      <EM ID="ric-92221-85" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-72 ric-92221-47" TIPOREL="ident incluido">Israel</EM>
+      ), grande guerreiro araribóia, mandou muito bem! (
+      <EM ID="ric-92221-73" CATEG="VALOR" TIPO="QUANTIDADE"  >1:40:00</EM>
+      ). Eu estava bem, minha passada dez, mais um índio amigo precisava de apoio pra chegar e, como somos uma família, fiz de tudo para ele cruzar a linha de chegada voando...
+    
+    
+      "Os índios
+      <EM ID="ric-92221-74" CATEG="PESSOA" TIPO="GRUPOIND" COREL="ric-92221-47 ric-92221-49" TIPOREL="incluido inclui">Araribóias</EM>
+      que saíram de
+      <EM ID="ric-92221-75" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-92221-88" TIPOREL="ident">Niterói</EM>
+      na maior expectativa, cruzaram a linha de chegada com louvor. Parabéns
+      <EM ID="ric-92221-76" CATEG="PESSOA" TIPO="GRUPOIND" COREL="ric-92221-74" TIPOREL="ident">Família Araribóia</EM>
+      pelo desempenho na
+      <EM ID="ric-92221-77" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-92221-64" TIPOREL="ident">Terra do Pão de Queijo</EM>
+      !"
+    
+    
+      Os arabibóias que deram a volta na
+      <EM ID="ric-92221-78" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO" COREL="ric-92221-91 ric-92221-92 ric-92221-55 ric-92221-55" TIPOREL="LOCAL**inclui**ric-92221-91**LOCAL LOCAL**ident**ric-92221-92**LOCAL LOCAL**ident**ric-92221-55**LOCAL LOCAL**sede_de**ric-92221-55**ACONTECIMENTO">Pampulha</EM>
+      foram:
+      <EM ID="ric-92221-79" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-76" TIPOREL="incluido">Claudia Donelate</EM>
+      ,
+      <EM ID="ric-92221-80" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-76" TIPOREL="incluido">Jorge Américo</EM>
+      ,
+      <EM ID="ric-92221-81" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-76 ric-92221-68" TIPOREL="incluido ident">Mateus Silva</EM>
+      ,
+      <EM ID="ric-92221-82" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-53 ric-92221-76" TIPOREL="ident incluido">Antônio Ricardo</EM>
+      ,
+      <EM ID="ric-92221-83" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-85 ric-92221-76" TIPOREL="ident incluido">Israel Firmino</EM>
+      e
+      <EM ID="ric-92221-84" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-92221-76 ric-92221-71" TIPOREL="incluido ident">Luiz Eduardo Bustamante</EM>
+      .
+    
+    Parabéns!!
+    Para saber mais sobre a prova, é só clicar aqui.
+    
+      Receba este blog PermalinkEnvieComente Ler comentários (
+      <EM ID="ric-92221-86" CATEG="VALOR" TIPO="QUANTIDADE"  >2</EM>
+      )
+    
+  

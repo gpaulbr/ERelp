@@ -1,0 +1,81 @@
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+descoberta	 [descoberta] <event> N F S @SUBJ>  O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @ADVL>  O
+pesquisadores	 [pesquisador] <asarg> <Hprof> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Universidade	 [universidade] <prop> <*> <inst> PROP F S @P< ORG O
+de	 [de] <np-close> PRP @N< REL
+Wisconsin	 [Wisconsin] <hum> <*> PROP M/F S @P< LOCAL O
+$- O
+Madison	 [Madison] <hum> <*> PROP M/F S @P<  O
+$( O
+Eua	 [Eua] <top> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+poderá	 [poder] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+levar	 [levar] <mv> V INF @ICL-AUX<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+compreensão	 [compreensão] <am> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+como	 [como] <rel> ADV @ADVL> @P<  O
+as	 [o] <artd> DET F P @>N  O
+epidemias	 [epidemia] <sick> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+doença	 [doença] <sick> N F S @P<  O
+surgem	 [surgir] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+e	 [e] KC @NPHR  O
+qual	 [qual] <rel> DETM/F S @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+melhor	 [bom] <KOMP> <SUP> ADJ F S @>N  O
+forma	 [forma] <asarg> <percep-f> <con> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+combater-	 [combater] <hyfen> <vH> <mv> V INF @ICL-P<  O
+las	 [elas] PERS F 3P ACC @<ACC  O
+$. O
+</s>
+
+$S-22
+A	 [o] <*> <artd> DET F S @>N  O
+descoberta	 [descoberta] <event> N F S @SUBJ>  O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @ADVL>  O
+pesquisadores	 [pesquisador] <asarg> <Hprof> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Universidade	 [universidade] <prop> <*> <inst> N F S @P< ORG O
+de	 [de] <np-close> PRP @N< O
+Wisconsin	 [Wisconsin] <hum> <*> PROP M/F S @P<  O
+$- O
+Madison	 [Madison] <hum> <*> PROP M/F S @P< LOCAL O
+$( O
+Eua	 [Eua] <top> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+poderá	 [poder] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+levar	 [levar] <mv> V INF @ICL-AUX<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+compreensão	 [compreensão] <am> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+como	 [como] <rel> ADV @ADVL> @P<  O
+as	 [o] <artd> DET F P @>N  O
+epidemias	 [epidemia] <sick> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+doença	 [doença] <sick> N F S @P<  O
+surgem	 [surgir] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+e	 [e] KC @NPHR  O
+qual	 [qual] <rel> DETM/F S @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+melhor	 [bom] <KOMP> <SUP> ADJ F S @>N  O
+forma	 [forma] <asarg> <percep-f> <con> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+combater-	 [combater] <hyfen> <vH> <mv> V INF @ICL-P<  O
+las	 [elas] PERS F 3P ACC @<ACC  O
+$. O
+</s>

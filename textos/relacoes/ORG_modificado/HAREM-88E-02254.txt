@@ -1,0 +1,80 @@
+$S-24
+O	 [o] <*> <artd> DET M S @>N  O
+Conselho=de=Ministros	 [Conselho=de=Ministros] <org> <*> PROP M S @SUBJ> ORG O
+aprovou	 [aprovar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+projecto	 [projecto] <sem-c> N M S @<ACC  O
+de=lei	 [de=lei] <pp> ADJ @N<  O
+sobre	 [sobre] <np-long> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+Provedor=de=Justiça	 [Provedor=de=Justiça] <inst> <*> PROP M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+está	 [estar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<SA  O
+este	 [este] <-sam> <dem> DET M S @>N  O
+momento	 [momento] <dur> <f-q> N M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Parlamento=Nacional	 [Parlamento=Nacional] <inst> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-26
+A	 [o] <*> <artd> DET F S @>N  O
+formação	 [formação] <event> N F S @SUBJ>  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+treino	 [treino] <activity> <domain> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+Falintil	 [Falintil] <org> <*> PROP F P @P< ORG O
+$- O
+Forcas=de=Defesa=de=Timor-Leste	 [Forcas=de=Defesa=de=Timor-Leste] <occ> <*> PROP M/F S @N<PRED  O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Polícia=Nacional=de=Timor-Leste	 [Polícia=Nacional=de=Timor-Leste] <org> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @ADVL>  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+guardas	 [guarda] <H> N M P @P<  O
+prisionais	 [prisional] <nh> <np-close> ADJ M P @N<  O
+são	 [ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA  O
+orientados	 [orientar] <vH> <mv> V PCP M P @ICL-AUX<  O
+por	 [por] <sam-> PRP @<ADVL  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+princípios	 [princípio] <temp> <conv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+direitos	 [direito] <domain> <f-right> <amount> N M P @P<  O
+humanos	 [humano] <jh> <np-close> ADJ M P @N<  O
+$. O
+</s>
+
+$S-28
+É	 [é] <foc> <*> ADV @FOC>  O
+de	 [de] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+interesse	 [interesse] <am> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P< ORG O
+que	 [que] <foc> ADV @<FOC  O
+haja	 [haver] <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA  O
+melhor	 [bom] <KOMP> <SUP> ADJ F S @>N  O
+aproximação	 [aproximação] <event> N F S @<ACC  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+instituições	 [instituição] <inst> <act> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P<  O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+ONGs	 [ONGs] <org> <*> PROP F P @<ACC ORG O
+bem=como	 [bem=como] <advl> <rel> ADV @AS-<ADVL  O
+com	 [com] PRP @AS<  O
+outras	 [outro] <diff> <KOMP> DET F P @>N  O
+organizações	 [organização] <HH> N F P @P<  O
+$. O
+</s>

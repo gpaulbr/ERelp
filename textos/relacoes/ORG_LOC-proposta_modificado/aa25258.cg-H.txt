@@ -1,0 +1,39 @@
+$S-1
+Associated=Press	 [Associated=Press] <org> PROP F S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+fez	 [fazer] <mv> <np-close> V PS 3S IND VFIN @FS-N< O
+fotos	 [foto] <pict> N F P @<ACC O
+muito	 [muito] <quant> ADV @>A O
+melhores	 [bom] <SUP> <KOMP> ADJ F P @<OC O
+$, O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+nítidas	 [nítido] <nh> <np-close> ADJ F P @N< O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+perto	 [perto] ADV @ADVL> O
+$, O
+do=que	 [do=que] <com> KS @AS-KOMP< O
+as	 [o] <dem> DET F P @AS< O
+de	 [de] <sam-> <np-close> PRP @N< O
+ele	 [ele] <-sam> PERS M 3S NOM/PIV @P< O
+$, O
+mas	 [mas] <co-fin> <co-fmc> KC @CO O
+Salgado	 [Salgado] <hum> PROP M S @SUBJ> O
+conseguiu	 [conseguir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+mesmo=assim	 [mesmo=assim] <kc> ADV @<ADVL O
+com	 [com] PRP @<ADVL O
+a	 [o] <artd> DET F S @>N O
+venda	 [venda] <inst> <act> <cloH> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+essas	 [esse] <dem> <-sam> DET F P @>N O
+imagens	 [imagem] <sem-c> <pict> <ac-cat> N F P @P< O
+$, O
+um=pouco	 [um=pouco] <quant> ADV @>A O
+tremidas	 [tremido] <jh> <np-close> ADJ F P @N<PRED O
+$, O
+comprar	 [comprar] <vH> <mv> V INF @IMV O
+um	 [um] <arti> DET M S @>N O
+pequeno	 [pequeno] ADJ M S @>N O
+apartamento	 [apartamento] <Lh> N M S @<ACC O
+em	 [em] PRP @<ADVL O
+Paris	 [Paris] <civ> PROP M S @P< LOCAL O

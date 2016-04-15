@@ -1,0 +1,150 @@
+
+Que país declarou a independência <EM ID="dav-844651-104" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1291</EM>? 
+O que se passou <EM ID="dav-844651-105" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 4 de Julho de 1776</EM>? 
+De quem trata o filme "<EM ID="dav-844651-115" CATEG="OBRA" TIPO="REPRODUZIDA"  >2 filhos de Francisco</EM>"? 
+Quais são as sete colinas de <EM ID="dav-844651-116" CATEG="LOCAL" TIPO="HUMANO"  >Roma</EM>? Qual é a mais pequena delas? Quem é o dono delas? Em qual delas fica a residência do presidente? 
+De que estado foi governador <EM ID="dav-844651-117" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Adhemar de Barros</EM>? 
+Quem eram os almóadas? 
+Quem fabrica os foguetões <EM ID="dav-844651-147" CATEG="COISA" TIPO="CLASSE"  >Ariane</EM>? 
+Quantas pessoas morreram no atentado na estação de <EM ID="dav-844651-148" CATEG="LOCAL" TIPO="HUMANO"  >Bolonha</EM>? 
+Quem é <EM ID="dav-844651-118" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Boaventura Kloppenburg</EM>? 
+Quando é que a baleia azul foi extinta? 
+O que está escrito na bandeira do <EM ID="dav-844651-149" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM>? 
+Que árvore está na bandeira do <EM ID="dav-844651-150" CATEG="LOCAL" TIPO="HUMANO"  >Líbano</EM>? 
+Por que estado é senador <EM ID="dav-844651-119" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Barack Obama</EM>? 
+O que é um barrete frígio? 
+Quantos jogadores tem um time de basquete? 
+Quem disse  "<EM ID="dav-844651-119aa" CATEG="OUTRO"   >Ao vencedor, as batatas!</EM>" ? 
+Que princesa portuguesa foi  rainha da <EM ID="dav-844651-168" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Dinamarca</EM>? 
+Que inglês foi treinador do <EM ID="dav-844651-171" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Porto</EM>? 
+Que mar banha <EM ID="dav-844651-154" CATEG="LOCAL" TIPO="HUMANO"  >Braga</EM>? 
+O que é a navegação de cabotagem? 
+<EM ID="dav-844651-152" CATEG="LOCAL" TIPO="HUMANO"  >Caen</EM> é a capital de que departamento? 
+O que é um caiaque? 
+Como se chama <EM ID="dav-844651-155" CATEG="ABSTRACCAO" TIPO="NOME"  >Cayenne</EM> em português? 
+Quem viajava no avião que se despenhou em <EM ID="dav-844651-156" CATEG="LOCAL" TIPO="HUMANO"  >Camarate</EM>? 
+Que cidade era capital do <EM ID="dav-844651-157" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM> antes do governo ser transferido para <EM ID="dav-844651-158" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-844651-157" TIPOREL="incluido">Brasília</EM>? 
+Que rei morreu <EM ID="dav-844651-106" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1718</EM>? 
+O que eram cartas de alforria? 
+Que cidade francesa foi residência dos <EM ID="dav-844651-159" CATEG="PESSOA" TIPO="GRUPOCARGO"  >Papas</EM>? 
+Quando foi fundado o <EM ID="dav-844651-160" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Nacional da Madeira</EM>? Onde? 
+Qual o diâmetro de <EM ID="dav-844651-161" CATEG="COISA" TIPO="OBJECTO"  >Ceres</EM>? 
+Diga o nome de um chá branco. 
+Em que distrito fica <EM ID="dav-844651-162" CATEG="LOCAL" TIPO="HUMANO"  >Chaves</EM>? Quantas freguesias tem o concelho? Que municípios ficam a oeste? Quantos habitantes tinha <EM ID="dav-844651-107" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2006</EM>? 
+Quais são as cidades-estado da <EM ID="dav-844651-163" CATEG="LOCAL" TIPO="HUMANO"  >Alemanha</EM>? 
+De onde é nativo o cisne branco? 
+A quem pertence o <EM ID="dav-844651-164" CATEG="COISA|ORGANIZACAO|OBRA" TIPO="OBJECTO|EMPRESA|ARTE"  >Cisne Branco</EM>? 
+Quando foi registado pela primeira vez o cometa <EM ID="dav-844651-165" CATEG="COISA" TIPO="OBJECTO"  >Halley</EM>? Em que famosa obra aparece o cometa? Que batalha aparece nessa obra? 
+Quem venceu o <EM ID="dav-844651-166" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Campeonato do Mundo de Contra-Relógio</EM> <EM ID="dav-844651-108" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-844651-166" TIPOREL="data_de">em 1995</EM>? Em que país se disputou a prova? Qual o tempo do vencedor? E quem venceu <EM ID="dav-844651-109" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-844651-166" TIPOREL="data_de">em 1994</EM>? 
+Com quem se casou a <EM ID="dav-844651-120" CATEG="PESSOA" TIPO="INDIVIDUAL"  >rainha Cristina</EM>? Que idade tinha ela quando morreu? 
+Quem foi o <EM ID="dav-844651-167" CATEG="VALOR" TIPO="CLASSIFICACAO"  >13º</EM>  rei de <EM ID="dav-844651-463" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Portugal</EM>? 
+O que é a defesa siciliana? 
+Que empresa editou a <EM ID="dav-844651-169" CATEG="OBRA" TIPO="REPRODUZIDA"  >Diciopédia</EM>? 
+Que dinastia reinava em <EM ID="dav-844651-153" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM> <EM ID="dav-844651-110" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1500</EM>? 
+O que são os <EM ID="dav-844651-172" CATEG="LOCAL" TIPO="HUMANO"  >DOM</EM> franceses? Quantos são eles? Qual deles fica na <EM ID="dav-844651-175" CATEG="LOCAL" TIPO="HUMANO"  >Europa</EM>? 
+Em que zona de <EM ID="dav-844651-173" CATEG="LOCAL" TIPO="HUMANO"  >Espanha</EM> nasce o rio <EM ID="dav-844651-176" CATEG="LOCAL" TIPO="FISICO" COREL="dav-844651-173" TIPOREL="inclui">Douro</EM>? 
+Onde fica o parque <EM ID="dav-844651-177" CATEG="LOCAL" TIPO="HUMANO"  >Eduardo VII</EM>? 
+Quantos focos tem uma elipse? 
+Quantos pontos vale um ensaio no râguebi? 
+O que é o enxaimel? 
+Diga uma escritora sarda. 
+Como se chamava o sabre dos samurai? 
+Quem foi <EM ID="dav-844651-121" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ésquilo</EM>? 
+Em que constelação fica <EM ID="dav-844651-178" CATEG="COISA" TIPO="OBJECTO"  >Vega</EM>? E <EM ID="dav-844651-179" CATEG="COISA" TIPO="OBJECTO"  >Régulo</EM>? 
+Qual a freguesia mais populosa de <EM ID="dav-844651-174" CATEG="LOCAL" TIPO="HUMANO"  >Évora</EM>? 
+Que equipa é treinada por <EM ID="dav-844651-122" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando Santos</EM>? 
+Que equipa era treinada por <EM ID="dav-844651-123" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando Santos</EM> <EM ID="dav-844651-111" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1994</EM>? 
+Em que estado brasileiro fica <EM ID="dav-844651-180" CATEG="LOCAL" TIPO="HUMANO"  >Faro</EM>? 
+Em que época é que o <EM ID="dav-844651-181" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >FC Porto</EM> ganhou a <EM ID="dav-844651-182" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|" COREL="dav-844651-181" TIPOREL="ACONTECIMENTO**ter_participacao_de**dav-844651-181**PESSOA">Liga dos Campeões</EM>? 
+Que pássaro renascia das próprias cinzas? 
+Que percentagem dos finlandeses fala sueco? 
+Quando é que <EM ID="dav-844651-124" CATEG="PESSOA" TIPO="INDIVIDUAL"  >F.H. Cardoso</EM> tomou posse como presidente? 
+O que é a <EM ID="dav-844651-183" CATEG="ABSTRACCAO|ACONTECIMENTO|ORGANIZACAO" TIPO="ESTADO||"  >FIDE</EM>? 
+Que profundidade atinge a <EM ID="dav-844651-184" CATEG="LOCAL" TIPO="FISICO"  >Fossa das Marianas</EM>? Onde fica? Quando se atingiu o seu fundo? Por que veículo? 
+Quantas horas há de diferença entre <EM ID="dav-844651-185" CATEG="LOCAL" TIPO="HUMANO"  >Nova Iorque</EM> e <EM ID="dav-844651-186" CATEG="LOCAL" TIPO="HUMANO"  >São Francisco</EM>? 
+Além da girafa, que outro animal pertence à família  <EM ID="dav-844651-187" CATEG="COISA" TIPO="CLASSE"  >Giraffidae</EM>? 
+Que espada usavam as legiões romanas? 
+Quando caíu <EM ID="dav-844651-188" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Granada</EM>? 
+O que é a <EM ID="dav-844651-189" CATEG="ACONTECIMENTO|LOCAL|ORGANIZACAO|OBRA"   >Granja do Torto</EM>? 
+Qual é a latitude e longitude da <EM ID="dav-844651-190" CATEG="LOCAL" TIPO="HUMANO"  >Guarda</EM>? 
+De que estado foi <EM ID="dav-844651-191" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Hans Modrow</EM> primeiro-ministro? 
+Quem foi <EM ID="dav-844651-125" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Henrik Ibsen</EM>? 
+Quem matou <EM ID="dav-844651-192" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Philipe Henriot</EM>? 
+O que é o <EM ID="dav-844651-194" CATEG="ABSTRACCAO|ACONTECIMENTO|ORGANIZACAO" TIPO="ESTADO||"  >ICBAS</EM>? 
+Qual a população da <EM ID="dav-844651-195" CATEG="LOCAL" TIPO="HUMANO"  >Ilha de Moçambique</EM>? 
+Qual o estado mais populoso da <EM ID="dav-844651-196" CATEG="LOCAL" TIPO="HUMANO"  >Índia</EM>? 
+O que é o jagartee? 
+Quem é <EM ID="dav-844651-126" CATEG="PESSOA" TIPO="INDIVIDUAL"  >James Baker</EM>? 
+Como se chamam os filhos de <EM ID="dav-844651-127" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jimmy Carter</EM>? 
+Quando se realizaram os <EM ID="dav-844651-197" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de Munique</EM> ? 
+Que senador americano foi prisioneiro no <EM ID="dav-844651-200" CATEG="LOCAL" TIPO="HUMANO"  >Vietname</EM>? 
+Em que dia ocorreu a batalha de <EM ID="dav-844651-201" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >La Lys</EM>? 
+Em que ilha dos <EM ID="dav-844651-202" CATEG="LOCAL" TIPO="FISICO"  >Açores</EM> fica a <EM ID="dav-844651-203" CATEG="LOCAL"   >Lagoa</EM>? 
+Quem é o <EM ID="dav-844651-204" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Lampadinha</EM>? 
+O lehendakari é presidente de quê? 
+Quando é que foi assinada a <EM ID="dav-844651-206" CATEG="OBRA" TIPO="PLANO"  >Lei Áurea</EM>? Por quem? 
+Que é o que <EM ID="dav-844651-128" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Arafat</EM> usava na cabeça? 
+Quem era a locomotiva humana? 
+Em que concelho fica <EM ID="dav-844651-208" CATEG="LOCAL" TIPO="HUMANO"  >Loivos do Monte</EM>? 
+Quem abriu os <EM ID="dav-844651-210" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de 1948</EM> ? 
+O que é <EM ID="dav-844651-213"    >M31</EM>? 
+Quando nasceu <EM ID="dav-844651-129" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Machado de Assis</EM>? 
+O que é a <EM ID="dav-844651-214" CATEG="ABSTRACCAO|ORGANIZACAO|PESSOA" TIPO="|INSTITUICAO|GRUPOMEMBRO"  >Igreja Maronita</EM>? 
+Quanto custou a <EM ID="dav-844651-215" CATEG="COISA" TIPO="OBJECTO"  >Mars Observer</EM>? 
+O que é o mascarpone? De que região provêm? Em que sobremesa se usa? 
+Quando foi inaugurado o metropolitano de <EM ID="dav-844651-216" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>? Quantas estações tem agora? 
+Qual o verdadeiro nome de <EM ID="dav-844651-130" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Michael Caine</EM>? 
+A que altitude está <EM ID="dav-844651-217" CATEG="LOCAL" TIPO="HUMANO"  >Miguel Pereira</EM>? 
+O que é que <EM ID="dav-844651-131" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jean Valjean</EM> roubou? 
+Qual era a divisa austríaca <EM ID="dav-844651-218" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes de 2002</EM>? 
+Quem foi <EM ID="dav-844651-132" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Monteiro Lobato</EM>? Em que instituição estudou? O que é que ele estudou? Quando é que ele criou a <EM ID="dav-844651-133" CATEG="COISA|OUTRO" TIPO="OBJECTO|" COREL="dav-844651-132" TIPOREL="OUTRO**outrarel**dav-844651-132**PESSOA">Emília</EM>? 
+Quantos municípios tem o distrito do <EM ID="dav-844651-223" CATEG="LOCAL" TIPO="HUMANO"  >Porto</EM>? 
+Quem ganhou a <EM ID="dav-844651-14" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >NBA</EM> <EM ID="dav-844651-112" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-844651-14" TIPOREL="data_de">em 1995</EM>? 
+O que é a <EM ID="dav-844651-224" CATEG="COISA" TIPO="OUTRO"  >constante de Néper</EM>? 
+O que são os números <EM ID="dav-844651-225" CATEG="COISA" TIPO="CLASSE"  >E</EM>? 
+Qual o período de gestação de ocapi? Qual o seu peso? 
+Que concelho fica a leste de <EM ID="dav-844651-226" CATEG="LOCAL" TIPO="HUMANO"  >Oeiras</EM>? 
+Que cidades realizaram <EM ID="dav-844651-227" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos</EM> <EM ID="dav-844651-219" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes de 1900</EM>? 
+Diga um recipiente da <EM ID="dav-844651-228" CATEG="OUTRO"   >Grande Cruz do Mérito</EM>. 
+Quando começa <EM ID="dav-844651-2280" CATEG="TEMPO" TIPO="GENERICO"  >o outono</EM> no hemisfério sul? 
+Quem é <EM ID="dav-844651-134" CATEG="PESSOA" TIPO="INDIVIDUAL"  >José Eduardo Pinto da Costa</EM>? Onde é que ele nasceu? 
+Quantos centímetros há num pé? 
+Quem era  rei de <EM ID="dav-844651-465" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Portugal</EM> <EM ID="dav-844651-113" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1860</EM>? 
+Qual a área do <EM ID="dav-844651-230" CATEG="LOCAL" TIPO="OUTRO"  >Parque Nacional da Peneda-Gerês</EM> ? 
+Em que anos foi <EM ID="dav-844651-135" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nelson Piquet</EM> campeão do mundo? 
+Quem foi <EM ID="dav-844651-136" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pirro</EM>? 
+Qual o primeiro nome do <EM ID="dav-844651-137" CATEG="PESSOA" TIPO="INDIVIDUAL"  >presidente Trovoada</EM>? 
+Quantas regiões tem <EM ID="dav-844651-232" CATEG="LOCAL" TIPO="HUMANO"  >Marrocos</EM>? Qual é a maior delas? 
+Onde é estão sepultados <EM ID="dav-844651-138" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando</EM> e <EM ID="dav-844651-139" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Isabel</EM>? 
+Qual é a principal indústria da <EM ID="dav-844651-233" CATEG="LOCAL" TIPO="HUMANO"  >República Dominicana</EM>? 
+Em que período existiu a <EM ID="dav-844651-234" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >República de Veneza</EM>? 
+Onde é que desagua o <EM ID="dav-844651-235" CATEG="LOCAL" TIPO="FISICO"  >Ural</EM>? Qual é o seu comprimento? 
+Qual o comprimento total da rodovia <EM ID="dav-844651-236" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO"  >Dom Pedro I</EM>? 
+Quem comandou os gregos em <EM ID="dav-844651-237" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Salamina</EM>? 
+Quem se tornou rei após a morte de <EM ID="dav-844651-140" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Afonso Henriques</EM>? 
+Que ordem foi fundada por <EM ID="dav-844651-141" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Santa Clara</EM>? 
+O que é o <EM ID="dav-844651-193"    >Saquê</EM> ? 
+Quantos senadores tem o <EM ID="dav-844651-239" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Senado</EM> brasileiro actualmente? Quantos anos tem os seus mandatos? Quantos senadores tem cada estado? Quantos senadores havia <EM ID="dav-844651-220" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1972</EM>? 
+Quem foi o último  rei da <EM ID="dav-844651-467" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Bulgária</EM>? 
+Diga uma catedral de <EM ID="dav-844651-241" CATEG="LOCAL" TIPO="HUMANO"  >Sófia</EM>. 
+Em que jornal escreve o <EM ID="dav-844651-142" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Miguel Sousa Tavares</EM>? 
+A que partido pertencia <EM ID="dav-844651-242" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Spadolini</EM>? 
+Quais são as línguas oficiais da <EM ID="dav-844651-243" CATEG="LOCAL" TIPO="HUMANO"  >Suíça</EM>? E quantos cantões tem? Quando é que <EM ID="dav-844651-244" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Berna</EM> aderiu à <EM ID="dav-844651-245" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Confederação</EM>? 
+Que selecções disputaram a final da <EM ID="dav-844651-209" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Taça América de 1995</EM> ? 
+Quantos espartanos lutaram na <EM ID="dav-844651-247" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Batalha das Termópilas</EM>? 
+Quem sucedeu a <EM ID="dav-844651-143" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Augusto</EM>? 
+Qual é a capital de <EM ID="dav-844651-248" CATEG="LOCAL" TIPO="HUMANO"  >Timor Ocidental</EM>? 
+Qual o estilo arquitectónico da <EM ID="dav-844651-249" CATEG="OBRA" TIPO="ARTE"  >Torre dos Clérigos</EM>? Quantos degraus tem a torre? Qual á a altura dela? Quando foi erigida? 
+O que era uma trirreme? 
+Como se chamava o avião supersónico russo? 
+Qual o túnel ferroviário mais comprido do mundo? E qual o seu comprimento? Em que país fica? 
+O que é o <EM ID="dav-844651-250" CATEG="COISA|OUTRO" TIPO="OBJECTO|"  >Tux</EM>? Que animal é? Quem o criou? Quando? 
+Diga uma emissora de televisão brasileira que tenha iniciado as suas actividades <EM ID="dav-844651-222" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes de 1970</EM>. 
+O que é a <EM ID="dav-844651-252" CATEG="ABSTRACCAO|ACONTECIMENTO|ORGANIZACAO" TIPO="ESTADO||"  >TVI</EM>? 
+O que é a <EM ID="dav-844651-253"    >Union Jack</EM>? 
+Onde é que nasceu o <EM ID="dav-844651-144" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Vítor Baía</EM>? Onde é que começou a jogar futebol? Quantos golos é que marcou na sua carreira? Que idade tinha ele quando se mudou para o <EM ID="dav-844651-254" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="dav-844651-144" TIPOREL="vinculo_inst">FC Porto</EM>? 
+Quem é <EM ID="dav-844651-145" CATEG="PESSOA" TIPO="INDIVIDUAL"  >George Vassiliou</EM>? 
+Quero o nome de um vinho húngaro. 
+Que clube foi campeão português de voleibol <EM ID="dav-844651-114" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1995</EM>? E quem venceu a <EM ID="dav-844651-231" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-844651-114" TIPOREL="datado_de">Taça de Portugal</EM>  <EM ID="dav-844651-240" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-844651-114" TIPOREL="ident">nesse ano</EM>? 
+Quais são os signos do <EM ID="dav-844651-256" CATEG="OUTRO"   >Zodíaco</EM>? 
+Quantas ilhas tem <EM ID="dav-844651-257" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Cabo Verde</EM>? Quantas são habitadas? Em qual delas nasceu <EM ID="dav-844651-146" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Eugénio Tavares</EM>? E em qual deles fica a <EM ID="dav-844651-258" CATEG="LOCAL" TIPO="HUMANO"  >Praia</EM>?

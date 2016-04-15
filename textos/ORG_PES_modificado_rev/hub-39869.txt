@@ -1,0 +1,294 @@
+$S-3
+A	 [o] <*> <artd> DET F S @>N  O
+cimeira	 [cimeiro] ADJ F S @>N  O
+União=Europeia-África	 [União=Europeia-África] <org> <*> PROP F S @SUBJ>  O
+$, O
+prevista	 [prever] <vH> <np-close> V PCP F S @N<PRED  O
+para	 [para] PRP @<ADVL  O
+8	 [8] <card> NUM M/F P @P<  O
+e	 [e] KC @NPHR  O
+9	 [9] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Dezembro	 [Dezembro] <top> <*> PROP M/F S @P<  O
+em	 [em] <np-close> PRP @N<  O
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+deve	 [dever] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX<  O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @<SC  O
+sobre	 [sobre] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Presidente=do=Zimbabwe	 [Presidente=do=Zimbabwe] <inst> <*> PROP M S @P<  O
+$, O
+Robert=Mugabe	 [Robert=Mugabe] <hum> <*> <np-close> PROP M S @<SC @APP  O
+$, O
+defendeu	 [defender] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+hoje	 [hoje] ADV @<ADVL  O
+José=Sócrates	 [José=Sócrates] <hum> <*> PROP M S @<SC PES O
+$, O
+primeiro-ministro	 [primeiro-ministro] <Hprof> <np-close> N M S @N<PRED REL
+português	 [português] <nat> <jh> <np-close> ADJ M S @N< O
+e	 [e] KC @NPHR REL
+presidente	 [presidente] <Hprof> <np-close> N M/F S @N< REL
+em=exercício	 [em=exercício] <pp> ADJ @N< O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N O
+União=Europeia	 [União=Europeia] <civ> <*> PROP F S @P< ORG O
+$( O
+UE	 [UE] <civ> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$. O
+</s>
+
+$S-4
+$" O
+O	 [o] <*> <*1> <dem> DET M S @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+queremos	 [querer] <vH> <mv> <np-close> V PR 1P IND VFIN @FS-N<  O
+é	 [é] <foc> ADV @FOC>  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+esta	 [este] <dem> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @SUBJ>  O
+entre	 [entre] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+União=Europeia	 [União=Europeia] <civ> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+África	 [África] <top> <*> PROP F S @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> <np-close> N F S @N<PRED  O
+histórica	 [histórico] <jh> <np-close> ADJ F S @N<  O
+muito	 [muito] <quant> ADV @>A  O
+importante	 [importante] <jh> <np-close> ADJ M/F S @N<  O
+$, O
+se	 [se] PERS M/F 3S ACC @ACC>-PASS  O
+concentre	 [concentrar] <vH> <mv> V PR 3S SUBJ VFIN @FS-<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+documentos	 [documento] <cc-r> N M P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+vão	 [ir] <aux> <np-close> V PR 3P IND VFIN @FS-N<  O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX<  O
+aprovados	 [aprovado] <nh> ADJ M P @<SC  O
+e	 [e] KC @NPHR  O
+não	 [não] ADV @>P  O
+sobre	 [sobre] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+Presidente=Robert=Mugabe	 [Presidente=Robert=Mugabe] <inst> <*> <*2> PROP M S @P< PES O
+$" O
+$, O
+declarou	 [declarar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+Sócrates	 [Sócrates] <hum> <*> PROP M/F S @<SUBJ  O
+em	 [em] PRP @<ADVL  O
+Singapura	 [Singapura] <civ> <*> PROP M S @P<  O
+$, O
+à=margem=de	 [à=margem=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @P<  O
+entre	 [entre] <np-close> PRP @N< @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+UE	 [UE] <civ> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+os	 [o] <artd> DET M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Sudeste	 [sudeste] <prop> <*> <dir> N M S @P<  O
+asiático	 [asiático] <nat> <np-close> ADJ M S @N<  O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Lusa	 [Lusa] <org> <asarg> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-44
+$" O
+O	 [o] <*> <*1> <dem> DET M S @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+queremos	 [querer] <vH> <mv> <np-close> V PR 1P IND VFIN @FS-N<  O
+é	 [é] <foc> ADV @FOC>  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+esta	 [este] <dem> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @SUBJ>  O
+entre	 [entre] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+União=Europeia	 [União=Europeia] <civ> <*> PROP F S @P< O
+e	 [e] KC @NPHR  O
+África	 [África] <top> <*> PROP F S @P< ORG O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> <np-close> N F S @N<PRED  O
+histórica	 [histórico] <jh> <np-close> ADJ F S @N<  O
+muito	 [muito] <quant> ADV @>A  O
+importante	 [importante] <jh> <np-close> ADJ M/F S @N<  O
+$, O
+se	 [se] PERS M/F 3S ACC @ACC>-PASS  O
+concentre	 [concentrar] <vH> <mv> V PR 3S SUBJ VFIN @FS-<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+documentos	 [documento] <cc-r> N M P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+vão	 [ir] <aux> <np-close> V PR 3P IND VFIN @FS-N<  O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX<  O
+aprovados	 [aprovado] <nh> ADJ M P @<SC  O
+e	 [e] KC @NPHR  O
+não	 [não] ADV @>P  O
+sobre	 [sobre] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+Presidente=Robert=Mugabe	 [Presidente=Robert=Mugabe] <inst> <*> <*2> PROP M S @P< PES O
+$" O
+$, O
+declarou	 [declarar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+Sócrates	 [Sócrates] <hum> <*> PROP M/F S @<SUBJ  O
+em	 [em] PRP @<ADVL  O
+Singapura	 [Singapura] <civ> <*> PROP M S @P<  O
+$, O
+à=margem=de	 [à=margem=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @P<  O
+entre	 [entre] <np-close> PRP @N< @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+UE	 [UE] <civ> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+os	 [o] <artd> DET M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Sudeste	 [sudeste] <prop> <*> <dir> N M S @P<  O
+asiático	 [asiático] <nat> <np-close> ADJ M S @N<  O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Lusa	 [Lusa] <org> <asarg> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-5
+O	 [o] <*> <artd> DET M S @>N  O
+Zimbabwe	 [Zimbabwe] <civ> <*> PROP M S @SUBJ>  O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+convidado	 [convidado] <H> N M S @<SC  O
+para	 [para] PRP @<ADVL  O
+participar	 [participar] <vH> <mv> V INF @ICL-P<  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @P<  O
+$, O
+apesar=de	 [apesar=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+oposição	 [oposição] <am> <Labs> <HH> <sem-s> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Reino=Unido	 [Reino=Unido] <civ> <*> PROP M S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  O
+ameaçou	 [ameaçar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+boicotar	 [boicotar] <vH> <mv> V INF @ICL-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @<ACC  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+Mugabe	 [Mugabe] <hum> <*> PROP M/F S @SUBJ> PES O
+estiver	 [estar] <vK> <mv> V FUT 3S SUBJ VFIN @FS-<ADVL  O
+presente	 [presente] <jh> ADJ M/F S @<SC  O
+$. O
+</s>
+
+$S-6
+$" O
+Esta	 [este] <*> <*1> <dem> DET F S @SUBJ>  O
+é	 [ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @<SC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+se	 [se] PERS M/F 3S ACC @ACC>-PASS  O
+realiza	 [realizar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+há	 [há] PRP @<ADVL  O
+sete	 [sete] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> <np-close> N F S @N<PRED  O
+sobre	 [sobre] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+direitos	 [direito] <domain> <f-right> <amount> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Homem	 [homem] <prop> <*> <Hattr> N M S @P<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+alterações	 [alteração] <act-d> <f-psych> N F P @P<  O
+climáticas	 [climático] <nh> <np-close> ADJ F P @N<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+migrações	 [migração] <activity> N F P @P<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+problemas	 [problema] <ac> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+União=Europeia	 [União=Europeia] <civ> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+União=Africana	 [União=Africana] <org> <*> <*2> PROP F S @P<  O
+$" O
+$, O
+salientou	 [salientar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  O
+Sócrates	 [Sócrates] <hum> <*> PROP M/F S @<SUBJ PES O
+$. O
+</s>
+
+$S-66
+$" O
+Esta	 [este] <*> <*1> <dem> DET F S @SUBJ>  O
+é	 [ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @<SC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+se	 [se] PERS M/F 3S ACC @ACC>-PASS  O
+realiza	 [realizar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+há	 [há] PRP @<ADVL  O
+sete	 [sete] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> <np-close> N F S @N<PRED  O
+sobre	 [sobre] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+direitos	 [direito] <domain> <f-right> <amount> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Homem	 [homem] <prop> <*> <Hattr> N M S @P<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+alterações	 [alteração] <act-d> <f-psych> N F P @P<  O
+climáticas	 [climático] <nh> <np-close> ADJ F P @N<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+migrações	 [migração] <activity> N F P @P<  O
+$, O
+sobre	 [sobre] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+problemas	 [problema] <ac> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+União=Europeia	 [União=Europeia] <civ> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+União=Africana	 [União=Africana] <org> <*> <*2> PROP F S @P< ORG O
+$" O
+$, O
+salientou	 [salientar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  O
+Sócrates	 [Sócrates] <hum> <*> PROP M/F S @<SUBJ PES O
+$. O
+</s>

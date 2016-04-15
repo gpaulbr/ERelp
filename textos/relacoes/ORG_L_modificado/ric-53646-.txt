@@ -1,0 +1,88 @@
+$S-5
+O	 [o] <*> <artd> DET M S @>N  O
+projeto	 [projeto] <sem-c> N M S @SUBJ>  O
+conta	 [contar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+com	 [com] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+apoio	 [apoio] <act-d> <cc> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Secretaria=de=Desenvolvimento=Sustentável	 [Secretaria=de=Desenvolvimento=Sustentável] <inst> <*> PROP F S @P< ORG O
+de	 [de] <sam-> <np-long> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Governo	 [Governo] <inst> <*> PROP F S @P< ORG O
+de	 [de] <sam-> <np-long> PRP @N<  O
+de	 [de] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Estado=do=Amazonas	 [Estado=do=Amazonas] <civ> <*> <newlex> PROP M S @P<  O
+$. O
+</s>
+
+$S-13
+Se	 [se] <clb> <clb-fs> <*> KS @SUB  O
+eles	 [eles] PERS M 3P NOM @SUBJ>  O
+olhassem	 [olhar] <vH> <mv> V IMPF 3P SUBJ VFIN @FS-ADVL>  O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+ficou	 [ficar] <mv> V PS 3S IND VFIN @FS-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+lata	 [lata] <con> <cm> <cc-stick> N F S @<SUBJ  O
+$[ O
+diferente	 [diferente] <nh> ADJ M/F S @PRED>  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+criação	 [criação] <act> N F S @P<  O
+original	 [original] <jh> <np-close> ADJ F S @N<  O
+$] O
+$, O
+não	 [não] ADV @ADVL>  O
+haveria	 [haver] <clb-fs> <mv> <quote> V COND 3S VFIN @FS-ACC>>  O
+problema	 [problema] <ac> N M S @<ACC  O
+legal	 [legal] <*2> <nh> <np-close> ADJ M S @N<  O
+$" O
+$, O
+afirmou	 [afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  O
+Jakob=Fenger	 [Jakob=Fenger] <hum> <*> PROP M S @<SUBJ  O
+$, O
+um	 [um] <card> <np-close> NUM M S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+membros	 [membro] <an> <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+coletivo	 [coletivo] <ac-cat> N M S @P<  O
+$, O
+em	 [em] PRP @<ADVL  O
+entrevista	 [entrevista] <talk> <occ> N F S @P<  O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Folha=de=São=Paulo	 [São=Paulo] <hum> PROP F S @P< ORG O
+$, O
+em	 [em] PRP @<ADVL  O
+matéria	 [matéria] <cm> <ac> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+informa	 [informar] <vH> <mv> <np-close> <v-quote> V PR 3S IND VFIN @FS-N<  O
+ainda	 [ainda] ADV @<ADVL  O
+$: O
+$" O
+Por=meio=de	 [por=meio=de] <*1> <*> PRP @ADVL>  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+assessoria	 [assessoria] <inst> <HH> <pos-soc> <activity> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+AmBev	 [AmBev] <org> <*> PROP F S @SUBJ> ORG O
+$[ O
+fabricante	 [fabricante] <Hprof> N M/F S @<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+guaraná	 [guaraná] <Bbush> <drink> N M S @P<  O
+Antarctica	 [Antarctica] <brand> <*> <np-close> PROP M S @N<  O
+$] O
+declarou	 [declarar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+não	 [não] ADV @<ADVL  O
+ver	 [ver] <vH> <mv> V INF @ICL-<ACC  O
+problema	 [problema] <ac> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+obra	 [obra] <sem-c> <Lh> <activity> N F S @P<  O
+$. O
+</s>

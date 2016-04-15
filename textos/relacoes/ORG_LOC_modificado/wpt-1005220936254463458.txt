@@ -1,0 +1,27 @@
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+Expotec	 [Expotec] <org> <*> PROP F S @SUBJ>  O
+2003	 [2003] <card> <date> <year> <np-close> NUM M/F P @N<  O
+$, O
+Feira=de=Ciências=e=Cultura	 [Feira=de=Ciências=e=Cultura] <occ> <*> <np-close> PROP F S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Escola=Fortec	 [Cultura=da=Escola=Fortec] <org> <*> <np-close> PROP F S @APP ORG O
+$, O
+reuniu	 [reunir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+mais=de	 [mais=de] <quant> ADV @>A  O
+2000	 [2000] <card> <date> <year> NUM F P @>N  O
+pessoas	 [pessoa] <H> N F P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+unidade	 [unidade] <ac-cat> <Lh> N F S @P<  O
+4	 [4] <card> NUM M/F P @<SC  O
+$, O
+em	 [em] PRP @<ADVL REL
+São=Vicente	 [São=Vicente] <hum> <*> <newlex> PROP M S @P< LOCAL O
+$-- O
+Feira=de=Ciências	 [Feira=de=Ciências] <occ> <*> <np-close> PROP F S @APP  O
+e	 [e] KC @NPHR  O
+Cultura=da=Escola=Fortec	 [Cultura=da=Escola=Fortec] <org> <*> <np-close> PROP F S @APP  O
+$. O
+</s>

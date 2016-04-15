@@ -1,0 +1,9 @@
+$S-1
+Luiz=Carvalho	 [Luiz=Carvalho] <hum> PROP M S @NPHR PES O
+$, O
+fotojornalista	 [fotojornalista] <jh> <np-close> ADJ M/F S @N<PRED B-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Expresso	 [expresso] <prop> <V> N M S @P< ORG O
+$. O
+</s>

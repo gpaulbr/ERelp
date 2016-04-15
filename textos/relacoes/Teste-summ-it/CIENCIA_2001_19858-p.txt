@@ -1,0 +1,37 @@
+$S-1
+Cientistas 	[cientista]   <Hprof> N M/F P @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Centro=de=Estudos=de=Saclay 	[Centro=de=Estudos=de=Saclay] <tit>   PROP M S @P<  ORG O
+$, 
+em 	[em] <sam-> PRP @ADVL>   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+França 	[França] <civ>   PROP F S @P<   O
+$, 
+parecem 	[parecer] <cjt-head> <fmc> <aux> V PR 3P IND VFIN @FS-STA   O
+ter 	[ter] <aux> V INF @ICL-AUX<   O
+encontrado 	[encontrar] <vH> <mv> V PCP @ICL-AUX<   O
+o 	[o] <artd> DET M S @>N   O
+primeiro 	[primeiro] <NUM-ord> ADJ M S @>N   O
+indício 	[indício] <ac> N M S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+Via=Láctea 	[Via=Láctea] <astro>   PROP F S @SUBJ>  PES O
+esteja 	[estar] <vK> <mv> V PR 3S SUBJ VFIN @FS-P<   O
+cercada 	[cercado] ADJ F S @<SC   O
+por 	[por] PRP @<ADVL   O
+um 	[um] <arti> DET M S @>N   O
+verdadeiro 	[verdadeiro] <jh> ADJ M S @>N   O
+campo 	[campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<   O
+minado 	[minar] <np-close> V PCP M S @N<   O
+de 	[de] <np-close> PRP @N<   O
+buracos=negros 	[buraco=negro] <Lstar> N M P @P<   O
+cerca=de 	[cerca=de] ADV @>A   O
+1 	[1] <card> NUM M/F S @<ACC   O
+ao=todo 	[ao=todo] ADV @<ADVL   O
+$, 
+eles 	[eles] PERS M 3P NOM @SUBJ>   O
+estimam 	[estimar] <cjt> <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA   O
+$. 
+</s>

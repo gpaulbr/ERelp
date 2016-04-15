@@ -1,0 +1,47 @@
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+fundação	 [fundação] <act> <part-build> <Labs> <HH> N F S @SUBJ>  O
+$, O
+como	 [como] <com> <adv-rel> PRP @ADVL>  O
+$" O
+Biblioteca=de=Marinha	 [Biblioteca=de=Marinha] <org> <asarg> <*> <*1> <*2> PROP F S @P< ORG O
+$" O
+$, O
+deve-	 [dever] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+se	 [se] <refl> PERS F 3S ACC @<ACC-PASS O
+a	 [a] <sam-> PRP @<PIV REL
+a	 [o] <-sam> <artd> DET F S @>N O
+Rainha=D.=Maria=II	 [Rainha=D.=Maria=II] <hum> <*> PROP F S @P< PES O
+$, O
+por	 [por] PRP @<ADVL  O
+decreto	 [decreto] <sem-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+7	 [7] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Janeiro	 [Janeiro] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1835	 [1835] <card> <date> <year> NUM M/F P @P<  O
+$, O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+de	 [de] PRP @<SC  O
+ínicio	 [ínicio] N M S @P<  O
+integrada	 [integrar] <vH> <mv> V PCP F S @ICL-<SC  O
+em	 [em] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Arsenal=Real=de=Marinha	 [Arsenal=Real=de=Marinha] <inst> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+instalada	 [instalado] <jh> ADJ F S @<SC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+andar	 [andar] <Lh> <ac> <cc> N M S @P<  O
+nobre	 [nobre] <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+respectivo	 [respectivo] ADJ M S @>N  O
+edíficio	 [edíficio] N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ribeira=das=Naus	 [Ribeira=das=Naus] <top> <*> PROP F S @P<  O
+$. O
+</s>

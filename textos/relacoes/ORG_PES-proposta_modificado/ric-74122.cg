@@ -1,0 +1,69 @@
+$S-1
+Em	 [em] PRP @ADVL> O
+1952	 [1952] <card> <year> <date> NUM M/F S @P< O
+chegava	 [chegar] <fmc> <mv> V IMPF 1/3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<SA O
+as	 [o] <-sam> <artd> DET F P @>N O
+bancas	 [banca] <Lh> <furn> <HH> N F P @P< O
+a	 [a] PRP @<ADVL O
+MAD=Magazine	 [MAD=Magazine] <media> PROP M/F S @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+novo	 [novo] <jh> ADJ M S @>N O
+empreendimento	 [empreendimento] <act> <np-close> N M S @APP O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+EC=Comics	 [EC=Comics] <org> PROP F S @P< ORG O
+$, O
+editada	 [editar] <vH> <mv> V PCP F S @ICL-N<PRED REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <artd> <-sam> DET M S @>N REL
+escritor	 [escritor] <Hprof> N M S @P< REL
+e	 [e] <co-prparg> KC @CO REL
+desenhista	 [desenhista] <Hprof> N M/F S @P< REL
+Harvey=Kurtzman	 [Harvey=Kurtzman] <hum> <np-close> PROP M/F S @N< PES O
+$. O
+</s>
+
+$S-2
+O	 [o] <artd> DET M S @>N O
+resultado	 [resultado] <ac> N M S @SUBJ> O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+triste	 [triste] <np-close> ADJ M/F S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+paranÃ³ia	 [paranÃ³ia] <am> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Senador	 [senador] <prop> <Hprof> N M S @P< O
+MacCarthy	 [MacCarthy] <hum> <np-close> PROP M S @N< O 
+e	 [e] <co-postnom> KC @CO O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+chefe	 [chefe] <Htit> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+FBI	 [FBI] <org> PROP M S @P< ORG O
+$, REL
+J=Edgar=Hoover	 [J=Edgar=Hoover] <org> <np-close> PROP M/F S @APP PES O
+$, O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+criaÃ§Ã£o	 [criaÃ§Ã£o] <act> N F S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Comics=Code	 [Comics=Code] <inst> PROP M S @P< O
+$, O
+aquele	 [aquele] <dem> DET M S @>N O
+selinho	 [selinho] <DERS> N M S @<SC O
+encontrado	 [encontrar] <vH> <mv> <np-close> V PCP M S @ICL-N< O 
+em	 [em] PRP @<ADVL O
+todas=as	 [todo=o] <quant> DET F P @>N O
+revistas	 [revista] <sem-r> <act> <occ> N F P @P< O
+comercializadas	 [comercializar] <vH> <mv> <np-close> V PCP F P @ICL-N< O 
+em	 [em] <sam-> PRP @<ADVL O
+os	 [o] <artd> <-sam> DET M P @>N O
+EUA	 [EUA] <civ> PROP M P @P< O
+$. O
+</s>

@@ -1,0 +1,177 @@
+$S-15
+A	 [o] <*> <artd> DET F S @>N  O
+situação	 [situação] <sit> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+estes	 [este] <dem> <-sam> DET M P @>N  O
+dois	 [dois] <card> NUM M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+$" O
+provocou	 [provocar] <*1> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+regresso	 [regresso] <event> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+muito	 [muito] <quant> DET M S @>N  O
+capital	 [capital] <mon> N M S @P<  O
+especulativo	 [especulativo] <nh> <np-close> ADJ M S @N<  O
+a	 [a] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mercado	 [mercado] <*2> <inst> N M S @P<  O
+$" O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <asarg> <Hprof> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ritterbusch=&=Associates	 [Ritterbusch=&=Associates] <org> <*> PROP F S @P< ORG O
+$, O
+Jim=Ritterbusch	 [Jim=Ritterbusch] <hum> <*> <np-long> PROP M S @APP  O
+$, O
+citado	 [citado] <np-close> ADJ M S @N<PRED  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Reuters	 [Reuters] <org> <*> PROP F S @P< LOCAL O
+$. O
+</s>
+
+$S-17
+É	 [é] <foc> <*> ADV @FOC>  O
+também	 [também] ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+Quénia	 [Quénia] <civ> <*> PROP F S @SUBJ>  O
+$, O
+$" O
+ao=lado=de	 [ao=lado=de] <sam-> <*1> PRP @ADVL>  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Nigéria	 [Nigéria] <civ> <*> PROP F S @P<  O
+$, O
+que	 [que] <foc> ADV @<FOC  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>  O
+incendeia	 [incendiar] <clb-fs> <*2> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  O
+$" O
+$, O
+diz	 [dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  O
+Moncef=Kaabi	 [Moncef=Kaabi] <hum> <*> PROP M/F S @<SUBJ  O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Natixis	 [Natixis] <org> <*> PROP F S @P<  O
+$, O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+também	 [também] ADV @>N  O
+a	 [o] <artd> DET F S @>N  O
+Turquia	 [Turquia] <civ> <*> PROP F S @<SC ORG O
+$, O
+com	 [com] <np-close> PRP @N<PRED REL
+as	 [o] <artd> DET F P @>N REL
+operações	 [operação] <act-d> N F P @P< REL
+contra	 [contra] <np-close> PRP @N< REL
+os	 [o] <artd> DET M P @>N REL
+separatistas	 [separatista] <Hideo> N M P @P< REL
+curdos	 [curdo] <nat> <jh> <np-close> ADJ M P @N< REL
+em	 [em] <sam-> <np-long> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Norte	 [norte] <prop> <*> <dir> N M S @P< LOCAL O
+$, O
+justificando	 [justificar] <vH> <mv> <v-quote> V GER @ICL-<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+mercados	 [mercado] <inst> N M P @SUBJ>  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+o	 [o] <asarg> <dem> DET M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+petróleo	 [petróleo] <cm-liq> N M S @P<  O
+$" O
+traduzem	 [traduzir] <*1> <mv> V PR 3P IND VFIN @FS-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+inquietação	 [inquietação] <act> N F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+incerteza	 [incerteza] <am> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+investidores	 [investidor] <*2> <Hprof> N M P @P<  O
+$" O
+$. O
+</s>
+
+$S-23
+Para	 [para] <*> PRP @ADVL>  O
+analistas	 [analista] <Hprof> N M/F P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+Kris=Voorspools	 [Kris=Voorspools] <hum> <asarg> <*> PROP M/F S @P<  O
+$, O
+de	 [de] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Fortis	 [Fortis] <org> <*> PROP F S @P< ORG O
+$, O
+em	 [em] PRP @ADVL> REL
+Bruxelas	 [Bruxelas] <civ> <*> PROP F S @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N  O
+$" O
+preço	 [preço] <*1> <f-q> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+petróleo	 [petróleo] <cm-liq> N M S @P<  O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+continuar	 [continuar] <vH> <aux> V INF @ICL-AUX<  O
+a	 [a] PRP @PRT-AUX<  O
+subir	 [subir] <*2> <mv> V INF @ICL-AUX<  O
+$" O
+$, O
+por	 [por] PRP @<ADVL  O
+se	 [se] <refl> PERS M/F 3S/P DAT @DAT>  O
+estar	 [estar] <vK> <mv> V INF @ICL-P<  O
+perante	 [perante] PRP @<SC  O
+o	 [o] <artd> DET M S @>N  O
+$" O
+simples	 [simples] <*1> ADJ M S @>N  O
+fundamento	 [fundamento] <part-build> <Labs> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+oferta	 [oferta] <act-s> N F S @P<  O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+procura	 [procura] <*2> <activity> N F S @P<  O
+$" O
+$. O
+</s>
+
+$S-24
+Mas	 [mas] <*> KC @NPHR  O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+quem	 [quem] <clb> <clb-fs> <rel> SPEC M/F S @SUBJ>  O
+defenda	 [defender] <vH> <mv> V PR 3S SUBJ VFIN @FS-<ACC  O
+$, O
+embora	 [embora] <sub> ADV @ADVL @<ADVL  O
+em	 [em] PRP @AS<  O
+minoria	 [minoria] <HH> N F S @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+os	 [o] <artd> DET M P @>N  O
+preços	 [preço] <f-q> N M P @SUBJ>  O
+elevados	 [elevado] <nh> <np-close> ADJ M P @N<  O
+podem	 [poder] <aux> <np-close> V PR 3P IND VFIN @FS-N<  O
+levar	 [levar] <mv> V INF @ICL-AUX<  O
+a	 [a] PRP @<PIV  O
+uma	 [um] <arti> DET F S @>N  O
+recessão	 [recessão] <per> N F S @P<  O
+global	 [global] <nh> <np-close> ADJ F S @N<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+opinião	 [opinião] <sem-c> <np-close> N F S @N<PRED  O
+expressa	 [esprimir] <vH> <jh> <mv> <np-close> V PCP F S @ICL-N<  O
+por	 [por] PRP @<PASS  O
+Nauman=Barakat	 [Nauman=Barakat] <hum> <*> PROP M/F S @P<  O
+$, O
+vice-presidente	 [vice-presidente] <Htit> <np-close> N M S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Macquarie=Futures	 [Macquarie=Futures] <hum> <*> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+os	 [o] <-sam> <artd> DET F S @>N REL
+Eua	 [Eua] <hum> <*> PROP F S @P< LOCAL O
+$. O
+</s>

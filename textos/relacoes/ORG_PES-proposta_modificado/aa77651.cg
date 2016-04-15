@@ -1,0 +1,28 @@
+$S-1
+Nuno=Severiano=Teixeira	 [Nuno=Severiano=Teixeira] <hum> PROP M S @SUBJ> O
+visitará	 [visitar] <fmc> <vH> <mv> V FUT 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+contingente	 [contingente] <part> N M S @<ACC O
+português	 [português] <nat> <np-close> ADJ M S @N< O 
+estacionado	 [estacionar] <vH> <mv> <np-close> V PCP M S @ICL-N< O 
+em	 [em] PRP @<ADVL O
+Campo=Warehouse	 [Campo=Warehouse] <top> PROP M S @P< O
+$, O
+composto	 [compor] <mv> V PCP M S @ICL-N<PRED O
+por	 [por] <sam-> PRP @<PASS O
+a	 [o] <artd> <-sam> DET F S @>N O
+22.ª	 [22.ª] <NUM-ord> ADJ F S @>N O
+Companhia=de=Atiradores=Pára-Quedistas	 [Companhia=de=Atiradores=Pára-Qued] <org> <DERS> PROP F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Brigada=de=Reacção=Rápida	 [Brigada=de=Reacção=Rápida] <org> PROP F S @P< O
+e	 [e] <co-acc> KC @CO O
+uma	 [um] <arti> DET F S @>N O
+equipa	 [equipa] <HH> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+Controladores=Aéreos=Avançados	 [Controladores=Aéreos=Avançados] <hum> PROP M/F S @P< PES O
+de	 [de] <sam-> <np-close> PRP @N< REL 
+a	 [o] <artd> <-sam> DET F S @>N REL
+Força=Aérea	 [Força=Aérea] <org> PROP F S @P< ORG O
+$. O
+</s>

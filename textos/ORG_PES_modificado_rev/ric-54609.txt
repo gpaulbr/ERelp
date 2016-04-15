@@ -1,0 +1,37 @@
+$S-2
+Através=da	 [Através=da] <hum> <*> PROP M/F S @SUBJ>  O
+Casa=de=Cinema	 [Casa=de=Cinema] <inst> <*> PROP M S @P< ORG O
+de	 [de] <np-close> PRP @N<  O
+Porto=Alegre	 [Porto=Alegre] <civ> <*> PROP M S @P<  O
+$, O
+esse	 [esse] <dem> DET M S @>N  O
+grupo	 [grupo] <HH> N M S @SUBJ>  O
+produziu	 [produzir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+obras-primas	 [obra-prima] <act-d> N F P @<ACC  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+curta-metragem	 [curta-metragem] <asarg> <sem-w> N M S @P<  O
+Ilha=das=Flores	 [Ilha=das=Flores] <tit> <*> <np-close> PROP M S @N<  O
+e	 [e] KC @NPHR  O
+apresentou	 [apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  REL
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+cineastas	 [cineasta] <Hprof> N M/F P @<ACC REL
+como	 [como] <com> <adv-rel> <np-close> PRP @N< REL
+Jorge=Furtado	 [Jorge=Furtado] <hum> <asarg> <*> PROP M S @P< PES O
+$, O
+considerado	 [considerado] <jh> ADJ M S @<SUBJ  O
+um	 [um] <card> NUM M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+interessantes	 [interessante] <jh> ADJ M P @>N  O
+realizadores	 [realizador] <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+cinema	 [cinema] <inst> N M S @P<  O
+brasileiro	 [brasileiro] <nat> <jh> <np-close> ADJ M S @N<  O
+atual	 [atual] <nh> <np-long> ADJ M S @N<  O
+$. O
+</s>

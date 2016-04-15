@@ -1,0 +1,4 @@
+$S-1
+São=Paulo	 [São=Paulo] <civ> PROP M S @P< LOCAL O
+$( B-REL
+USP	 [uSP] <inst> <np-close> N F S @N<PRED ORG O

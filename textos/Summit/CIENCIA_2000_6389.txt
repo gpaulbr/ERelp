@@ -1,0 +1,279 @@
+$S-1
+A 	[o] <*> <artd> DET F S @>N  
+discussão 	[discussão] <talk> N F S @SUBJ>  
+sobre 	[sobre] <np-close> PRP @N<  
+a 	[o] <artd> DET F S @>N  
+biotecnologia 	[biotecnologia] <domain> N F S @P<  
+nacional 	[nacional] <jh> <np-close> ADJ F S @N<  
+está 	[estar] <predco> <cjt-head> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+enviesada 	[enviesado] <nh> ADJ F S @<SC  
+$, 
+pois 	[pois] <clb> KS @ADVL>  
+está 	[estar] <nosubj> <cjt> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+sendo 	[ser] <clb> <vK> <mv> V GER @ICL-AUX<  
+entendida 	[entendido] <jh> ADJ F S @<SC  
+como 	[como] <com> <adv-rel> PRP @A<  
+sinônimo 	[sinônimo] <asarg> <ac-cat> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+transgenia 	[transgenia] <DERP> <DERS> N F S @P<  
+$. 
+</s>
+
+$S-2
+A 	[o] <*> <artd> DET F S @>N  
+opinião 	[opinião] <sem-c> N F S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<SC  
+o 	[o] <-sam> <artd> DET M S @>N  
+agrônomo 	[agrônomo] <Hprof> N M S @P<  
+Miguel=Guerra 	[Miguel=Guerra] <hum> <*> <np-close> PROP M S @N<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+UFSC 	[UFSC] <inst> <*> PROP F S @P< ORG
+$( 
+Universidade=Federal 	[Universidade=Federal] <inst> <*> <np-close> PROP F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+Santa=Catarina 	[Santa=Catarina] <civ> <*> PROP F S @P< LOCAL
+$) 
+$. 
+</s>
+
+$S-3
+Guerra 	[guerra] <*> <occ> <per> N F S @SUBJ>  
+participou 	[participar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+debate 	[debate] <talk> N M S @P<  
+$"  
+Biotecnologia=para=uma=Agricultura=Sustentável 	[Biotecnologia=para=uma=Agricultura=Sustentável] <tit> <*> <*1> <*2> <np-close> PROP M S @N<  
+$"  
+$, 
+realizado 	[realizar] <vH> <np-close> V PCP M S @N<PRED  
+ontem 	[ontem] ADV @<ADVL  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual 	[Reunião=Anual] <occ> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+SBPC 	[SBPC] <org> <*> PROP F S @P< ORG
+$( 
+Sociedade=Brasileira 	[Sociedade=Brasileira] <org> <*> <np-close> PROP F S @N<PRED  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst> <*> PROP M S @P< LOCAL
+$) 
+$, 
+sobre 	[sobre] PRP @<PIV @<ADVL  
+as 	[o] <artd> DET F P @>N  
+biotecnologias 	[biotecnologia] <domain> N F P @P<  
+apropriadas 	[apropriado] <nh> <np-close> ADJ F P @N<  
+a 	[a] <sam-> PRP @A<  
+o 	[o] <-sam> <artd> DET M S @>N  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$. 
+</s>
+
+$S-4
+Guerra 	[guerra] <*> <occ> <per> N F S @SUBJ>  
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+micropropagação 	[micropropagação] <act> <DERP> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+vegetais 	[vegetal] <cjt-head> <nh> ADJ M/F P @P<  
+$( 
+produção 	[produção] <cjt> <act> <am> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+mudas 	[mudo] <jh> ADJ F P @P<  
+em 	[em] PRP @<ADVL  
+laboratório 	[laboratório] <inst> N M S @P<  
+$, 
+feita 	[feita] <act> <temp> <np-close> N F S @N<PRED  
+para 	[para] PRP @<ADVL  
+evitar 	[evitar] <cjt-head> <vH> <mv> V INF @ICL-P<  
+doenças 	[doença] <clb> <sick> N F P @SUBJ>  
+e 	[e] KC @NPHR  
+selecionar 	[selecionar] <cjt> <vH> <mv> V INF 0/1/3S @ICL-P<  
+vegetais 	[vegetal] <Btree> N M P @<ACC  
+saudáveis 	[saudável] <nh> <np-close> ADJ M P @N<  
+$) 
+como 	[como] <prd> <adv-rel> PRP @<OC  
+exemplo 	[exemplo] <asarg> <ac> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+biotecnologia 	[biotecnologia] <domain> N F S @P<  
+de 	[de] <np-long> PRP @N<  
+baixo 	[baixo] ADJ M S @>N  
+custo 	[custo] <mon> N M S @P<  
+$. 
+</s>
+
+$S-5
+Com 	[com] <*> PRP @ADVL> @PRED>  
+ela 	[ela] PERS F 3S NOM/PIV @P<  
+$, 
+aumentou- 	[aumentar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+se 	[se] <cjt-head> PERS M/F 3S/P ACC @<SUBJ  
+a 	[o] <artd> DET F S @>N  
+produção 	[produção] <cjt> <act> <am> N F S @<SUBJ  
+de 	[de] <np-close> PRP @N<  
+moranguinho 	[moranguinho] <DERS> N M S @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+sul 	[sul] <dir> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$, 
+de 	[de] <cjt-head> PRP @<OA  
+3,2 	[3,2] <card> NUM M P @>N  
+kg 	[kg] N M P @P<  
+para 	[para] <cjt> PRP @<OA  
+60 	[60] <card> NUM M P @>N  
+kg 	[kg] N M P @P<  
+por 	[por] <np-close> PRP @N<  
+hectare 	[hectare] <unit> N M S @P<  
+$. 
+</s>
+
+$S-6
+Para 	[para] <*> PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+agrônomo 	[agrônomo] <Hprof> N M S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+Brasil 	[Brasil] <org> <newlex> <*> PROP M S @SUBJ> 	[Brasil] <*> PROP M S @SUBJ>  
+deve 	[dever] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+buscar 	[buscar] <vH> <mv> V INF @ICL-AUX<  
+o 	[o] <artd> DET M S @>N  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+transgenias 	[transgenia] <DERP> <DERS> N F P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  
+tentem 	[tentar] <vH> <mv> <np-close> V PR 3P SUBJ VFIN @FS-N<  
+melhorar 	[melhorar] <mv> V INF @ICL-<ACC  
+as 	[o] <artd> DET F P @>N  
+condições 	[condição] <sem-c> <sit> <state> N F P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+agricultura 	[agricultura] <domain> N F S @P<  
+local 	[local] <nh> <np-close> ADJ F S @N<  
+$, 
+como 	[como] <com> <adv-rel> PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+cultivo 	[cultivo] <asarg> <activity> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+plantas 	[planta] <Btree> <an> <pict> N F P @P<  
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+capacidade 	[capacidade] <am> <percep-f> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+captar 	[captar] <vH> <mv> V INF @ICL-P<  
+certos 	[certos] <quant> DET M P @>N  
+elementos 	[elemento] <ac> <H> N M P @<ACC  
+presentes 	[presente] <jh> <np-close> ADJ M P @N<  
+em 	[em] <sam-> PRP @A<  
+a 	[o] <-sam> <artd> DET F S @>N  
+terra 	[terra] <cm> <Ltop> <BB> <Lstar> N F S @P<  
+$. 
+</s>
+
+$S-7
+O 	[o] <*> <artd> DET M S @>N  
+presidente 	[presidente] <Hprof> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Embrapa 	[Embrapa] <org> <*> PROP F S @P<  
+$( 
+Empresa=Brasileira=de=Pesquisa=Agropecuária 	[Empresa=Brasileira=de=Pesquisa=Agropecuária] <org> <*> <np-close> PROP F S @N<PRED  
+$) 
+$, 
+Alberto=Portugal 	[Alberto=Portugal] <org> <*> <np-close> PROP M S @APP  
+$, 
+salientou 	[salientar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+empresa 	[empresa] <HH> N F S @SUBJ>  
+busca 	[buscar] <vH> <mv> V PR 3S IND VFIN @FS-<ACC  
+soluções 	[solução] <sem-c> <cm-liq> N F P @<ACC  
+para 	[para] <np-close> PRP @N<  
+os 	[o] <artd> DET M P @>N  
+problemas 	[problema] <ac> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+agricultura 	[agricultura] <domain> N F S @P<  
+nacional 	[nacional] <jh> <np-close> ADJ F S @N<  
+$. 
+</s>
+
+$S-8
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+exemplo 	[exemplo] <ac> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+pesquisas 	[pesquisa] <occ> <act-d> N F P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+$, 
+por=meio=de 	[por=meio=de] PRP @ADVL>  
+engenharia=genética 	[engenharia=genética] <domain> N F S @P<  
+$, 
+buscam 	[buscar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+obter 	[obter] <vH> <mv> V INF @ICL-<ACC  
+mamão 	[mamão] <fruit> <H> N M S @<ACC  
+livre 	[livre] <jh> <np-close> ADJ M S @N<  
+de 	[de] PRP @A<  
+vírus 	[vírus] <cjt-head> <Acell> N M S/P @P<  
+e 	[e] <cjt-head> KC @NPHR  
+feijão 	[feijão] <cjt> <fruit> N M S @P<  
+também 	[também] ADV @>A  
+resistente 	[resistente] <nh> <np-close> ADJ M/F S @N<  
+a 	[a] PRP @<ADVL  
+vírus 	[vírus] <cjt-head> <Acell> N M S/P @P<  
+$, 
+culturas 	[cultura] <cjt> <ac> <activity> N F P @P< @<ACC  
+de 	[de] <np-close> PRP @N<  
+interesse 	[interesse] <am> N M S @P<  
+para 	[para] <np-close> PRP @N<  
+exportação 	[exportação] <cjt-head> <act> N F S @P<  
+e 	[e] <cjt> KC @NPHR  
+consumo 	[consumo] <cjt> <act-d> N M S @P<  
+interno 	[interno] <nh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-9
+Portugal 	[Portugal] <civ> <*> PROP M S @SUBJ> 	[Portugal] <newlex> <*> PROP M S @SUBJ>  
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <artd> DET M P @>N  
+agronegócios 	[agronegócio] <act-d> <DERP> N M P @SUBJ>  
+correspondem 	[corresponder] <mv> V PR 3P IND VFIN @FS-<ACC  
+a 	[a] PRP @<PIV  
+25 	[25] <card> NUM M P @>N  
+$% 	[%] N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+PIB 	[PIB] <tit> <*> PROP M S @P<  
+brasileiro 	[brasileiro] <nat> <np-close> ADJ M S @N<  
+e 	[e] KC @NPHR  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+biotecnologia 	[biotecnologia] <domain> N F S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+fundamental 	[fundamental] <nh> ADJ F S @<SC  
+para 	[para] PRP @<ADVL  
+manter 	[manter] <vH> <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+competitividade 	[competitividade] <f-q> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+agricultura 	[agricultura] <domain> N F S @P<  
+$. 
+</s>
+
+$S-10

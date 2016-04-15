@@ -1,0 +1,115 @@
+$S-2
+O	 [o] <*> <artd> DET M S @>N  O
+DCC- [DCC-] <inst> <*> PROP M P @SUBJ>  O
+Departamento=de=Cultura=Científica=doCentro=Acadêmico=Pereira=Barretto	 [Departamento=de=Cultura=Científica=doCentro=Acadêmico=Pereira=Barretto] <org> <*> PROP F S @P< ORG O
+$( O
+DCC/CAPB	 [dCC/CAPB] <*> <np-close> N M/F S/P @N<PRED  O
+$) O
+$, O
+órgão	 [órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> <np-close> N M S @N<PRED REL
+responsável	 [responsável] <jh> <np-close> ADJ M S @N< REL
+por	 [por] <sam-> PRP @A< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+representação	 [representação] <sem-s> <activity> <HH> N F S @P< REL
+e	 [e] KC @NPHR REL
+encaminhamento	 [encaminhamento] <act> N M S @P< REL
+científico	 [científico] <nh> <np-close> ADJ M S @N< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+os	 [o] <-sam> <artd> DET M P @>N REL
+alunos	 [aluno] <Hprof> N M P @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+UNIFESP/EPM	 [UNIFESP/EPM] <org> <*> PROP F S @P< ORG O
+$, O
+fundado	 [fundado] <nh> <np-close> ADJ M S @N<PRED  O
+em	 [em] PRP @ADVL>  O
+1937	 [1937] <card> <date> <year> NUM M/F S @P<  O
+$, O
+atua	 [atuar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+junto	 [junto] ADV @<ADVL  O
+a	 [a] <sam-> PRP @<ACC  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+alunos	 [aluno] <Hprof> N M P @P<  O
+promovendo	 [promover] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+vários	 [vários] <quant> DET M P @>N  O
+cursos	 [curso] <occ> <per> <dir> N M P @<ACC  O
+extracurriculares	 [extracurriculares] <nh> <DERP> <np-close> ADJ M P @N<  O
+$, O
+palestras	 [palestra] <talk> <sem-s> N F P @<ACC  O
+$, O
+conferências	 [conferência] <occ> N F P @<ACC  O
+e	 [e] KC @NPHR  O
+discussões	 [discussão] <talk> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+interesse	 [interesse] <am> N M S @P<  O
+a	 [a] <sam-> PRP @<PIV @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+área	 [área] <L> <Lh> N F S @P<  O
+médica	 [médico] <nh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-4
+DCC	 [dCC] <*> N M/F S/P @SUBJ> ORG O
+$-- O
+Como	 [como] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  O
+começou	 [começar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-ADVL> @FS-N<  O
+Os	 [o] <*> <artd> DET M P @>N  O
+alunos	 [aluno] <Hprof> N M P @<ACC  O
+sempre	 [sempre] ADV @ADVL>  O
+estiveram	 [estar] <vK> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+envolvidos	 [envolvido] <jh> ADJ M P @<SC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+estruturação	 [estruturação] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Escola=Paulista=de=Medicina	 [Escola=Paulista=de=Medicina] <inst> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-8
+O	 [o] <*> <artd> DET M S @>N  O
+DCC/CAPB	 [dCC/CAPB] <prop> <*> N M S @SUBJ> ORG O
+iniciou	 [iniciar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+seus	 [seu] <si> <poss 3S> DET M P @>N  O
+trabalhos	 [trabalho] <act-d> <am> N M P @<ACC  O
+coordenando	 [coordenar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+atividades	 [atividade] <act-d> <activity> N F P @<ACC  O
+extracurriculares	 [extracurriculares] <nh> <DERP> <np-close> ADJ F P @N<  O
+como	 [como] <com> <adv-rel> <np-long> PRP @N<  O
+Cursos	 [Cursos] <hum> <asarg> <*> PROP M/F S @P<  O
+$, O
+Congresso=Acadêmico	 [Congresso=Acadêmico] <occ> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+instituindo	 [instituir] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+Prêmios=Científicos	 [Prêmios=Científicos] <org> <*> PROP M/F S @<ACC  O
+$, O
+como	 [como] <com> <adv-rel> PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Prêmio=Pereira=Barreto	 [Prêmio=Pereira=Barreto] <inst> <asarg> <*> PROP M S @P<  O
+$, O
+e	 [e] KC @NPHR  O
+organizando	 [organizar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+revista	 [revista] <act> <sem-r> <occ> N F S @<ACC  O
+científica	 [científico] <nh> <np-close> ADJ F S @N<  O
+voltada	 [voltar] <mv> <np-close> V PCP F S @ICL-N<  O
+para	 [para] PRP @<ADVS  O
+a	 [o] <artd> DET F S @>N  O
+divulgação	 [divulgação] <activity> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+trabalhos	 [trabalho] <act-d> <am> N M P @P<  O
+produzidos	 [produzir] <mv> <np-close> V PCP M P @ICL-N<  O
+por	 [por] PRP @<PASS  O
+alunos	 [aluno] <Hprof> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+escola	 [escola] <inst> N F S @P<  O
+e	 [e] KC @NPHR  O
+por	 [por] PRP @<ADVL  O
+internos	 [interno] <n> <nh> ADJ M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Hospital=São=Paulo	 [Hospital=São=Paulo] <inst> <*> PROP M S @P< ORG O
+$. O
+</s>

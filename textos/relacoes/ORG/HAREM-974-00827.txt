@@ -1,0 +1,28 @@
+$S-1
+De	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Reportagem=Local	 [Da=Reportagem=Local] <hum> <*> PROP F S @SUBJ> ORG  O
+uma	 [um] <arti> DET F S @>N  O
+boa	 [bom] <jh> ADJ F S @>N  O
+opção	 [opção] <sem-c> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+programas	 [programa] <sem-c> <cc-r> N M P @P<  O
+para	 [para] <clb> PRP @ADVL>  O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P<  O
+tem	 [ter] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+drive	 [drive] <tool> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+CD-ROM	 [cD-ROM] <prop> <*> N M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+computador	 [computador] <tool> N M S @P<  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+linha	 [linha] <geom-line> <cord> <Lpath> N F S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+fotos	 [foto] <pict> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Corel	 [Corel] <org> <*> PROP M S @P< ORG O
+$. O
+</s>

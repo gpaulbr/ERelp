@@ -1,0 +1,42 @@
+$S-7
+O	 [o] <clb> <*> <artd> DET M S @>N  O
+facto	 [facto] <ac> <cloH> <AAdom> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Capa	 [Capa] <hum> <clb> <*> PROP M/F S @SUBJ> PES O
+viajar	 [viajar] <vH> <mv> V INF 3S @ICL-P<  O
+então	 [então] <kc> ADV @<ADVL  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+namorada	 [namorada] <Hfam> N F S @P<  O
+Gerda=Taro	 [Gerda=Taro] <hum> <*> <np-close> PROP F S @N<  O
+$( O
+morta	 [morto] <jh> <np-close> ADJ F S @N<PRED  O
+pouco	 [pouco] <quant> ADV @>A  O
+depois	 [depois] ADV @<ADVL  O
+$) O
+e	 [e] KC @NPHR  O
+de	 [de] <np-close> PRP @N<PRED  O
+enviar	 [enviar] <vH> <mv> V INF @ICL-P<  O
+para	 [para] PRP @<OA  O
+Paris	 [Paris] <civ> <*> PROP M S @P< LOCAL O
+os	 [o] <artd> DET M P @>N  O
+rolos	 [rolo] <amount> <tool> <event> <Aorn> N M P @<ACC  O
+todos	 [todos] <quant> <det> ADV @>A  O
+misturados	 [misturar] <vH> <np-close> V PCP M P @N<  O
+sem	 [sem] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+designação	 [designação] <act> N F S @P<  O
+a	 [a] <clb> PRP @ADVL>  O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P<  O
+pertencia	 [pertencer] <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+cada=um	 [cada=um] SPEC M/F S @<OC  O
+$, O
+ainda	 [ainda] ADV @ADVL>  O
+lança	 [lançar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+mais	 [muito] <quant> <KOMP> DET F S @>N  O
+confusão	 [confusão] <sit> <act-d> N F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+história	 [história] <per> <domain> <sem-r> N F S @P<  O
+$. O
+</s>

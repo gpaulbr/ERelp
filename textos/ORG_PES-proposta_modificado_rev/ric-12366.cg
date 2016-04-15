@@ -1,0 +1,66 @@
+$S-1
+correlações	 [correlação] <ac> N F P @SUBJ> O
+entre	 [entre] <np-close> PRP @N< O
+espécies	 [espécie] <meta> <A> N F P @P< O
+diferentes	 [diferente] <nh> <np-close> ADJ F P @N< O 
+$, O
+características	 [característica] <ac> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+paisagem	 [paisagem] <Ltop> N F S @P< O
+e	 [e] <co-prparg> KC @CO O
+outros	 [outro] <KOMP> <diff> DET M P @>N O
+fatores	 [fator] <ac> <Hprof> N M P @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+não	 [não] ADV @ADVL> O
+poderiam	 [poder] <aux> <np-close> V COND 3P VFIN @FS-N< O 
+ser	 [ser] <aux> V INF @ICL-AUX< O
+descobertos	 [descobrir] <vH> <mv> V PCP M P @ICL-AUX< O
+de	 [de] PRP @<ADVL O
+outra	 [outro] <KOMP> <diff> DET F S @>N O
+maneira	 [maneira] <ac> N F S @P< O
+$" O
+$, O
+afirma	 [afirmar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+Jason=Knight	 [Jason=Knight] <hum> PROP M S @<SUBJ PES O
+$, O
+instrutor	 [instrutor] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N O
+Wilderness=Awareness=School	 [Wilderness=Awareness=School] <org> PROP F S @P< ORG O
+em	 [em] PRP @<ADVL O
+Duvall	 [Duvall] <civ> PROP M S @P< O
+$, O
+Washington	 [Washington] <hum> <np-close> PROP M/F S @APP O 
+$. O
+</s>
+
+$S-2
+No=entanto	 [no=entanto] <kc> ADV @ADVL> O
+$, O
+Christina=Eisenberg	 [Christina=Eisenberg] <hum> PROP F S @SUBJ> PES O
+$, O
+uma	 [um] <arti> DET F S @>N O
+bióloga	 [bióloga] <Hprof> <np-close> N F S @N<PRED O 
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+estuda	 [estudar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+os	 [o] <artd> DET M P @>N O
+lobos	 [lobo] <Adom> <an> N M P @<ACC O
+e	 [e] <co-fin> KC @CO O
+trabalha	 [trabalhar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA REL
+para	 [para] PRP @<ADVL REL
+o	 [o] <artd> DET M S @>N O
+Serviço=Americano=de=Vida=Selvagem=e=Aquática	 [Serviço=Americano=de=Vida=Selvagem=e=Aquática] <inst> PROP M S @P< ORG O
+conta	 [contar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+que	 [que] <clb> <clb-fs> KS @SUB O
+parou	 [parar] <aux> V PS 3S IND VFIN @FS-<ACC O
+de	 [de] PRP @PRT-AUX< O
+usar	 [usar] <vH> <mv> V INF @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+sistema	 [sistema] <ac> N M S @<ACC O
+porque	 [porque] <clb> <clb-fs> KS @SUB O
+ele	 [ele] PERS M 3S NOM @SUBJ> O
+travava	 [travar] <mv> V IMPF 3S IND VFIN @FS-<ADVL O
+inesperadamente	 [inesperadamente] ADV @<ADVL O
+$. O
+</s>

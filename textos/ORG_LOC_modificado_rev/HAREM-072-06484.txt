@@ -1,0 +1,48 @@
+$S-4
+Retorna	 [retornar] <*> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [a] <sam-> PRP @<SA  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Estados=Unidos	 [Estados=Unidos] <civ> <*> PROP M P @P< LOCAL O
+onde	 [onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+está	 [estar] <aux> <np-close> V PR 3S IND VFIN @FS-N<  O
+morando	 [morar] <mv> V GER @ICL-AUX<  O
+$, O
+para	 [para] PRP @<ADVL  O
+fazer	 [fazer] <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+campanha	 [campanha] <activity> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Gap	 [Gap] <org> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-19
+O	 [o] <*> <artd> DET M S @>N  O
+famoso	 [famoso] <jh> ADJ M S @>N  O
+cabeleireiro	 [cabeleireiro] <Hprof> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+São=Paulo	 [São=Paulo] <hum> <*> <newlex> PROP M S @P< LOCAL O
+continua	 [continuar] <vH> <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+vindo	 [vir] <clb> <mv> V GER @ICL-AUX<  O
+todas=as	 [todo=o] <quant> DET F P @>N  O
+segundas-feiras	 [segunda-feira] <temp> N F P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+salão	 [salão] <Lh> N M S @P<  O
+de	 [de] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Cia	 [ciar] <*> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA ORG O
+para	 [para] PRP @<ADVL  O
+cuidar	 [cuidar] <vH> <mv> V INF @ICL-P<  O
+de	 [de] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+visual	 [visual] <n> <nh> ADJ M S @P<  O
+de	 [de] PRP @<ADVL  O
+quem	 [quem] <clb> <clb-fs> <rel> SPEC M/F S @SUBJ>  O
+está	 [estar] <mv> V PR 3S IND VFIN @FS-P<  O
+em	 [em] <sam-> PRP @<SA  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+moda	 [moda] <ism> N F S @P<  O
+$. O
+</s>

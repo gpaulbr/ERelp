@@ -1,0 +1,499 @@
+$S-6
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ> ORG O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+já	 [já] ADV @<ADVL REL
+o	 [o] <artd> DET M S @>N REL
+acordo	 [acordo] <sem-c> N M S @<ACC REL
+em	 [em] <sam-> <np-close> PRP @N< REL
+esse	 [esse] <-sam> <dem> DET M S @>N REL
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P< REL
+com	 [com] PRP @<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-7
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-8
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC ORG O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-9
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P< ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-10
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-11
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-12
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P< ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-13
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-14
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC ORG O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC  O
+$. O
+</s>
+
+$S-15
+E	 [e] <*> KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+ICANN	 [ICANN] <inst> <*> PROP M S @SUBJ>  O
+assincou	 [assincar] <DERS> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+já	 [já] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+esse	 [esse] <-sam> <dem> DET M S @>N  O
+sentido	 [sentido] <f-an> <am> <ac> <dir> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+mTLD=Top=Level=Domain	 [mTLD=Top=Level=Domain] <tit> <*> <np-close> PROP F S @P< ORG O
+$,  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+congrega	 [congregar] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+GSM=Association	 [GSM=Association] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Microsoft	 [Microsoft] <org> <*> PROP F S @<ACC  O
+$, O
+fabricantes	 [fabricante] <Hprof> <np-close> N M/F P @APP  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Nokia	 [Nokia] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Samsung	 [Samsung] <brand> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Ericsson	 [Ericsson] <hum> <asarg> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+operadores	 [operador] <asarg> <Hprof> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Vodafone	 [Vodafone] <org> <asarg> <*> PROP F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Telefónica=Móviles	 [Telefónica=Móviles] <org> <*> PROP F S @<ACC  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Hutchison=3	 [Hutchison=3] <org> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+T-Mobile	 [T-Mobile] <org> <*> PROP F S @<ACC ORG O
+$. O
+</s>

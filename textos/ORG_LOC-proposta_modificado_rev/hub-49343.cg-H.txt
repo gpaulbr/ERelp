@@ -1,0 +1,46 @@
+$S-1
+Índia	 [Índia] <civ> PROP F S @P< LOCAL O
+com	 [com] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+primo	 [primo] <Hfam> N M S @P< O
+Francisco=de=Albuquerque	 [Francisco=de=Albuquerque] <hum> <np-close> PROP M S @N< O 
+$, O
+comandando	 [comandar] <clb> <vH> <mv> V GER @ICL-<ADVL O
+cada=qual	 [cada=qual] SPEC M/F S @<ACC O
+três	 [três] <card> NUM F P @>N O
+naus	 [nau] <Vwater> N F P @PRED> O
+$, O
+tendo	 [ter] <clb> <aux> V GER @ICL-<ADVL O
+participado	 [participar] <vH> <mv> V PCP @ICL-AUX< O
+em	 [em] PRP @<PIV O
+várias	 [várias] <quant> DET F P @>N O
+batalhas	 [batalha] <occ> N F P @P< O
+$, O
+erguido	 [erguer] <jh> <vH> V PCP M S @<ACC O
+a	 [o] <artd> DET F S @>N O
+fortaleza	 [fortaleza] <am> <build> N F S @<ACC O
+em	 [em] <np-close> PRP @N< O
+Cochim	 [Cochim] <civ> PROP M S @P< O
+e	 [e] <co-prparg> KC @CO O
+estabelecido	 [estabelecer] <vH> V PCP M S @>N O
+relações	 [relação] <sem-r> <ac> N F P @P< REL
+comerciais	 [comercial] <nh> <np-close> ADJ F P @N< REL
+com	 [com] <np-long> PRP @N< REL
+Coulão	 [Coulão] <hum> PROP M/F S @P< ORG O
+
+$S-2
+Índia	 [Índia] <civ> PROP F S @P< LOCAL O
+dedicou-	 [dedicar] <hyfen> <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS M/F 3S ACC @<ACC O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+administração	 [administração] <HH> <activity> N F S @P< O
+e	 [e] <co-prparg> KC @CO O
+diplomacia	 [diplomacia] <activity> N F S @P< O
+$, O
+a	 [a] PRP @<ADVL O
+concluir	 [concluir] <vH> <mv> V INF @ICL-P< O
+a	 [o] <artd> DET F S @>N O
+paz	 [paz] <sit> N F S @<ACC O
+com	 [com] PRP @<ADVL REL
+Calecute	 [Calecute] <hum> PROP M/F S @P< ORG O

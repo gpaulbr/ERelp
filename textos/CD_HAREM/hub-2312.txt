@@ -1,0 +1,53 @@
+
+    
+      <EM ID="hub-2312-62" CATEG="COISA" TIPO="CLASSE"  >Sistema de Posicionamento Global</EM>
+    
+    
+      O
+      <EM ID="hub-2312-63" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="ident">Sistema de Posicionamento Global</EM>
+      , vulgarmente conhecido por
+      <EM ID="hub-2312-65" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-2312-62 hub-2312-70" TIPOREL="nome_de_ident nome_de_ident">GPS</EM>
+      (do acrónimo do inglês
+      <EM ID="hub-2312-66" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-2312-65" TIPOREL="ident">Global Positioning System</EM>
+      ), é um sistema de posicionamento por satélite americano,
+      <EM ID="hub-2312-67" CATEG="TEMPO" TIPO="FREQUENCIA"  >por vezes</EM>
+      incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da
+      <EM ID="hub-2312-69" CATEG="LOCAL" TIPO="FISICO"  >Terra</EM>
+      ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o
+      <EM ID="hub-2312-70" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="ident">GPS</EM>
+      americano e o
+      <EM ID="hub-2312-71" CATEG="COISA" TIPO="CLASSE"  >Glonass</EM>
+      russo; também existem mais dois sistemas em implantação; o
+      <EM ID="hub-2312-72" CATEG="COISA" TIPO="CLASSE"  >Galileo</EM>
+      europeu e o
+      <EM ID="hub-2312-73" CATEG="COISA" TIPO="CLASSE"  >Compass</EM>
+      chinês.
+    
+    
+      O sistema
+      <EM ID="hub-2312-74" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="ident">GPS</EM>
+      foi criado e é controlado pelo
+      
+        <EM ID="hub-2312-76" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-2312-62" TIPOREL="produtor_de">Departamento de Defesa dos Estados Unidos da América</EM>
+        
+      ,
+      <EM ID="hub-2312-79" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-2312-76 hub-2312-76-aa" TIPOREL="ident ident">DoD</EM>
+      , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O
+      <EM ID="hub-2312-80" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-2312-79" TIPOREL="ident">DoD</EM>
+      fornece dois tipos de serviços
+      <EM ID="hub-2312-81" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="ident">GPS</EM>
+      :
+      <EM ID="hub-2312-82" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="incluido">Standard</EM>
+      e
+      <EM ID="hub-2312-83" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="incluido">Precision</EM>
+      . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da
+      <EM ID="hub-2312-86" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Zona Equatorial</EM>
+      , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor
+      <EM ID="hub-2312-87" CATEG="COISA" TIPO="CLASSE" COREL="hub-2312-62" TIPOREL="ident">GPS</EM>
+      (
+      <EM ID="hub-2312-88" CATEG="COISA" TIPO="CLASSE"  >GPSR</EM>
+      ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema
+      <EM ID="hub-2312-89" CATEG="COISA" TIPO="CLASSE"  >WGS84</EM>
+      .
+    
+  

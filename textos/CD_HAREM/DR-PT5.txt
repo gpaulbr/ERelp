@@ -1,0 +1,87 @@
+
+    
+     <EM ID="DR-PT5-1" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >MINISTÉRIOS DO AMBIENTE, DO ORDENAMENTO DO TERRITÓRIO E DO DESENVOLVIMENTO REGIONAL</EM>
+      E
+      <EM ID="DR-PT5-2" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS</EM>
+      .
+    
+    
+      <EM ID="DR-PT5-3" CATEG="OBRA" TIPO="PLANO"  >Portaria n.º 1/2008</EM>
+      <EM ID="DR-PT5-4" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2 de Janeiro</EM>
+    
+    
+      Com fundamento no disposto na
+       alínea a) do artigo 40.º
+      e no
+      n.º 1 do artigo 118.º
+      do
+      <EM ID="DR-PT5-5" CATEG="OBRA" TIPO="PLANO"  >Decreto-Lei n.º 202/2004</EM>
+      ,
+      <EM ID="DR-PT5-6" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 18 de Agosto</EM>
+      , com as alterações introduzidas pelo
+      <EM ID="DR-PT5-7" CATEG="OBRA" TIPO="PLANO"  >Decreto-Lei n.º 201/2005</EM>
+      ,
+      <EM ID="DR-PT5-8" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 24 de Novembro</EM>
+      ;
+    
+    
+      Ouvido o
+      
+        <EM ID="DR-PT5-15" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Conselho Cinegético Municipal de Montemor-o-Novo</EM>
+        
+      :
+    
+    
+      Manda o
+      <EM ID="DR-PT5-18" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Governo</EM>
+      , pelos
+      <EM ID="DR-PT5-20" CATEG="PESSOA" TIPO="CARGO" COREL="DR-PT5-1" TIPOREL="vinculo_inst">Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional</EM>
+      e
+      <EM ID="DR-PT5-21" CATEG="PESSOA" TIPO="CARGO" COREL="DR-PT5-2" TIPOREL="vinculo_inst">da Agricultura, do Desenvolvimento Rural e das Pescas</EM>
+      , o seguinte:
+    
+    
+      1.º Pela presente portaria é concessionada,
+      <EM ID="DR-PT5-120" CATEG="TEMPO" TIPO="DURACAO"  >pelo período de 12 anos</EM> 
+      , à
+      <EM ID="DR-PT5-23" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Associação de Caçadores da Ajuda</EM> 
+      , com o número de identificação fiscal 502302569 e sede na
+      <EM ID="DR-PT5-24" CATEG="LOCAL" TIPO="HUMANO" COREL="DR-PT5-16" TIPOREL="incluido">Rua de D. Vasco</EM>
+      , 7, 7050
+      <EM ID="DR-PT5-25" CATEG="LOCAL" TIPO="HUMANO" COREL="DR-PT5-16" TIPOREL="inclui">Montemor-o-Novo</EM>
+      , a zona de caça associativa da
+      <EM ID="DR-PT5-26" CATEG="LOCAL" TIPO="HUMANO" COREL="DR-PT5-16" TIPOREL="incluido">Herdade da Casa Branca</EM>
+      e outras (
+      processo n.º 4799-DGRF
+      ), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de
+      <EM ID="DR-PT5-28" CATEG="LOCAL" TIPO="HUMANO"  >Cabrela</EM>
+      , município de
+      <EM ID="DR-PT5-29" CATEG="LOCAL" TIPO="HUMANO" COREL="DR-PT5-25 DR-PT5-28" TIPOREL="ident inclui">Montemor-o-Novo</EM>
+      , com a área de
+      <EM ID="DR-PT5-30" CATEG="VALOR" TIPO="QUANTIDADE"  >545 ha</EM>
+      .
+    
+    
+      2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de
+      <EM ID="DR-PT5-31" CATEG="VALOR" TIPO="QUANTIDADE"  >10 %</EM>
+      da área total da zona de caça.
+    
+    3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+    
+      Pelo
+      <EM ID="DR-PT5-32" CATEG="PESSOA" TIPO="CARGO" COREL="DR-PT5-20" TIPOREL="ident">Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional</EM>
+      ,
+      <EM ID="DR-PT5-33" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="DR-PT5-20" TIPOREL="ident">Humberto Delgado Ubach Chaves Rosa</EM>
+      ,
+      <EM ID="DR-PT5-34" CATEG="PESSOA" TIPO="CARGO" COREL="DR-PT5-20" TIPOREL="ident">Secretário de Estado do Ambiente</EM>
+      ,
+      <EM ID="DR-PT5-35" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 23 de Novembro de 2007</EM>
+      . --- O
+      <EM ID="DR-PT5-36" CATEG="PESSOA" TIPO="CARGO" COREL="DR-PT5-21" TIPOREL="ident">Ministro da Agricultura, do Desenvolvimento Rural e das Pescas</EM> 
+      ,
+      <EM ID="DR-PT5-37" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="DR-PT5-21" TIPOREL="ident">Jaime de Jesus Lopes Silva</EM>
+      ,
+      <EM ID="DR-PT5-38" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 30 de Novembro de 2007</EM>
+      .
+    
+  

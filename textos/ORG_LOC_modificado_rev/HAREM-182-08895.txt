@@ -1,0 +1,54 @@
+$S-3
+Depois	 [depois] <*> ADV @ADVL>  O
+de	 [de] PRP @A<  O
+muito	 [muito] <quant> DET M S @>N  O
+esforço	 [esforço] <act-d> <am> N M S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+doutor	 [doutor] <Htit> N M S @SUBJ>  O
+faz	 [fazer] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+regressão	 [regressão] <process> N F S @<ACC  O
+em	 [em] PRP @<ADVL  O
+Maçaranduba	 [Maçaranduba] <hum> <*> PROP M S @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+resolve	 [resolver] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+crise	 [crise] <sit> N F S @<ACC  O
+existencial	 [existencial] <nh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+volta	 [volta] <act-d> <unit> N F S @<ACC  O
+a	 [a] <np-close> PRP @N<  O
+ter	 [ter] <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+velha	 [velho] ADJ F S @>N  O
+agressividade	 [agressividade] <am> N F S @<ACC  O
+Mudanças	 [mudança] <prop> <*> <event> N F P @PRED>  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Megatom	 [Megatom] <inst> <*> PROP M S @P< LOCAL O
+O	 [o] <*> <artd> DET M S @>N  O
+diretor	 [diretor] <Hprof> N M S @SUBJ>  O
+Aloysio=Legey	 [Aloysio=Legey] <hum> <*> <np-close> PROP M S @N<  O
+deixou	 [deixar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+comando	 [comando] <act-s> <activity> <HH> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Megatom	 [Megatom] <inst> <*> PROP M S @P<  O
+para	 [para] PRP @<ADVL  O
+cuidar	 [cuidar] <vH> <mv> V INF @ICL-P<  O
+de	 [de] <sam-> PRP @<PIV  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+especiais	 [especial] <n> <nh> ADJ M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+fim	 [fim] <temp> <event> <sem-c> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+ano	 [ano] <dur> <temp> <per> <unit> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Globo	 [Globo] <media> <newlex> <*> PROP F S @P< ORG O
+$. O
+</s>

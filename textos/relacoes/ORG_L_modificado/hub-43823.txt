@@ -1,0 +1,98 @@
+$S-31
+É	 [é] <foc> <*> ADV @FOC>  O
+verdade	 [verdade] <percep-f> <ac> N F S @SUBJ>  O
+que	 [que] <foc> ADV @<FOC  O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P<  O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA ORG O
+a	 [o] <artd> DET F S @>N  O
+presença	 [presença] <state> <per> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+este	 [este] <dem> <-sam> DET M S @>N  O
+$" O
+bloco	 [bloco] <*1> <amount> <HH> <Lh> N M S @P<  O
+central	 [central] <*2> <nh> <np-close> ADJ M S @N<  O
+$" O
+$, O
+mas	 [mas] <clb> KC @NPHR  O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+também	 [também] ADV @>N  O
+uma	 [um] <arti> DET F S @>N  O
+tradição	 [tradição] <ac> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+ruptura	 [ruptura] <event> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+passado	 [passado] <per> <ac-cat> <HH> N M S @P<  O
+$, O
+tornou	 [tornar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+partido	 [partido] <HHparty> N M S @<ACC  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+principal	 [principal] <SUP> <jh> ADJ F S @>N REL
+força	 [força] <am> <HH> N F S @P< REL
+reformista	 [reformista] <jh> <np-close> ADJ F S @N< REL
+em	 [em] <np-long> PRP @N< REL
+Portugal	 [Portugal] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-35
+Ambos	 [ambos] <*> <quant> DET M P @SUBJ>  O
+associaram	 [associar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+um	 [um] <arti> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+reformas	 [reforma] <act-d> <activity> N F P @P<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+alteração	 [alteração] <act-d> <f-psych> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+condições	 [condição] <sem-c> <sit> <state> N F P @P<  O
+políticas	 [político] <jh> <np-close> ADJ F P @N<  O
+dominantes	 [dominante] <nh> <np-long> ADJ F P @N<  O
+em	 [em] PRP @<ADVL  O
+momentos	 [momento] <dur> <f-q> N M P @P<  O
+desejados	 [desejar] <vH> <np-close> V PCP M P @N<  O
+e	 [e] KC @NPHR  O
+sentidos	 [sentido] <np-close> ADJ M P @N<  O
+como	 [como] <advl> <adv-rel> PRP @<ADVL @A<  O
+de	 [de] <asarg> PRP @P<  O
+ruptura	 [ruptura] <event> N F S @P<  O
+$: O
+Sá	 [Sá] <hum> <*> PROP M/F S @SUBJ>  O
+Carneiro	 [Carneiro] <hum> <*> <np-close> PROP M S @N<  O
+e	 [e] KC @NPHR  O
+Freitas=do=Amaral	 [Freitas=do=Amaral] <hum> <*> PROP M S @SUBJ>  O
+mostraram	 [mostrar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+outros	 [outro] <diff> <KOMP> DET M P @>N  O
+partidos	 [partido] <HHparty> N M P @SUBJ>  O
+podiam	 [poder] <aux> V IMPF 3P IND VFIN @FS-<ACC  O
+governar	 [governar] <vH> <mv> V INF @ICL-AUX<  O
+Portugal	 [Portugal] <civ> <newlex> <*> PROP M S @<ACC ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M/F S/P @SUB  O
+não	 [não] ADV @ADVL> REL
+apenas	 [apenas] ADV @>N REL
+o	 [o] <artd> DET M S @>N REL
+PS	 [PS] <party> <*> PROP M S @SUBJ> LOCAL O
+$, O
+e	 [e] <clb> KC @NPHR  O
+Cavaco	 [Cavaco] <hum> <*> PROP M S @SUBJ>  O
+abriu	 [abrir] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+caminho	 [caminho] <Lpath> N M S @<ACC  O
+para	 [para] <np-close> PRP @N<  O
+as	 [o] <artd> DET F P @>N  O
+maiorias	 [maioria] <HH> N F P @P<  O
+absolutas	 [absoluto] <nh> <np-close> ADJ F P @N<  O
+como	 [como] <com> <adv-rel> <np-long> PRP @N<  O
+condição	 [condição] <asarg> <sem-c> <sit> <state> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+governabilidade	 [governabilidade] <percep-f> N F S @P<  O
+$. O
+</s>

@@ -1,0 +1,41 @@
+$S-1
+PSD	 [PSD] <party> PROP M S @P< ORG O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+presença	 [presença] <per> <state> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+este	 [este] <dem> <-sam> DET M S @>N O
+bloco	 [bloco] <HH> <amount> <Lh> N M S @P< O
+central	 [central] <nh> <np-close> ADJ M S @N< O
+$, O
+mas	 [mas] <co-fin> <co-fmc> KC @CO O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+também	 [também] ADV @>N O
+uma	 [um] <arti> DET F S @>N O
+tradição	 [tradição] <ac> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+ruptura	 [ruptura] <event> N F S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+passado	 [passado] <ac-cat> <per> <HH> N M S @P< O
+$, O
+tornou	 [tornar] <mv> <np-close> V PS 3S IND VFIN @FS-N< O 
+o	 [o] <artd> DET M S @>N O
+partido	 [partido] <HHparty> N M S @<ACC O
+em	 [em] <sam-> PRP @<PIV O
+a	 [o] <artd> <-sam> DET F S @>N O
+principal	 [principal] <SUP> <jh> ADJ F S @>N O
+força	 [força] <am> <HH> N F S @P< O
+reformista	 [reformista] <jh> <np-close> ADJ F S @N< O 
+em	 [em] <np-long> PRP @N< O
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+
+$S-2
+Portugal	 [Portugal] <civ> PROP M S @<ACC LOCAL O
+que	 [que] <clb> <clb-fs> KS @SUB O
+não	 [não] ADV @>A O
+apenas	 [apenas] ADV @>N O
+o	 [o] <artd> DET M S @>N O
+PS	 [PS] <party> PROP M S @SUBJ> ORG O

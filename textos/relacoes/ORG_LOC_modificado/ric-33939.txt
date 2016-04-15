@@ -1,0 +1,152 @@
+$S-14
+Em	 [em] <*> PRP @ADVL>  O
+Março	 [março] <prop> <*> N M S @P<  O
+$, O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+é	 [ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+habitual	 [habitual] <nh> ADJ M/F S @<SC  O
+com	 [com] PRP @<ADVL  O
+estudos	 [estudo] <sem-r> <per> <sem-l> <activity> N M P @P<  O
+não-classificados	 [não-classificado] <jh> <np-close> ADJ M P @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> DET F S @P<  O
+NAS	 [NAS] <*> <sam-> <np-close> PRP @N< ORG O
+as	 [o] <-sam> <artd> DET F P @>N  O
+$, O
+eles	 [eles] PERS M 3P NOM @SUBJ>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+depositados	 [depositar] <mv> V PCP M P @ICL-AUX<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Public=Access=Records=Office	 [Public=Access=Records=Office] <inst> <*> PROP M S @P< LOCAL O
+de	 [de] <sam-> <np-close> PRP @<SC @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+academia	 [academia] <inst> N F S @P<  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+os	 [o] <artd> DET M P @>N  O
+seus	 [seu] <poss 3S> DET M P @>N  O
+títulos	 [título] <f-c> <sem-r> <f-right> N M P @SUBJ>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+divulgados	 [divulgar] <vH> <mv> V PCP M P @ICL-AUX<  O
+$( O
+ver	 [ver] <vH> <mv> V INF @IMV  O
+abaixo	 [abaixo] ADV @<ADVL  O
+$) O
+$. O
+</s>
+
+$S-31
+Outra	 [outro] <*> <diff> <KOMP> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+1998	 [1998] <card> <date> <year> NUM M/F P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+laboratório	 [laboratório] <inst> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+biotecnologia	 [biotecnologia] <domain> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+base	 [base] <Labs> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Brooks	 [Brooks] <hum> <*> PROP M/F S @P< LOCAL O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Força=Aérea	 [Força=Aérea] <hum> <*> PROP M/F S @P< ORG O
+$, O
+próxima	 [próximo] <jh> <np-close> ADJ F S @N<PRED  O
+de	 [de] PRP @A<  O
+San=Antonio	 [San=Antonio] <hum> <*> PROP M S @P<  O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Texas	 [Texas] <civ> <*> PROP M S @P<  O
+$, O
+era	 [ser] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+refinar	 [refinar] <vH> <mv> V INF @ICL-<SC  O
+$" O
+biocatalizadores	 [biocatalizador] <*1> <DERS> N M P @<ACC  O
+anti-material	 [anti-material] <*2> <mat> <mat-cloth> <cc-r> <cm> <np-close> N M S @N<  O
+$" O
+já	 [já] ADV @<ADVL  O
+em	 [em] PRP @<ADVL  O
+desenvolvimento	 [desenvolvimento] <process> <act> N M S @P<  O
+$. O
+</s>
+
+$S-311
+Outra	 [outro] <*> <diff> <KOMP> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+1998	 [1998] <card> <date> <year> NUM M/F P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+laboratório	 [laboratório] <inst> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+biotecnologia	 [biotecnologia] <domain> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+base	 [base] <Labs> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Brooks	 [Brooks] <hum> <*> PROP M/F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+Força=Aérea	 [Força=Aérea] <hum> <*> PROP M/F S @P< ORG O
+$, O
+próxima	 [próximo] <jh> <np-close> ADJ F S @N<PRED REL
+de	 [de] PRP @A< REL
+San=Antonio	 [San=Antonio] <hum> <*> PROP M S @P< LOCAL O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Texas	 [Texas] <civ> <*> PROP M S @P<  O
+$, O
+era	 [ser] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+refinar	 [refinar] <vH> <mv> V INF @ICL-<SC  O
+$" O
+biocatalizadores	 [biocatalizador] <*1> <DERS> N M P @<ACC  O
+$" O
+já	 [já] ADV @<ADVL  O
+em	 [em] PRP @<ADVL  O
+desenvolvimento	 [desenvolvimento] <process> <act> N M S @P<  O
+$. O
+</s>
+
+$S-3111
+Outra	 [outro] <*> <diff> <KOMP> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+1998	 [1998] <card> <date> <year> NUM M/F P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+laboratório	 [laboratório] <inst> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+biotecnologia	 [biotecnologia] <domain> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+base	 [base] <Labs> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Brooks	 [Brooks] <hum> <*> PROP M/F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+Força=Aérea	 [Força=Aérea] <hum> <*> PROP M/F S @P< ORG O
+$, O
+próxima	 [próximo] <jh> <np-close> ADJ F S @N<PRED O
+de	 [de] PRP @A< O
+San=Antonio	 [San=Antonio] <hum> <*> PROP M S @P< O
+em	 [em] <sam-> PRP @ADVL> REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Texas	 [Texas] <civ> <*> PROP M S @P< LOCAL O
+$, O
+era	 [ser] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+refinar	 [refinar] <vH> <mv> V INF @ICL-<SC  O
+$" O
+biocatalizadores	 [biocatalizador] <*1> <DERS> N M P @<ACC  O
+$" O
+já	 [já] ADV @<ADVL  O
+em	 [em] PRP @<ADVL  O
+desenvolvimento	 [desenvolvimento] <process> <act> N M S @P<  O
+$. O
+</s>

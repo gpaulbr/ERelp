@@ -1,0 +1,41 @@
+$S-1
+Em	 [em] <sam-> PRP @ADVL> O
+este	 [este] <dem> <-sam> DET M S @>N O
+campeonato	 [campeonato] <occ> N M S @P< O
+aprendi	 [aprender] <fmc> <vH> <mv> V PS 1S IND VFIN @FS-STA O
+mais	 [muito] <KOMP> <quant> DET M/F S/P @<ACC O
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+sei	 [saber] <fmc> <mv> V PR 1S IND VFIN @FS-STA O
+que	 [que] <clb> <clb-fs> KS @SUB O
+tenho	 [ter] <mv> V PR 1S IND VFIN @FS-<ACC O
+muito	 [muito] <quant> ADV @<ADVL O
+que	 [que] <clb> <interr> SPEC M S @SUBJ> O
+aprender	 [aprender] <vH> <mv> V INF 3S @ICL-<ACC O
+$, O
+ganhou	 [ganhar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+Marcos=Mata	 [Marcos=Mata] <hum> PROP M/F S @<ACC PES O
+representante	 [representante] <Hprof> N M/F S @SUBJ> O
+de	 [de] <np-close> PRP @N< O
+Lisboa	 [Lisboa] <civ> PROP F S @P< O
+$, O
+cadete	 [cadete] <Hprof> <np-long> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N REL
+ACM	 [ACM] <org> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+mesma	 [mesmo] <diff> <KOMP> DET F S @>N O
+cidade	 [cidade] <Lciv> N F S @P< O
+$, O
+ganhou	 [ganhar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+e	 [e] <co-fin> <co-vp> <co-fin> KC @CO O
+ganhou	 [ganhar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+bem	 [bem] <quant> ADV @<ADVL O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+merecido	 [merecer] <vH> <mv> V PCP M S @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+triunfo	 [triunfo] <sit> N M S @<SUBJ O
+$. O
+</s>

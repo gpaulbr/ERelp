@@ -1,0 +1,141 @@
+$S-1
+entre	[entre] PRP @ADVL> O
+1771	[1771] NUM M/F P @P< O
+e	[e] <co-prparg> KC @CO O
+1791	[1791] NUM M/F P @P< O
+$, O
+por	 [por] PRP @ADVL> O
+breve	 [breve] <ac-sign> <sem-r> <ac-cat> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Clemente=XIV	 [Clemente=XIV] <top> PROP M/F S @P< O
+$, O
+de	 [de] <np-close> PRP @N<PRED O
+4	 [4] <card> NUM M/F P @P< O
+de	 [de] <np-close> PRP @N< O 
+julho	 [julho] N M S @P< O
+de	 [de] <np-close> PRP @N< O 
+1770	 [1770] <card> <year> <date> NUM M/F P @P< O
+$, O
+a	 [a] PRP @ADVL> O
+requerimento	 [requerimento] <act-s> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Marquês=de=Pombal	 [Marquês=de=Pombal] <hum> PROP M S @P< O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+ocupado	 [ocupar] <vH> <mv> V PCP M S @ICL-AUX< O
+por	 [por] <sam-> PRP @<PASS O
+os	 [o] <artd> <-sam> DET M P @>N O
+Cónegos=Regulares=de=Santo=Agostinho	 [Cónegos=Regulares=de=Santo=Agostinho] <org> PROP M P @P< PES O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N O O
+Congregação=de=Santa=Cruz=de=Coimbra	 [congregação] <prop> <HH> N F S @P< ORG O
+$; O
+os	 [o] <artd> DET M P @>N O
+Franciscanos=da=Província=da=Arrábida	 [Franciscanos=da=Província=da=Arrábida] <org> PROP M P @SUBJ> O
+saíram	 [sair] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+de	 [de] <sam-> PRP @<SA O
+o	 [o] <artd> <-sam> DET M S @>N O
+Convento=de=Mafra	 [Convento=de=Mafra] <inst> PROP M S @P< O
+$, O
+em	 [em] PRP @<ADVL O
+Maio	 [maio] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+1771	 [1771] <card> <year> <date> NUM M/F P @P< O
+$. O
+</s>
+
+$S-2
+Em	 [em] PRP @ADVL> O
+1834	 [1834] <card> <year> <date> NUM M/F S @P< O
+$,  O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N O
+âmbito	 [âmbito] <Labs> <L> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+$" O
+Reforma	 [reforma] <act-d> <activity> N F S @P< O
+geral	 [geral] <nh> <np-close> ADJ F S @N< O
+eclesiástica	 [eclesiástico] <nh> <np-long> ADJ F S @N< O
+$" O
+empreendida	 [empreender] <vH> <mv> V PCP F S @ICL-PRED> O
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+ministro	 [ministro] <Hprof> <Htit> N M S @P< O
+e	 [e] <co-prparg> KC @CO O
+secretário	 [secretário] <Hprof> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Estado	 [estado] <prop> <Lciv> <state> N M S @P< O
+$, O
+Joaquim=António=de=Aguiar	 [Joaquim=António=de=Aguiar] <hum> <np-close> PROP M/F S @APP PES O
+$, O
+executada	 [executar] <vH> <mv> V PCP F S @ICL-N<PRED O
+por	 [por] <sam-> PRP @<PASS O
+a	 [o] <artd> <-sam> DET F S @>N O
+Comissão=da=Reforma=Geral=do=Clero	 [Comissão=da=Reforma=Geral=do=Clero] <org> PROP F S @P< ORG O
+$( O
+1833-1837	 [1833-1837] <card> <np-close> NUM M/F P @N<PRED O 
+$) O
+$, O
+por	 [por] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+Decreto	 [decreto] <prop> <sem-r> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+28	 [28] <card> NUM M/F P @P< O
+de	 [de] <np-close> PRP @N< O 
+Maio	 [maio] <prop> N M S @P< O
+$, O
+promulgado	 [promulgar] <vH> <np-close> V PCP M S @N<PRED O
+a	 [a] PRP @<ADVL O
+30	 [30] <card> NUM M/F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+esse	 [esse] <dem> <-sam> DET M S @>N O
+mês	 [mês] <per> <dur> <unit> N M S @P< O
+$, O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA O
+extintos	 [extinguir] <mv> V PCP M P @ICL-AUX< O
+todos=os	 [todo=o] <quant> DET M P @>N O
+conventos	 [convento] <inst> N M P @<SUBJ O
+$, O
+mosteiros	 [mosteiro] <inst> N M P @<SUBJ O
+$, O
+colégios	 [colégio] <inst> N M P @<SUBJ O
+$, O
+hospícios	 [hospício] <inst> N M P @<SUBJ O
+e	 [e] <co-subj> KC @CO O
+casas	 [casa] <build> N F P @<SUBJ O
+de	 [de] <np-close> PRP @N< O
+religiosos	 [religioso] <H> N M P @P< O
+de	 [de] <np-close> PRP @N< O 
+todas=as	 [todo=o] <quant> DET F P @>N O
+ordens	 [ordem] <sit> <HH> <act-s> <ac> N F P @P< O
+religiosas	 [religioso] <jh> <np-close> ADJ F P @N< O 
+$, O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL O
+as	 [o] <dem> DET F P @<SC O
+de	 [de] <np-close> PRP @N< O
+religiosas	 [religiosa] <H> N F P @P< O
+$, O
+sujeitas	 [sujeitar] <vH> <jh> <mv> V PCP F P @ICL-N<PRED O
+a	 [a] <sam-> PRP @<PIV O
+os	 [o] <-sam> <artd> DET M P @>N O
+respectivos	 [respectivo] <jh> ADJ M P @>N O
+bispos	 [bispo] <Hprof> <cc-h> N M P @P< O
+$, O
+até	 [até] ADV @>P O
+a	 [a] <sam-> PRP @<ADVL O
+a	 [o] <-sam> <artd> DET F S @>N O
+morte	 [morte] <event> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+última	 [último] <NUM-ord> <jh> ADJ F S @>N O
+freira	 [freira] <Htit> N F S @P< O
+$, O
+data	 [data] <Ltop> <temp> <amount> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+encerramento	 [encerramento] <event> <act> <temp> N M S @P< O
+definitivo	 [definitivo] <nh> <np-close> ADJ M S @N< O
+$. O
+</s>

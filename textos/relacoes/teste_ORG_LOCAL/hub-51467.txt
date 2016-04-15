@@ -1,0 +1,134 @@
+$S-3
+A	 [o] <*> <artd> DET F S @>N  O
+electricidade	 [electricidade] <am> N F S @SUBJ>  O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+aumentar	 [aumentar] <mv> V INF @ICL-AUX<  O
+$, O
+de=acordo	 [de=acordo] <pp> ADV @<ADVL  O
+com	 [com] PRP @A<  O
+a	 [o] <artd> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Entidade=Reguladora=dos=Serviços=Energéticos	 [Entidade=Reguladora=dos=Serviços=Energéticos] <org> <*> PROP F S @P<  O
+$( O
+Erse	 [Erse] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+aprovada	 [aprovado] <nh> <np-close> ADJ F S @N<PRED  O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho=Tarifário	 [Conselho=Tarifário] <inst> <*> PROP M S @P< ORG O
+$, O
+2,9	 [2,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+$, O
+em	 [em] PRP @<ADVL  O
+média	 [média] <Labs> <amount> N F S @P<  O
+$, O
+em	 [em] PRP @<ADVL REL
+Portugal=Continental	 [Portugal=Continental] <civ> <*> PROP M S @P< LOCAL O
+$, O
+2,6	 [2,6] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+Açores	 [Açores] <civ> <*> PROP M P @P<  O
+e	 [e] KC @NPHR  O
+4,9	 [4,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Madeira	 [Madeira] <civ> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-33
+A	 [o] <*> <artd> DET F S @>N  O
+electricidade	 [electricidade] <am> N F S @SUBJ>  O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+aumentar	 [aumentar] <mv> V INF @ICL-AUX<  O
+$, O
+de=acordo	 [de=acordo] <pp> ADV @<ADVL  O
+com	 [com] PRP @A<  O
+a	 [o] <artd> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Entidade=Reguladora=dos=Serviços=Energéticos	 [Entidade=Reguladora=dos=Serviços=Energéticos] <org> <*> PROP F S @P<  O
+$( O
+Erse	 [Erse] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+aprovada	 [aprovado] <nh> <np-close> ADJ F S @N<PRED  O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho=Tarifário	 [Conselho=Tarifário] <inst> <*> PROP M S @P< ORG O
+$, O
+2,9	 [2,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+$, O
+em	 [em] PRP @<ADVL  O
+média	 [média] <Labs> <amount> N F S @P<  O
+$, O
+em	 [em] PRP @<ADVL O
+Portugal=Continental	 [Portugal=Continental] <civ> <*> PROP M S @P<  O
+$, O
+2,6	 [2,6] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N< REL
+os	 [o] <artd> <-sam> DET M P @>N REL
+Açores	 [Açores] <civ> <*> PROP M P @P< LOCAL O
+e	 [e] KC @NPHR  O
+4,9	 [4,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Madeira	 [Madeira] <civ> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-333
+A	 [o] <*> <artd> DET F S @>N  O
+electricidade	 [electricidade] <am> N F S @SUBJ>  O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+aumentar	 [aumentar] <mv> V INF @ICL-AUX<  O
+$, O
+de=acordo	 [de=acordo] <pp> ADV @<ADVL  O
+com	 [com] PRP @A<  O
+a	 [o] <artd> DET F S @>N  O
+proposta	 [proposta] <act-s> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Entidade=Reguladora=dos=Serviços=Energéticos	 [Entidade=Reguladora=dos=Serviços=Energéticos] <org> <*> PROP F S @P<  O
+$( O
+Erse	 [Erse] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+aprovada	 [aprovado] <nh> <np-close> ADJ F S @N<PRED  O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho=Tarifário	 [Conselho=Tarifário] <inst> <*> PROP M S @P< ORG O
+$, O
+2,9	 [2,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+$, O
+em	 [em] PRP @<ADVL  O
+média	 [média] <Labs> <amount> N F S @P<  O
+$, O
+em	 [em] PRP @<ADVL O
+Portugal=Continental	 [Portugal=Continental] <civ> <*> PROP M S @P<  O
+$, O
+2,6	 [2,6] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+Açores	 [Açores] <civ> <*> PROP M P @P<  O
+e	 [e] KC @NPHR  O
+4,9	 [4,9] <card> NUM M P @>N  O
+$%	 [%] N M P @<ACC  O
+em	 [em] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Madeira	 [Madeira] <civ> <*> PROP F S @P< LOCAL O
+$. O
+</s>

@@ -1,0 +1,175 @@
+$S-1
+George=Smoot 	[George=Smoot] <hum> <*> PROP M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+figurinha 	[figurinha] <pict> N F S @<SC  
+carimbada 	[carimbar] <vH> <mv> <np-close> V PCP F S @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+radiação 	[radiação] <act> N F S @P<  
+cósmica 	[cósmico] <nh> <np-close> ADJ F S @N<  
+de=fundo 	[de=fundo] ADJ @N<  
+$. 
+</s>
+
+$S-2
+Foi 	[ser] <*> <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+principal 	[principal] <SUP> <jh> ADJ M S @>N  
+cientista 	[cientista] <Hprof> N M S @<SC  
+ligado 	[ligar] <mv> <np-close> V PCP M S @ICL-N<  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+satélite 	[satélite] <Vair> N M S @P<  
+Cobe 	[Cobe] <brand> <*> <np-close> PROP M S @N<  
+$( 
+Cosmic=Background=Explorer 	[Cosmic=Background=Explorer] <top> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+em 	[em] PRP @ADVL>  
+1992 	[1992] <card> <date> <year> NUM M/F S @P<  
+revelou 	[revelar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+flutuações 	[flutuação] <act> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+$"  
+temperatura 	[temperatura] <*1> <*2> <f-q> N F S @P<  
+$"  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+radiação 	[radiação] <act> N F S @P<  
+$_  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+verdade 	[verdade] <percep-f> <ac> N F S @P<  
+um 	[um] <arti> DET M S @>N  
+eco 	[eco] <percep-l> N M S @<OC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Big=Bang 	[Big=Bang] <occ> <*> PROP M S @P<  
+$, 
+explosão 	[explosão] <event> <np-close> N F S @N<PRED  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+teria 	[ter] <mv> <np-close> V COND 3S VFIN @FS-N<  
+dado 	[dado] <cjt-head> <cc> <ac> N M S @<ACC  
+origem 	[origem] <cjt> <Labs> <f-h> N F S @<ACC  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Universo 	[universo] <prop> <*> <Ltop> N M S @P<  
+$. 
+</s>
+
+$S-3
+Ela 	[ela] <*> PERS F 3S NOM @SUBJ>  
+foi 	[ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+descoberta 	[descoberto] <jh> ADJ F S @<SC  
+em 	[em] PRP @<ADVL  
+1965 	[1965] <card> <date> <year> NUM M/F S @P<  
+$, 
+depois 	[depois] ADV @<ADVL  
+de 	[de] PRP @A<  
+ter 	[ter] <aux> V INF @ICL-P<  
+sido 	[ser] <aux> V PCP @ICL-AUX<  
+prevista 	[prever] <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+modelo 	[modelo] <ac> <Hprof> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Big=Bang 	[Big=Bang] <occ> <*> PROP M S @P<  
+criado 	[criar] <mv> <np-close> V PCP M S @ICL-N<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+russo-americano 	[russo-americano] <Hnat> N M S @P<  
+George=Gamow 	[George=Gamow] <hum> <*> <np-close> PROP M S @N<  
+$. 
+</s>
+
+$S-4
+Mas 	[mas] <*> KC @NPHR  
+ninguém 	[ninguém] SPEC M S @SUBJ>  
+conseguira 	[conseguir] <vH> <fmc> <mv> V MQP 3S IND VFIN @FS-STA  
+detectar 	[detectar] <vH> <mv> V INF @ICL-<ACC  
+flutuações 	[flutuação] <act> N F P @<ACC  
+até 	[até] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Cobe 	[Cobe] <inst> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-5
+A=partir=de 	[a=partir=de] <sam-> <*> PRP @ADVL>  
+as 	[o] <artd> <-sam> DET F P @>N  
+flutuações 	[flutuação] <act> N F P @P<  
+$, 
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+possível 	[possível] <nh> ADJ M S @<SC  
+estimar 	[estimar] <vH> <mv> V INF @ICL-<SUBJ  
+a 	[o] <artd> DET F S @>N  
+quantidade 	[quantidade] <cjt-head> <amount> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+matéria 	[matéria] <cjt-head> <cm> <ac> N F S @P<  
+e 	[e] <cjt-head> KC @NPHR  
+energia 	[energia] <cjt> <am> N F S @P<  
+existente 	[existente] <nh> <np-close> ADJ F S @N<  
+em 	[em] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+Universo 	[universo] <prop> <*> <Ltop> N M S @P<  
+e 	[e] <cjt> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+idade 	[idade] <cjt> <f-q> <per> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+cosmos 	[cosmos] <Ltop> N M S @P<  
+$, 
+entre 	[entre] PRP @<ADVL  
+outras 	[outro] <diff> <KOMP> DET F P @>N  
+descobertas 	[descoberta] <event> N F P @P<  
+importantes 	[importante] <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-6
+Os 	[o] <*> <artd> DET M P @>N  
+resultados 	[resultado] <ac> N M P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Cobe 	[Cobe] <inst> <*> PROP M S @P<  
+foram 	[ser] <cjt-head> <vK> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+relevantes 	[relevante] ADJ M P @<SC  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+o 	[o] <artd> DET M S @>N  
+estado 	[estado] <Lciv> <state> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+arte 	[arte] <domain> N F S @P<  
+são 	[ser] <cjt> <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+as 	[o] <artd> DET F P @>N  
+imagens 	[imagem] <pict> <sem-c> <ac-cat> N F P @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+satélite 	[satélite] <Vair> N M S @P<  
+WMAP 	[WMAP] <brand> <*> <np-close> PROP M S @N<  
+$( 
+Wilkinson=Microwave=Anisotropy=Probe 	[Wilkinson=Microwave=Anisotropy=Probe] <top> <*> <np-close> PROP M S @N<PRED  
+$) 
+$, 
+cujos 	[cujo] <clb> <clb-fs> <rel> DET M P @>N  
+primeiros 	[primeiro] <NUM-ord> ADJ M P @>N  
+dados 	[dado] <cc> <ac> N M P @SUBJ>  
+saíram 	[sair] <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  
+em 	[em] PRP @<ADVL  
+2003 	[2003] <card> <date> <year> NUM M/F S @P<  
+$. 
+$( 
+</s>
+
+$S-7
+Sn 	[sn] <*> N M S @NPHR  
+$) 
+</s>
+
+$S-8

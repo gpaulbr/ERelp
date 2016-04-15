@@ -1,0 +1,42 @@
+$S-2
+Essa 	[esse]   <dem> DET F S @>N  
+conclusão 	[conclusão] <sem-c> N F S @SUBJ>  
+veio 	[vir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+de 	[de] PRP @<ADVL  
+um 	[um] <arti> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+feito 	[fazer] <jh> <mv> <np-close> V PCP M S @ICL-N<  
+por 	[por] PRP @<ADVL  
+Domingos=Matos 	[Domingos=Matos] <hum>   PROP M S @P<  PES
+$, 
+36 	[36] <card> <np-close> NUM M/F P @N<PRED  
+$, 
+médico 	[médico] <Hprof> <np-close> N M S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Federal=do=Pará 	[Universidade=Federal=do=Pará] <inst>   PROP F S @P<  ORG
+$. 
+</s>
+
+$S-4
+Orientado 	[orientar]   <vH> <mv> V PCP M S @ICL-PRED>  
+por 	[por] PRP @<PASS  
+Ricardo=Diaz 	[Ricardo=Diaz] <hum>   PROP M S @P< PES 
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Federal 	[Universidade=Federal] <inst>   PROP F S @P<  
+de 	[de] <np-close> PRP @N<  
+São=Paulo 	[São=Paulo] <civ>   PROP M S @P< 	[São=Paulo]   <newlex> PROP M S @P<  
+$, 
+Matos 	[Matos] <hum>   PROP M S @SUBJ>  ORG
+fez 	[fazer] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<ADVL  
+essa 	[esse] <-sam> <dem> DET F S @>N  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+seu 	[seu] <si> <poss 3S> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+doutorado 	[doutorado] <pos-soc> N M S @P<  
+$. 
+</s>

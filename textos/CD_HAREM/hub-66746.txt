@@ -1,0 +1,91 @@
+
+    
+      <EM ID="hub-66746-349" CATEG="PESSOA" TIPO="INDIVIDUAL"  >José Sócrates</EM>
+      apresentou balanço
+      <EM ID="hub-66746-350" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dos últimos seis meses</EM>
+    
+    
+      <EM ID="hub-66746-351" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-349" TIPOREL="vinculo_inst">UE</EM>
+      :
+      <EM ID="hub-66746-352" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Durão Barroso</EM>
+      elogia prestação da presidência portuguesa
+    
+    
+      O
+       presidente da <EM ID="hub-66746-55" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-352" TIPOREL="vinculo_inst">Comissão Europeia</EM>
+      elogiou
+      <EM ID="hub-66746-354" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      a prestação da presidência portuguesa da
+      <EM ID="hub-66746-355" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="ident">UE</EM>
+      e a «competente liderança» do primeiro-ministro,
+      <EM ID="hub-66746-356" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-349" TIPOREL="ident">José Sócrates</EM>
+      , na condução dos destinos europeus
+      <EM ID="hub-66746-357" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no segundo semestre deste ano</EM>
+      .
+    
+    
+      <EM ID="hub-66746-358" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-352" TIPOREL="ident">Durão Barroso</EM>
+      discursava na sessão plenária extraordinária do
+      <EM ID="hub-66746-359" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="incluido">Parlamento Europeu</EM>
+      , durante a qual
+      <EM ID="hub-66746-360" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-349" TIPOREL="ident">José Sócrates</EM>
+      apresentou os resultados da presidência portuguesa da
+      <EM ID="hub-66746-361" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="ident">UE</EM>
+      .
+    
+    
+      <EM ID="hub-66746-362" CATEG="TEMPO" TIPO="GENERICO"  >O ano de "2007</EM>
+      mostrou que a
+      <EM ID="hub-66746-363" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="ident">Europa</EM>
+      está à altura dos seus compromissos", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu.
+    
+    
+      <EM ID="hub-66746-364" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-352" TIPOREL="ident">Durão Barroso</EM>
+      lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os
+      <EM ID="hub-66746-365" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="incluido">Estados-membros</EM>
+      , o que foi já
+      <EM ID="hub-66746-366" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      feito pela
+      <EM ID="hub-66746-367" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-365" TIPOREL="incluido">Hungria</EM>
+      , o primeiro dos
+      <EM ID="hub-66746-368" CATEG="VALOR" TIPO="QUANTIDADE"  >27</EM>
+      países a cumprir esta etapa.
+    
+    
+      No seu discurso, o dirigente europeu disse concordar com a apreciação feita
+      <EM ID="hub-66746-369" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >minutos antes</EM>
+      por
+      <EM ID="hub-66746-370" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-349" TIPOREL="ident">José Sócrates</EM>
+      sobre os seis meses da presidência portuguesa, principalmente a assinatura do
+      <EM ID="hub-66746-371" CATEG="OBRA" TIPO="PLANO"  >Tratado de Lisboa</EM>
+      , novo relacionamento com o
+      <EM ID="hub-66746-372" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Brasil</EM>
+      e a cimeira com
+      <EM ID="hub-66746-373" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >África</EM>
+      .
+    
+    
+      <EM ID="hub-66746-374" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-352" TIPOREL="ident">Durão Barroso</EM>
+      acrescentou à longa lista de sucessos enunciados por
+      <EM ID="hub-66746-375" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66746-349" TIPOREL="ident">Sócrates</EM>
+      outros que considerou "também importantes", como a decisão de criar o
+      <EM ID="hub-66746-376" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Instituto Europeu de Tecnologia</EM>
+      e o lançamento de uma
+      <EM ID="hub-66746-377" CATEG="OBRA|ABSTRACCAO" TIPO="PLANO|DISCIPLINA"  >Política Marítima Europeia</EM>
+      .
+    
+    
+      Entre os desafios que esperam a
+      <EM ID="hub-66746-378" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="ident">UE</EM>
+      <EM ID="hub-66746-379" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos próximos meses</EM>
+      , o
+       presidente da <EM ID="hub-66746-57" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-55" TIPOREL="ident">Comissão Europeia</EM>
+      destacou a necessidade de os
+      <EM ID="hub-66746-381" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >27</EM>
+      ajudarem a encontrar uma solução para resolver a questão do
+      <EM ID="hub-66746-382" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Kosovo</EM>
+      . "Isto é um teste para a
+      <EM ID="hub-66746-383" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-66746-351" TIPOREL="ident">Europa</EM>
+      onde não podemos falhar", sublinhou.
+    
+  

@@ -1,0 +1,200 @@
+$S-1
+Ao=contrário=de 	[ao=contrário=de] <sam-> <*> PRP @ADVL>  
+o 	[o] <-sam> <dem> DET M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+muita 	[muito] <quant> DET F S @>N  
+gente 	[gente] <HH> N F S @SUBJ>  
+pensa 	[pensar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+$, 
+a 	[o] <artd> DET F S @>N  
+internet 	[internet] <Labs> N F S @SUBJ> 	[internet] <newlex> N F S @SUBJ>  
+não 	[não] ADV @ADVL>  
+está 	[estar] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+reduzindo 	[reduzir] <clb> <mv> V GER @ICL-AUX<  
+os 	[o] <artd> DET M P @>N  
+contatos 	[contato] <ac> N M P @<ACC  
+entre 	[entre] <np-close> PRP @N<  
+as 	[o] <artd> DET F P @>N  
+pessoas 	[pessoa] <H> N F P @P<  
+nem 	[nem] ADV @<ADVL 	[nem] KC  
+substituindo- 	[substituir] <hyfen> <vH> <mv> <np-close> V GER @ICL-<ADVL @ICL-N<  
+os 	[eles] PERS M 3P ACC @<ACC  
+por 	[por] PRP @<PIV  
+relações 	[relação] <ac> <sem-r> N F P @P<  
+impessoais 	[impessoal] <nh> <np-close> ADJ F P @N<  
+conduzidas 	[conduzir] <vH> <mv> <np-close> V PCP F P @ICL-N<  
+por 	[por] PRP @<PASS  
+computador 	[computador] <tool> N M S @P<  
+$. 
+</s>
+
+$S-2
+A 	[o] <*> <artd> DET F S @>N  
+conclusão 	[conclusão] <sem-c> N F S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] <cjt-head> PRP @<SC  
+Barry=Ellman 	[Barry=Ellman] <hum> <*> PROP M S @P<  
+$, 
+de 	[de] <cjt> <sam-> PRP @<SC  
+o 	[o] <-sam> <artd> DET M S @>N  
+Centro 	[Centro] <inst> <newlex> <*> PROP M S @P<  
+para 	[para] PRP @<ADVL  
+Estudos=Urbanos 	[Estudos=Urbanos] <cjt-head> <tit> <*> PROP M/F S @P<  
+e 	[e] KC @NPHR  
+Comunitários 	[Comunitários] <cjt> <hum> <*> PROP M/F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Toronto 	[Universidade=de=Toronto] <inst> <*> PROP F S @P<  
+$, 
+Canadá 	[Canadá] <civ> <*> <np-close> PROP M S @N<  
+$. 
+</s>
+
+$S-3
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+pesquisador 	[pesquisador] <asarg> <Hprof> N M S @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+contatos 	[contato] <ac> N M P @SUBJ>  
+via 	[via] <np-close> PRP @N<  
+redes 	[rede] <con> <HH> <furn> <Lh> <coll-sem> N F P @P<  
+de 	[de] <np-close> PRP @N<  
+computadores 	[computador] <tool> N M P @P<  
+estão 	[estar] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+verdade 	[verdade] <percep-f> <ac> N F S @P<  
+ampliando 	[ampliar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+a 	[o] <artd> DET F S @>N  
+socialização 	[socialização] <act> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+pessoas 	[pessoa] <H> N F P @P<  
+$. 
+</s>
+
+$S-4
+Um 	[um] <*> <card> NUM M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+exemplos 	[exemplo] <ac> N M P @P<  
+que 	[que] <clb> <interr> SPEC M S @ACC>  
+ele 	[ele] PERS M 3S NOM @SUBJ>  
+apresenta 	[apresentar] <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+é 	[ser] <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <dem> DET M S @<SC  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+feito 	[fazer] <jh> <mv> <np-close> V PCP M S @ICL-N<  
+em 	[em] PRP @<ADVL  
+um 	[um] <arti> DET M S @>N  
+subúrbio 	[subúrbio] <Lciv> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Toronto 	[Toronto] <civ> <*> PROP M/F S @P<  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+o=qual 	[o=qual] <asarg> <rel> SPEC M S @P<  
+as 	[o] <artd> DET F P @>N  
+pessoas 	[pessoa] <H> N F P @SUBJ>  
+$"  
+plugadas 	[plugado] <*1> <*2> <nh> <np-close> ADJ F P @N<  
+$"  
+em 	[em] <np-long> PRP @N<  
+uma 	[um] <arti> DET F S @>N  
+rede 	[rede] <con> <HH> <furn> <Lh> <coll-sem> N F S @P<  
+local 	[local] <nh> <np-close> ADJ F S @N<  
+conheciam 	[conhecer] <cjt> <vH> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+três 	[três] <card> NUM F P @>N  
+vezes 	[vez] <temp> N F P @<ADVL  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+vizinhos 	[vizinho] <np-close> ADJ M P @N<  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+os 	[o] <artd> DET M P @>N  
+não-conectados 	[não-conectar] <n> V PCP M P @<ACC  
+$. 
+</s>
+
+$S-5
+Além=disso 	[além=disso] <*> ADV @ADVL>  
+$, 
+vizinhos 	[vizinho] <H> N M P @SUBJ>  
+conectados 	[conectar] <np-close> V PCP M P @N<  
+se 	[se] <refl> <coll> PERS M 3P ACC @ACC>  
+encontraram 	[encontrar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+pessoalmente 	[pessoalmente] <nh> ADV @<ADVL  
+60 	[60] <card> NUM M P @>N  
+$% 	[%] N M P @PRED>  
+mais 	[mais] <quant> <KOMP> ADV @<ADVL  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+os 	[o] <artd> DET M P @>N  
+excluídos 	[excluir] <n> <vH> V PCP M P @<SUBJ  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+rede 	[rede] <con> <HH> <furn> <Lh> <coll-sem> N F S @P<  
+$. 
+</s>
+
+$S-6
+Os 	[o] <*> <artd> DET M P @>N  
+números 	[número] <ac> <ac-sign> <sem> <ac-cat> N M P @SUBJ>  
+gerais 	[geral] <nh> <np-close> ADJ M P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+internet 	[internet] <Labs> N F S @P< 	[internet] <newlex> N F S @P<  
+apontam 	[apontar] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+o 	[o] <artd> DET M S @>N  
+mesmo 	[mesmo] <diff> <KOMP> DET M S @>N  
+fenômeno 	[fenômeno] <ac> N M S @<ACC  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Ellman 	[Ellman] <hum> <*> PROP M/F S @<SUBJ  
+$. 
+</s>
+
+$S-7
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+ele 	[ele] <asarg> PERS M 3S NOM/PIV @P<  
+$, 
+pessoas 	[pessoa] <H> N F P @SUBJ>  
+ligadas 	[ligar] <mv> <np-close> V PCP F P @ICL-N<  
+por 	[por] PRP @<PASS  
+computadores 	[computador] <tool> N M P @P<  
+tiveram 	[ter] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+mais 	[muito] <quant> <KOMP> DET M P @>N  
+contatos 	[contato] <ac> N M P @<ACC  
+pessoais 	[pessoal] <nh> <np-close> ADJ M P @N<  
+com 	[com] <np-long> PRP @N<  
+seus 	[seu] <poss 3S> DET M P @>N  
+amigos 	[amigo] <cjt-head> <Hfam> N M P @P<  
+e 	[e] KC @NPHR  
+parentes 	[parente] <cjt> <jh> ADJ M/F P @P<  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+pessoas 	[pessoa] <H> N F P @AS<  
+não-conectadas 	[não-conectar] <np-close> V PCP F P @N<  
+$. 
+</s>
+
+$S-8
+O 	[o] <*> <artd> DET M S @>N  
+artigo 	[artigo] <sem-r> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+pesquisador 	[pesquisador] <Hprof> N M S @P<  
+está 	[estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+edição 	[edição] <act> <cc-r> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+hoje 	[hoje] ADV @P<  
+de 	[de] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+$"  
+Science 	[Science] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$. 
+</s>
+
+$S-9

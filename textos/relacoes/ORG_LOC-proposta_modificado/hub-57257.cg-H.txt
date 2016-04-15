@@ -1,0 +1,36 @@
+$S-1
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+e	 [e] KC @CO O
+de	 [de] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< O
+e	 [e] <co-advl> KC @CO O
+de	 [de] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+estação	 [estação] <build> N F S @P< REL
+de	 [de] <np-close> PRP @N< REL
+televisão	 [televisão] <sem-w> <HH> N F S @P< REL
+TVI	 [TVI] <media> <np-close> PROP F S @N<  ORG O
+
+$S-2
+MGN=Filmes	 [MGN=Filmes] <org> PROP F S @P< ORG O
+e	 [e] <co-postnom> KC @CO O
+de	 [de] <sam-> PRP @<SC O
+a	 [o] <artd> <-sam> DET F S @>N O
+Lagoa=Cultural	 [Lagoa=Cultural] <top> PROP F S @P< O
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+conta	 [contar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+ainda	 [ainda] ADV @>P O
+com	 [com] PRP @<PIV O
+a	 [o] <artd> DET F S @>N O
+participação	 [participação] <act> <sem-s> N F S @P< O
+financeira	 [financeiro] <nh> <np-close> ADJ F S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+institutos	 [instituto] <inst> N M P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+cinema	 [cinema] <inst> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O

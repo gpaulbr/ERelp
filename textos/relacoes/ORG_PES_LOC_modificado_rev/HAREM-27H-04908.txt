@@ -1,0 +1,66 @@
+$S-1
+PCP	 [PCP] <party> <*> PROP M S @SUBJ> ORG O
+de	 [de] <np-close> PRP @N< REL
+Braga	 [Braga] <hum> <*> PROP M S @P< LOCAL O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+lanche	 [lanche] <occ> N M S @<ACC  O
+e	 [e] KC @NPHR  O
+intervenção	 [intervenção] <act> N F S @<ACC  O
+política	 [político] <jh> <np-close> ADJ F S @N<  O
+A	 [o] <-sam> <artd> DET F S @>N O
+Comissão=Concelhia=de=Braga	 [Comissão=Concelhia=de=Braga] <tit> <*> PROP F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @P<  O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+sábado	 [sábado] <temp> N M S @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+lanche	 [lanche] <occ> N M S @<ACC  O
+e	 [e] KC @NPHR  O
+uma	 [um] <arti> DET F S @>N  O
+intervenção	 [intervenção] <act> N F S @<ACC  O
+política	 [político] <jh> <np-close> ADJ F S @N<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+vão	 [ir] <aux> <np-close> V PR 3P IND VFIN @FS-N<  O
+decorrer	 [decorrer] <vN> <mv> V INF @ICL-AUX<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Centro=de=Trabalho	 [Centro=de=Trabalho] <inst> <*> PROP M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-11
+PCP	 [PCP] <party> <*> PROP M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Braga	 [Braga] <hum> <*> PROP M S @P<  O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+lanche	 [lanche] <occ> N M S @<ACC  O
+e	 [e] KC @NPHR  O
+intervenção	 [intervenção] <act> N F S @<ACC  O
+política	 [político] <jh> <np-close> ADJ F S @N<  O
+A	 [o] <-sam> <artd> DET F S @>N O
+Comissão=Concelhia=de=Braga=do=PCP	 [Comissão=Concelhia=de=Braga=do=PCP] <tit> <*> PROP F S @SUBJ> ORG O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+sábado	 [sábado] <temp> N M S @<ADVL O
+um	 [um] <arti> DET M S @>N O
+lanche	 [lanche] <occ> N M S @<ACC O
+e	 [e] KC @NPHR O
+uma	 [um] <arti> DET F S @>N O
+intervenção	 [intervenção] <act> N F S @<ACC O
+política	 [político] <jh> <np-close> ADJ F S @N< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+vão	 [ir] <aux> <np-close> V PR 3P IND VFIN @FS-N< O
+decorrer	 [decorrer] <vN> <mv> V INF @ICL-AUX< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+Centro=de=Trabalho	 [Centro=de=Trabalho] <inst> <*> PROP M S @P< LOCAL O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @P<  O
+$. O
+</s>

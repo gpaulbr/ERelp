@@ -1,0 +1,15 @@
+
+
+Telemoveis.com TV
+
+Escolher outra notícia
+
+Telemóveis vão ter domínio na <EM ID="wpt-101789548982731354-57" CATEG="LOCAL" TIPO="VIRTUAL"  >Net</EM>
+
+<EM ID="wpt-101789548982731354-58" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2005-07-13</EM>
+
+A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos. E o <EM ID="wpt-101789548982731354-59" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >ICANN</EM> assincou já o acordo nesse sentido com a <EM ID="wpt-101789548982731354-61" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >mTLD Top Level Domain</EM>, que congrega a <EM ID="wpt-101789548982731354-62" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="wpt-101789548982731354-61" TIPOREL="incluido">GSM Association</EM>, a <EM ID="wpt-101789548982731354-63" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Microsoft</EM>, fabricantes como a <EM ID="wpt-101789548982731354-64" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Nokia</EM>, a <EM ID="wpt-101789548982731354-65" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Samsung</EM> e a <EM ID="wpt-101789548982731354-66" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Ericsson</EM> e operadores como a <EM ID="wpt-101789548982731354-67" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Vodafone</EM>, a <EM ID="wpt-101789548982731354-68" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Telefónica Móviles</EM>, a <EM ID="wpt-101789548982731354-69" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">Hutchison 3</EM> e a <EM ID="wpt-101789548982731354-70" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-101789548982731354-61" TIPOREL="incluido">T-Mobile</EM>.
+
+O objectivo desta iniciativa é fazer aumentar a utilização da  <EM ID="wpt-101789548982731354-70aa" CATEG="OUTRO"   >Internet</EM>  no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.
+
+Em princípio, o sufixo .mobi deverá ser integrado automaticamente nos endereços logo que o sistema detecte que o acesso está a ser efectuado via telemóvel.

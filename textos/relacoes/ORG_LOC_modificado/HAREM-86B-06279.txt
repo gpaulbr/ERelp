@@ -1,0 +1,128 @@
+$S-15
+Uma	 [um] <*> <arti> DET F S @>N  O
+nova	 [novo] ADJ F S @>N  O
+reúnião	 [reúnião] <HH> N F S @TOP O
+$, O
+em	 [em] PRP @ADVL>  O
+9	 [9] <card> NUM M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setembro	 [Setembro] <top> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1973	 [1973] <card> <date> <year> NUM M/F P @P<  O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Monte=Sobral	 [Monte=Sobral] <top> <*> PROP M S @P< LOCAL O
+$( O
+Alcáçovas	 [Alcáçovas] <top> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+dá	 [dar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+origem	 [origem] <Labs> <f-h> N F S @<ACC  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Movimento=das=Forças=Armadas	 [Movimento=das=Forças=Armadas] <inst> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-27
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Norte	 [norte] <prop> <*> <dir> N M S @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+força	 [força] <am> <HH> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+CICA=1	 [CICA=1] <brand> <*> PROP M S @P< ORG O
+liderada	 [liderar] <vH> <mv> <np-long> V PCP F S @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Tenente-Coronel	 [Tenente-Coronel] <hum> <*> PROP M S @P<  O
+Carlos=Azeredo	 [Carlos=Azeredo] <hum> <*> <np-close> PROP M S @N<  O
+toma	 [tomar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+Quartel=General=da=Região=Militar=do=Porto	 [Quartel=General=da=Região=Militar=do=Porto] <inst> <*> PROP M S @<ACC LOCAL O
+$. O
+</s>
+
+$S-277
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Norte	 [norte] <prop> <*> <dir> PROP M S @P< LOCAL O
+$, O
+uma	 [um] <arti> DET F S @>N REL
+força	 [força] <am> <HH> N F S @SUBJ> REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+CICA=1	 [CICA=1] <brand> <*> PROP M S @P< ORG O
+liderada	 [liderar] <vH> <mv> <np-long> V PCP F S @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Tenente-Coronel	 [Tenente-Coronel] <hum> <*> PROP M S @P<  O
+Carlos=Azeredo	 [Carlos=Azeredo] <hum> <*> <np-close> PROP M S @N<  O
+toma	 [tomar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+Quartel=General=da=Região=Militar=do=Porto	 [Quartel=General=da=Região=Militar=do=Porto] <inst> <*> PROP M S @<ACC O
+$. O
+</s>
+
+$S-29
+Forças	 [força] <*> <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+BC9	 [BC9] <brand> <*> PROP M S @P< ORG O
+de	 [de] <np-long> PRP @N< REL
+Viana=do=Castelo	 [Viana=do=Castelo] <civ> <*> PROP M S @P< LOCAL O
+tomam	 [tomar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+Aeroporto=de=Pedras=Rubras	 [Aeroporto=de=Pedras=Rubras] <inst> <*> PROP M S @<ACC  O
+$. O
+</s>
+
+$S-299
+Forças	 [força] <*> <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+BC9	 [BC9] <brand> <*> PROP M S @P< ORG O
+de	 [de] <np-long> PRP @N<  O
+Viana=do=Castelo	 [Viana=do=Castelo] <civ> <*> PROP M S @P<  O
+tomam	 [tomar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+Aeroporto=de=Pedras=Rubras	 [Aeroporto=de=Pedras=Rubras] <inst> <*> PROP M S @<ACC LOCAL O
+$. O
+</s>
+
+$S-30
+E	 [e] <*> KC @NPHR  O
+forças	 [força] <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Cioe	 [Cioe] <inst> <*> PROP M S @P< ORG O
+tomam	 [tomar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+RTP	 [RTP] <media> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+RCP	 [RCP] <inst> <*> PROP M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Porto	 [Porto] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-32
+A	 [a] <*> <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Escola=Prática=de=Cavalaria	 [Escola=Prática=de=Cavalaria] <inst> <*> PROP F S @P< ORG O
+coube	 [caber] <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+papel	 [papel] <mat> <cc-r> <ac> N M S @<SUBJ  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+importante	 [importante] <np-close> ADJ M/F S @N<  O
+$, O
+a	 [o] <artd> DET F S @>N REL
+ocupação	 [ocupação] <activity> <act> <per> <np-close> N F S @APP REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Terreiro=do=Paço	 [Terreiro=do=Paço] <inst> <*> PROP M S @P< LOCAL O
+$. O
+</s>

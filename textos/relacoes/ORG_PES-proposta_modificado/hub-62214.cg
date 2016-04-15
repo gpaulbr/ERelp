@@ -1,0 +1,32 @@
+$S-1
+a	 [o] <artd> DET F S @>N O
+rainha=D.=Isabel	 [rainha=D.=Isabel] <hum> <np-close> PROP F S @SUBJ> PES O 
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA O
+particularmente	 [particularmente] <quant> ADV @> O
+dedicada	 [dedicar] <vH> <jh> V PCP F S @<SC O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+Ordem	 [ordem] <prop> <sit> <HH> <act-s> <ac> N F S @P< O
+$, O
+ingressando	 [ingressar] <clb> <vH> <mv> V GER @ICL-<ADVL O
+depois	 [depois] ADV @<ADVL O
+de	 [de] PRP @A< O
+viúva	 [viúva] <Hfam> <Aorn> N F S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Ordem=Terceira=de=São=Francisco	 [Ordem=Terceira=de=São=Francisco] <org> PROP F S @P< ORG O
+e	 [e] <co-pcp1> KC @CO @co-vp O
+fazendo-	 [fazer] <hyfen> <mv> V GER @IMV O
+se	 [se] PERS M/F 3S/P ACC @SUBJ> O
+sepultar	 [sepultar] <vH> <mv> V INF 3S @IMV O
+em	 [em] <sam-> PRP @<ADVL O
+uma	 [um] <arti> <-sam> DET F S @>N O
+magnífica	 [magnífico] ADJ F S @>N O
+arca	 [arca] <con> <Lh> N F S @P< O
+feral	 [feral] <DERS> <np-close> ADJ F S @N< O
+em	 [em] <sam-> <np-long> PRP @N< O
+este	 [este] <dem> <-sam> DET M S @>N O
+mesmo	 [mesmo] <diff> <KOMP> DET M S @>N O
+Mosteiro	 [mosteiro] <prop> <inst> N M S @P< O
+$. O
+</s>

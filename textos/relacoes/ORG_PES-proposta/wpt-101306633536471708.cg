@@ -1,0 +1,120 @@
+$S-1
+Em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+dia	 [dia] <per> <dur> <temp> N M S @P< O
+25	 [25] <card> <np-close> NUM M/F P @N<  O 
+de	 [de] <np-close> PRP @N< O
+outubro	 [outubro] N M S @P<  O
+de	 [de] <np-close> PRP @N< O
+1995	 [1995] <card> <year> <date> NUM M/F P @P< O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+AuditÃ³rio=Pedroso=Horta	 [AuditÃ³rio=Pedroso=Horta] <top> PROP M S @P<  O
+$,  O
+de	 [de] <sam-> <np-close> PRP @N<PRED O
+a	 [o] <artd> <-sam> DET F S @>N O
+CÃ¢mara=Municipal	 [CÃ¢mara=Municipal] <inst> PROP F S @P< O
+de	 [de] <np-close> PRP @N< O
+SÃ£o=Paulo	 [SÃ£o=Paulo] <civ> PROP M S @P< O
+$, O
+aproximadamente	 [aproximadamente] ADV @ADVL> O
+150	 [150] <card> NUM M P @>N O
+operadores	 [operador] <Hprof> N M P @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Direito	 [direito] <prop> <f-right> <domain> <amount> N M S @P< O
+assistiram	 [assistir] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+as	 [o] <artd> DET F P @>N O
+palestras	 [palestra] <sem-s> <talk> N F P @<ACC O
+de	 [de] <np-close> PRP @N< O
+ClÃ¡udia=Aparecida=de=Souza=Trindade	 [ClÃ¡udia=Aparecida=de=Souza=Trindade] <top> PROP F S @P< PES O
+$( B-REL
+Procuradoria=da=Fazenda=Nacional	 [Procuradoria=da=Fazenda=Nacional] <inst> <np-close> PROP F S @N<PRED ORG O
+$) O
+$, O
+MÃ¡rcio=Cammarosano	 [MÃ¡rcio=Cammarosano] <inst> PROP M S @P< O
+$( O
+Procuradoria=do=MunicÃ­pio=de=Santo=AndrÃ©	 [Procuradoria=do=MunicÃ­pio=de=Santo=AndrÃ©] <inst> <np-close> PROP F S @N<PRED O
+$) O
+$, O
+Paulo=Francisco=Von=Bruck=Lacerda	 [Paulo=Francisco=Von=Bruck=Lacerda] <hum> PROP M S @P< O
+$( O
+Procuradoria=Geral=do=do=Estado	 [Procuradoria=Geral=do=do=Estado] <tit> <np-close> PROP F S @N<PRED O 
+de	 [de] <np-close> PRP @N< O
+SÃ£o=Paulo	 [SÃ£o=Paulo] <civ> PROP M S @P< O
+$) O
+e	 [e] <co-prparg> KC @CO O
+Walkure=Lopes=Ribeiro=da=Silva	 [Walkure=Lopes=Ribeiro=da=Silva] <hum> PROP M/F S @P< O
+$( O
+Professora	 [professora] <Hprof> <np-close> N F S @N<PRED O 
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Faculdade=de=Direito	 [Faculdade=de=Direito] <org> PROP F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+USP	 [uSP] <prop> <inst> N F S @P< O
+$) O
+$. O
+</s>
+
+$S-2
+Em	 [em] PRP @ADVL> O
+1997	 [1997] <card> <year> <date> NUM M/F S @P< O
+$, O
+por=ocasiÃ£o=de	 [por=ocasiÃ£o=de] <sam-> PRP @ADVL> O
+o	 [o] <-sam> <artd> DET M S @>N O
+Primeiro=Congresso=Brasileiro	 [Primeiro=Congresso=Brasileiro] <inst> PROP M S @P< O
+de	 [de] <np-close> PRP @N< O
+Advocacia=PÃºblica	 [Advocacia=PÃºblica] <top> PROP F S @P< O
+$, O
+realizado	 [realizar] <vH> <np-close> V PCP M S @N<PRED O 
+em	 [em] PRP @<ADVL O
+Campos=do=JordÃ£o	 [Campos=do=JordÃ£o] <civ> PROP M S @P< O
+$/	 [$/] <co-prparg> KC @CO O
+SP	 [SP] <civ> PROP M S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+abertura	 [abertura] <act> <am> <Lopening> N F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+evento	 [evento] <event> <occ> N M S @P< O
+tambÃ©m	 [tambÃ©m] ADV @ADVL> O
+privilegiou	 [privilegiar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+debate	 [debate] <talk> N M S @<ACC O
+sobre	 [sobre] <np-close> PRP @N< O
+esse	 [esse] <dem> DET M S @>N O
+tema	 [tema] <ac> N M S @P< O
+$, O
+ocasiÃ£o	 [ocasiÃ£o] <ac> <temp> <np-close> N F S @N<PRED O 
+em	 [em] PRP @ADVL> O
+que	 [que] <clb-fs> KS @SUB O
+Guilherme=JosÃ©=Purvin=de=Figueiredo	 [Guilherme=JosÃ©=Purvin=de=Figueiredo] <hum> PROP M S @SUBJ> PES O
+$( B-REL
+PGE/SP	 [PGE/SP] <party> <np-close> PROP M/F S @APP ORG O 
+$) O
+expÃŽs	 [expor] <vH> <mv> V PS 3S IND VFIN @FS-<ACC O
+sobre	 [sobre] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+tema	 [tema] <ac> N M S @P< O
+$" O
+Advocacia=PÃºblica:=TendÃªncias=e=Desafios	 [Advocacia=PÃºblica:=TendÃªncias=e=Desafios] <tit> <np-close> PROP M S @N< O
+$" O
+e	 [e] KC @CO O
+o	 [o] <artd> DET M S @>N O
+Deputado=Estadual=JosÃ©=Eduardo=Ferreira=Neto	 [Deputado=Estadual=JosÃ©=Eduardo=Ferreira=Neto] <inst> PROP M S @<ACC  O
+$, O
+sobre	 [sobre] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+tema	 [tema] <ac> N M S @P< O
+$" O
+IndependÃªncia=das=Procuradorias=dos=Estados	 [IndependÃªncia=das=Procuradorias=dos=Estados] <hum> PROP F S @<ACC O
+e	 [e] <co-acc> KC @CO O
+MunicÃ­pios	 [MunicÃ­pios] <hum> PROP M/F S @<ACC O
+frente=a	 [frente=a] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Poder=PÃºblico	 [Poder=PÃºblico] <inst> PROP M S @P< O
+$" O
+$. O
+</s>

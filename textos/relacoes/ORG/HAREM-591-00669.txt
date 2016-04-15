@@ -1,0 +1,85 @@
+$S-6
+Notícias	 [notícia] <*> <sem-r> <sem-s> N F P @PRED>  O
+EVM	 [EVM] <tit> <*> <np-close> PROP F S @N<  O
+e	 [e] KC @NPHR  O
+gestão	 [gestão] <act-d> <domain> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+riscos	 [risco] <ac> <ac-sign> N M P @P<  O
+em	 [em] <np-close> PRP @N<  O
+análise	 [análise] <act-c> N F S @P<  O
+WeDo	 [WeDo] <mat> <*> PROP M/F S @SUBJ> ORG O
+adere	 [aderir] <fmc> <mv> V PR 3S IND VFIN @FS-STA B-REL
+a	 [a] <sam-> PRP @<PIV I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+APOGEP [APOGEP] <org> <*> PROP F S @P< ORG O
+IPMA	 [IPMA] <org> <*> PROP F S @P<  O
+alarga	 [alargar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+presença	 [presença] <state> <per> N F S @<ACC  O
+internacional	 [internacional] <nh> <np-close> ADJ F S @N<  O
+Eventos	 [evento] <prop> <*> <event> <occ> N M P @PRED>  O
+SOVNET	 [SOVNET] <occ> <*> <np-close> PROP M/F S @N<  O
+$-- O
+Congresso=Mundial=IPMA	 [Congresso=Mundial=IPMA] <occ> <*> <np-close> PROP M S @APP  O
+$, O
+Moscovo	 [Moscovo] <civ> <*> <np-close> PROP M S @APP  O
+$-- O
+Russia=In=English	 [Russia=In=English] <hum> <*> <np-close> PROP M S @N<  O
+$| O
+Contacte-	 [Contacte-] <hum> <*> PROP M/F S @NPHR  O
+nos	 [nós] <refl> PERS M/F 1P DAT @DAT>  O
+$| O
+Adesão	 [adesão] <*> <state> N F S @NPHR  O
+$© O
+2002	 [2002] <card> <date> <year> NUM F P @>N  O
+Associação=Portuguesa=de=Gestão=de=Projectos=Concepção	 [Associação=Portuguesa=de=Gestão=de=Projectos=Concepção] <V> <*> PROP F P @NPHR  O
+e	 [e] KC @NPHR  O
+Produção	 [Produção] <top> <*> PROP M/F S @NPHR  O
+$: O
+Link	 [link] <*> <ac> N M S @NPHR  O
+Consulting	 [Consulting] <hum> <*> <np-close> PROP M S @N<  O
+S.A.	 [S.A.] <org> <*> <np-close> PROP F S @N<  O
+$. O
+</s>
+
+$S-66
+Notícias	 [notícia] <*> <sem-r> <sem-s> N F P @PRED>  O
+EVM	 [EVM] <tit> <*> <np-close> PROP F S @N<  O
+e	 [e] KC @NPHR  O
+gestão	 [gestão] <act-d> <domain> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+riscos	 [risco] <ac> <ac-sign> N M P @P<  O
+em	 [em] <np-close> PRP @N<  O
+análise	 [análise] <act-c> N F S @P<  O
+WeDo	 [WeDo] <mat> <*> PROP M/F S @SUBJ> O
+adere	 [aderir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+APOGEP [APOGEP] <org> <*> PROP F S @P<  O
+IPMA	 [IPMA] <org> <*> PROP F S @P< ORG O
+alarga	 [alargar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+presença	 [presença] <state> <per> N F S @<ACC  O
+internacional	 [internacional] <nh> <np-close> ADJ F S @N<  O
+Eventos	 [evento] <prop> <*> <event> <occ> N M P @PRED>  O
+SOVNET	 [SOVNET] <occ> <*> <np-close> PROP M/F S @N< ORG O
+$-- O
+Congresso=Mundial=IPMA	 [Congresso=Mundial=IPMA] <occ> <*> <np-close> PROP M S @APP  O
+$, O
+Moscovo	 [Moscovo] <civ> <*> <np-close> PROP M S @APP  O
+$-- O
+Russia=In=English	 [Russia=In=English] <hum> <*> <np-close> PROP M S @N<  O
+$| O
+Contacte-	 [Contacte-] <hum> <*> PROP M/F S @NPHR  O
+nos	 [nós] <refl> PERS M/F 1P DAT @DAT>  O
+$| O
+Adesão	 [adesão] <*> <state> N F S @NPHR  O
+$© O
+2002	 [2002] <card> <date> <year> NUM F P @>N  O
+Associação=Portuguesa=de=Gestão=de=Projectos=Concepção	 [Associação=Portuguesa=de=Gestão=de=Projectos=Concepção] <V> <*> PROP F P @NPHR  O
+e	 [e] KC @NPHR  O
+Produção	 [Produção] <top> <*> PROP M/F S @NPHR  O
+$: O
+Link	 [link] <*> <ac> N M S @NPHR  O
+Consulting	 [Consulting] <hum> <*> <np-close> PROP M S @N<  O
+S.A.	 [S.A.] <org> <*> <np-close> PROP F S @N<  O
+$. O
+</s>

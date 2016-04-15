@@ -1,0 +1,111 @@
+$S-2
+A 	[o]   <artd> DET F S @>N  
+idéia 	[idéia] <sem-c> N F S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+lançada 	[lançar] <cjt-head> <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+ministro 	[ministro] <Hprof> <Htit> N M S @P<  
+Roberto=Amaral 	[Roberto=Amaral] <hum>   <np-close> PROP M S @N<  PES
+$( 
+Ciência 	[Ciência] <top>   <np-close> PROP M/F S @N<PRED  
+e 	[e] <cjt-head> KC @NPHR  
+Tecnologia 	[Tecnologia] <hum>   PROP M/F S @SUBJ>  
+$) 
+e 	[e] <cjt> KC @NPHR  
+detalhada 	[detalhar] <cjt> <vH> <mv> V PCP F S @ICL-AUX<  
+ontem 	[ontem] ADV @<ADVL  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+abertura 	[abertura] <Lopening> <am> <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+1º 	[1º] <NUM-ord> ADJ M S @>N  
+Congresso=Internacional=de=Biodiesel 	[Congresso=Internacional=de=Biodiesel] <occ>   PROP M S @P<  
+$, 
+realizado 	[realizar] <vH> <mv> V PCP M S @ICL-N<PRED  
+em 	[em] PRP @<ADVL  
+Ribeirão=Preto 	[Ribeirão=Preto] <civ>   PROP M S @P<  
+e 	[e] <cjt> KC @NPHR  
+promovido 	[promover] <vH> <mv> V PCP M S @ICL-<PRED  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org>   PROP F S @P<  ORG
+$( 
+Universidade 	[Universidade] <top>   <np-close> PROP M/F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+São=Paulo 	[São=Paulo] <hum>   <newlex> PROP M S @P<  
+$) 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+cidade 	[cidade] <Lciv> N F S @P<  
+$. 
+</s>
+
+$S-5
+Francelino=Grando 	[Francelino=Grando] <hum>   PROP M S @SUBJ>  PES
+$, 
+secretário 	[secretário] <Hprof> <np-close> N M S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+Política=Tecnológica=Empresarial 	[Política=Tecnológica=Empresarial] <tit>   PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+MCT 	[MCT] <inst>   PROP M S @P<  ORG
+$( 
+Ministério=da=Ciência 	[Ministério=da=Ciência] <inst>   <np-close> PROP M S @N<PRED  
+e 	[e] KC @NPHR  
+Tecnologia 	[Tecnologia] <genre>   <np-close> PROP M/F S @APP  
+$) 
+$, 
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+proposta 	[proposta] <act-s> N F S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC    
+uma 	[um] <arti> DET F S @>N  
+equação 	[equação] <cc-r> N F S @<SC  
+lógica 	[lógico] <nh> <np-close> ADJ F S @N<  
+$. 
+</s> 
+
+$S-18
+Ainda 	[ainda]   ADV @>A  
+ontem 	[ontem] ADV @ADVL>  
+$, 
+o 	[o] <artd> DET M S @>N  
+prefeito 	[prefeito] <Hprof> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+Ribeirão 	[Ribeirão] <hum>   PROP M/F S @P<  
+$, 
+Gilberto=Maggioni 	[Gilberto=Maggioni] <hum>   <np-long> PROP M S @APP  PES
+$( 
+PMN 	[PMN] <party>   <np-close> PROP M/F S @N<PRED  ORG
+$) 
+$, 
+assinou 	[assinar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+carta 	[carta] <cc-r> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+intenção 	[intenção] <sem-c> N F S @P<  
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+USP 	[USP] <org>   PROP F S @P<  
+para 	[para] PRP @<ADVL  
+colocar 	[colocar] <vH> <mv> V INF @ICL-P<  
+parte 	[parte] <cjt-head> <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+frota 	[frota] <VV> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+administração 	[administração] <HH> <activity> N F S @P<  
+municipal 	[municipal] <nh> <np-close> ADJ F S @N<  
+movida 	[mover] <np-long> V PCP F S @N<  
+a 	[o] <artd> DET F S @>N  
+biodiesel 	[biodiesel] <cjt> <n> <DERP> <jh> ADJ F S @<ACC  
+$, 
+já 	[já] ADV @<ADVL  
+a=partir=de 	[a=partir=de] PRP @<ADVL  
+junho 	[junho] N M S @P<  
+$. 
+</s>

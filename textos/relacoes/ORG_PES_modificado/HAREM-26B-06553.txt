@@ -1,0 +1,30 @@
+$S-7
+Em	 [em] <*> PRP @ADVL>  O
+1956	 [1956] <card> <date> <year> NUM M/F S @P<  O
+$, O
+Amílcar=Cabral	 [Amílcar=Cabral] <hum> <*> PROP M S @SUBJ> PES O
+criou	 [criar] <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+Partido=Africano	 [Partido=Africano] <party> <*> PROP M S @<ACC ORG O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Independência=da=Guiné	 [Independência=da=Guiné] <org> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+Cabo=Verde	 [Cabo=Verde] <civ> <*> PROP M S @P<  O
+$( O
+PAIGC	 [PAIGC] <party> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+lutando	 [lutar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+contra	 [contra] PRP @<PIV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+colonialismo	 [colonialismo] <ism> N M S @P<  O
+e	 [e] KC @NPHR  O
+iniciando	 [iniciar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+marcha	 [marcha] <activity> <process> <occ> <percep-f> N F S @<ACC  O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+independência	 [independência] <am> N F S @P<  O
+$. O
+</s>

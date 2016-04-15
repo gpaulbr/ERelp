@@ -1,0 +1,119 @@
+
+    
+      <EM ID="hub-93257-134" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Aristides de Sousa Mendes</EM>
+    
+    
+      A
+      <EM ID="hub-93257-135" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Segunda Guerra Mundial</EM>
+    
+    
+      <EM ID="hub-93257-136" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Aristides de Sousa Mendes</EM>
+      permanece ainda
+       cônsul de
+        <EM ID="hub-93257-138" CATEG="LOCAL" TIPO="HUMANO"  >Bordéus</EM>
+      
+      quando tem início a
+      <EM ID="hub-93257-139" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="hub-93257-135" TIPOREL="ident">Segunda Guerra Mundial</EM>
+      , e as tropas de
+      <EM ID="hub-93257-140" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Adolf Hitler</EM>
+      avançam rapidamente sobre a
+      <EM ID="hub-93257-141" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>
+      .
+      <EM ID="hub-93257-142" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Salazar</EM>
+      manteve a neutralidade de
+      <EM ID="hub-93257-143" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-93257-142" TIPOREL="vinculo_inst">Portugal</EM>
+      .
+    
+    
+      Pela
+      <EM ID="hub-93257-144" CATEG="OBRA" TIPO="PLANO"  >Circular 14</EM>
+      ,
+      <EM ID="hub-93257-145" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-142" TIPOREL="ident">Salazar</EM>
+      ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: "estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos".
+    
+    
+      Entretanto,
+      <EM ID="hub-93257-147" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1940</EM>
+      , o governo francês refugiou-se temporariamente na cidade, fugindo de
+      <EM ID="hub-93257-149" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-141" TIPOREL="incluido">Paris</EM>
+      antes da chegada das tropas alemãs. Dezenas de milhar de refugiados que fogem do avanço
+      <EM ID="hub-93257-150" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA"  >Nazi</EM>
+      dirigiram-se a
+      <EM ID="hub-93257-151" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-138" TIPOREL="ident">Bordéus</EM>
+      . Muitos deles afluem ao consulado português desejando obter um visto de entrada para
+      <EM ID="hub-93257-152" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-143 hub-93257-138" TIPOREL="sede_de inclui">Portugal</EM>
+      ou para os
+      <EM ID="hub-93257-153" CATEG="LOCAL" TIPO="HUMANO"  >Estados Unidos</EM>
+      , onde
+      <EM ID="hub-93257-154" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Sousa Mendes</EM>
+      , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia.
+    
+    
+      Já
+      <EM ID="hub-93257-155" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no final de 1939</EM>
+      ,
+      <EM ID="hub-93257-156" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Sousa Mendes</EM>
+      tinha desobedecido às instruções do seu governo e emitido alguns vistos. Entre as pessoas que ele tinha então decidido ajudar encontra-se o
+      
+        <EM ID="hub-93257-157" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rabino de Antuérpia Jacob Kruger</EM>
+        
+      , que lhe faz compreender que há que salvar os refugiados judeus.
+    
+    
+      <EM ID="hub-93257-162" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A 16 de Junho de 1940</EM>
+      ,
+      <EM ID="hub-93257-163" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Aristides</EM>
+      decide entregar um visto a todos os refugiados que o pedirem: "A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião". Com a ajuda dos seus filhos e sobrinhos e do
+      <EM ID="hub-93257-165" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-157 hub-93257-157dd hub-93257-157bb hub-93257-157aa hub-93257-157cc" TIPOREL="ident ident ident ident ident">rabino Kruger</EM>
+      , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis.
+    
+    
+      Confrontado com os primeiros avisos de
+      <EM ID="hub-93257-166" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-93257-143" TIPOREL="incluido">Lisboa</EM>
+      , ele terá dito: "Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de
+      <EM ID="hub-93257-167" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Deus</EM>
+      ".
+    
+    
+      Uma vez que
+      <EM ID="hub-93257-168" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-142" TIPOREL="ident">Salazar</EM>
+      tomara medidas contra o cônsul,
+      <EM ID="hub-93257-169" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Aristides</EM>
+      continuou a sua actividade
+      <EM ID="hub-93257-170" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 20 a 23 de Junho</EM>
+      em
+      <EM ID="hub-93257-171" CATEG="LOCAL" TIPO="HUMANO"  >Baiona</EM>
+      (
+      <EM ID="hub-93257-172" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-141 hub-93257-171" TIPOREL="ident inclui">França</EM>
+      ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de
+      <EM ID="hub-93257-173" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-142" TIPOREL="ident">Salazar</EM>
+      .
+      <EM ID="hub-93257-174" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A 22 de Junho de 1940</EM>
+      , a
+      <EM ID="hub-93257-176" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-93257-172" TIPOREL="ocorre_em">França</EM>
+      pediu um armistício à
+      <EM ID="hub-93257-177" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Alemanha Nazi</EM>
+      . Mesmo a caminho de
+      <EM ID="hub-93257-178" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-172" TIPOREL="incluido">Hendaye</EM>
+      ,
+      <EM ID="hub-93257-179" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Aristides</EM>
+      continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que
+      <EM ID="hub-93257-180" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 23 de Junho</EM>
+      ,
+      <EM ID="hub-93257-181" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-142" TIPOREL="ident">Salazar</EM>
+      demitira-o de suas funções de cônsul.
+    
+    
+      Apesar de terem sido enviados funcionários para trazer
+      <EM ID="hub-93257-182" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Aristides</EM>
+      , este lidera com a sua viatura uma coluna de veículos de refugiados e guia-os em direcção à fronteira, onde do lado espanhol não existe qualquer telefone. Por isso mesmo, os guardas fronteiriços não tinham sido ainda avisados da decisão de
+      <EM ID="hub-93257-183" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Madrid</EM>
+      de fechar as fronteiras com a
+      <EM ID="hub-93257-184" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO" COREL="hub-93257-172" TIPOREL="ident">França</EM>
+      .
+      <EM ID="hub-93257-185" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-93257-134" TIPOREL="ident">Sousa Mendes</EM>
+      impressiona os guardas aduaneiros, que acabariam por deixar passar todos os refugiados, que com os seus vistos puderam continuar viagem até
+      <EM ID="hub-93257-186" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-93257-152" TIPOREL="ident">Portugal</EM>
+      .
+    
+  

@@ -1,0 +1,11 @@
+$S-1
+NUCLIO	 [NUCLIO] <org> <np-close> PROP M/F S @N<PRED ORG O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+Centro=de=Interpretação=Ambiental=da=Ponta	 [Centro=de=Interpretação=Ambiental=da=Ponta] <inst> PROP M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Sal	 [sal] <prop> <cm> N M S @P< O
+$, O
+em	 [em] PRP @ADVL> O
+São=Pedro=do=Estoril	 [São=Pedro=do=Estoril] <civ> PROP M S @P< LOCAL O

@@ -1,0 +1,50 @@
+
+    
+      <EM ID="hub-78051-173" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Lobos</EM>
+      recebidos em apoteose
+    
+    
+      <EM ID="hub-78051-155" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-78051-173" TIPOREL="ident">SELECÇÃO</EM>
+      DE REGRESSO APÓS BOA PRESTAÇÃO NO
+      <EM ID="hub-78051-156" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >MUNDIAL</EM>
+    
+    
+      Centenas de pessoas recepcionaram no
+      <EM ID="hub-78051-157" CATEG="LOCAL" TIPO="HUMANO"  >Aeroporto da Portela</EM> 
+      , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi. A boa prestação global da equipa no
+      <EM ID="hub-78051-158" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-78051-156" TIPOREL="ident">Mundial</EM>
+      da modalidade, que ainda decorre em
+      <EM ID="hub-78051-159" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-78051-158" TIPOREL="sede_de">França</EM>
+      , não passou despercebida em
+      <EM ID="hub-78051-160" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-78051-155 hub-78051-157 hub-78051-111" TIPOREL="local_nascimento_de inclui inclui">Portugal</EM>
+      , embora "
+        <EM ID="hub-78051-162" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-78051-173 hub-78051-155" TIPOREL="ident ident">Os Lobos</EM>
+      " não tenham conseguido vencer um único jogo.
+    
+    
+      Quando a comitiva portuguesa saiu na área de chegadas,
+      <EM ID="hub-78051-164" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >por volta das 16.30 horas</EM>
+      , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de
+      <EM ID="hub-78051-165" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-78051-155" TIPOREL="ABSTRACCAO**nome_de_ident**hub-78051-155**PESSOA">Portugal</EM>
+      de forma entusiasmada.
+    
+    
+      <EM ID="hub-78051-166" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-78051-162" TIPOREL="incluido">Vasco Uva</EM>
+      : «Honrámos o país»
+    
+    
+      Um dos jogadores mais acarinhados pelos adeptos na chegada a
+      <EM ID="hub-78051-167" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-78051-160 hub-78051-157 hub-78051-111" TIPOREL="incluido inclui inclui">Lisboa</EM>
+      , o capitão
+      <EM ID="hub-78051-168" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-78051-166" TIPOREL="ident">Vasco Uva</EM>
+      explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português. "Foi a maneira como nos batemos, a maneira como fizemos honrar o
+      <EM ID="hub-78051-169" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO" COREL="hub-78051-160 hub-78051-160" TIPOREL="LOCAL**ident**hub-78051-160**LOCAL PESSOA**natural_de**hub-78051-160**LOCAL">País</EM>
+      ", considerou, acrescentando que <EM ID="hub-78051-28" CATEG="TEMPO" TIPO="GENERICO"  >o momento</EM> mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos "
+      <EM ID="hub-78051-170" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-78051-162 hub-78051-158" TIPOREL="ident participante_em">Lobos</EM>
+      ", contra a
+      <EM ID="hub-78051-171" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-78051-158" TIPOREL="participante_em">Escócia</EM>
+      , em
+      <EM ID="hub-78051-172" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO" COREL="hub-78051-159" TIPOREL="incluido">St. Etienne</EM>
+      . "Foi muito bom."
+    
+  

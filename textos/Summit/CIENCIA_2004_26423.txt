@@ -1,0 +1,763 @@
+$S-1
+como=se 	[como=se] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+lista 	[lista] <cc-r> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+problemas 	[problema] <ac> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+saúde 	[saúde] <state-h> N F S @P<  
+causados 	[causar] <mv> <np-long> V PCP M P @ICL-N<  
+por 	[por] <sam-> PRP @<PASS  
+os 	[o] <-sam> <artd> DET M P @>N  
+alimentos 	[alimento] <food> N M P @P<  
+gordurosos 	[gorduroso] <nh> <np-close> ADJ M P @N<  
+já=não 	[já=não] ADV @<ADVL  
+fosse 	[ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-ADVL>  
+imensa 	[imenso] ADJ F S @<SC  
+$, 
+cientistas 	[cientista] <Hprof> N M/F P @SUBJ>  
+americanos 	[americano] <nat> <jh> <np-close> ADJ M P @N<  
+acabam 	[acabar] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+de 	[de] PRP @PRT-AUX<  
+adicionar 	[adicionar] <vH> <mv> V INF @ICL-AUX<  
+a 	[o] <artd> DET F S @>N  
+ela 	[ela] PERS F 3S NOM @SUBJ>  
+o 	[o] <artd> DET M S @>N  
+dano 	[dano] <am> N M S @<ACC  
+ligado 	[ligar] <mv> <np-close> V PCP M S @ICL-N<  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+mal 	[mal] <ac> <sick> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Alzheimer 	[Alzheimer] <hum> <newlex> <*> PROP M S @P<  
+$, 
+doença 	[doença] <sick> <np-close> N F S @N<PRED  
+degenerativa 	[degenerativo] <nh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+cérebro 	[cérebro] <anorg> N M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @ADVL>  
+afeta 	[afetar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+idosos 	[idoso] ADJ M P @<PRED  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$. 
+</s>
+
+$S-2
+De=acordo 	[de=acordo] <pp> <*> ADV @ADVL>  
+com 	[com] PRP @A<  
+novas 	[novo] ADJ F P @>N  
+análises 	[análise] <act-c> N F P @P<  
+em 	[em] PRP @ADVL>  
+seres=humanos 	[ser=humano] <H> N M P @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+colesterol 	[colesterol] <cjt-head> <cm-chem> N M S @SUBJ>  
+e 	[e] KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+ceramida 	[ceramer] <cjt> <n> V PCP F S @SUBJ>  
+$, 
+ambas 	[ambos] <quant> <np-close> DET F P @N<PRED  
+moléculas 	[molécula] <cc> <np-close> N F P @N<PRED  
+de 	[de] <np-close> PRP @N<  
+gordura 	[gordura] <cm> N F S @P<  
+$, 
+impulsionam 	[impulsionar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+morte 	[morte] <event> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+nervosas 	[nervoso] <jh> <np-close> ADJ F P @N<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+caracteriza 	[caracterizar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+a 	[o] <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @<ACC  
+$. 
+</s>
+
+$S-3
+O 	[o] <*> <artd> DET M S @>N  
+achado 	[achado] <event> N M S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+apresentado 	[apresentar] <vH> <mv> V PCP M S @ICL-AUX<  
+por 	[por] PRP @<PASS  
+Mark=Mattson 	[Mark=Mattson] <hum> <*> PROP M S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Instituto=Nacional=do=Envelhecimentos=dos=Eua 	[Instituto=Nacional=do=Envelhecimentos=dos=Eua] <inst> <*> PROP M S @P< ORG
+$, 
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+170ª 	[170ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual 	[Reunião=Anual] <occ> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+AAAS 	['S] <org> <*> PROP F S @P<  
+$( 
+Associação=Americana 	[Associação=Americana] <org> <*> <np-close> PROP F S @N<PRED  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Avanço=da=Ciência 	[Avanço=da=Ciência] <inst> <*> PROP M S @P<  
+$) 
+$, 
+em 	[em] PRP @<ADVL  
+Seattle 	[Seattle] <civ> <*> PROP M S @P< LOCAL
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+noroeste 	[noroeste] <dir> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+Estados=Unidos 	[Estados=Unidos] <civ> <*> PROP M P @P<  
+$. 
+</s>
+
+$S-4
+$"  
+Por=enquanto 	[por=enquanto] <*1> <pp> <*> ADV @ADVL>  
+$, 
+as 	[o] <artd> DET F P @>N  
+implicações 	[implicação] <sem-c> N F P @SUBJ>  
+estão 	[estar] <clb-fs> <vK> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+mais 	[mais] ADV @<ADVL  
+ligadas 	[ligar] <mv> V PCP F P @ICL-<SC  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+prevenção 	[prevenção] <activity> <sit> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mal 	[mal] <ac> <sick> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Alzheimer 	[Alzheimer] <hum> <newlex> <*> PROP M S @P<  
+do=que 	[do=que] <clb> <clb-fs> KS @COM  
+a 	[a] PRP @ADVL>  
+uma 	[um] <arti> DET F S @>N  
+possível 	[possível] <n> <nh> ADJ F S @P<  
+melhora 	[melhorar] <mv> V PR 3S IND VFIN @FS-KOMP<  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+prognóstico 	[prognóstico] <sem-s> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+pacientes 	[paciente] <n> <*2> <jh> ADJ M P @P<  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Mattson 	[Mattson] <hum> <*> PROP M/F S @<SUBJ  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+participou 	[participar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+conferência 	[conferência] <occ> N F S @P<  
+apresentando 	[apresentar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+os 	[o] <artd> DET M P @>N  
+seus 	[seu] <si> <poss 3S> DET M P @>N  
+dados 	[dado] <cc> <ac> N M P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+por 	[por] PRP @<ADVL  
+telefone 	[telefone] <tool> N M S @P<  
+$, 
+por 	[por] PRP @<ADVL  
+estar 	[estar] <vK> <mv> V INF @ICL-P<  
+gripado 	[gripado] <jh> ADJ M S @<SC  
+$. 
+</s>
+
+$S-5
+Mesmo=assim 	[mesmo=assim] <kc> <*> ADV @ADVL>  
+$, 
+ele 	[ele] <cjt-head> PERS M 3S NOM @SUBJ>  
+e 	[e] <cjt-head> KC @NPHR  
+seus 	[seu] <poss 3S> DET M P @>N  
+colegas 	[colega] <cjt> <Hfam> N M P @SUBJ>  
+mostraram 	[mostrar] <cjt-head> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+evidências 	[evidência] <percep-f> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+uso 	[uso] <act> <ac> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+substâncias 	[substância] <cm> <am> N F P @P<  
+como 	[como] <com> <adv-rel> <np-close> PRP @N<  
+a 	[o] <artd> DET F S @>N  
+vitamina 	[vitamina] <asarg> <cm-rem> N F S @P<  
+E 	[e] <cjt> <*> KC @NPHR  
+poderia 	[poder] <cjt> <aux> V COND 3S VFIN @FS-STA  
+reduzir 	[reduzir] <mv> V INF @ICL-AUX<  
+os 	[o] <artd> DET M P @>N  
+danos 	[dano] <am> N M P @<ACC  
+causados 	[causar] <mv> <np-close> V PCP M P @ICL-N<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+a 	[a] <sam-> PRP @<PIV  
+os 	[o] <-sam> <artd> DET M P @>N  
+pacientes 	[paciente] <H> N M P @P<  
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+$. 
+</s>
+
+$S-6
+Vitaminas=Colegas=de=Mattson 	[Vitaminas=Colegas=de=Mattson] <hum> <*> PROP M/F S @SUBJ>  
+também 	[também] ADV @ADVL>  
+revelaram 	[revelar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+novas 	[novo] ADJ F P @>N  
+evidências 	[evidência] <percep-f> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+consumo 	[consumo] <act-d> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+vitaminas 	[vitamina] <cm-rem> N F P @P<  
+como 	[como] <com> <adv-rel> <np-close> PRP @N<  
+suplemento 	[suplemento] <asarg> <cc-r> <mon> N M S @P<  
+alimentar 	[alimentar] <nh> <np-close> ADJ M S @N<  
+e 	[e] KC @NPHR  
+provenientes 	[proveniente] ADJ M/F P @<PRED  
+de 	[de] PRP @A<  
+vegetais 	[vegetal] <nh> ADJ M/F P @P<  
+seria 	[ser] <vK> <mv> V COND 3S VFIN @FS-P<  
+capaz 	[capaz] <jh> ADJ M/F S @<SC  
+de 	[de] PRP @A<  
+prevenir 	[prevenir] <vH> <mv> V INF @ICL-P<  
+o 	[o] <artd> DET M S @>N  
+advento 	[advento] <event> N M S @<ACC  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+$, 
+e 	[e] KC @NPHR  
+mesmo 	[mesmo] <quant> ADV @>P  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+as 	[o] <artd> DET F P @>N  
+estatinas 	[esto] <n> <DERS> ADJ F P @>N @SUBJ>  
+$, 
+hoje 	[hoje] ADV @>A  
+usadas 	[usado] <nh> <np-close> ADJ F P @PRED> @N<PRED  
+para 	[para] PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+combate 	[combate] <activity> N M S @P<  
+a 	[a] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+corrente 	[corrente] <Lwater> <ac> <cord> <am> N F S @P<  
+sangüínea 	[sangüíneo] <DERS> <np-close> ADJ F S @N<  
+$, 
+também 	[também] ADV @ADVL>  
+poderiam 	[poder] <aux> V COND 3P VFIN @FS-P<  
+evitar 	[evitar] <vH> <mv> V INF @ICL-AUX<  
+o 	[o] <artd> DET M S @>N  
+aparecimento 	[aparecimento] <event> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mal 	[mal] <ac> <sick> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Alzheimer 	[Alzheimer] <hum> <newlex> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-7
+Apesar=de 	[apesar=de] <*> PRP @ADVL>  
+estudada 	[estudado] <n> <nh> ADJ F S @P<  
+de 	[de] <np-close> PRP @N<  
+forma 	[forma] <percep-f> <con> N F S @P<  
+intensa 	[intenso] <nh> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+todo 	[todo] <quant> <np-close> DET M S @N<  
+$, 
+a 	[o] <artd> DET F S @>N  
+moléstia 	[moléstia] <am> N F S @SUBJ>  
+tem 	[ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+mecanismo 	[mecanismo] <ac> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+ação 	[ação] <act> N F S @P<  
+ainda 	[ainda] ADV @>A  
+pouco 	[pouco] <quant> ADV @>A  
+compreendido 	[compreender] <vH> <np-close> V PCP M S @N<  
+$. 
+</s>
+
+$S-8
+Aparentemente 	[aparentemente] <*> <nh> ADV @ADVL>  
+$, 
+o 	[o] <artd> DET M S @>N  
+fator 	[fator] <ac> <Hprof> N M S @SUBJ>  
+principal 	[principal] <SUP> <jh> <np-close> ADJ M S @N<  
+para 	[para] <np-long> PRP @N<  
+seu 	[seu] <poss 3S> DET M S @>N  
+aparecimento 	[aparecimento] <event> N M S @P<  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+acúmulo 	[acúmulo] <event> N M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+proteína 	[proteína] <mat> N F S @P<  
+beta-amilóide 	[beta-amilóide] <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+os 	[o] <artd> <-sam> DET M P @>N  
+neurônios 	[neurônio] <an> N M P @P<  
+$( 
+células 	[célula] <Acell> <Lh> <HH> <np-close> N F P @N<PRED  
+nervosas 	[nervoso] <jh> <np-close> ADJ F P @N<  
+$) 
+$, 
+em=geral 	[em=geral] <pp> ADV @<ADVL  
+de 	[de] PRP @<ADVL  
+pessoas 	[pessoa] <H> N F P @P<  
+idosas 	[idoso] <jh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-9
+Essa 	[esse] <*> <dem> DET F S @>N  
+molécula 	[molécula] <cc> N F S @SUBJ>  
+tende 	[tender] <predco> <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[a] PRP @<PIV  
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  
+aglomerar 	[aglomerar] <cjt-head> <mv> V INF @ICL-P<  
+em 	[em] PRP @<ADVL  
+placas 	[placa] <cc-r> <cc-board> N F P @P<  
+e 	[e] KC @NPHR  
+$, 
+por 	[por] PRP @ADVL>  
+ser 	[ser] <cjt> <vK> <mv> V INF @ICL-P<  
+tóxica 	[tóxico] <nh> ADJ F S @<SC  
+$, 
+elimina 	[eliminar] <nosubj> <cjt> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um=a=um 	[um=a=um] ADV @<ADVL  
+os 	[o] <artd> DET M P @>N  
+neurônios 	[neurônio] <an> N M P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+doentes 	[doente] <n> <jh> ADJ M P @P<  
+$, 
+levando- 	[levar] <clb> <hyfen> <mv> V GER @ICL-<ADVL  
+os 	[eles] PERS M 3P ACC @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+morte 	[morte] <event> N F S @P<  
+$. 
+</s>
+
+$S-10
+Mattson 	[Mattson] <cjt-head> <hum> <*> PROP M/F S @SUBJ>  
+e 	[e] <cjt-head> KC @NPHR  
+colegas 	[colega] <cjt> <Hfam> N M/F P @SUBJ>  
+descobriram 	[descobrir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+espécie 	[espécie] <meta> <A> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+combinação 	[combinação] <ac> <act-s> <cloH> N F S @P<  
+letal 	[letal] <nh> <np-close> ADJ F S @N<  
+entre 	[entre] <np-long> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+aparecimento 	[aparecimento] <event> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+beta-amilóide 	[beta-amilóide] <cjt-head> <n> <jh> ADJ F S @P<  
+e 	[e] <cjt> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+presença 	[presença] <cjt> <state> <per> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+e 	[e] <cjt> KC @NPHR  
+de 	[de] <np-close> PRP @N<  
+ceramida 	[ceramer] <mv> V PCP F S @ICL-P<  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+neurônios 	[neurônio] <an> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+pessoas 	[pessoa] <H> N F P @P<  
+mortas 	[morto] <jh> <np-close> ADJ F P @N<  
+com 	[com] PRP @A<  
+o 	[o] <artd> DET M S @>N  
+mal 	[mal] <ac> <sick> N M S @P<  
+$. 
+</s>
+
+$S-11
+Cascata 	[cascata] <cjt-head> <*> <Lwater> N F S @SUBJ>  
+fatal 	[fatal] <nh> <np-close> ADJ F S @N<  
+Em 	[em] <*> <sam-> <np-long> PRP @N<  
+um 	[um] <-sam> <arti> DET M S @>N  
+trabalho 	[trabalho] <act-d> <am> N M S @P<  
+aprovado 	[aprovado] <nh> <np-close> ADJ M S @N<  
+para 	[para] <np-long> PRP @N<  
+publicação 	[publicação] <act> <sem-r> N F S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+científica 	[científico] <nh> <np-close> ADJ F S @N<  
+$"  
+PNAS 	[PNAS] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$( 
+www.pnas.org 	[www.pnas.org] <np-close> N M S @N<PRED  
+$) 
+$, 
+a 	[o] <artd> DET F S @>N  
+equipe 	[equipe] <cjt> <HH> N F S @SUBJ>  
+mostrou 	[mostrar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+aparecimento 	[aparecimento] <event> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+beta-amilóide 	[beta-amilóide] <cm-chem> N M S @P<  
+induz 	[induzir] <mv> V PR 3S IND VFIN @FS-<ACC  
+um 	[um] <arti> DET M S @>N  
+acúmulo 	[acúmulo] <event> N M S @<ACC  
+anormal 	[anormal] <nh> <np-close> ADJ M S @N<  
+de 	[de] <np-close> PRP @N<  
+colesterol 	[colesterol] <cjt-head> <cm-chem> N M S @P<  
+e 	[e] KC @NPHR  
+ceramida 	[ceramer] <cjt> V PCP F S @P<  
+$. 
+</s>
+
+$S-12
+Eles 	[eles] <*> PERS M 3P NOM @SUBJ>  
+$, 
+por=sua=vez 	[por=sua=vez] <pp> ADV @ADVL>  
+$, 
+iniciam 	[iniciar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+cascata 	[cascata] <Lwater> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+reações 	[reação] <act> <event> N F P @P<  
+bioquímicas 	[bioquímico] <nh> <np-close> ADJ F P @N<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+acaba 	[acabar] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+conduzindo 	[conduzir] <clb> <vH> <mv> V GER @ICL-AUX<  
+a 	[a] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+morte 	[morte] <event> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+neurônios 	[neurônio] <an> N M P @P<  
+$. 
+</s>
+
+$S-13
+Isso 	[isso] <*> <dem> SPEC M S @SUBJ>  
+acontece 	[acontecer] <vN> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+cientistas 	[cientista] <cjt-head> <asarg> <Hprof> N M P @P<  
+$, 
+porque 	[porque] <clb> <clb-fs> KS @SUB  
+as 	[o] <artd> DET F P @>N  
+substâncias 	[substância] <cm> <am> N F P @SUBJ>  
+liberam 	[liberar] <vH> <mv> V PR 3P IND VFIN @FS-<ADVL  
+os 	[o] <artd> DET M P @>N  
+chamados 	[chamado] <act-s> N M P @<ACC  
+radicais 	[radical] <jh> <np-close> ADJ M P @N<  
+livres 	[livre] <jh> <np-long> ADJ M P @N<  
+$_  
+átomos 	[átomo] <cjt> <asarg> <cc> N M P @P<  
+isolados 	[isolar] <mv> <np-close> V PCP M P @ICL-N<  
+de 	[de] PRP @<PIV  
+oxigênio 	[oxigênio] <cm-chem> N M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+são 	[ser] <vK> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+um 	[um] <arti> DET M S @>N  
+verdadeiro 	[verdadeiro] ADJ M S @>N  
+veneno 	[veneno] <cm> <ac-cat> N M S @<SC  
+para 	[para] <np-close> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+organismo 	[organismo] <A> <inst> N M S @P<  
+$. 
+</s>
+
+$S-14
+Por=outro=lado 	[por=outro=lado] <pp> <*> ADV @ADVL>  
+$, 
+diz 	[dizer] <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+Benjamin=Wolozin 	[Benjamin=Wolozin] <hum> <*> PROP M S @<SUBJ  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Centro=Médico 	[Centro=Médico] <inst> <*> PROP M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Loyola 	[Universidade=Loyola] <inst> <*> PROP F S @P<  
+$( 
+Chicago 	[Chicago] <civ> <*> <np-close> PROP M S @APP  
+$, 
+Eua 	[Eua] <hum> <*> <np-close> PROP M/F S @APP  
+$) 
+$, 
+o 	[o] <artd> DET M S @>N  
+local 	[local] <Lh> N M S @SUBJ>  
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+as 	[o] <artd> DET F P @>N  
+moléculas 	[molécula] <cc> N F P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+se 	[se] PERS M/F 3P ACC @ACC>-PASS  
+abrigam 	[abrigar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+membrana 	[membrana] <Lcover> N F S @P<  
+é 	[ser] <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+também 	[também] ADV @>N  
+a 	[o] <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @<SC  
+em 	[em] <sam-> PRP @SA>  
+a=qual 	[o=qual] <clb-fs> <rel> <-sam> SPEC F S @P<  
+estão 	[estar] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+as 	[o] <artd> DET F P @>N  
+enzimas 	[enzima] <cm-chem> N F P @<SUBJ  
+$( 
+moléculas 	[molécula] <cc> <np-close> N F P @N<PRED  
+que 	[que] <clb> <clb-fs> KS @SUB  
+aceleram 	[acelerar] <mv> V PR 3P IND VFIN @FS-<SC @FS-<ACC  
+reações 	[reação] <act> <event> N F P @<ACC  
+químicas 	[químico] <nh> <np-close> ADJ F P @N<  
+$) 
+responsáveis 	[responsável] ADJ M/F P @<PRED  
+por 	[por] PRP @A<  
+produzir 	[produzir] <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+beta-amilóide 	[beta-amilóide] <n> <jh> ADJ F S @<ACC  
+$. 
+</s>
+
+$S-15
+$"  
+Sem 	[sem] <*> <*1> PRP @ADVL> @PRED>  
+a 	[o] <artd> DET F S @>N  
+presença 	[presença] <state> <per> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+$, 
+elas 	[elas] PERS F 3P NOM @SUBJ>  
+não 	[não] ADV @ADVL>  
+conseguem 	[conseguir] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+operar 	[operar] <*2> <mv> V INF @ICL-<ACC  
+$"  
+$, 
+afirma 	[afirmar] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+$. 
+</s>
+
+$S-16
+Com 	[com] <*> PRP @ADVL> @PRED>  
+a 	[o] <artd> DET F S @>N  
+compreensão 	[compreensão] <am> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+esses 	[esse] <dem> <-sam> DET M P @>N  
+processos 	[processo] <occ> <process> <activity> N M P @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @SUBJ>  
+propõem 	[propor] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+duas 	[dois] <card> NUM F P @>N  
+estratégias 	[estratégia] <sem-c> N F P @<ACC  
+$. 
+</s>
+
+$S-17
+Uma 	[uma] <*> <card> NUM F S @SUBJ>  
+$, 
+obviamente 	[obviamente] ADV @ADVL>  
+$, 
+é 	[ser] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+reduzir 	[reduzir] <mv> V INF @ICL-<SC  
+o 	[o] <artd> DET M S @>N  
+consumo 	[consumo] <act-d> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+gordura 	[gordura] <cm> N F S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  
+pode 	[poder] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+levar 	[levar] <mv> V INF @ICL-AUX<  
+a 	[a] PRP @<PIV  
+uma 	[um] <arti> DET F S @>N  
+presença 	[presença] <state> <per> N F S @P<  
+excessiva 	[excessivo] <nh> <np-close> ADJ F S @N<  
+de 	[de] <np-close> PRP @N<  
+colesterol 	[colesterol] <cm-chem> N M S @P<  
+e 	[e] KC @NPHR  
+ceramida 	[ceramer] <mv> V PCP F S @ICL-P<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+organismo 	[organismo] <A> <inst> N M S @P<  
+$. 
+</s>
+
+$S-18
+Outra 	[outro] <*> <diff> <KOMP> DET F S @>N  
+é 	[é] <newlex> N M S @SUBJ>  
+utilizar 	[utilizar] <vH> <mv> V INF 3S @ICL-UTT  
+substâncias 	[substância] <cjt-head> <cm> <am> N F P @<ACC  
+antioxidantes 	[antioxidante] <cjt> <cm-chem> N M P @<ACC  
+$, 
+ou=seja 	[ou=seja] <kc> ADV @<ADVL  
+$, 
+capazes 	[capaz] <np-close> ADJ M/F P @N<PRED  
+de 	[de] PRP @A<  
+reduzir 	[reduzir] <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+ação 	[ação] <act> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+radicais 	[radical] <cc> <Hideo> N M P @P<  
+livres 	[livre] <jh> <np-close> ADJ M P @N<  
+$. 
+</s>
+
+$S-19
+Esse 	[esse] <*> <dem> DET M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+caso 	[caso] <event> <ac-cat> <sem> N M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+vitaminas 	[vitamina] <cm-rem> N F P @P<  
+$. 
+</s>
+
+$S-20
+Experimentos 	[experimento] <*> <occ> N M P @SUBJ>  
+coordenados 	[coordenar] <vH> <mv> <np-close> V PCP M P @ICL-N<  
+por 	[por] PRP @<PASS  
+Carl=Cotman 	[Carl=Cotman] <hum> <*> PROP M S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=da=Califórnia 	[Universidade=da=Califórnia] <inst> <*> PROP F S @P<  
+em 	[em] PRP @ADVL>  
+Irvine 	[Irvine] <civ> <*> PROP M S @P<  
+$, 
+mostraram 	[mostrar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+resultados 	[resultado] <ac> N M P @<ACC  
+animadores 	[animador] <Hprof> <np-close> N M P @N<  
+em 	[em] PRP @<ADVL  
+cães 	[cão] <Adom> N M P @P<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+fase 	[fase] <per> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+envelhecimento 	[envelhecimento] <event> N M S @P<  
+$( 
+a=partir=de 	[a=partir=de] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+9 	[9] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+vida 	[vida] <per> N F S @P<  
+$) 
+$, 
+em 	[em] <clb> <sam-> PRP @ADVL>  
+a=qual 	[o=qual] <clb-fs> <rel> <-sam> SPEC F S @P<  
+os 	[o] <artd> DET M P @>N  
+animais 	[animal] <Azo> N M P @SUBJ>  
+podem 	[poder] <aux> <np-close> V PR 3P IND VFIN @FS-N<  
+desenvolver 	[desenvolver] <mv> V INF @ICL-AUX<  
+uma 	[um] <arti> DET F S @>N  
+doença 	[doença] <sick> N F S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+lembra 	[lembrar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+Alzheimer 	[Alzheimer] <hum> <newlex> <*> PROP M S @<ACC  
+$. 
+</s>
+
+$S-21
+Memória 	[memória] <cjt-head> <*> <sem-c> <sem-r> N F S @SUBJ>  
+restaurada 	[restaurar] <vH> <np-close> V PCP F S @N<  
+Os 	[o] <*> <artd> DET M P @>N  
+suplementos 	[suplemento] <cc-r> <mon> N M P @PRED>  
+de 	[de] <np-close> PRP @N<  
+vitaminas 	[vitamina] <cm-rem> N F P @P<  
+C 	[c] <cjt> <prop> <*> N M S @SUBJ>  
+e 	[e] <cjt-head> KC @NPHR  
+E 	[e] <cjt> <*> KC @NPHR  
+e 	[e] <cjt> KC @NPHR  
+de 	[de] <np-close> PRP @N<  
+vegetais 	[vegetal] <Btree> N M P @P<  
+dados 	[dado] <np-close> ADJ M P @N<  
+a 	[a] <sam-> PRP @A<  
+os 	[o] <-sam> <artd> DET M P @>N  
+bichos 	[bicho] <Azo> <H> N M P @P<  
+funcionou 	[funcionar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+tão 	[tão] <dem> <quant> ADV @<ADVL  
+bem=que 	[bem=que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+memória 	[memória] <sem-c> <sem-r> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+cães 	[cão] <Adom> N M P @P<  
+$, 
+testada 	[testada] <Lpath> <sem-nons> <np-close> N F S @N<PRED  
+regularmente 	[regularmente] ADV @<ADVL  
+por=meio=de 	[por=meio=de] PRP @ADVL>  
+um 	[um] <arti> DET M S @>N  
+exercício 	[exercício] <activity> <act-d> <per> N M S @P<  
+em 	[em] <clb> <sam-> PRP @ADVL>  
+o=qual 	[o=qual] <clb-fs> <rel> <-sam> SPEC M S @P<  
+eles 	[eles] PERS M 3P NOM @SUBJ>  
+tinham 	[ter] <aux> <np-close> V IMPF 3P IND VFIN @FS-N<  
+de 	[de] PRP @PRT-AUX<  
+reconhecer 	[reconhecer] <vH> <mv> V INF @ICL-AUX<  
+objetos 	[objeto] <cc> <ac-cat> N M P @<ACC  
+$, 
+passou 	[passar] <aux> V PS 3S IND VFIN @FS-<ADVL  
+a 	[a] PRP @PRT-AUX<  
+se 	[se] <refl> PERS M/F 3S/P ACC @ACC>  
+igualar 	[igualar] <mv> V INF @ICL-AUX<  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <dem> DET F S @P<  
+de 	[de] <np-close> PRP @N<  
+animais 	[animal] <Azo> N M P @P<  
+jovens 	[jovem] <np-close> ADJ M P @N<  
+$. 
+</s>
+
+$S-22
+Um 	[um] <*> <arti> DET M S @>N  
+dado 	[dado] <cc> <ac> N M S @NPHR  
+importante 	[importante] <np-close> ADJ M S @N<  
+$, 
+já=que 	[já=que] <clb> <clb-fs> KS @SUB  
+a 	[o] <clb> <artd> DET F S @>N  
+perda 	[perda] <event> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+capacidade 	[capacidade] <am> <percep-f> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+armazenar 	[armazenar] <vH> <mv> V INF 3S @ICL-P<  
+novas 	[novo] ADJ F P @>N  
+lembranças 	[lembrança] <ac> <cc> N F P @<ACC  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ADVL  
+um 	[um] <card> NUM M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+principais 	[principal] <SUP> ADJ M P @>N  
+sintomas 	[sintoma] <sick-c> N F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mal 	[mal] <ac> <sick> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Alzheimer 	[Alzheimer] <hum> <newlex> <*> PROP M S @P<  
+em 	[em] PRP @<ADVL  
+humanos 	[humano] <jh> ADJ M P @P<  
+$. 
+</s>
+
+$S-23

@@ -1,0 +1,75 @@
+$S-2
+Esse 	[esse]   <dem> DET M S @SUBJ>  
+é 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC  
+o 	[o] <artd> DET M S @>N  
+pior 	[mau] <KOMP> <SUP> ADJ M S @>N  
+panorama 	[panorama] <Ltop> N M S @<SC  
+climático 	[climático] <nh> <np-close> ADJ M S @N<  
+previsto 	[prever] <vH> <np-long> V PCP M S @N<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+instituto 	[instituto] <inst> N M S @P<  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Carlos=Nobre 	[Carlos=Nobre] <hum>   PROP M S @<SUBJ  PES
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+participou 	[participar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+debate 	[debate] <talk> N M S @P<  
+Cenários=da=Amazônia 	[Cenários=da=Amazônia] <tit> <np-close> PROP M S @N<   
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual 	[Reunião=Anual] <occ>   PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+SBPC 	[SBPC] <org>   PROP F S @P<  ORG
+</s>
+
+$S-10
+O 	[o]   <artd> DET M S @>N  
+desmatamento 	[desmatamento] <act> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Amazônia 	[Amazônia] <top>   PROP F S @P<  ORG
+atingiu 	[atingir] <clb-fs> <mv> <quote> V PS 3S IND VFIN @FS-ACC  
+16.926 	[16.926] <card> NUM M P @>N  
+km2 	[km2] <unit> N M P @<ACC  
+em 	[em] <np-close> PRP @N<  
+99 	[99] <card> NUM M/F P @P<  
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+secretária 	[secretária] <furn> <Hprof> N F S @<SUBJ  
+de 	[de] <np-close> PRP @N<  
+Coordenação=da=Amazônia 	[Coordenação=da=Amazônia] <top>   PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Ministério=do=Meio=Ambiente 	[Ministério=do=Meio=Ambiente] <inst>   PROP M S @P<  
+Mary=Allegretti 	[Mary=Allegretti] <hum>   <np-close> PROP F S @APP  PES
+</s>
+
+$S-13
+Adalberto=Veríssimo 	[Adalberto=Veríssimo] <hum>   PROP M S @SUBJ>  PES
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+ONG=Imazon 	[ONG=Imazon] <org>   PROP F S @P<  ORG
+apresentou 	[apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+segundo 	[segundo] <NUM-ord> <jh> <np-close> ADJ M S @N<  
+o=qual 	[o=qual] <clb> <clb-fs> <rel> SPEC M S @ADVL>  
+as 	[o] <artd> DET F P @>N  
+cidades 	[cidade] <Lciv> N F P @SUBJ>  
+em 	[em] <np-close> PRP @N<  
+regiões 	[região] <L> <Ltop> N F P @P<  
+amazônicas 	[amazônico] <nat> <np-close> ADJ F P @N<  
+ocupadas 	[ocupado] <nh> <np-long> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+forma 	[forma] <percep-f> <con> N F S @P<  
+predatória 	[predatório] <np-close> ADJ F S @N<  
+duram 	[durar] <vN> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+por=volta=de 	[por=volta=de] PRP @<ADVL  
+23 	[23] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+</s>

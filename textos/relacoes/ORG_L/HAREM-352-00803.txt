@@ -1,0 +1,85 @@
+$S-6
+A	 [o] <*> <artd> DET F S @>N  O
+administração	 [administração] <HH> <activity> N F S @SUBJ>  O
+$, O
+vendas	 [venda] <act> <inst> <cloH> N F P @SUBJ>  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+fábrica	 [fábrica] <build> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Marfinite	 [Marfinite] <org> <*> PROP F S @P< ORG O
+ficam	 [ficar] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA B-REL
+em	 [em] PRP @<SA I-REL
+Itaquaquecetuba	 [Itaquaquecetuba] <civ> <*> PROP M S @P< LOCAL O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Grande=São=Paulo	 [Grande=São=Paulo] <org> <*> PROP F S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+um	 [um] <-sam> <arti> DET M S @>N  O
+terreno	 [terreno] <L> <Ltop> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+230	 [230] <card> NUM F P @<SC @P<  O
+$mil O
+metros=quadrados	 [metro=quadrado] <unit> N M P @P<  O
+$, O
+com	 [com] PRP @<SC @<ADVL  O
+25	 [25] <card> NUM F P @<SC @P<  O
+$mil O
+metros=quadrados	 [metro=quadrado] <unit> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+área	 [área] <L> <Lh> N F S @P<  O
+construída	 [construir] <vH> <np-close> V PCP F S @N<PRED  O
+$. O
+</s>
+
+$S-13
+Com	 [com] <*> PRP @ADVL>  O
+a	 [o] <artd> DET F S @>N  O
+meta	 [meta] <Labs> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+aumentar	 [aumentar] <mv> V INF @ICL-P<  O
+seus	 [seu] <si> <poss 3S> DET M P @>N  O
+pontos	 [ponto] <Labs> <temp> <Lh> <sem-c> <unit> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+venda	 [venda] <act> <inst> <cloH> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Marfinite	 [Marfinite] <org> <*> PROP F S @SUBJ> ORG O
+abre	 [abrir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+perspectivas	 [perspectiva] <sem-c> <percep-w> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+negócios	 [negócio] <act-d> N M P @P<  O
+e	 [e] KC @NPHR  O
+geração	 [geração] <HH> <act> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+empregos	 [emprego] <pos-soc> <ac> N M P @P<  O
+$, O
+através	 [através] ADV @<ADVL B-REL
+de	 [de] PRP @A< I-REL
+novos	 [novo] <jh> ADJ M P @>N I-REL
+distribuidores	 [distribuidor] <H> N M P @P< I-REL
+em	 [em] <sam-> PRP @<ADVL I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+exterior	 [exterior] <Labs> <Ltop> N M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+estejam	 [estar] <vK> <mv> <np-close> V PR 3P SUBJ VFIN @FS-N<  O
+interessados	 [interessado] <H> N M P @<SC  O
+em	 [em] <np-close> PRP @N<  O
+vender	 [vender] <vH> <mv> V INF @ICL-P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+varejo	 [varejo] <occ> N M S @P<  O
+suas	 [seu] <poss 3S> DET F P @>N  O
+múltiplas	 [múltiplo] <nh> ADJ F P @>N  O
+linhas	 [linha] <geom-line> <cord> <Lpath> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+produtos	 [produto] <cc-h> <mon> <ac-cat> N M P @P<  O
+$. O
+</s>

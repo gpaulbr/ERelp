@@ -1,0 +1,28 @@
+$S-1
+Biotecnólogos 	[Biotecnólogos] <cjt-head> <hum>   PROP M/F S @SUBJ>   O
+e 	[e] KC @NPHR   O
+ambientalistas 	[ambientalista] <cjt> <Hprof> N M/F P @SUBJ>   O
+travaram 	[travar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA   O
+uma 	[um] <arti> DET F S @>N   O
+rara 	[raro] <jh> ADJ F S @>N   O
+aliança 	[aliança] <HH> <sit> N F S @<ACC   O
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+semana 	[semana] <dur> N F S @P<   O
+passada 	[passado] <np-close> ADJ F S @N<   O
+para 	[para] PRP @<ADVL   O
+comemorar 	[comemorar] <vH> <mv> V INF @ICL-P<   O
+um 	[um] <arti> DET M S @>N   O
+episódio 	[episódio] <event> N M S @<ACC   O
+singular 	[singular] <np-close> ADJ M S @N<   O
+$:  
+duas 	[dois] <card> NUM F P @>N   O
+vacas 	[vaca] <Adom> <food> N F P @SUBJ>   O
+deram 	[dar] <predco> <cjt-head> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA   O
+cria 	[crer] <nosubj> <cjt> <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA   O
+em 	[em] PRP @<PIV   O
+Iowa 	[Iowa] <hum>   PROP M/F S @P<  LOCAL O
+$, 
+Eua 	[Eua] <hum>   <np-close> PROP M/F S @APP  ORG O
+$. 
+</s>

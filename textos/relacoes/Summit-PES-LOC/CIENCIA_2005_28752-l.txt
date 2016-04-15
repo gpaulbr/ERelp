@@ -1,0 +1,58 @@
+$S-2
+Mas 	[mas]   KC @NPHR  
+não 	[não] ADV @ADVL>  
+demorou 	[demorar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+muito 	[muito] <cjt-head> <quant> DET M S @<ACC  
+até 	[até] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+Nasa 	[Nasa] <org> <newlex>   PROP F S @SUBJ>  ORG
+divulgasse 	[divulgar] <vH> <mv> V IMPF 3S SUBJ VFIN @FS-P<  
+o 	[o] <artd> DET M S @>N  
+parecer 	[parecer] <cjt> <sem-c> <sem-r> N M S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+todos 	[todo] <quant> DET M P @SUBJ>  
+queriam 	[querer] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  
+ouvir 	[ouvir] <vH> <mv> V INF @ICL-<ACC  
+$:  
+finalmente 	[finalmente] ADV @ADVL>  
+$, 
+após 	[após] PRP @ADVL>  
+dias 	[dia] <temp> <dur> <per> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+apreensão 	[apreensão] <act> <sem-c> N F S @P<  
+com 	[com] <np-close> PRP @N<  
+problemas 	[problema] <ac> N M P @P<  
+em 	[em] <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+veículo 	[veículo] <V> N M S @P<  
+e 	[e] KC @NPHR  
+uma 	[um] <arti> DET F S @>N  
+histórica 	[histórico] <jh> ADJ F S @>N  
+caminhada 	[caminhada] <cjt-head> <activity> N F S @SUBJ>  
+espacial 	[espacial] <nh> <np-close> ADJ F S @N<  
+de 	[de] <np-close> PRP @N<  
+reparos 	[reparo] <percep-w> N M P @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+agência 	[agência] <cjt> <HH> N F S @SUBJ>  
+espacial 	[espacial] <nh> <np-close> ADJ F S @N<  
+americana 	[americana] <Hnat> <np-long> N F S @N<  
+autorizou 	[autorizar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+ônibus 	[ônibus] <V> N M S @<ACC  
+espacial 	[espacial] <nh> <np-close> ADJ M S @N<  
+Discovery 	[Discovery] <V>   <np-long> PROP M/F S @N<  LOCAL
+a 	[a] PRP @<ADVL  
+enfrentar 	[enfrentar] <vH> <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+turbulenta 	[turbulento] <jh> ADJ F S @>N  
+jornada 	[jornada] <event> <act-d> N F S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+o 	[ele] PERS M 3S ACC @ACC>  
+separa 	[separar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+terra=firme 	[terra=firme] <Ltop> N F S @P<  
+$. 
+</s>

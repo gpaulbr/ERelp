@@ -1,0 +1,63 @@
+$S-1
+António=Nunes	 [António=Nunes] <hum> PROP M S @SUBJ> PES O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M/F S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N O
+Autoridade=de=Segurança=Alimentar=e=Económica	 [Autoridade=de=Segurança=Alimentar=e=Económica] <org> PROP F S @P< ORG O
+$( O
+ASAE	 [ASAE] <org> <np-close> PROP M/F S @N<PRED O 
+$) O
+$, O
+uma	 [uma] <card> NUM F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O 
+as	 [o] <artd> <-sam> DET F P @>N O
+entidades	 [entidade] <H> N F P @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+irá	 [ir] <aux> <np-close> V FUT 3S IND VFIN @FS-N< O 
+fiscalizar	 [fiscalizar] <vH> <mv> V INF @ICL-AUX< O
+a	 [o] <artd> DET F S @>N O
+aplicação	 [aplicação] <act> <sem-r> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+lei	 [lei] <conv> <percep-f> N F S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+proibe	 [proibir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+o	 [o] <artd> DET M S @>N O
+fumo	 [fumo] <cm> N M S @<ACC O
+em	 [em] PRP @<ADVL O
+espaços	 [espaço] <Labs> <Ltop> N M P @P< O
+fechados	 [fechar] <np-close> V PCP M P @N< O
+de	 [de] <np-close> PRP @N< O
+utilização	 [utilização] <act> N F S @P< O
+pública	 [público] <jh> <np-close> ADJ F S @N< O 
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+fotografado	 [fotografar] <vH> <mv> V PCP M S @ICL-AUX< O
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+Diário=de=Notícias	 [Diário=de=Notícias] <media> PROP M S @P< O
+$( O
+DN	 [DN] <org> <np-close> PROP M/F S @N<PRED O 
+$) O
+a	 [a] PRP @<ADVL O
+fumar	 [fumar] <mv> V INF @ICL-P< O
+uma	 [um] <arti> DET F S @>N O
+cigarrilha	 [cigarrilha] <cc> N F S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Casino=do=Estoril	 [Casino=do=Estoril] <inst> PROP M S @P< O
+a	 [a] <sam-> PRP @<ADVL O
+as	 [o] <-sam> <artd> DET F P @>N O
+02.30	 [02.30] <card> NUM F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+manhã	 [manhã] <temp> <per> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+dia	 [dia] <per> <dur> <temp> N M S @P< O
+01	 [01] <card> <np-close> NUM M/F P @N< O 
+de	 [de] <np-close> PRP @N< O
+Janeiro	 [janeiro] <prop> N M S @P< O
+$. O
+</s>

@@ -1,0 +1,851 @@
+$S-3
+O	 [o] <*> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> PROP M S @SUBJ> ORG O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @SUBJ>  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Be	 [be] <prop> <*> N M S @SUBJ>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+alguns	 [algum] <-sam> <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+mesmo	 [mesmo] <ident> <np-close> DET M S @N<  O
+alguns	 [algum] <quant> DET M P @>N  O
+raros	 [raro] <n> <jh> ADJ M P @SUBJ>  O
+dissidentes	 [dissidente] <n> <jh> ADJ M/F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< O
+socrático	 [socrático] <np-close> ADJ M S @N<  O
+$, O
+têm	 [ter] <fmc> <aux> V PR 3P IND VFIN @FS-STA REL
+criticado	 [criticar] <vH> <mv> V PCP @ICL-AUX< REL
+o	 [o] <artd> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> PROP M S @<ACC ORG O
+$, O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ>  O
+passa	 [passar] <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+sombras	 [sombra] <Labs> N F P @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+pura	 [puro] <jh> <mente> ADJ F S @<ADVL  O
+e	 [e] KC @NPHR  O
+simplesmente	 [simplesmente] ADV @<ADVL  O
+silencioso	 [silencioso] <jh> ADJ M S @<SC  O
+$, O
+ou	 [ou] KC @NPHR  O
+murmurando	 [murmurar] <vH> <mv> V GER @IMV  O
+umas	 [um] <quant> DET F P @>N  O
+críticas	 [crítico] <n> <jh> ADJ F P @<ACC  O
+de	 [de] PRP @A<  O
+circunstância	 [circunstância] <sit> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ninguém	 [ninguém] SPEC M S @SUBJ>  O
+ouve	 [ouvir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+$, O
+em	 [em] PRP @<ADVL  O
+muitos	 [muito] <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+concordando	 [concordar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+com	 [com] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P<  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-4
+O	 [o] <*> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> N M S @SUBJ>  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @SUBJ> ORG O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Be	 [be] <prop> <*> N M S @SUBJ>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+alguns	 [algum] <-sam> <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+mesmo	 [mesmo] <ident> <np-close> DET M S @N<  O
+alguns	 [algum] <quant> DET M P @>N  O
+raros	 [raro] <n> <jh> ADJ M P @SUBJ>  O
+dissidentes	 [dissidente] <n> <jh> ADJ M/F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< O
+socrático	 [socrático] <np-close> ADJ M S @N<  O
+$, O
+têm	 [ter] <fmc> <aux> V PR 3P IND VFIN @FS-STA REL
+criticado	 [criticar] <vH> <mv> V PCP @ICL-AUX< REL
+o	 [o] <artd> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> PROP M S @<ACC ORG O
+$, O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ>  O
+passa	 [passar] <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+sombras	 [sombra] <Labs> N F P @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+pura	 [puro] <jh> <mente> ADJ F S @<ADVL  O
+e	 [e] KC @NPHR  O
+simplesmente	 [simplesmente] ADV @<ADVL  O
+silencioso	 [silencioso] <jh> ADJ M S @<SC  O
+$, O
+ou	 [ou] KC @NPHR  O
+murmurando	 [murmurar] <vH> <mv> V GER @IMV  O
+umas	 [um] <quant> DET F P @>N  O
+críticas	 [crítico] <n> <jh> ADJ F P @<ACC  O
+de	 [de] PRP @A<  O
+circunstância	 [circunstância] <sit> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ninguém	 [ninguém] SPEC M S @SUBJ>  O
+ouve	 [ouvir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+$, O
+em	 [em] PRP @<ADVL  O
+muitos	 [muito] <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+concordando	 [concordar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+com	 [com] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P<  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-5
+O	 [o] <*> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> N M S @SUBJ>  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @SUBJ>  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Be	 [be] <prop> <*> PROP M S @SUBJ> ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+alguns	 [algum] <-sam> <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+mesmo	 [mesmo] <ident> <np-close> DET M S @N<  O
+alguns	 [algum] <quant> DET M P @>N  O
+raros	 [raro] <n> <jh> ADJ M P @SUBJ>  O
+dissidentes	 [dissidente] <n> <jh> ADJ M/F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< O
+socrático	 [socrático] <np-close> ADJ M S @N<  O
+$, O
+têm	 [ter] <fmc> <aux> V PR 3P IND VFIN @FS-STA REL
+criticado	 [criticar] <vH> <mv> V PCP @ICL-AUX< REL
+o	 [o] <artd> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> PROP M S @<ACC ORG O
+$, O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ>  O
+passa	 [passar] <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+sombras	 [sombra] <Labs> N F P @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+pura	 [puro] <jh> <mente> ADJ F S @<ADVL  O
+e	 [e] KC @NPHR  O
+simplesmente	 [simplesmente] ADV @<ADVL  O
+silencioso	 [silencioso] <jh> ADJ M S @<SC  O
+$, O
+ou	 [ou] KC @NPHR  O
+murmurando	 [murmurar] <vH> <mv> V GER @IMV  O
+umas	 [um] <quant> DET F P @>N  O
+críticas	 [crítico] <n> <jh> ADJ F P @<ACC  O
+de	 [de] PRP @A<  O
+circunstância	 [circunstância] <sit> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ninguém	 [ninguém] SPEC M S @SUBJ>  O
+ouve	 [ouvir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+$, O
+em	 [em] PRP @<ADVL  O
+muitos	 [muito] <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+concordando	 [concordar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+com	 [com] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P<  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-6
+O	 [o] <*> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> N M S @SUBJ>  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @SUBJ>  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Be	 [be] <prop> <*> N M S @SUBJ>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+alguns	 [algum] <-sam> <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+mesmo	 [mesmo] <ident> <np-close> DET M S @N<  O
+alguns	 [algum] <quant> DET M P @>N  O
+raros	 [raro] <n> <jh> ADJ M P @SUBJ>  O
+dissidentes	 [dissidente] <n> <jh> ADJ M/F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< O
+socrático	 [socrático] <np-close> ADJ M S @N<  O
+$, O
+têm	 [ter] <fmc> <aux> V PR 3P IND VFIN @FS-STA O
+criticado	 [criticar] <vH> <mv> V PCP @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+Governo	 [governo] <prop> <*> <HH> N M S @<ACC O
+$, O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+passa	 [passar] <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+sombras	 [sombra] <Labs> N F P @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+pura	 [puro] <jh> <mente> ADJ F S @<ADVL  O
+e	 [e] KC @NPHR  O
+simplesmente	 [simplesmente] ADV @<ADVL  O
+silencioso	 [silencioso] <jh> ADJ M S @<SC  O
+$, O
+ou	 [ou] KC @NPHR  O
+murmurando	 [murmurar] <vH> <mv> V GER @IMV  O
+umas	 [um] <quant> DET F P @>N  O
+críticas	 [crítico] <n> <jh> ADJ F P @<ACC  O
+de	 [de] PRP @A<  O
+circunstância	 [circunstância] <sit> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ninguém	 [ninguém] SPEC M S @SUBJ>  O
+ouve	 [ouvir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+$, O
+em	 [em] PRP @<ADVL  O
+muitos	 [muito] <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+concordando	 [concordar] <clb> <vH> <mv> V GER @ICL-<ADVL REL
+com	 [com] PRP @<PIV REL
+o	 [o] <artd> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-7
+O	 [o] <*> <artd> DET M S @>N  O
+Pp	 [pp] <prop> <*> <percep-l> N M S @SUBJ>  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PCP	 [PCP] <party> <*> PROP M S @SUBJ>  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Be	 [be] <prop> <*> N M S @SUBJ>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+alguns	 [algum] <-sam> <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+mesmo	 [mesmo] <ident> <np-close> DET M S @N<  O
+alguns	 [algum] <quant> DET M P @>N  O
+raros	 [raro] <n> <jh> ADJ M P @SUBJ>  O
+dissidentes	 [dissidente] <n> <jh> ADJ M/F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< O
+socrático	 [socrático] <np-close> ADJ M S @N<  O
+$, O
+têm	 [ter] <fmc> <aux> V PR 3P IND VFIN @FS-STA O
+criticado	 [criticar] <vH> <mv> V PCP @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+Governo	 [governo] <prop> <*> <HH> N M S @<ACC O
+$, O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+passa	 [passar] <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+sombras	 [sombra] <Labs> N F P @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+pura	 [puro] <jh> <mente> ADJ F S @<ADVL  O
+e	 [e] KC @NPHR  O
+simplesmente	 [simplesmente] ADV @<ADVL  O
+silencioso	 [silencioso] <jh> ADJ M S @<SC  O
+$, O
+ou	 [ou] KC @NPHR  O
+murmurando	 [murmurar] <vH> <mv> V GER @IMV  O
+umas	 [um] <quant> DET F P @>N  O
+críticas	 [crítico] <n> <jh> ADJ F P @<ACC  O
+de	 [de] PRP @A<  O
+circunstância	 [circunstância] <sit> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ninguém	 [ninguém] SPEC M S @SUBJ>  O
+ouve	 [ouvir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+$, O
+em	 [em] PRP @<ADVL  O
+muitos	 [muito] <quant> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+concordando	 [concordar] <clb> <vH> <mv> V GER @ICL-<ADVL REL
+com	 [com] PRP @<PIV REL
+o	 [o] <artd> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> N M S @P< O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-8
+Admito	 [admitir] <*> <vH> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+tempos	 [tempo] <am> <temp> <per> <ac-cat> <wea> N M P @SUBJ>  O
+agora	 [agora] <kc> ADV @ADVL>  O
+não	 [não] ADV @ADVL>  O
+estarão	 [estar] <vK> <mv> V FUT 3P IND VFIN @FS-<ACC  O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+estavam	 [estar] <vK> <mv> V IMPF 3P IND VFIN @FS-<ADVL  O
+em	 [em] <sam-> PRP @<SA  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+tempo	 [tempo] <am> <temp> <per> <ac-cat> <wea> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Constâncio	 [Constâncio] <hum> <*> PROP M/F S @P<  O
+$, O
+nem	 [nem] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+dedicação	 [dedicação] <act> N F S @SUBJ>  O
+carinhosa	 [carinhoso] <jh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+comunicação	 [comunicação] <activity> <sem-s> <ac> N F S @P<  O
+social	 [social] <jh> <np-close> ADJ F S @N<  O
+a	 [a] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P< ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+idêntica	 [idêntico] <jh> ADJ F S @<SC  O
+a	 [a] <sam-> PRP @A<  O
+a	 [o] <-sam> <dem> DET F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+época	 [época] <per> N F S @P<  O
+prodigalizava	 [prodigalizar] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+$, O
+cujo	 [cujo] <clb> <clb-fs> <rel> DET M S @>N  O
+estado	 [estado] <Lciv> <state> N M S @SUBJ>  O
+a	 [ela] PERS F 3S ACC @ACC>  O
+preocupava	 [preocupar] <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+$. O
+</s>
+
+$S-9
+Mas	 [mas] <*> KC @NPHR  O
+$, O
+quando	 [quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+vier	 [vir] <mv> V FUT 3S SUBJ VFIN @FS-ADVL>  O
+a	 [o] <artd> DET F S @>N  O
+pergunta	 [pergunta] <act-s> N F S @<SUBJ  O
+$, O
+será	 [ser] <vK> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+mais	 [mais] ADV @<ADVL  O
+para	 [para] PRP @<SC  O
+a	 [o] <artd> DET F S @>N  O
+coreografia	 [coreografia] <sem-w> N F S @P<  O
+do=que	 [do=que] <com> KS @AS-KOMP<  O
+para	 [para] PRP @AS<  O
+a	 [o] <artd> DET F S @>N  O
+substância	 [substância] <cm> <am> N F S @P<  O
+$, O
+porque	 [porque] <clb> <clb-fs> KS @SUB  O
+esta	 [este] <dem> DET F S @SUBJ>  O
+está	 [estar] <mv> V PR 3S IND VFIN @FS-<ADVL  O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+muito	 [muito] <quant> ADV @>A  O
+respondida	 [responder] V PCP F S @<PRED  O
+$: O
+de	 [de] PRP @ADVL>  O
+há	 [há] PRP @ADVL>  O
+uns	 [um] <quant> DET M P @>N  O
+tempos	 [tempo] <am> <temp> <per> <ac-cat> <wea> N M P @P<  O
+a	 [a] PRP @ADVL>  O
+esta	 [este] <dem> DET F S @>N  O
+parte	 [parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+onde	 [onde] <clb> <clb-fs> <rel> <ks> ADV @SA> REL
+está	 [estar] <vK> <mv> V PR 3S IND VFIN @FS-<ADVS REL
+o	 [o] <artd> DET M S @>N REL
+PS	 [PS] <party> <*> PROP M S @<SC ORG O
+$. O
+</s>
+
+$S-11
+Desde	 [desde] <*> PRP @ADVL>  O
+aí	 [aí] <kc> ADV @ADVL>  O
+que	 [que] <foc> ADV @<FOC  O
+se	 [se] PERS M/F 3P ACC @ACC>-PASS  O
+conhecem	 [conhecer] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+as	 [o] <artd> DET F P @>N  O
+razões	 [razão] <ac> <am> <ac-cat> N F P @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+substância	 [substância] <cm> <am> N F S @P<  O
+para	 [para] <np-long> PRP @N<  O
+este	 [este] <dem> DET M S @>N  O
+já	 [já] ADV @>A  O
+longo	 [longo] ADJ M S @>N  O
+silêncio	 [silêncio] <sit> N M S @P<  O
+$: O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+aproximou-	 [aproximar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+se	 [se] <refl> PERS M 3S ACC @<ACC REL
+politicamente	 [político] ADV @<ADVL REL
+de	 [de] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+nunca	 [nunca] ADV @ADVL>  O
+esteve	 [estar] <mv> <np-close> V PS 3S IND VFIN @FS-<ADVL @FS-N<  O
+antes	 [antes] ADV @<ADVL  O
+$, O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+ponto	 [ponto] <Labs> <temp> <Lh> <sem-c> <unit> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+se	 [se] <obj> PERS M/F 3S/P ACC @ACC>  O
+oferecer	 [oferecer] <vH> <mv> V INF @ICL-P<  O
+para	 [para] PRP @<ADVL  O
+co-governar	 [co-governar] <vH> <mv> V INF @ICL-P<  O
+em	 [em] PRP @<ADVL  O
+praticamente	 [prático] ADV @ADVL>  O
+todas=as	 [todo=o] <quant> DET F P @>N  O
+áreas	 [área] <L> <Lh> N F P @P<  O
+$. O
+</s>
+
+$S-23
+Este	 [este] <*> <dem> DET M S @>N  O
+$" O
+bloco	 [bloco] <*1> <amount> <HH> <Lh> N M S @SUBJ>  O
+central	 [central] <*2> <nh> <np-close> ADJ M S @N<  O
+$" O
+político	 [político] <jh> <np-long> ADJ M S @N<  O
+esteve	 [estar] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+sempre	 [sempre] ADV @<ADVL  O
+dentro=de	 [dentro=de] <sam-> PRP @<SC  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P< ORG O
+$, O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+esteve	 [estar] <vK> <mv> V PS 3S IND VFIN @FS-<ADVL  O
+e	 [e] KC @NPHR  O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-<ADVL  O
+em	 [em] <sam-> PRP @<SA  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+sobrevivência	 [sobrevivência] <percep-f> N F S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+laços	 [laço] <cord> <Lopening> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+interesses	 [interesse] <am> N M P @P<  O
+profundos	 [profundo] <nh> <np-close> ADJ M P @N<  O
+representados	 [representar] <mv> <np-close> V PCP M P @ICL-N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+dois	 [dois] <card> NUM M P @>N  O
+partidos	 [partido] <HHparty> N M P @P<  O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+$, O
+depois	 [depois] ADV @ADVL>  O
+$, O
+encontra	 [encontrar] <vH> <mv> V PR 3S IND VFIN @FS-<SUBJ  O
+expressão	 [expressão] <act-s> <ac-sign> N F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+rastro	 [rastro] <percep-w> <Lpath> N M S @P<  O
+salazarista	 [salazarista] <np-close> ADJ M S @N<  O
+antidemocrático	 [antidemocrático] <np-long> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+consensos	 [consenso] <sem-c> N M P @P<  O
+$. O
+</s>
+
+$S-24
+Em	 [em] <sam-> <*> PRP @ADVL>  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+primeiros	 [primeiro] <NUM-ord> ADJ M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+democracia	 [democracia] <ism> <inst> N F S @P<  O
+$, O
+este	 [este] <dem> DET M S @>N  O
+$" O
+bloco	 [bloco] <*1> <amount> <HH> <Lh> N M S @SUBJ>  O
+central	 [central] <*2> <nh> <np-close> ADJ M S @N<  O
+$" O
+concentrava-	 [concentrar] <hyfen> <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+em	 [em] PRP @<ADVL  O
+exercer	 [exercer] <vH> <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+poder	 [poder] <am> <ac> <Labs> N M S @<ACC  O
+através	 [através] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+economia	 [economia] <domain> N F S @P<  O
+nacionalizada	 [nacionalizar] <vH> <np-close> V PCP F S @N<  O
+pós-1975	 [pós-1975] <per> N M S @<ACC  O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+aí	 [aí] <-sam> ADV @ADVL>  O
+poder	 [poder] <aux> V INF @ICL-P<  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+representado	 [representar] <mv> V PCP M S @ICL-AUX<  O
+simbolicamente	 [simbólico] <nh> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cena	 [cena] <Lh> <act-d> <sem-w> <sit> N F S @P<  O
+real	 [real] <jh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+responsáveis	 [responsável] <n> <jh> ADJ M/F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+dois	 [dois] <card> NUM M P @>N  O
+partidos	 [partido] <HHparty> N M P @P<  O
+reunidos	 [reunir] <vH> <mv> <np-close> V PCP M P @ICL-N<  O
+a	 [a] PRP @<PIV  O
+distribuir	 [distribuir] <vH> <mv> V INF @ICL-P<  O
+os	 [o] <artd> DET M P @>N  O
+lugares	 [lugar] <L> <Lciv> <Labs> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+gestores	 [gestor] <Hprof> N M P @P<  O
+públicos	 [público] <jh> <np-close> ADJ M P @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+empresas	 [empresa] <HH> N F P @P<  O
+$: O
+estes	 [este] <dem> DET M P @>N  O
+dois	 [dois] <card> NUM M P @SUBJ>  O
+são	 [ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+para	 [para] PRP @<SC  O
+mim	 [eu] PERS M/F 1S PIV @P<  O
+$, O
+este	 [este] <dem> DET M S @<SC  O
+fica	 [ficar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+para	 [para] PRP @<SC  O
+ti	 [tu] PERS M/F 2S PIV @P<  O
+$, O
+este	 [este] <dem> DET M S @SUBJ>  O
+vai	 [ir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+para	 [para] PRP @<ADVL  O
+a	 [a] PRP @<ADVL  O
+TAP	 [TAP] <inst> <*> PROP M P @P<  O
+e	 [e] KC @NPHR  O
+dou-	 [dar] <hyfen> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+te	 [tu] <refl> PERS M/F 2S DAT @<DAT  O
+dois	 [dois] <card> NUM M/F P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+CP	 [CP] <org> <*> PROP F S @P<  O
+$, O
+mas	 [mas] <clb> KC @NPHR  O
+este	 [este] <dem> DET M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+EDP	 [EDP] <org> <*> PROP F S @P< ORG O
+não	 [não] ADV @ADVL> REL
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA REL
+ser	 [ser] <aux> V INF @ICL-AUX< REL
+comparado	 [comparar] <vH> <mv> V PCP M S @ICL-AUX< REL
+como	 [como] <com> <adv-rel> PRP @<ADVL REL
+este	 [este] <asarg> <dem> DET M S @P< REL
+em	 [em] <sam-> PRP @<ADVL REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Imprensa=Nacional	 [Imprensa=Nacional] <media> <*> PROP F S @P< ORG O
+$, O
+etc.	 [etc.] ADV @<ADVL  O
+$. O
+</s>
+
+$S-244
+Em	 [em] <sam-> <*> PRP @ADVL>  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+primeiros	 [primeiro] <NUM-ord> ADJ M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+democracia	 [democracia] <ism> <inst> N F S @P<  O
+$, O
+este	 [este] <dem> DET M S @>N  O
+$" O
+bloco	 [bloco] <*1> <amount> <HH> <Lh> N M S @SUBJ>  O
+central	 [central] <*2> <nh> <np-close> ADJ M S @N<  O
+$" O
+concentrava-	 [concentrar] <hyfen> <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+em	 [em] PRP @<ADVL  O
+exercer	 [exercer] <vH> <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+poder	 [poder] <am> <ac> <Labs> N M S @<ACC  O
+através	 [através] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+economia	 [economia] <domain> N F S @P<  O
+nacionalizada	 [nacionalizar] <vH> <np-close> V PCP F S @N<  O
+pós-1975	 [pós-1975] <per> N M S @<ACC  O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+aí	 [aí] <-sam> ADV @ADVL>  O
+poder	 [poder] <aux> V INF @ICL-P<  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+representado	 [representar] <mv> V PCP M S @ICL-AUX<  O
+simbolicamente	 [simbólico] <nh> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cena	 [cena] <Lh> <act-d> <sem-w> <sit> N F S @P<  O
+real	 [real] <jh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+responsáveis	 [responsável] <n> <jh> ADJ M/F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+dois	 [dois] <card> NUM M P @>N  O
+partidos	 [partido] <HHparty> N M P @P<  O
+reunidos	 [reunir] <vH> <mv> <np-close> V PCP M P @ICL-N<  O
+a	 [a] PRP @<PIV  O
+distribuir	 [distribuir] <vH> <mv> V INF @ICL-P<  O
+os	 [o] <artd> DET M P @>N  O
+lugares	 [lugar] <L> <Lciv> <Labs> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+gestores	 [gestor] <Hprof> N M P @P<  O
+públicos	 [público] <jh> <np-close> ADJ M P @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+empresas	 [empresa] <HH> N F P @P<  O
+$: O
+estes	 [este] <dem> DET M P @>N  O
+dois	 [dois] <card> NUM M P @SUBJ>  O
+são	 [ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+para	 [para] PRP @<SC  O
+mim	 [eu] PERS M/F 1S PIV @P<  O
+$, O
+este	 [este] <dem> DET M S @<SC  O
+fica	 [ficar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+para	 [para] PRP @<SC  O
+ti	 [tu] PERS M/F 2S PIV @P<  O
+$, O
+este	 [este] <dem> DET M S @SUBJ>  O
+vai	 [ir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+para	 [para] PRP @<ADVL  O
+a	 [a] PRP @<ADVL  O
+TAP	 [TAP] <inst> <*> PROP M P @P< ORG O
+e	 [e] KC @NPHR  O
+dou-	 [dar] <hyfen> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+te	 [tu] <refl> PERS M/F 2S DAT @<DAT  O
+dois	 [dois] <card> NUM M/F P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+CP	 [CP] <org> <*> PROP F S @P< ORG O
+$, O
+mas	 [mas] <clb> KC @NPHR  O
+este	 [este] <dem> DET M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+EDP	 [EDP] <org> <*> PROP F S @P< O
+não	 [não] ADV @ADVL> O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+ser	 [ser] <aux> V INF @ICL-AUX< O
+comparado	 [comparar] <vH> <mv> V PCP M S @ICL-AUX< O
+como	 [como] <com> <adv-rel> PRP @<ADVL O
+este	 [este] <asarg> <dem> DET M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <-sam> <artd> DET F S @>N O
+Imprensa=Nacional	 [Imprensa=Nacional] <media> <*> PROP F S @P< O
+$, O
+etc.	 [etc.] ADV @<ADVL  O
+$. O
+</s>
+
+$S-32
+O	 [o] <*> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @SUBJ> ORG O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+crucial	 [crucial] <nh> ADJ M S @<SC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+defesa	 [defesa] <act> <anzo> <HH> <act-s> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+democracia	 [democracia] <ism> <inst> N F S @P<  O
+política	 [político] <jh> <np-close> ADJ F S @N<  O
+em	 [em] <np-long> PRP @N<  O
+1975	 [1975] <card> <date> <year> NUM M/F P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+crucial	 [crucial] <nh> ADJ M S @<SC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+normalização	 [normalização] <act> N F S @P<  O
+democrática	 [democrático] <jh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-33
+Sem	 [sem] <*> PRP @ADVL> @PRED>  O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P< ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <-sam> <artd> DET F S @>N O
+fórmula	 [fórmula] <cc-r> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+AD [AD] <party> <*> PROP M S @SUBJ> ORG O
+de	 [de] <sam-> <np-close> PRP @N<  O
+Sá=Carneiro	 [Sá=Carneiro] <tit> <*> PROP F S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>  O
+iria	 [ir] <fmc> <mv> V COND 1/3S VFIN @FS-STA  O
+tão	 [tão] <dem> <quant> ADV @<ADVL  O
+longe	 [longe] ADV @<SA  O
+e	 [e] KC @NPHR  O
+tão	 [tão] <dem> <quant> ADV @<ADVL @>A  O
+cedo	 [cedo] <pp> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+fim	 [fim] <temp> <event> <sem-c> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+presença	 [presença] <state> <per> N F S @P<  O
+militar	 [militar] <np-close> ADJ F S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+tutela	 [tutela] <pos-soc> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+democracia	 [democracia] <ism> <inst> N F S @P<  O
+$. O
+</s>
+
+$S-37
+Sem	 [sem] <*> PRP @ADVL> @PRED>  O
+esse	 [esse] <dem> DET M S @>N  O
+lado	 [lado] <Labs> N M S @P<  O
+reformista	 [reformista] <np-close> ADJ M S @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+ficará	 [ficar] <vK> <fmc> <mv> V FUT 3S IND VFIN @FS-STA REL
+tão	 [tão] <dem> <quant> ADV @<ADVL REL
+próximo=de	 [próximo=de] <sam-> PRP @<SC REL
+o	 [o] <artd> <-sam> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> N M S @P< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<SC  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+$, O
+à=luz=de	 [à=luz=de] PRP @ADVL>  O
+um	 [um] <card> NUM M S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+se	 [se] PERS M/F 3S/P ACC @SUBJ>  O
+vê	 [ver] <vH> <mv> V PR 3S IND VFIN @FS-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+sombra	 [sombra] <Labs> N F S @<OC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+outro	 [outro] <diff> <KOMP> DET M S @P<  O
+$. O
+</s>
+
+$S-377
+Sem	 [sem] <*> PRP @ADVL> @PRED>  O
+esse	 [esse] <dem> DET M S @>N  O
+lado	 [lado] <Labs> N M S @P<  O
+reformista	 [reformista] <np-close> ADJ M S @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+ficará	 [ficar] <vK> <fmc> <mv> V FUT 3S IND VFIN @FS-STA REL
+tão	 [tão] <dem> <quant> ADV @<ADVL REL
+próximo=de	 [próximo=de] <sam-> PRP @<SC REL
+o	 [o] <artd> <-sam> DET M S @>N REL
+Governo	 [governo] <prop> <*> <HH> N M S @P< O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<SC  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+$, O
+à=luz=de	 [à=luz=de] PRP @ADVL>  O
+um	 [um] <card> NUM M S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+se	 [se] PERS M/F 3S/P ACC @SUBJ>  O
+vê	 [ver] <vH> <mv> V PR 3S IND VFIN @FS-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+sombra	 [sombra] <Labs> N F S @<OC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+outro	 [outro] <diff> <KOMP> DET M S @P<  O
+$. O
+</s>

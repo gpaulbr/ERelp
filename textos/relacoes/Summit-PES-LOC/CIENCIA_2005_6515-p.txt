@@ -1,0 +1,34 @@
+$S-5
+A 	[o]   <artd> DET F S @>N  
+multa 	[multa] <mon> N F S @SUBJ>  
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC  
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  
+reduzida 	[reduzido] ADJ F S @<SC  
+em 	[em] PRP @<ADVL  
+90% 	[90%] <card> NUM M P @>N   
+se 	[se] <clb> <clb-fs> KS @SUB  
+for 	[ser] <aux> V FUT 3S SUBJ VFIN @FS-<ADVL  
+apresentado 	[apresentar] <vH> <mv> V PCP M S @ICL-AUX<  
+um 	[um] <arti> DET M S @>N  
+plano 	[plano] <sem-c> <Labs> N M S @<SUBJ  
+de 	[de] <np-close> PRP @N<  
+recuperação 	[recuperação] <act> <process> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+área 	[área] <L> <Lh> N F S @P<  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+gerente-executivo 	[gerente-executivo] <Hprof> N M S @<SUBJ  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Ibama 	[Ibama] <inst>   PROP M S @P<  ORG
+em 	[em] <np-close> PRP @N<  
+Campo=Grande 	[Campo=Grande] <top>   <newlex> PROP F S @P<  
+$( 
+MS 	[MS] <civ>   <np-close> PROP M S @N<PRED  
+$) 
+$, 
+Nereu=Fontes 	[Nereu=Fontes] <hum>   <np-close> PROP M S @APP  PES
+$. 
+</s>

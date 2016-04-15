@@ -1,0 +1,160 @@
+
+    
+      FAZER A FESTA, LANÇAR OS FOGUETES E APANHAR AS CANAS: Ao que parece,
+      <EM ID="H2-gt654-241" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Paulo Pinto Mascarenhas</EM>
+      tem a convicção firme de que certa personagem que interpretei está a falar com ele. A generalidade dos malucos ouve a voz de
+      <EM ID="H2-gt654-242" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jesus Cristo</EM>
+      ;
+      <EM ID="H2-gt654-243" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      ouve a minha. Enfim, cada um tem a
+      <EM ID="H2-gt654-244" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alexandra Solnado</EM>
+      que merece  e, mesmo sendo ateu, parece-me mais do que justo que eu tenha pior sorte que o
+      <EM ID="H2-gt654-245" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-242" TIPOREL="ident">Messias</EM>
+      .
+    
+    
+      Talvez seja bom explicar o que se passa. O povo português tem tido, até agora, a decência de não delegar em
+      <EM ID="H2-gt654-246" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      qualquer espécie de poder. Mas a verdade é que o povo português não tem sido tão sensato no que respeita a outras pessoas. Eu sei que esta notícia vai cair como uma bomba no
+      <EM ID="H2-gt654-261" CATEG="LOCAL" TIPO="VIRTUAL"  >31 da Armada</EM>
+      , mas há gente um pouco mais poderosa do que o
+      <EM ID="H2-gt654-249" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      . É uma coisa muito ligeira, mas tem, de facto, um bocadinho mais de poder. E essa gente, quando se sente atingida, ou quando sente que os amigos foram atingidos (mesmo que seja por uma rábula humorística), pressiona, corta relações com a estação de televisão em que a rábula foi emitida, manda recados com ameaças, faz saber que ficará à espera de uma oportunidade para nos fazer, digamos, coisas bonitas (sempre que posso, uso expressões de
+      <EM ID="H2-gt654-250" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Artur Jorge</EM>
+      ). É isso que tem acontecido desde que o
+      <EM ID="H2-gt654-251" CATEG="OBRA" TIPO="REPRODUZIDA"  >Diz Que É Uma Espécie de Magazine</EM>
+      começou e foi o que aconteceu agora, de forma bastante mais intensa, na sequência do sketch sobre
+      <EM ID="H2-gt654-252" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marcelo Rebelo de Sousa</EM>
+      .
+      <EM ID="H2-gt654-33" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em tempos</EM>
+      , o
+      <EM ID="H2-gt654-253" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Herman</EM>
+      disse-me que o pequeno poder (e,
+      <EM ID="H2-gt654-34" CATEG="TEMPO" TIPO="FREQUENCIA"  >às vezes</EM>
+      , não tão pequeno como isso) sabe encontrar maneiras de pressionar no sentido de fazer censura sem sujar as mãos, de ameaçar sem poder ser denunciado, de intimidar sem aparecer. <EM ID="H2-gt654-340" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Na semana passada</EM> percebi isso melhor do que gostaria, e dei-lhe razão.
+    
+    
+      Decidimos fazer uma rábula sobre esta espécie dissimulada de censura.
+      <EM ID="H2-gt654-36" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Ontem</EM>
+      , uma jornalista do
+      <EM ID="H2-gt654-254" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >DN</EM>
+      perguntou-me se tínhamos sido pressionados pela
+      <EM ID="H2-gt654-255" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >RTP</EM>
+      e pelo
+      <EM ID="H2-gt654-256" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|CARGO"  >Provedor do Espectador</EM>
+      . Respondi que não, e não menti. Da
+      <EM ID="H2-gt654-257" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="H2-gt654-255" TIPOREL="ident">RTP</EM>
+      e do
+      <EM ID="H2-gt654-258" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|CARGO" COREL="H2-gt654-256 H2-gt654-256" TIPOREL="ORGANIZACAO**ident**H2-gt654-256**ORGANIZACAO PESSOA**ident**H2-gt654-256**PESSOA">Provedor do Espectador</EM>
+      , não veio qualquer espécie de pressão. Quem sobra? No entender do
+      <EM ID="H2-gt654-259" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      , sobra ele e um post que escreveu no
+      <EM ID="H2-gt654-260" CATEG="LOCAL" TIPO="VIRTUAL" COREL="H2-gt654-261" TIPOREL="ident">31 da Armada</EM>
+      . Fizemos uma rábula para um milhão e meio de espectadores por causa de um post do
+      <EM ID="H2-gt654-262" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      no
+      <EM ID="H2-gt654-263" CATEG="LOCAL" TIPO="VIRTUAL" COREL="H2-gt654-261" TIPOREL="ident">31 da Armada</EM>
+      . Mandei uma mensagem ao
+      <EM ID="H2-gt654-264" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-253" TIPOREL="ident">Herman</EM>
+      a dar-lhe razão por causa de um post do
+      <EM ID="H2-gt654-265" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      no
+      <EM ID="H2-gt654-266" CATEG="LOCAL" TIPO="VIRTUAL" COREL="H2-gt654-261" TIPOREL="ident">31 da Armada</EM>
+      . E dei-lhe razão porque, como é óbvio, foi para isso que ele me advertiu. «Põe-te com brincadeiras e vais ver que,
+      <EM ID="H2-gt654-38" CATEG="TEMPO|TEMPO" TIPO="TEMPO_CALEND|GENERICO"  >um dia destes</EM>
+      , o
+      <EM ID="H2-gt654-267" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      faz um post sobre ti no
+      <EM ID="H2-gt654-268" CATEG="LOCAL" TIPO="VIRTUAL" COREL="H2-gt654-261" TIPOREL="ident">31 da Armada</EM>
+      », foram as palavras exactas dele. «Tinha razão,
+      <EM ID="H2-gt654-269" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-253" TIPOREL="ident">Herman</EM>
+      », disse-lhe eu agora.
+    
+    
+      Há, no meio disto tudo, um pormenor que pode intrigar o leitor. Se eu já interpretei tantas personagens apalermadas e de discurso incoerente, porque é que o
+      <EM ID="H2-gt654-270" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      só se sentiu retratado agora? Boa pergunta, leitor. Vagamente insultuosa, mas boa. Eu respondo: por duas razões. Primeiro, porque quando eu disse que a
+      <EM ID="H2-gt654-271" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="H2-gt654-255" TIPOREL="ident">RTP</EM>
+      e o
+      <EM ID="H2-gt654-272" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|CARGO" COREL="H2-gt654-256 H2-gt654-256" TIPOREL="ORGANIZACAO**ident**H2-gt654-256**ORGANIZACAO PESSOA**ident**H2-gt654-256**PESSOA">Provedor</EM>
+      não nos tinham pressionado, a jornalista tirou conclusões que não são as minhas. Segundo, porque a crítica do
+      <EM ID="H2-gt654-273" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      segue, digamos, a mesma matriz ideológica que o pequeno poder (e,
+      <EM ID="H2-gt654-35" CATEG="TEMPO" TIPO="FREQUENCIA"  >às vezes</EM>
+      , não tão pequeno como isso) perfilha. Aliás, a crítica do
+      <EM ID="H2-gt654-274" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      não é nova, nem é só dele. Já tinha sido usada para pedir a nossa imparcialidade em relação a
+      <EM ID="H2-gt654-275" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Salazar</EM>
+      e
+      <EM ID="H2-gt654-276" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cunhal</EM>
+      . Ou em relação a
+      <EM ID="H2-gt654-277" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pinto da Costa</EM>
+      e
+      <EM ID="H2-gt654-278" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luís Filipe Vieira</EM>
+      . Ou em relação à
+      <EM ID="H2-gt654-281" CATEG="OBRA" TIPO="REPRODUZIDA"  >Floribella</EM>
+      e à
+      <EM ID="H2-gt654-282" CATEG="OBRA" TIPO="REPRODUZIDA"  >Doce Fugitiva</EM>
+      . Mas dizem-me que é intelectualmente desonesto falar nisto.
+    
+    
+      Parece que o que é intelectualmente honesto é dizer que um programa humorístico de sátira social e política deve ser imparcial (argumento espantoso). Ou dizer que criticar o
+      <EM ID="H2-gt654-283" CATEG="PESSOA" TIPO="INDIVIDUAL"  >prof. Marcelo</EM>
+      é fazer campanha pelo
+      <EM ID="H2-gt654-286" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="DISCIPLINA|IDEIA"  >Sim</EM>
+      . O próprio
+      <EM ID="H2-gt654-285" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-283" TIPOREL="ident">prof. Marcelo</EM>
+      diz que foi criticado por muitos defensores do
+      <EM ID="H2-gt654-287" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="DISCIPLINA|IDEIA"  >Não</EM>
+      o que só pode significar que, pelos vistos, há gente do
+      <EM ID="H2-gt654-288" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="H2-gt654-287" TIPOREL="ABSTRACCAO**ident**H2-gt654-287**ABSTRACCAO">Não</EM>
+      a fazer campanha pelo
+      <EM ID="H2-gt654-289" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="DISCIPLINA|IDEIA" COREL="H2-gt654-286" TIPOREL="ident">Sim</EM>
+      .
+    
+    
+      <EM ID="H2-gt654-290" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      , referindo-se ao sketch sobre o
+      <EM ID="H2-gt654-291" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-283" TIPOREL="ident">prof. Marcelo</EM>
+      , diz que, «em plena campanha eleitoral» quisemos Žridicularizar os argumentos de um dos lados em confronto no referendo». Primeiro, o
+      <EM ID="H2-gt654-292" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-283" TIPOREL="ident">prof. Marcelo</EM>
+      não representa o
+      <EM ID="H2-gt654-293" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="DISCIPLINA|IDEIA" COREL="H2-gt654-287" TIPOREL="ident">Não</EM>
+      . Ele mesmo, aliás, afirma que há vários
+      <EM ID="H2-gt654-294" CATEG="ABSTRACCAO|ABSTRACCAO|COISA" TIPO="DISCIPLINA|IDEIA|CLASSE" COREL="H2-gt654-287" TIPOREL="ABSTRACCAO**ident**H2-gt654-287**ABSTRACCAO">Nãos</EM>
+      . Segundo, a nossa rábula sobre o
+      <EM ID="H2-gt654-295" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-283" TIPOREL="ident">prof. Marcelo</EM>
+      foi transmitida
+      <EM ID="H2-gt654-296" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no domingo, dia 28 de Janeiro</EM>
+      . A campanha começou
+      <EM ID="H2-gt654-297" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na terça-feira, dia 30</EM>
+      . Dizer que fizemos o sketch «em plena campanha eleitoral» é, portanto, uma... Bom, parece-me que não há maneira delicada de o dizer: é mentira.
+    
+    
+      Não posso deixar de fazer referência às últimas palavras de
+      <EM ID="H2-gt654-298" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      , que me parecem interessantes: «
+      <EM ID="H2-gt654-299" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-251" TIPOREL="autor_de">Ricardo Araújo Pereira</EM>
+      pode dizer que não me conhece de lado nenhum, como disse ao
+      <EM ID="H2-gt654-300" CATEG="PESSOA" TIPO="MEMBRO"  >24 Horas</EM>
+      . Pode, mas estará a faltar à verdade se o repetir em relação ao
+      <EM ID="H2-gt654-301" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rodrigo Moita de Deus</EM>
+      .» Quero agradecer, penhorado, que
+      <EM ID="H2-gt654-302" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      me autorize a dizer o que eu disse. Já é mais do que costuma fazer, e registo a evolução democrática. Agradeço ainda mais que me ponha de sobreaviso em relação à veracidade do que eu não disse mas, por uma razão que <EM ID="H2-gt654-2" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >neste momento</EM> me escapa, poderei vir a dizer.
+    
+    
+      Uma nota final: estou muito habituado às críticas do
+      <EM ID="H2-gt654-303" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      , que têm, aliás, sempre o mesmo sentido. Normalmente, comento-as aqui mesmo. Na televisão e na imprensa, costumo satirizar gente que a generalidade do público conhece, e que diz coisas ridículas. Enquanto o
+      <EM ID="H2-gt654-304" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      continuar a preencher apenas um destes requisitos, pela minha parte também continuarei a responder-lhe apenas aqui no blog. Por isso, e para evitar confusões futuras, gostava de sublinhar o seguinte: se, <EM ID="H2-gt654-310" CATEG="TEMPO" TIPO="GENERICO"  >um dia</EM>, eu interpretar uma personagem megalómana, moralista e que mente para fazer valer os seus argumentos, o mais provável é que eu não esteja a satirizar o
+      <EM ID="H2-gt654-305" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-241" TIPOREL="ident">PPM</EM>
+      . Há mais
+      <EM ID="H2-gt654-306" CATEG="COISA" TIPO="CLASSE"  >Marias</EM>
+      na
+      <EM ID="H2-gt654-307" CATEG="LOCAL" TIPO="FISICO"  >Terra</EM>
+      .
+      <EM ID="H2-gt654-308" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-gt654-299" TIPOREL="ident">RAP</EM>
+    
+  

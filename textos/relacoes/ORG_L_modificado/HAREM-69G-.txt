@@ -1,0 +1,329 @@
+$S-1
+Almeida=Henriques	 [Almeida=Henriques] <hum> <*> PROP M S @SUBJ> O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Associação=Industrial=da=Região=de=Viseu	 [Associação=Industrial=da=Região=de=Viseu] <org> <*> PROP F S @P< ORG O
+$( O
+AIRV	 [AIRV] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+novo	 [novo] ADJ M S @>N  O
+rosto	 [rosto] <an> <Labs> N M S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho=Empresarial=do=Centro	 [Conselho=Empresarial=do=Centro] <inst> <*> PROP M S @P< ORG O
+$( O
+CEC	 [CEC] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$. O
+</s>
+
+$S-16
+Como	 [como] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  O
+não	 [não] ADV @ADVL>  O
+pertencemos	 [pertencer] <mv> V PR 1P IND VFIN @FS-ADVL>  O
+ainda	 [ainda] ADV @>P  O
+a	 [a] PRP @<PIV  O
+nenhuma	 [nenhum] <quant> DET F S @P<  O
+de	 [de] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+confederações	 [confederação] <HH> N F P @P<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+facto	 [facto] <ac> <cloH> <AAdom> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+sermos	 [ser] <vK> <mv> V INF 1P @ICL-P<  O
+um	 [um] <arti> DET M S @>N  O
+órgão	 [órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> N M S @<SC  O
+regional	 [regional] <nh> <np-close> ADJ M S @N<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+executivo	 [executivo] <Hprof> <HH> N M S @P<  O
+deliberámos	 [deliberar] <vH> <fmc> <mv> V PS 1P IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+associações	 [associação] <HH> N F P @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+temos	 [ter] <mv> <np-close> V PR 1P IND VFIN @FS-N<  O
+dentro=de	 [dentro=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Confederação=do=Comércio	 [Confederação=do=Comércio] <org> <*> PROP F S @P< ORG O
+$, O
+dentro=de	 [dentro=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Confederação=do=Turismo	 [Confederação=do=Turismo] <genre> <*> PROP F S @P<  O
+irão	 [ir] <aux> V FUT 3P IND VFIN @FS-<ACC  O
+$, O
+para=já	 [para=já] <pp> ADV @<ADVL  O
+$, O
+fazer	 [fazer] <mv> V INF @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+ponte	 [ponte] <Lpath> <Lh> N F S @<ACC  O
+entre	 [entre] <np-close> PRP @N< @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+associados	 [associado] <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+CEC	 [CEC] <inst> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+próprias	 [próprio] <ident> DET F P @>N  O
+confederações	 [confederação] <HH> N F P @<ACC  O
+$, O
+nomeadamente	 [nomeadamente] ADV @<ADVL  O
+através	 [através] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+busca	 [busca] <activity> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+informação	 [informação] <ac> N F S @P<  O
+$. O
+</s>
+
+$S-17
+Como	 [como] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  O
+não	 [não] ADV @ADVL>  O
+pertencemos	 [pertencer] <mv> V PR 1P IND VFIN @FS-ADVL>  O
+ainda	 [ainda] ADV @>P  O
+a	 [a] PRP @<PIV  O
+nenhuma	 [nenhum] <quant> DET F S @P<  O
+de	 [de] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+confederações	 [confederação] <HH> N F P @P<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+facto	 [facto] <ac> <cloH> <AAdom> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+sermos	 [ser] <vK> <mv> V INF 1P @ICL-P<  O
+um	 [um] <arti> DET M S @>N  O
+órgão	 [órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> N M S @<SC  O
+regional	 [regional] <nh> <np-close> ADJ M S @N<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+executivo	 [executivo] <Hprof> <HH> N M S @P<  O
+deliberámos	 [deliberar] <vH> <fmc> <mv> V PS 1P IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+associações	 [associação] <HH> N F P @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+temos	 [ter] <mv> <np-close> V PR 1P IND VFIN @FS-N<  O
+dentro=de	 [dentro=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Confederação=do=Comércio	 [Confederação=do=Comércio] <org> <*> PROP F S @P<  O
+$, O
+dentro=de	 [dentro=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Confederação=do=Turismo	 [Confederação=do=Turismo] <genre> <*> PROP F S @P< ORG O
+irão	 [ir] <aux> V FUT 3P IND VFIN @FS-<ACC  O
+$, O
+para=já	 [para=já] <pp> ADV @<ADVL  O
+$, O
+fazer	 [fazer] <mv> V INF @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+ponte	 [ponte] <Lpath> <Lh> N F S @<ACC  O
+entre	 [entre] <np-close> PRP @N< @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+associados	 [associado] <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+CEC	 [CEC] <inst> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+próprias	 [próprio] <ident> DET F P @>N  O
+confederações	 [confederação] <HH> N F P @<ACC  O
+$, O
+nomeadamente	 [nomeadamente] ADV @<ADVL  O
+através	 [através] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+busca	 [busca] <activity> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+informação	 [informação] <ac> N F S @P<  O
+$. O
+</s>
+
+$S-23
+O	 [o] <*> <artd> DET M S @>N  O
+CEC	 [CEC] <inst> <*> PROP M S @SUBJ> ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+interlocutor	 [interlocutor] <H> N M S @<SC REL
+natural	 [natural] <jh> <np-close> ADJ M S @N< REL
+junto	 [junto] ADV @<ADVL REL
+de	 [de] <sam-> PRP @A< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+CCR	 [CCR] <org> <*> PROP F S @P< ORG O
+para	 [para] PRP @<ADVL  O
+todas=as	 [todo=o] <quant> DET F P @>N  O
+associações	 [associação] <HH> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+região	 [região] <L> <Ltop> N F S @P<  O
+centro	 [centro] <Labs> <inst> <Ltop> N M S @PRED>  O
+$, O
+portanto	 [portanto] <kc> ADV @<ADVL  O
+junto	 [junto] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+poder	 [poder] <am> <ac> <Labs> N M S @P<  O
+regional	 [regional] <nh> <np-close> ADJ M S @N<  O
+$. O
+</s>
+
+$S-29
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+este	 [este] <-sam> <dem> DET M S @>N  O
+âmbito	 [âmbito] <Labs> <L> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+parcerias	 [parceria] <HH> <com> N F P @P<  O
+sociais	 [social] <jh> <np-close> ADJ F P @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+próprio	 [próprio] <ident> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @SUBJ> ORG O
+deverá	 [dever] <fmc> <aux> V FUT 3S IND VFIN @FS-STA REL
+ter	 [ter] <mv> V INF @ICL-AUX< REL
+o	 [o] <artd> DET M S @>N REL
+cuidado	 [cuidado] <am> <act-d> N M S <ac> @<ACC REL
+de	 [de] <np-close> PRP @N< REL
+começar	 [começar] <vH> <aux> V INF @ICL-P< REL
+a	 [a] PRP @PRT-AUX< REL
+solicitar	 [solicitar] <vH> <mv> V INF @ICL-AUX< REL
+a	 [a] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+CEC	 [CEC] <inst> <*> PROP M S @P< ORG O
+participação	 [participação] <act> <sem-s> N F S @<ACC  O
+e	 [e] KC @NPHR  O
+nós	 [nós] PERS M 1P NOM @SUBJ>  O
+podemos	 [poder] <fmc> <aux> V PR 1P IND VFIN @FS-STA  O
+participar	 [participar] <vH> <mv> V INF @ICL-AUX<  O
+em	 [em] <sam-> PRP @<PIV  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+comissões	 [comissão] <HH> <act-s> <mon> N F P @P<  O
+especializadas	 [especializado] <jh> <np-close> ADJ F P @N<  O
+e	 [e] KC @NPHR  O
+estar	 [estar] <vK> <mv> V INF @ICL-AUX<  O
+cada=vez=mais	 [cada=vez=mais] <quant> ADV @>A  O
+próximos	 [próximo] <jh> ADJ M P @<SC  O
+de	 [de] <sam-> PRP @A<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+tomadas	 [tomada] <act> <Lopening> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+decisão	 [decisão] <act> N F S @P<  O
+e	 [e] KC @NPHR  O
+afluir	 [afluir] <vN> <mv> V INF @ICL-AUX<  O
+em	 [em] <sam-> PRP @<ADVL  O
+essas	 [esse] <-sam> <dem> DET F P @>N  O
+mesmas	 [mesmo] <diff> <KOMP> DET F P @>N  O
+decisões	 [decisão] <act> N F P @P<  O
+$. O
+</s>
+
+$S-50
+O	 [o] <*> <artd> DET M S @>N  O
+CEC	 [CEC] <org> <*> PROP M S @SUBJ> ORG O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA REL
+reconhecido	 [reconhecer] <vH> <mv> V PCP M S @ICL-AUX< REL
+há	 [há] PRP @<ADVL REL
+dois	 [dois] <card> NUM M P @>N REL
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P< REL
+como	 [como] <com> <adv-rel> <np-close> PRP @N< REL
+Câmara=do=Comércio=e=Industria	 [Câmara=do=Comércio=e=Industria] <inst> <asarg> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-53
+Isto	 [isto] <*> <dem> SPEC M S @SC>  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+$, O
+queremos	 [querer] <vH> <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+desenvolver	 [desenvolver] <mv> V INF @ICL-<ACC  O
+um	 [um] <arti> DET M S @>N  O
+tribunal	 [tribunal] <inst> N M S @<SUBJ  O
+arbitral	 [arbitral] <jh> <np-close> ADJ M S @N<  O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+actividade	 [actividade] <act-d> <activity> N F S @P<  O
+empresarial	 [empresarial] <nh> <np-close> ADJ F S @N<  O
+dentro=de	 [dentro=de] <sam-> <np-long> PRP @N<  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Câmara	 [câmara] <prop> <*> <Lh> <HH> N F S @P< ORG O
+$, O
+queremos	 [querer] <vH> <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+apresentar	 [apresentar] <vH> <mv> V INF @ICL-<ACC  O
+junto	 [junto] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P< ORG O
+um	 [um] <arti> DET M S @>N  O
+projecto	 [projecto] <sem-c> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+criação	 [criação] <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+cartório	 [cartório] <build> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+competências	 [competência] <am> N F P @P<  O
+especializado	 [especializar] <vH> <np-long> V PCP M S @N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+possa	 [poder] <aux> V PR 1/3S SUBJ VFIN @FS-<ACC  O
+funcionar	 [funcionar] <mv> V INF @ICL-AUX<  O
+em	 [em] <sam-> PRP @<ADVL  O
+estes	 [este] <-sam> <dem> DET M P @>N  O
+seis	 [seis] <card> NUM M P @>N  O
+distritos	 [distrito] <Lciv> N M P @P<  O
+$. O
+</s>
+
+$S-55
+As	 [o] <*> <artd> DET F P @>N  O
+Câmaras	 [câmara] <prop> <*> <Lh> <HH> N F P @SUBJ> ORG O
+deverão	 [dever] <fmc> <aux> V FUT 3P IND VFIN @FS-STA REL
+assumir	 [assumir] <vH> <mv> V INF @ICL-AUX< REL
+responsabilidades	 [responsabilidade] <am> N F P @<ACC REL
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> REL
+resultem	 [resultar] <vN> <mv> <np-close> V PR 3P SUBJ VFIN @FS-N< REL
+de	 [de] PRP @<PIV REL
+uma	 [um] <arti> DET F S @>N REL
+contratualização	 [contratualização] <act> N F S @P< REL
+com	 [com] PRP @<ADVL REL
+o	 [o] <artd> DET M S @>N REL
+Estado	 [Estado] <inst> <*> <newlex> PROP M S @P< ORG O
+porque	 [porque] <clb> <clb-fs> KS @SUB  O
+há	 [haver] <mv> V PR 3S IND VFIN @FS-<ADVL  O
+serviços	 [serviço] <act-d> N M P @<ACC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+o	 [o] <artd> DET M S @>N  O
+Estado	 [Estado] <inst> <*> <newlex> PROP M S @SUBJ>  O
+presta	 [prestar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+mal	 [mal] ADV @<ADVL  O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> <rel> SPEC M S @ACC>  O
+as	 [o] <artd> DET F P @>N  O
+Câmaras	 [câmara] <prop> <*> <Lh> <HH> N F P @SUBJ>  O
+poderão	 [poder] <fmc> <aux> V FUT 3P IND VFIN @FS-STA  O
+prestar	 [prestar] <mv> V INF @ICL-AUX<  O
+$, O
+permitindo	 [permitir] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+tecido	 [tecido] <mat-cloth> <an> <cc-rag> N M S @P<  O
+empresarial	 [empresarial] <nh> <np-close> ADJ M S @N<  O
+ser	 [ser] <vK> <mv> V INF @ICL-<ACC  O
+cada=vez=mais	 [cada=vez=mais] <quant> ADV @>A  O
+competitivo	 [competitivo] <jh> ADJ M S @<SC  O
+$. O
+</s>

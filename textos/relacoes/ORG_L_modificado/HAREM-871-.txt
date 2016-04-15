@@ -1,0 +1,38 @@
+$S-1
+Abraço=Página=Principal=Associação=De=Apoio=A=Pessoas=Com=Vih	 [Abraço=Página=Principal=Associação=De=Apoio=A=Pessoas=Com=Vih] <org> <*> PROP F S @SUBJ>  O
+$/ O
+sida	 [sida] <sick> N M S @SUBJ>  O
+A	 [a] <*> <artd> DET F S @>N  O
+Abraço	 [Abraço] <disease> <*> <np-close> PROP M S @SUBJ> ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+uma	 [um] <arti> DET F S @>N REL
+Instituição=Particular=de=Solidariedade=Social	 [Instituição=Particular=de=Solidariedade=Social] <V> <*> PROP M S @<SC ORG O
+$. O
+</s>
+
+$S-11
+A	 [a] <*> <artd> DET F S @>N  O
+Associação	 [Associação] <tit> <*> PROP F S @SUBJ> ORG O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+organizada	 [organizado] <nh> ADJ F S @<SC  O
+por	 [por] PRP @<ADVL  O
+núcleos	 [núcleo] <Labs> N M P @P<  O
+e	 [e] KC @NPHR  O
+delegações	 [delegação] <HH> N F P @P<  O
+regionais	 [regional] <nh> <np-close> ADJ F P @N<  O
+$, O
+cada=um	 [cada=um] SPEC F S @SUBJ> @<SC  O
+de	 [de] <sam-> <np-close> PRP @N< @<SC  O
+eles	 [eles] <-sam> PERS M 3P NOM/PIV @P<  O
+reportando	 [reportar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+a	 [a] PRP @<PIV  O
+um	 [um] <card> NUM M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+três	 [três] <card> NUM M P @>N  O
+membros	 [membro] <an> <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Comissão=Executiva	 [Comissão=Executiva] <org> <*> PROP F S @P< ORG O
+$. O
+</s>

@@ -1,0 +1,43 @@
+==========================Execução ERelP==================================
+
+Para executar o ERelP, vá até a pasta xxx pelo terminal e execute o comando “python ERelP.py “
+
+Quando abrir a interface, aparecerá o nome do sistema, clique em Next.
+Então o usuário tem três opções de execução: CROSS-VALIDATION, TREINO-TESTE e TESTE. Selecione e clique em Next.
+
+1) CROSS-VALIDATION
+ -Diretório dos textos
+Clique na seta para abrir as opções e va em outra... para buscar todas opções, então vá até dentro da pasta onde estão os textos e clique em Abrir. Clique em Next.
+ -Quantidade de Folds
+Selecione a quantidade de folds desejada e clique em Next.
+ -Categoria
+Selecione a categoria que deseja(A categoria tem que estar de acordo com as marcações dos textos) e clique em Next.
+ -Dicionários
+Clique na pasta para abrir as opções, então selecione o dicionário. Clique em next.
+
+2)TREINO-TESTE
+ -Diretório textos de treino
+Clique na seta para abrir as opções e va em outra... para buscar todas as opções, então va até dentro da pasta onde estão os textos e clique em Abrir. Clique em Next.
+ -Diretório textos de teste
+Clique na seta para abrir as opções e va em outra... para buscar todas as opções, então va até dentro da pasta onde estão os textos e clique em Abrir. Clique em Next.
+ -Quantidade de Folds
+Selecione a quantidade desejada de folds e clique em Next.
+ -Categoria
+Selecione a categoria que deseja(A categoria tem que estar de acordo com as marcações dos textos) e clique em Next.
+ -Dicionários
+Clique na pasta para abrir todas opções, então selecione o dicionário. Clique em next.
+
+3)TESTE
+ -Diretório textos de treino
+Clique na seta para abrir as opções e va em outra... para buscar todas as opções, então va até dentro da pasta onde estão os textos e clique em Abrir. Clique em Next.
+ -Diretório textos de teste
+Clique na seta para abrir as opções e va em outra... para buscar todas as opções, então va até dentro da pasta onde estão os textos e clique em Abrir. Clique em Next.
+ -Modelo
+Clique na pasta para abrir todas opções, então selecione o modelo.
+ -Quantidade de Folds
+Selecione a quantidade desejada de folds e clique em Next.
+ -Categoria
+Selecione a categoria que deseja(A categoria tem que estar de acordo com as marcações dos textos) e clique em Next.
+ -Dicionário
+Clique na pasta para abrir todas opções, então selecione o dicionário. Clique em next.
+

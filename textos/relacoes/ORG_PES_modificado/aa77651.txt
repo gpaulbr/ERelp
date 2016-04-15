@@ -1,0 +1,118 @@
+$S-1
+Ministro=da=Defesa=Nacional	 [Defesa=Nacional] <occ> <*> PROP F S @SUBJ> PES O
+visita	 [visitar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+Forças=Nacionais=Destacadas	 [Forças=Nacionais=Destacadas] <org> <*> PROP F P @<ACC ORG O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Afeganistão=O=Ministro	 [Afeganistão=O=Ministro] <inst> <*> PROP M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Defesa=Nacional	 [Defesa=Nacional] <occ> <*> PROP F S @P<  O
+$, O
+Nuno=Severiano=Teixeira	 [Nuno=Severiano=Teixeira] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+desloca-	 [deslocar] <hyfen> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+29	 [29] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+Dezembro	 [Dezembro] <top> <*> PROP M/F S @P<  O
+$, O
+para	 [para] PRP @<ADVL  O
+efectuar	 [efectuar] <mv> V INF @ICL-P<  O
+uma	 [um] <arti> DET F S @>N  O
+visita	 [visita] <act-d> N F S @<ACC  O
+a	 [a] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+Forças=Nacionais=Destacadas	 [Forças=Nacionais=Destacadas] <org> <*> PROP F P @P<  O
+em	 [em] PRP @<ADVL  O
+Cabul	 [Cabul] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-2
+Nuno=Severiano=Teixeira	 [Nuno=Severiano=Teixeira] <hum> <*> PROP M S @SUBJ>  O
+visitará	 [visitar] <vH> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+contingente	 [contingente] <part> N M S @<ACC  O
+português	 [português] <nat> <np-close> ADJ M S @N<  O
+estacionado	 [estacionar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+em	 [em] PRP @<ADVL  O
+Campo=Warehouse	 [Campo=Warehouse] <top> <*> PROP M S @P<  O
+$, O
+composto	 [composto] <nh> ADJ M S @<ACC  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+22.ªCompanhia=de=Atiradores=Pára-Quedistas	 [22.ªCompanhia=de=Atiradores=Pára-Quedistas] <org> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Brigada=de=Reacção=Rápida	 [Brigada=de=Reacção=Rápida] <org> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+uma	 [um] <arti> DET F S @>N  O
+equipa	 [equipa] <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Controladores=Aéreos=Avançados	 [Controladores=Aéreos=Avançados] <hum> <*> PROP M/F S @P< PES O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Força=Aérea	 [Força=Aérea] <org> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-22
+Nuno=Severiano=Teixeira	 [Nuno=Severiano=Teixeira] <hum> <*> PROP M S @SUBJ>  O
+visitará	 [visitar] <vH> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+contingente	 [contingente] <part> N M S @<ACC  O
+português	 [português] <nat> <np-close> ADJ M S @N<  O
+estacionado	 [estacionar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+em	 [em] PRP @<ADVL  O
+Campo=Warehouse	 [Campo=Warehouse] <top> <*> PROP M S @P<  O
+$, O
+composto	 [composto] <nh> ADJ M S @<ACC  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+22.ªCompanhia=de=Atiradores=Pára-Quedistas	 [22.ªCompanhia=de=Atiradores=Pára-Quedistas] <org> <*> PROP F S @P< PES O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Brigada=de=Reacção=Rápida	 [Brigada=de=Reacção=Rápida] <org> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+uma	 [um] <arti> DET F S @>N  O
+equipa	 [equipa] <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Controladores=Aéreos=Avançados	 [Controladores=Aéreos=Avançados] <hum> <*> PROP M/F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Força=Aérea	 [Força=Aérea] <org> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-5
+Nuno=Severiano=Teixeira	 [Nuno=Severiano=Teixeira] <hum> <*> PROP M S @SUBJ> PES O
+reúne-	 [reunir] <hyfen> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+ainda	 [ainda] ADV @>P  O
+com	 [com] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+comandante	 [comandante] <Hprof> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+força	 [força] <am> <HH> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Nato	 [nato] <prop> <n> <*> <jh> ADJ M S @P< ORG O
+$( O
+ISAF	 [ISAF] <org> <*> <np-close> PROP M/F S @APP  O
+$) O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P<  O
+$, O
+General=Dan=McNeill	 [General=Dan=McNeill] <hum> <*> <np-close> PROP M S @APP  O
+$. O
+</s>

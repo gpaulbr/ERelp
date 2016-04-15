@@ -1,0 +1,66 @@
+
+    
+      <EM ID="hub-18050-174" CATEG="OBRA|LOCAL" TIPO="ARTE|HUMANO"  >Palácio Nacional de Mafra</EM> 
+    
+    Convento
+    
+      <EM ID="hub-18050-175" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1715</EM>
+      , foi fundado o
+      <EM ID="hub-18050-176" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-18050-175 hub-18050-132" TIPOREL="datado_de sede_de">Convento de Nossa Senhora e Santo António de Mafra</EM> 
+      , que pertencia à província eclesiástica da
+      <EM ID="hub-18050-177" CATEG="LOCAL" TIPO="HUMANO"  >Arrábida</EM>
+      . Teve origem numa comunidade do
+      <EM ID="hub-18050-178" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Hospício do Espírito Santo</EM>
+      .
+      <EM ID="hub-18050-179" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1730</EM>
+      , sagrada a
+      <EM ID="hub-18050-180" CATEG="OBRA|LOCAL|ORGANIZACAO" TIPO="ARTE|HUMANO|INSTITUICAO"  >Igreja de Nossa Senhora e Santo António</EM>
+      , junto de
+      <EM ID="hub-18050-181" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-18050-132" TIPOREL="ident">Mafra</EM>
+      , foi para lá transferida a sobredita comunidade.
+      <EM ID="hub-18050-182" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Entre 1771 e 1791</EM>
+      , por breve de
+      <EM ID="hub-18050-183" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Clemente XIV</EM>
+      ,
+      <EM ID="hub-18050-184" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 4 de julho de 1770</EM>
+      , a requerimento do
+      <EM ID="hub-18050-185" CATEG="PESSOA|PESSOA" TIPO="CARGO|INDIVIDUAL"  >Marquês de Pombal</EM>
+      , foi ocupado pelos
+        <EM ID="hub-18050-186" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Cónegos Regulares de Santo Agostinho</EM>
+        da
+        <EM ID="hub-18050-187" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-18050-186" TIPOREL="vinculo_inst">Congregação de Santa Cruz de Coimbra</EM> 
+       ; os
+      
+        <EM ID="hub-18050-191" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Franciscanos da Província da Arrábida</EM>
+        
+      saíram do
+      <EM ID="hub-18050-194" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-18050-176 hub-18050-176aa" TIPOREL="ident ident">Convento de Mafra</EM> 
+      ,
+      <EM ID="hub-18050-195" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Maio de 1771</EM>
+      .
+      <EM ID="hub-18050-196" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1791</EM>
+      , os
+      <EM ID="hub-18050-198" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-18050-186" TIPOREL="ident">Cónegos Regulares de Santo Agostinho</EM>
+      saíram do edifício de
+      <EM ID="hub-18050-199" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-18050-132" TIPOREL="ident">Mafra</EM>
+      .
+    
+    
+      <EM ID="hub-18050-200" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1834</EM>
+      , no âmbito da "
+      <EM ID="hub-18050-201" CATEG="OBRA" TIPO="PLANO"  >Reforma geral eclesiástica</EM>
+      " empreendida pelo ministro e
+      <EM ID="hub-18050-202" CATEG="PESSOA" TIPO="CARGO"  >secretário de Estado</EM>
+      ,
+      <EM ID="hub-18050-203" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-18050-202 hub-18050-201" TIPOREL="ident autor_de">Joaquim António de Aguiar</EM>
+      , executada pela
+      <EM ID="hub-18050-204" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Comissão da Reforma Geral do Clero</EM>
+      (
+      <EM ID="hub-18050-205" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-18050-201" TIPOREL="data_de">1833-1837</EM>
+      ), pelo
+        <EM ID="hub-18050-206" CATEG="OBRA" TIPO="PLANO"  >Decreto de 28 de Maio</EM>
+      , promulgado
+      <EM ID="hub-18050-209" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 30 desse mês</EM>
+      , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.
+    
+  

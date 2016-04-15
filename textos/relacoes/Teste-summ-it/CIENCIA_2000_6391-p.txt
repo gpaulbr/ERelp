@@ -1,0 +1,85 @@
+$S-1
+Sete 	[sete]   <card> NUM M/F P @>N   O
+ativistas 	[ativista] <Hideo> N M/F P @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Greenpeace 	[Greenpeace] <inst>   PROP M S @P<  PES O
+foram 	[ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA   O
+presos 	[prender] <mv> V PCP M P @ICL-AUX<   O
+ontem 	[ontem] ADV @<ADVL   O
+em 	[em] <sam-> PRP @<ADVL   O
+os 	[o] <artd> <-sam> DET M P @>N   O
+Eua 	[Eua] <org>   PROP M P @P<   O
+a 	[a] <sam-> PRP @<ADVL   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+tentar 	[tentar] <vH> <mv> V INF @ICL-P<   O
+impedir 	[impedir] <mv> V INF @ICL-<ACC   O
+o 	[o] <artd> DET M S @>N   O
+descarregamento 	[descarregamento] <act> N M S @<ACC   O
+de 	[de] PRP @<PIV   O
+madeira 	[madeira] <mat> N F S @P<   O
+brasileira 	[brasileiro] <nat> <np-close> ADJ F S @N<   O
+em 	[em] <sam-> <np-long> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+cidade 	[cidade] <Lciv> N F S @P<   O
+de 	[de] <np-close> PRP @N<   O
+Savannah 	[Savannah] <civ>   PROP M/F S @P<  ORG O
+$, 
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+costa 	[costa] <Ltop> N F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Estado=da=Geórgia 	[Estado=da=Geórgia] <inst>   PROP M S @P<   O
+$. 
+</s>
+$S-5
+Não 	[não]   <*1> ADV @ADVL>   O
+temos 	[ter] <nosubj> <cjt-head> <fmc> <mv> V PR 1P IND VFIN @FS-STA   O
+certeza 	[certeza] <am> N F S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+aquela 	[aquele] <dem> DET F S @>N   O
+carga 	[carga] <amount> <act> <ac> N F S @SUBJ>   O
+era 	[ser] <predco> <cjt-head> <vK> <mv> V IMPF 3S IND VFIN @FS-P<   O
+ilegal 	[ilegal] <nh> ADJ F S @<SC   O
+$, 
+mas 	[mas] <cjt-head> <clb> KC @NPHR   O
+sabemos 	[saber] <nosubj> <cjt> <fmc> <mv> V PR 1P IND VFIN @FS-P<   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+80 	[80] <card> NUM M P @>N     O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+atividade 	[atividade] <act-d> <activity> N F S @P<   O
+madeireira 	[madeireiro] <nh> <np-close> ADJ F S @N<   O
+em 	[em] <sam-> <np-long> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Brasil 	[Brasil] <civ>   PROP M S @P<   O
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC   O
+irregular 	[irregular] <nh> ADJ M/F S @<SC   O
+e 	[e] <cjt> KC @NPHR   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+Selvaplac 	[Selvaplac] <org>   PROP F S @SUBJ>  ORG O
+tem 	[ter] <mv> V PR 3S IND VFIN @FS-<ACC   O
+uma 	[um] <arti> DET F S @>N   O
+tradição 	[tradição] <ac> N F S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+envolvimento 	[envolvimento] <event> <act> N M S @P<   O
+com 	[com] <np-close> PRP @N<   O
+madeira 	[madeira] <mat> N F S @P<   O
+ilegalmente 	[ilegalmente] <nh> ADV @ADVL>   O
+extraída 	[extrair] <vH> <mv> <np-close> V PCP F S @ICL-N<    O
+$, 
+disse 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+a 	[a] <sam-> PRP @<PIV   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Folha=Rebeca=Lerer 	[Folha=Rebeca=Lerer] <org>   PROP F S @P<  PES O
+$, 
+ativista 	[ativista] <np-close> ADJ M/F S @N<PRED   O
+brasileira 	[brasileiro] <nat> <jh> <np-close> ADJ F S @N<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Greenpeace 	[Greenpeace] <inst>   PROP M S @P<   O
+$. 
+</s>

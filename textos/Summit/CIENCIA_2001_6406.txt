@@ -1,0 +1,232 @@
+$S-1
+Pesquisadores=da=Uenf 	[Pesquisadores=da=Uenf] <hum> <*> PROP M/F S @SUBJ>  
+$( 
+Universidade=Estadual=do=Norte=Fluminense 	[Universidade=Estadual=do=Norte=Fluminense] <inst> <*> <np-close> PROP F S @N<PRED  
+$) 
+também 	[também] ADV @ADVL>  
+estão 	[estar] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+usando 	[usar] <clb> <vH> <mv> V GER @ICL-AUX<  
+o 	[o] <artd> DET M S @>N  
+gene 	[gene] <ac> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+HBsAg 	[HBsAg] <org> <*> PROP F S @P<  
+para 	[para] PRP @<ADVL  
+conseguir 	[conseguir] <vH> <mv> V INF @ICL-P<  
+uma 	[um] <arti> DET F S @>N  
+alface 	[alface] <food> N F S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+funcione 	[funcionar] <mv> <np-close> V PR 3S SUBJ VFIN @FS-N<  
+como 	[como] <prd> <adv-rel> PRP @<SC  
+vacina 	[vacina] <asarg> <cm-rem> <sick> N F S @P<  
+comestível 	[comestível] <nh> <np-close> ADJ F S @N<  
+contra 	[contra] <np-long> PRP @N<  
+a 	[o] <artd> DET F S @>N  
+hepatite=B 	[hepatite=B] <sick> N F S @P<  
+$. 
+</s>
+
+$S-2
+$"  
+Já 	[já] <*> <*1> ADV @ADVL>  
+temos 	[ter] <clb-fs> <mv> <quote> V PR 1P IND VFIN @FS-ACC>>  
+brotos 	[broto] <anbo> <H> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+alface 	[alface] <food> N F S @P<  
+comprovadamente 	[comprovadamente] <vH> ADV @>A  
+transgênicos 	[transgênico] <*2> <DERS> ADJ M P @<PRED  
+$"  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Jackson=Marcondes=de=Souza 	[Jackson=Marcondes=de=Souza] <hum> <*> PROP M S @<SUBJ  
+$. 
+</s>
+
+$S-3
+Sob 	[sob] <*> PRP @ADVL>  
+a 	[o] <artd> DET F S @>N  
+orientação 	[orientação] <act> <percep-f> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+pesquisador 	[pesquisador] <Hprof> N M S @P<  
+Ekkehard=Hansen 	[Ekkehard=Hansen] <hum> <*> <np-close> PROP M S @N<  
+$, 
+ele 	[ele] PERS M 3S NOM @SUBJ>  
+desenvolve 	[desenvolver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+projeto 	[projeto] <sem-c> N M S @<ACC  
+como 	[como] <com> <adv-rel> PRP @<ADVL  
+parte 	[parte] <asarg> <part> <amount> <L> <HH> <sem-l> <ac> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+seu 	[seu] <poss 3S> DET M S @>N  
+doutorado 	[doutorado] <pos-soc> N M S @P<  
+$. 
+</s>
+
+$S-4
+Falta 	[faltar] <*> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+ainda 	[ainda] ADV @<ADVL  
+obter 	[obter] <vH> <mv> V INF @ICL-<SUBJ  
+plantas 	[planta] <cjt-head> <Btree> <an> <pict> N F P @<ACC  
+transgênicas 	[transgênicas] <DERS> <np-close> ADJ F P @N<  
+adultas 	[adulto] <cjt> <jh> ADJ F P @<ACC  
+e 	[e] <cjt-head> KC @NPHR  
+comprovar 	[comprovar] <vH> <mv> V INF @ICL-ACC>  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+gene 	[gene] <ac> N M S @SUBJ>  
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<ACC  
+sendo 	[ser] <aux> V GER @ICL-AUX<  
+expressado 	[expressar] <vH> <mv> V PCP M S @ICL-AUX<  
+$, 
+ou=seja 	[ou=seja] <kc> ADV @<ADVL  
+$, 
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <clb> <artd> DET F S @>N  
+proteína 	[proteína] <mat> N F S @SUBJ>  
+capaz 	[capaz] <np-close> ADJ F S @N<  
+de 	[de] PRP @A<  
+provocar 	[provocar] <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+imunização 	[imunização] <act> N F S @<ACC  
+está 	[estar] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+presente 	[presente] <cjt-head> <jh> ADJ F S @<SC  
+em 	[em] <sam-> PRP @A<  
+a 	[o] <-sam> <artd> DET F S @>N  
+planta 	[planta] <Btree> <an> <pict> N F S @P<  
+$, 
+e 	[e] <cjt> KC @NPHR  
+não 	[não] ADV @>A  
+só 	[só] ADV @>N  
+o 	[o] <artd> DET M S @>N  
+gene 	[gene] <cjt> <ac> N M S @<SC  
+correspondente 	[correspondente] <nh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-5
+Outros 	[outro] <*> <diff> <KOMP> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @SUBJ>  
+se 	[se] <refl> PERS M/F 3P ACC @ACC>  
+concentram 	[concentrar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+sobre 	[sobre] PRP @<ADVL  
+alimentos 	[alimento] <food> N M P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+possam 	[poder] <aux> <np-close> V PR 3P SUBJ VFIN @FS-N<  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+transformados 	[transformar] <mv> V PCP M P @ICL-AUX<  
+em 	[em] PRP @<PIV  
+suco 	[suco] <drink> N M S @P<  
+$, 
+como 	[como] <prd> <adv-rel> PRP @<SC  
+tomates 	[tomate] <cjt-head> <asarg> <fruit> N M P @P<  
+e 	[e] KC @NPHR  
+maçãs 	[maçã] <cjt> <asarg> <fruit> N F P @P<  
+$. 
+</s>
+
+$S-6
+É 	[ser] <*> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+caso 	[caso] <event> <ac-cat> <sem> N M S @<SC  
+de 	[de] <np-close> PRP @N<  
+Schuyler=Korban 	[Schuyler=Korban] <hum> <*> PROP M/F S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Illinois 	[Universidade=de=Illinois] <inst> <*> PROP F S @P<  
+$( 
+Eua 	[Eua] <civ> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+$. 
+</s>
+
+$S-7
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+pesquisa 	[pesquisar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+vacina 	[vacina] <cm-rem> <sick> N F S @<ACC  
+produzida 	[produzir] <mv> <np-close> V PCP F S @ICL-N<  
+em 	[em] PRP @<ADVL  
+tomates 	[tomate] <fruit> N M P @P<  
+contra 	[contra] <np-close> PRP @N< @<ADVL  
+o 	[o] <artd> DET M S @>N  
+vírus 	[vírus] <Acell> N M S @P<  
+respiratório 	[respiratório] <nh> <np-close> ADJ M S @N<  
+sincicial 	[sincicial] <DERP> <DERS> <np-long> ADJ M S @N<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+ataca 	[atacar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+recém-nascidos 	[recém-nascer] V PCP M P @<PRED  
+$. 
+</s>
+
+$S-8
+Testada 	[testar] <*> <vH> V PCP F S @PRED>  
+em 	[em] <np-close> PRP @N<  
+camundongos 	[camundongo] <Azo> N M P @P<  
+$, 
+conseguiu 	[conseguir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+provocar 	[provocar] <mv> V INF @ICL-<ACC  
+a 	[o] <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+anticorpos 	[anticorpo] <cc> N M P @P<  
+contra 	[contra] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+vírus 	[vírus] <Acell> N M S @P<  
+$. 
+</s>
+
+$S-9
+Os 	[o] <*> <artd> DET M P @>N  
+resultados 	[resultado] <ac> N M P @SUBJ>  
+saíram 	[sair] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+publicação 	[publicação] <act> <sem-r> N F S @P<  
+$"  
+Transgenic=Research 	[Transgenic=Research] <tit> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$( 
+www.wkap.nl/jour 	[www.wkap.nl/jour] <np-close> N M S @N<PRED  
+nals 	[nal] <cjt-head> <np-close> N M P @N<PRED  
+$/ 	[$/] <co-pred> KC @CO  
+transgenic 	[transgenic] <cjt> <np-close> N M S @N<PRED  
+$_  
+res 	[rés] ADV @<ADVL  
+$) 
+$. 
+</s>
+
+$S-10
+Depois 	[depois] <*> ADV @ADVL>  
+de 	[de] <sam-> PRP @A<  
+os 	[o] <-sam> <artd> DET M P @>N  
+tomates 	[tomate] <fruit> N M P @P<  
+$, 
+ele 	[ele] PERS M 3S NOM @SUBJ>  
+agora 	[agora] <kc> ADV @ADVL>  
+pesquisa 	[pesquisar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+macieiras 	[macieira] <Btree> N F P @<ACC  
+$. 
+</s>
+
+$S-11
+Prevê 	[prever] <*> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+serão 	[ser] <vK> <mv> V FUT 3P IND VFIN @FS-<ACC  
+necessários 	[necessário] <cjt-head> <nh> ADJ M P @<SC  
+três 	[três] <card> NUM M P @>N  
+anos 	[ano] <cjt> <dur> <temp> <per> <unit> N M P @<SC  
+para 	[para] PRP @<ADVL  
+estabilizar 	[estabilizar] <vH> <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+vacina 	[vacina] <cm-rem> <sick> N F S @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+maçã 	[maçã] <fruit> N F S @P<  
+$. 
+</s>
+
+$S-12

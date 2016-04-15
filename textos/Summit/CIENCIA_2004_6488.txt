@@ -1,0 +1,181 @@
+$S-1
+Um 	[um] <*> <arti> DET M S @>N  
+grupo 	[grupo] <HH> N M S @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+reúne 	[reunir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+13 	[13] <card> NUM F P @>N  
+sociedades 	[sociedade] <HH> N F P @<ACC  
+científicas 	[científico] <nh> <np-close> ADJ F P @N<  
+nacionais 	[nacional] <jh> <np-long> ADJ F P @N<  
+$, 
+lideradas 	[liderar] <vH> <mv> V PCP F P @ICL-N<PRED  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Academia=Brasileira=de=Ciências 	[Academia=Brasileira=de=Ciências] <org> <*> PROP F S @P<  
+e 	[e] KC @NPHR  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Associação=Nacional=de=Biossegurança 	[Associação=Nacional=de=Biossegurança] <org> <*> PROP F S @P<  
+$( 
+ANBio 	[ANBio] <org> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+$, 
+enviou 	[enviar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+carta 	[carta] <cc-r> N F S @<ACC  
+a 	[a] <sam-> PRP @<OA  
+o 	[o] <-sam> <artd> DET M S @>N  
+Senado=Federal 	[Senado=Federal] <inst> <*> PROP M S @P<  
+para 	[para] PRP @<ADVL  
+pedir 	[pedir] <vH> <mv> V INF @ICL-P<  
+mudanças 	[mudança] <event> N F P @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+projeto 	[projeto] <sem-c> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+nova 	[novo] ADJ F S @>N  
+Lei=de=Biossegurança 	[Lei=de=Biossegurança] <tit> <*> PROP M S @P<  
+$, 
+recentemente 	[recentemente] ADV @>A  
+aprovado 	[aprovado] <nh> <np-close> ADJ M S @N<PRED  
+por 	[por] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Câmara=dos=Deputados 	[Câmara=dos=Deputados] <inst> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-2
+O 	[o] <*> <artd> DET M S @>N  
+documento 	[documento] <cc-r> N M S @SUBJ>  
+faz 	[fazer] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+duas 	[dois] <card> NUM F P @>N  
+reivindicações 	[reivindicação] <act-s> N F P @<ACC  
+$. 
+</s>
+
+$S-3
+Primeiro 	[primeiro] <*> ADV @ADVL>  
+$, 
+pede 	[pedir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+CTNBio 	[CTNBio] <org> <*> PROP F S @<SC  
+$( 
+Comissão=Técnica=Nacional=de=Biossegurança 	[Comissão=Técnica=Nacional=de=Biossegurança] <org> <*> <np-close> PROP F S @N<PRED  
+$) 
+seja 	[ser] <vK> <mv> V PR 1/3S SUBJ VFIN @FS-<ACC  
+a 	[o] <artd> DET F S @>N  
+única 	[único] <jh> ADJ F S @>N  
+instância 	[instância] <activity> <am> <inst> N F S @<SC  
+a 	[a] PRP @<ADVL  
+regulamentar 	[regulamentar] <vH> <mv> V INF @ICL-P<  
+tanto 	[tanto] <parkc-1> ADV @CO  
+a 	[o] <artd> DET F S @>N  
+pesquisa 	[pesquisa] <cjt-head> <occ> <act-d> N F S @<ACC  
+como 	[como] ADV @NPHR  
+a 	[o] <artd> DET F S @>N  
+comercialização 	[comercialização] <cjt> <act> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+transgênicos 	[transgênico] <DERS> <jh> ADJ M P @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+âmbito 	[âmbito] <Labs> <L> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mérito 	[mérito] <ac> <am> N M S @P<  
+científico 	[científico] <nh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-4
+A 	[o] <*> <artd> DET F S @>N  
+segunda 	[segundo] <NUM-ord> <jh> ADJ F S @>N  
+sugestão 	[sugestão] <act-s> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+modificação 	[modificação] <act> N F S @P<  
+diz 	[dizer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+respeito 	[respeito] <am> <ac> <sem-r> N M S @<ACC  
+a 	[a] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+veto 	[veto] <act-s> N M S @P<  
+de 	[de] <np-long> PRP @N<  
+pesquisas 	[pesquisa] <occ> <act-d> N F P @P<  
+com 	[com] <np-close> PRP @N<  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @P<  
+embrionárias 	[embrionário] <nh> <np-close> ADJ F P @N<  
+humanas 	[humano] <jh> <np-long> ADJ F P @N<  
+e 	[e] KC @NPHR  
+com 	[com] <np-close> PRP @N<  
+clonagem 	[clonagem] <act> N F S @P<  
+terapêutica 	[terapêutico] <nh> <np-close> ADJ F S @N<  
+$. 
+</s>
+
+$S-5
+$"  
+A 	[o] <*> <*1> <artd> DET F S @>N  
+terapia 	[terapia] <activity> N F S @SUBJ>  
+celular 	[celular] <nh> <np-close> ADJ F S @N<  
+com 	[com] <np-long> PRP @N<  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @P<  
+embrionárias 	[embrionário] <nh> <np-close> ADJ F P @N<  
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+representar 	[representar] <mv> V INF @ICL-AUX<  
+a 	[o] <artd> DET F S @>N  
+esperança 	[esperança] <am> N F S @<ACC  
+de=tratamento 	[de=tratamento] <pp> ADJ @N<  
+para 	[para] PRP @<ADVL  
+$milhões  
+de 	[de] PRP @<ADVL  
+brasileiros 	[brasileiro] <Hnat> N M P @P<  
+afetados 	[afetado] <jh> <np-close> ADJ M P @N<  
+por 	[por] <np-long> PRP @N<  
+doenças 	[doença] <sick> N F P @P<  
+genéticas 	[genético] <nh> <np-close> ADJ F P @N<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+atingem 	[atingir] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+mais=de 	[mais=de] <quant> ADV @<ADVL  
+5 	[5] <cjt-head> <card> NUM M/F P @<ACC  
+$milhões  
+de 	[de] PRP @<ADVL  
+pessoas 	[pessoa] <H> N F P @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+maioria 	[maioria] <cjt> <HH> N F S @<ACC  
+crianças 	[criança] <cjt> <H> N F P @<ACC  
+e 	[e] KC @NPHR  
+jovens 	[jovem] <*2> <jh> ADJ M/F P @<SUBJ  
+$"  
+$, 
+escreveram 	[escrever] <vH> <fmc> <mv> <v-quote> V PS/MQP 3P IND VFIN @FS-STA  
+os 	[o] <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @<SUBJ  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+carta 	[carta] <cc-r> N F S @P<  
+enviada 	[enviar] <vH> <mv> <np-close> V PCP F S @ICL-N<  
+a 	[a] <sam-> PRP @<SA  
+os 	[o] <-sam> <artd> DET M P @>N  
+senadores 	[senador] <Hprof> N M P @P<  
+$. 
+</s>
+
+$S-6
+Entre 	[entre] <*> PRP @ADVL>  
+as 	[o] <artd> DET F P @>N  
+13 	[13] <card> NUM F P @>N  
+entidades 	[entidade] <H> N F P @P<  
+estão 	[estar] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+também 	[também] ADV @>N  
+a 	[o] <artd> DET F S @>N  
+Sociedade=Brasileira=de=Genética 	[Sociedade=Brasileira=de=Genética] <cjt-head> <org> <*> PROP F S @<SC  
+e 	[e] KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+Sociedade=Brasileira=de=Microbiologia 	[Sociedade=Brasileira=de=Microbiologia] <cjt> <org> <*> PROP F S @<SC  
+$. 
+</s>
+
+$S-7

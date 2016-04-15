@@ -1,0 +1,399 @@
+$S-1
+Uma	 [um] <*> <arti> DET F S @>N  O
+nação	 [nação] <HH> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+pedintes	 [pedinte] <H> N M/F P @P<  O
+O	 [o] <*> <artd> DET M S @>N  O
+Presidente=Sarkozy	 [Presidente=Sarkozy] <top> <*> <np-close> PROP M S @N< PES O
+abriu	 [abrir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+Conferência=de=Dadores	 [Conferência=de=Dadores] <occ> <*> PROP F S @<ACC  O
+realizada	 [realizar] <vH> <mv> <np-close> V PCP F S @ICL-N<  O
+em	 [em] PRP @<ADVL  O
+Paris	 [Paris] <civ> <*> PROP M S @P<  O
+com	 [com] PRP @<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+frase	 [frase] <act-s> <ac-cat> N F S @P<  O
+grandiloquente	 [grandiloqüente] <jh> <np-close> ADJ F S @N<  O
+sobre	 [sobre] <np-close> PRP @N<PRED  O
+a	 [o] <artd> DET F S @>N  O
+necessidade	 [necessidade] <am> <sit> N F S @P<  O
+urgente	 [urgente] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+criar	 [criar] <mv> V INF @ICL-P<  O
+um	 [um] <arti> DET M S @>N  O
+Estado	 [Estado] <brand> <*> <newlex> PROP M S @<ACC ORG O
+palestiniano	 [palestiniano] <np-close> ADJ M S @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+fim	 [fim] <temp> <event> <sem-c> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+2008	 [2008] <card> <date> <year> NUM M/F P @P<  O
+$. O
+</s>
+
+$S-3
+Depois	 [depois] <*> ADV @ADVL>  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+falhanço	 [falhanço] <event> N M S @P<  O
+esperado	 [esperar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+de	 [de] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cimeira	 [cimeira] <cloH-hat> <Ltop> <occ> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Annapolis	 [Annapolis] <civ> <*> PROP M/F S @P<  O
+$, O
+um	 [um] <arti> DET M S @>N  O
+modo	 [modo] <ac> N M S @NPHR  O
+de	 [de] <np-close> PRP @N<  O
+Condoleezza=Rice	 [Condoleezza=Rice] <hum> <clb> <*> PROP F S @SUBJ> PES O
+salvar	 [salvar] <vH> <mv> V INF 3S @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+face	 [face] <anmov> <Lsurf> <am> N F S @<ACC  O
+e	 [e] KC @NPHR  O
+de	 [de] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Administração	 [administração] <prop> <*> <HH> <activity> N F S @P<  O
+americana	 [americano] <nat> <jh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+a	 [o] <clb> <artd> DET F S @>N  O
+Europa	 [Europa] <org> <*> PROP F S @<ACC @SUBJ> ORG O
+continuarem	 [continuar] <vH> <aux> V INF 3P @ICL-P<  O
+a	 [a] PRP @PRT-AUX<  O
+fingir	 [fingir] <vH> <mv> V INF @ICL-AUX<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+estão	 [estar] <vK> <mv> V PR 3P IND VFIN @FS-<ACC  O
+interessadas	 [interessado] <jh> ADJ F P @<SC  O
+em	 [em] PRP @<ADVL  O
+resolver	 [resolver] <vH> <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+conflito	 [conflito] <fight> <event> N M S @<ACC  O
+israelo-	 [israelar] <hyfen> <DERS> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+palestiniano	 [palestiniano] ADJ M S @<PRED  O
+e	 [e] KC @NPHR  O
+de	 [de] PRP @<SC  O
+lavarem	 [lavar] <vH> <mv> V INF 3P @ICL-P<  O
+as	 [o] <artd> DET F P @>N  O
+mãos	 [mão] <anmov> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+tudo	 [tudo] <quant> SPEC M S @P<  O
+o	 [o] <artd> DET M S @>N  O
+resto	 [resto] <amount> N M S @SUBJ>  O
+$, O
+Sarkozy	 [Sarkozy] <hum> <*> PROP M/F S @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+ignorar	 [ignorar] <vH> <mv> V INF @ICL-AUX<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+momento	 [momento] <dur> <f-q> N M S @SUBJ>  O
+para	 [para] <np-close> PRP @N<  O
+pronunciamentos	 [pronunciamento] <sem-s> N M P @P<  O
+débeis	 [débil] <jh> <np-close> ADJ M P @N<  O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  O
+o	 [o] <artd> DET M S @>N  O
+menos	 [menos] <quant> <KOMP> ADV @>A  O
+adequado	 [adequado] <n> <nh> ADJ M S @<SC  O
+$. O
+</s>
+
+$S-13
+Se	 [se] <clb> <clb-fs> <*> KS @SUB  O
+realizassem	 [realizar] <vH> <mv> V IMPF 3P SUBJ VFIN @FS-ADVL>  O
+eleições	 [eleição] <occ> N F P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Cisjordânia	 [Cisjordânia] <top> <*> PROP F S @P<  O
+$, O
+Abbas	 [Abbas] <hum> <*> PROP M S @SUBJ> PES O
+e	 [e] KC @NPHR  O
+um	 [um] <arti> DET M S @>N  O
+grupo	 [grupo] <HH> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+agentes	 [agente] <Hprof> <ac> N M P @P<  O
+corruptos	 [corrupto] <jh> <np-close> ADJ M P @N<  O
+disfarçados	 [disfarçado] <jh> <np-long> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+$" O
+moderados	 [moderado] <*1> <*2> <jh> ADJ M P @P<  O
+$" O
+não	 [não] ADV @ADVL>  O
+as	 [elas] PERS F 3P ACC @ACC>  O
+ganhariam	 [ganhar] <vH> <fmc> <mv> V COND 3P VFIN @FS-STA  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+não	 [não] ADV @ADVL>  O
+as	 [elas] PERS F 3P ACC @ACC>  O
+ganhariam	 [ganhar] <vH> <fmc> <mv> V COND 3P VFIN @FS-STA  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+cidades	 [cidade] <Lciv> N F P @P<  O
+onde	 [onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+Hamas	 [Hamas] <org> <*> PROP M S @SUBJ> ORG O
+ganhou	 [ganhar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+$. O
+</s>
+
+$S-14
+Abbas	 [Abbas] <hum> <*> PROP M S @SUBJ> PES O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA B-REL
+fingir	 [fingir] <vH> <mv> V INF @ICL-AUX< I-REL
+mandar	 [mandar] <vH> <mv> V INF @ICL-<ACC I-REL
+em	 [em] PRP @<ADVL I-REL
+Ramallah	 [Ramallah] <civ> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+clientela	 [clientela] <HH> N F S @P<  O
+privilegiada	 [privilegiado] <jh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+uma	 [um] <arti> DET F S @>N  O
+organização	 [organização] <HH> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+soube	 [saber] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+constituir-	 [constituir] <hyfen> <mv> V INF @ICL-<ACC  O
+se	 [se] <obj> PERS M 3S ACC @<ACC  O
+como	 [como] <clb> <interr> ADV @ADVL>  O
+fonte	 [fonte] <Lwater> <Labs> <an> N F S @SUBJ>  O
+legítima	 [legítimo] <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+poder	 [poder] <am> <ac> <Labs> N M S @P<  O
+palestiniano	 [palestiniano] <np-close> ADJ M S @N<  O
+$, O
+não	 [não] ADV @ADVL>  O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+fingir	 [fingir] <vH> <mv> V INF @ICL-AUX<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+é	 [ser] <aux> V PR 3S IND VFIN @FS-<ACC  O
+considerado	 [considerar] <vH> <mv> V PCP M S @ICL-AUX<  O
+em	 [em] PRP @<ADVL  O
+Jenin	 [Jenin] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Hebron	 [Hebron] <civ> <*> PROP M/F S @P<  O
+$, O
+em	 [em] PRP @<ADVL  O
+Nablus	 [Nablus] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Tulkarem	 [Tulkarem] <hum> <*> PROP M/F S @P<  O
+$, O
+em	 [em] PRP @<ADVL  O
+Jericó	 [Jericó] <hum> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Jerusalém=Oriental	 [Jerusalém=Oriental] <top> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-15
+Abbas	 [Abbas] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+arrastando-	 [arrastar] <clb> <hyfen> <vH> <mv> V GER @ICL-ADVL>  O
+se	 [se] <refl> PERS M 3S/P ACC @<ACC  O
+aos=pés=de	 [aos=pés=de] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+chefes	 [chefe] <Htit> N M P @P<  O
+europeus	 [europeu] <nat> <jh> <np-close> ADJ M P @N<  O
+a	 [a] <np-long> PRP @N<  O
+mendigar	 [mendigar] <vH> <mv> V INF @ICL-P<  O
+uns	 [um] <quant> DET M P @>N  O
+milhares	 [milhar] <amount> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+$milhões O
+de	 [de] <np-close> PRP @N<  O
+dólares	 [dólar] <unit> <cur> N M P @P<  O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+insulta	 [insultar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N< B-REL
+o	 [o] <artd> DET M S @>N I-REL
+Hamas	 [Hamas] <inst> <*> PROP M S @<ACC ORG O
+e	 [e] KC @NPHR  O
+aceita	 [aceitar] <vH> <fmc> <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+palestinianos	 [palestiniano] <n> <jh> ADJ M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Gaza	 [Gaza] <hum> <*> PROP M/F S @P<  O
+sejam	 [ser] <aux> V PR 3P SUBJ VFIN @FS-<ACC  O
+colectivamente	 [colectivamente] ADV @ADVL>  O
+punidos	 [punir] <vH> <mv> V PCP M P @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+embargo	 [embargo] <activity> <act-s> N M S @P<  O
+israelita	 [israelita] <nat> <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+recusa	 [recusa] <act-s> N F S @P<  O
+americana	 [americano] <nat> <jh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+europeia	 [europeu] <nat> <jh> <np-close> ADJ F S @N<  O
+de	 [de] PRP @<ADVL  O
+incluir	 [incluir] <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+Hamas	 [Hamas] <inst> <*> PROP M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+processo	 [processo] <occ> <process> <activity> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+paz	 [paz] <sit> N F S @P<  O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+visto	 [ver] <vH> <mv> V PCP M S @ICL-AUX<  O
+como	 [como] <prd> <adv-rel> PRP @<SC  O
+uma	 [um] <arti> DET F S @>N  O
+marioneta	 [marioneta] <asarg> <Hmyth> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ocidente	 [Ocidente] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+um	 [um] <arti> DET M S @>N  O
+traidor	 [traidor] <asarg> <H> N M S @P<  O
+$. O
+</s>
+
+$S-155
+Abbas	 [Abbas] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+arrastando-	 [arrastar] <clb> <hyfen> <vH> <mv> V GER @ICL-ADVL>  O
+se	 [se] <refl> PERS M 3S/P ACC @<ACC  O
+aos=pés=de	 [aos=pés=de] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+chefes	 [chefe] <Htit> N M P @P<  O
+europeus	 [europeu] <nat> <jh> <np-close> ADJ M P @N<  O
+a	 [a] <np-long> PRP @N<  O
+mendigar	 [mendigar] <vH> <mv> V INF @ICL-P<  O
+uns	 [um] <quant> DET M P @>N  O
+milhares	 [milhar] <amount> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+$milhões O
+de	 [de] <np-close> PRP @N<  O
+dólares	 [dólar] <unit> <cur> N M P @P<  O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+insulta	 [insultar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N< O
+o	 [o] <artd> DET M S @>N O
+Hamas	 [Hamas] <inst> <*> PROP M S @<ACC O
+e	 [e] KC @NPHR  O
+aceita	 [aceitar] <vH> <fmc> <mv> <np-close> V PR 3S IND VFIN @FS-<ADVL @FS-N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+palestinianos	 [palestiniano] <n> <jh> ADJ M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Gaza	 [Gaza] <hum> <*> PROP M/F S @P<  O
+sejam	 [ser] <aux> V PR 3P SUBJ VFIN @FS-<ACC  O
+colectivamente	 [colectivamente] ADV @ADVL>  O
+punidos	 [punir] <vH> <mv> V PCP M P @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+embargo	 [embargo] <activity> <act-s> N M S @P<  O
+israelita	 [israelita] <nat> <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+recusa	 [recusa] <act-s> N F S @P<  O
+americana	 [americano] <nat> <jh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+europeia	 [europeu] <nat> <jh> <np-close> ADJ F S @N<  O
+de	 [de] PRP @<ADVL  O
+incluir	 [incluir] <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+Hamas	 [Hamas] <inst> <*> PROP M S @<ACC O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+processo	 [processo] <occ> <process> <activity> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+paz	 [paz] <sit> N F S @P<  O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+visto	 [ver] <vH> <mv> V PCP M S @ICL-AUX<  O
+como	 [como] <prd> <adv-rel> PRP @<SC  O
+uma	 [um] <arti> DET F S @>N  O
+marioneta	 [marioneta] <asarg> <Hmyth> N F S @P< B-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Ocidente	 [Ocidente] <civ> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+um	 [um] <arti> DET M S @>N  O
+traidor	 [traidor] <asarg> <H> N M S @P<  O
+$. O
+</s>
+
+$S-23
+A	 [o] <*> <artd> DET F S @>N  O
+velha	 [velho] <n> <jh> ADJ F S @SUBJ>  O
+e	 [e] KC @NPHR  O
+cínica	 [cínico] <jh> ADJ F S @SUBJ>  O
+Europa	 [Europa] <civ> <*> PROP F S @SUBJ> O
+$, O
+origem	 [origem] <Labs> <f-h> <np-close> N F S @N<PRED  O
+de	 [de] <np-close> PRP @N<  O
+todo	 [todo] <quant> DET M S @>N  O
+este	 [este] <dem> DET M S @>N  O
+problema	 [problema] <ac> N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+assassina	 [assassino] <n> <jh> <np-close> ADJ F S @APP  O
+Europa	 [Europa] <civ> <newlex> <*> <np-close> PROP F S @APP  O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+lhe	 [ele] PERS M/F 3S DAT @DAT>  O
+chama	 [chamar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-ADVL> @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+escritor	 [escritor] <Hprof> N M S @<ACC  O
+israelita	 [israelita] <n> <nat> <jh> ADJ M/F S @<OC  O
+Amos=Oz	 [Amos=Oz] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+sabe	 [saber] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+não	 [não] ADV @ADVL>  O
+pode	 [poder] <aux> V PR 3S IND VFIN @FS-<ACC  O
+contrariar	 [contrariar] <vH> <mv> V INF @ICL-AUX<  O
+os	 [o] <artd> DET M P @>N  O
+Estados=Unidos	 [Estados=Unidos] <civ> <*> PROP M P @<ACC ORG O
+e	 [e] KC @NPHR  O
+não	 [não] ADV @ADVL>  O
+quer	 [querer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+contrariar	 [contrariar] <vH> <mv> V INF @ICL-<ACC  O
+os	 [o] <artd> DET M P @>N  O
+israelitas	 [israelita] <Hnat> N M P @<ACC  O
+por	 [por] PRP @<ADVL  O
+má	 [má] ADJ F S @>N  O
+consciência	 [consciência] <am> N F S @P<  O
+$. O
+</s>
+
+$S-25
+Como	 [como] <clb> <clb-fs> <*> KS @SUB  O
+contribui	 [contribuir] <vH> <mv> V PR 3S IND VFIN @FS-ADVL>  O
+para	 [para] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+problema	 [problema] <ac> N M S @P<  O
+sem	 [sem] PRP @<ADVL  O
+contribuir	 [contribuir] <vH> <mv> V INF @ICL-P<  O
+para	 [para] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+solução	 [solução] <sem-c> <cm-liq> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Europa	 [Europa] <org> <*> PROP F S @SUBJ> ORG O
+adoptou	 [adoptar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+um	 [um] <arti> DET M S @>N  O
+discurso	 [discurso] <sem-s> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+duplicidades	 [duplicidade] <percep-f> N F P @P<  O
+e	 [e] KC @NPHR  O
+subentendidos	 [subentendido] <nh> ADJ M P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<PRED  O
+fraquezas	 [fraqueza] <am> N F P @P<  O
+e	 [e] KC @NPHR  O
+recuos	 [recuo] <act> N M P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+senhor=Javier=Solanas	 [senhor=Javier=Solanas] <hum> <*> <np-close> PROP M S @N< PES O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-P<  O
+o	 [o] <artd> DET M S @>N  O
+exemplo	 [exemplo] <ac> N M S @<SC  O
+acabado	 [acabado] <np-close> ADJ M S @N<  O
+$. O
+</s>

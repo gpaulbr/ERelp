@@ -1,0 +1,276 @@
+
+    Fatores Demográficos e Econômicos Subjacentes
+    
+      A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade. Assim foi com a
+      <EM ID="H2-dftre765-1" CATEG="ABSTRACCAO|ACONTECIMENTO" TIPO="IDEIA|EFEMERIDE"  >Reforma Protestante</EM>
+      . No seguimento do colapso de instituições monásticas e do escolasticismo
+      nos finais da <EM ID="H2-dftre765-102" CATEG="OUTRO"   >Idade Média</EM>
+      na
+      <EM ID="H2-dftre765-37" CATEG="LOCAL" TIPO="HUMANO"  >Europa</EM>
+      , acentuado pela "
+      <EM ID="H2-dftre765-17" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Cativeiro Babilónica da igreja</EM>
+      "
+      no papado de <EM ID="H2-dftre765-11" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Avignon</EM>
+      , o
+      <EM ID="H2-dftre765-6" CATEG="ACONTECIMENTO|ABSTRACCAO" TIPO="EFEMERIDE|IDEIA" COREL="H2-dftre765-102" TIPOREL="ACONTECIMENTO**outrarel**H2-dftre765-102**OUTRO">Grande Cisma</EM>
+      e o fracasso da conciliação, assistimos
+      <EM ID="H2-dftre765-72" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no século XVI</EM>
+      ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais. Este debate passou completamente ao lado de
+      <EM ID="H2-dftre765-8" CATEG="PESSOA" TIPO="POVO"  >Portugal</EM>
+      , demasiado distante do foco onde surgiram estes pensamentos. A imprensa, inventada na
+      <EM ID="H2-dftre765-9" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-37" TIPOREL="incluido">Alemanha</EM>
+      por
+      <EM ID="H2-dftre765-10" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-9" TIPOREL="natural_de">John Gutenberg</EM>
+      , foi importante na divulgação destas ideias. As  <EM ID="H2-dftre765-12aa" CATEG="OBRA" TIPO="REPRODUZIDA"  >95 Teses de Martinho Lutero</EM> 
+      foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de
+      <EM ID="H2-dftre765-14" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-13" TIPOREL="ident">Martinho Lutero</EM>
+      . Não menos relevante foi a influência da pressão social exercida pela
+      <EM ID="H2-dftre765-18" CATEG="ABSTRACCAO|ACONTECIMENTO" TIPO="DISCIPLINA|EFEMERIDE"  >Contra-Reforma</EM>
+      , na qual os
+      <EM ID="H2-dftre765-19" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="H2-dftre765-18" TIPOREL="PESSOA**participante_em**H2-dftre765-18**ACONTECIMENTO">Jesuítas</EM>
+      tiveram um papel de liderança. A
+      <EM ID="H2-dftre765-20" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Inquisição</EM>
+      e a censura exercida pela
+      <EM ID="H2-dftre765-22" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-20 H2-dftre765-18" TIPOREL="inclui ORGANIZACAO**produtor_de**H2-dftre765-18**ACONTECIMENTO">Igreja Católica</EM>
+      foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em
+      <EM ID="H2-dftre765-23" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-8 H2-dftre765-37" TIPOREL="local_nascimento_de incluido">Portugal</EM>
+      ,
+      <EM ID="H2-dftre765-24" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-37" TIPOREL="incluido">Espanha</EM>
+      ou
+      <EM ID="H2-dftre765-25" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-37" TIPOREL="incluido">Itália</EM>
+      , países católicos. Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se. O fracasso da conciliação levou à
+      <EM ID="H2-dftre765-26" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="H2-dftre765-1" TIPOREL="ACONTECIMENTO**ident**H2-dftre765-1**ACONTECIMENTO">Reforma Protestante</EM>
+      do ocidente europeu. Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da
+      <EM ID="H2-dftre765-104" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-22" TIPOREL="ident">Igreja</EM>
+      .
+    
+    
+      A Reforma Religiosa e Política
+      na
+      <EM ID="H2-dftre765-28" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-37" TIPOREL="incluido">Inglaterra</EM>
+    
+    
+      <EM ID="H2-dftre765-29" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28" TIPOREL="natural_de">Henrique VIII</EM>
+      O curso da
+      <EM ID="H2-dftre765-30" CATEG="ACONTECIMENTO|OBRA" TIPO="EFEMERIDE|PLANO" COREL="H2-dftre765-26" TIPOREL="ident">Reforma</EM>
+      foi diferente na
+      <EM ID="H2-dftre765-31" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-31" TIPOREL="ident">Inglaterra</EM>
+      . Tinha havido desde há muito uma forte corrente anti-clerical, tendo a
+      <EM ID="H2-dftre765-32" CATEG="PESSOA|LOCAL" TIPO="POVO|HUMANO" COREL="H2-dftre765-28 H2-dftre765-28" TIPOREL="LOCAL**ident**H2-dftre765-28**LOCAL PESSOA**natural_de**H2-dftre765-28**LOCAL">Inglaterra</EM>
+      já tido o movimento
+      <EM ID="H2-dftre765-33" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="H2-dftre765-28" TIPOREL="praticado_em">Lollard</EM>
+      , que inspirou os
+      <EM ID="H2-dftre765-34" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Hussitas</EM>
+      na
+      <EM ID="H2-dftre765-35" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-34 H2-dftre765-31" TIPOREL="pratica_se incluido">Boémia</EM>
+      . Mas
+      <EM ID="H2-dftre765-39" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">em cerca de 1520</EM>
+      , no entanto, os
+      <EM ID="H2-dftre765-40" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="H2-dftre765-33" TIPOREL="praticante_de">Lollards</EM>
+      não eram já uma força activa, ou pelo menos um movimento de massas.
+    
+    
+      O carácter diferente da
+      <EM ID="H2-dftre765-41" CATEG="ABSTRACCAO|ACONTECIMENTO" TIPO="IDEIA|EFEMERIDE" COREL="H2-dftre765-30" TIPOREL="ACONTECIMENTO**incluido**H2-dftre765-30**ACONTECIMENTO">Reforma Inglesa</EM>
+      deve-se ao facto de ter sido promovida inicialmente pelas necessidades políticas de
+      <EM ID="H2-dftre765-42" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-29 H2-dftre765-41 H2-dftre765-41" TIPOREL="ident PESSOA**praticante_de**H2-dftre765-41**ABSTRACCAO PESSOA**participante_em**H2-dftre765-41**ACONTECIMENTO">Henrique VIII</EM>
+      . Sendo este casado com
+      <EM ID="H2-dftre765-7" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42 H2-dftre765-24" TIPOREL="relacao_familiar natural_de">Catarina de Aragão</EM> 
+      e estando apaixonado por
+      <EM ID="H2-dftre765-44" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ana Bolena</EM>
+      ,
+      <EM ID="H2-dftre765-45" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42 H2-dftre765-42" TIPOREL="ident relacao_familiar">Henrique</EM>
+      solicita ao
+      <EM ID="H2-dftre765-46" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Papa Clemente VII</EM>
+      a anulação do casamento. Perante a recusa do
+      <EM ID="H2-dftre765-47" CATEG="PESSOA" TIPO="CARGO"  >Papado</EM>
+      ,
+      <EM ID="H2-dftre765-5" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42" TIPOREL="ident">Henrique</EM>
+      faz-se proclamar,
+      <EM ID="H2-dftre765-48" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">em 1531</EM>
+      , protector da
+      <EM ID="H2-dftre765-49" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-42" TIPOREL="vinculo_inst">Igreja</EM>
+      inglesa
+      . O "
+      <EM ID="H2-dftre765-50" CATEG="OBRA" TIPO="PLANO"  >Ato de Supremacia</EM>
+      ", votado no
+      <EM ID="H2-dftre765-51" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Parlamento</EM>
+      <EM ID="H2-dftre765-52" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">em Novembro de 1534</EM>
+      , colocou
+      <EM ID="H2-dftre765-53" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42" TIPOREL="ident">Henrique</EM>
+      e os seus sucessores na liderança da
+      <EM ID="H2-dftre765-54" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-49" TIPOREL="ident">Igreja</EM>
+      : os súbditos deveriam submeter-se ou então seriam excomungados e perseguidos. Apesar de uma certa deriva em direcção ao luteranismo,
+      <EM ID="H2-dftre765-55" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42" TIPOREL="ident">Henrique</EM>
+      reafirma a ortodoxia católica através da "
+      <EM ID="H2-dftre765-56" CATEG="OBRA" TIPO="PLANO"  >Confissão dos Seis Artigos</EM>
+      " (
+      <EM ID="H2-dftre765-57" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72 H2-dftre765-56" TIPOREL="incluido data_de">1539</EM>
+      ).
+    
+    
+      <EM ID="H2-dftre765-105" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">Entre 1540 e 1553</EM>
+      , sob
+      <EM ID="H2-dftre765-59" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28" TIPOREL="natural_de">Thomas Cromwell</EM>
+      , a política conhecida como a dissolução dos mosteiros foi posta em prática. A veneração de santos, locais de peregrinação foram atacados. Enormes extensões de terras e propriedades da
+      <EM ID="H2-dftre765-60" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-49" TIPOREL="ident">Igreja</EM>
+      passaram para as mãos da coroa e posteriormente da nobreza e das classes altas. Os direitos adquiridos foram uma força poderosa de apoio às dissoluções.
+    
+    
+      Houve muitos opositores da
+      <EM ID="H2-dftre765-61" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="DISCIPLINA|IDEIA" COREL="H2-dftre765-41" TIPOREL="ABSTRACCAO**ident**H2-dftre765-41**ABSTRACCAO">Reforma de Henrique</EM> 
+      , tais como
+      <EM ID="H2-dftre765-62" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28" TIPOREL="natural_de">Thomas More</EM>
+      e o
+      <EM ID="H2-dftre765-63" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28" TIPOREL="natural_de">Bispo John Fischer</EM>
+      , que foram executados pela sua oposição. Mas também existiu um partido crescente de
+      <EM ID="H2-dftre765-64" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Protestantes</EM>
+      genuínos que estavam inspirados pelas doutrinas então correntes no continente. Quando
+      <EM ID="H2-dftre765-65" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-42" TIPOREL="ident">Henrique</EM>
+      foi sucedido pelo seu filho
+      <EM ID="H2-dftre765-66" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-29 H2-dftre765-28" TIPOREL="relacao_familiar natural_de">Eduardo VI</EM>
+      <EM ID="H2-dftre765-67" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72 H2-dftre765-105" TIPOREL="incluido incluido">em 1547</EM>
+      , os protestantes viram-se em ascendente no governo. Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a "
+      <EM ID="H2-dftre765-68" CATEG="OBRA" TIPO="PLANO" COREL="H2-dftre765-56" TIPOREL="ident">Confissão dos Seis Artigos</EM>
+      ".
+      <EM ID="H2-dftre765-69" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72 H2-dftre765-105" TIPOREL="incluido incluido">Em 1552</EM>
+      , é redigido o novo "
+      <EM ID="H2-dftre765-70" CATEG="OBRA|OBRA" TIPO="PLANO|REPRODUZIDA"  >Livro de Orações</EM>
+      " e promulgada a "
+      <EM ID="H2-dftre765-71" CATEG="OBRA" TIPO="PLANO"  >Confissão de Fé em Quarenta e Dois Artigos</EM>
+      ", que aproximava doutrinalmente a
+      <EM ID="H2-dftre765-106" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="H2-dftre765-49" TIPOREL="ident">Igreja de Inglaterra</EM> 
+      do calvinismo.
+    
+    
+      Seguiu-se uma breve reacção católica
+      durante o reinado de <EM ID="H2-dftre765-21" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28 H2-dftre765-29 H2-dftre765-7 H2-dftre765-7aa" TIPOREL="natural_de relacao_familiar relacao_familiar relacao_familiar">Maria I</EM>
+      (
+      <EM ID="H2-dftre765-108" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">1553-1558</EM>
+      ). De início moderada na sua política religiosa,
+      <EM ID="H2-dftre765-109" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-21" TIPOREL="ident">Maria</EM>
+      procura a reconciliação com
+      <EM ID="H2-dftre765-110" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-22" TIPOREL="ident">Roma</EM>
+      , consagrada
+      <EM ID="H2-dftre765-111" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72 H2-dftre765-108" TIPOREL="incluido incluido">em 1554</EM>
+      , quando o
+      <EM ID="H2-dftre765-112" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="H2-dftre765-28" TIPOREL="ocorre_em">Parlamento</EM>
+      vota o regresso à obediência papal. Porém, as perseguições violentas que move aos não católicos e o seu casamento com
+     <EM ID="H2-dftre765-113" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-109 H2-dftre765-24" TIPOREL="relacao_familiar natural_de">Filipe II de Espanha</EM>  | Filipe II de Espanha
+      , provocam um forte descontentamento na população.
+    
+    
+      Um consenso começou a surgir durante o reinado de <EM ID="H2-dftre765-27" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28 H2-dftre765-29 H2-dftre765-44 H2-dftre765-21" TIPOREL="natural_de relacao_familiar relacao_familiar relacao_familiar">Isabel I</EM>
+      .
+      <EM ID="H2-dftre765-74" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">Em 1559</EM>
+      ,
+      <EM ID="H2-dftre765-75" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-27" TIPOREL="ident">Isabel</EM>
+      retorna à religião do pai, com o restabelecimento do "
+      <EM ID="H2-dftre765-76" CATEG="OBRA" TIPO="PLANO" COREL="H2-dftre765-50" TIPOREL="ident">Ato de Supremacia</EM>
+      " e do "
+      <EM ID="H2-dftre765-77" CATEG="OBRA|OBRA" TIPO="PLANO|REPRODUZIDA"  >Livro de Orações</EM>
+      " de
+      <EM ID="H2-dftre765-78" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-28 H2-dftre765-29 H2-dftre765-21 H2-dftre765-27 H2-dftre765-77" TIPOREL="natural_de relacao_familiar relacao_familiar relacao_familiar autor_de">Eduardo VI</EM>
+      . Através da "
+      <EM ID="H2-dftre765-79" CATEG="OBRA" TIPO="PLANO"  >Confissão dos Trinta e Nove Artigos</EM>
+      " (
+      <EM ID="H2-dftre765-80" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="incluido">1563</EM>
+      ),
+      <EM ID="H2-dftre765-81" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-27" TIPOREL="ident">Isabel</EM>
+      alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.
+    
+    
+      O sucesso da
+      <EM ID="H2-dftre765-82" CATEG="ACONTECIMENTO|ABSTRACCAO" TIPO="EFEMERIDE|DISCIPLINA" COREL="H2-dftre765-18 H2-dftre765-18" TIPOREL="ACONTECIMENTO**ident**H2-dftre765-18**ACONTECIMENTO ABSTRACCAO**ident**H2-dftre765-18**ABSTRACCAO">Contra-Reforma</EM>
+      no continente e o crescimento de um partido puritano dedicado a estender a
+      <EM ID="H2-dftre765-83" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="H2-dftre765-1 H2-dftre765-64" TIPOREL="ABSTRACCAO**ident**H2-dftre765-1**ABSTRACCAO praticado_por">Reforma Protestante</EM>
+      polarizou a
+      <EM ID="H2-dftre765-115" CATEG="TEMPO" TIPO="GENERICO"  >era Elizabetana</EM>
+      , apesar da
+      <EM ID="H2-dftre765-116" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-28" TIPOREL="ident">Inglaterra</EM>
+      não ter tido
+      <EM ID="H2-dftre765-3" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até 1640</EM>
+      lutas religiosas comparáveis às dos seus vizinhos.
+    
+    
+      Na verdade a
+      <EM ID="H2-dftre765-117" CATEG="ABSTRACCAO|ACONTECIMENTO" TIPO="DISCIPLINA|EFEMERIDE" COREL="H2-dftre765-30" TIPOREL="ACONTECIMENTO**ident**H2-dftre765-30**ACONTECIMENTO">Reforma</EM>
+      na
+      <EM ID="H2-dftre765-86" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-28" TIPOREL="ident">Inglaterra</EM>
+      procurou preservar o máximo da
+      <EM ID="H2-dftre765-85" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Tradição Católica</EM>
+      (episcopado, liturgia e sacramentos). A
+      <EM ID="H2-dftre765-87" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-49 H2-dftre765-86" TIPOREL="ident ocorre_em">Igreja da Inglaterra</EM> 
+      sempre se viu como a "eclesia anglicanae", ou seja, "A
+      <EM ID="H2-dftre765-118" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-87 H2-dftre765-870" TIPOREL="inclui inclui">Igreja</EM>
+      cristã na
+      <EM ID="H2-dftre765-119" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-dftre765-28" TIPOREL="ident">Inglaterra</EM>
+      " e não derivação da
+      <EM ID="H2-dftre765-88" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-110" TIPOREL="ident">Igreja de Roma</EM> 
+      ou do movimento reformista
+      <EM ID="H2-dftre765-120" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="H2-dftre765-72" TIPOREL="ident">do século XVI</EM>
+      .
+    
+    
+      Como consequência disso sempre existiu dois grandes "partidos" ou "facções": a
+      <EM ID="H2-dftre765-90" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="H2-dftre765-87 H2-dftre765-870" TIPOREL="ORGANIZACAO**incluido**H2-dftre765-87**ORGANIZACAO ORGANIZACAO**incluido**H2-dftre765-870**ORGANIZACAO">Igreja Alta</EM>
+      (
+      <EM ID="H2-dftre765-92" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="H2-dftre765-90 H2-dftre765-90" TIPOREL="ABSTRACCAO**ident**H2-dftre765-90**ABSTRACCAO ORGANIZACAO**ident**H2-dftre765-90**ORGANIZACAO">High Church</EM>
+      ) e
+      <EM ID="H2-dftre765-94" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="H2-dftre765-87 H2-dftre765-870" TIPOREL="ORGANIZACAO**incluido**H2-dftre765-87**ORGANIZACAO ORGANIZACAO**incluido**H2-dftre765-870**ORGANIZACAO">Igreja Baixa</EM>
+      (
+      <EM ID="H2-dftre765-95" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="H2-dftre765-94 H2-dftre765-94" TIPOREL="ABSTRACCAO**ident**H2-dftre765-94**ABSTRACCAO ORGANIZACAO**ident**H2-dftre765-94**ORGANIZACAO">Low Church</EM>
+      ), que refletem a controvérsia histórica sobre as formas de culto e de expressão.
+    
+    
+      A
+      <EM ID="H2-dftre765-121" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="H2-dftre765-28" TIPOREL="pratica_se">Reforma Anglicana</EM>
+      buscou ser a "via média" entre os extremos romanos e puritanos. Assim aceitam os dois sacramentos do
+      <EM ID="H2-dftre765-122" CATEG="ABSTRACCAO|OBRA" TIPO="IDEIA|PLANO" COREL="H2-dftre765-121" TIPOREL="ABSTRACCAO**incluido**H2-dftre765-121**ABSTRACCAO">Evangelho</EM>
+      : o
+      <EM ID="H2-dftre765-123" CATEG="ABSTRACCAO" TIPO="IDEIA" COREL="H2-dftre765-122" TIPOREL="incluido">Santo Batismo</EM>
+      , através do qual a pessoa é feita membro da
+      <EM ID="H2-dftre765-124" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Igreja de Cristo</EM>
+      , sendo que tal graça é complementada na
+      <EM ID="H2-dftre765-125" CATEG="ABSTRACCAO" TIPO="IDEIA" COREL="H2-dftre765-122" TIPOREL="incluido">Confirmação</EM>
+      , e na
+      <EM ID="H2-dftre765-126" CATEG="ABSTRACCAO" TIPO="IDEIA" COREL="H2-dftre765-122" TIPOREL="incluido">Santa Comunhão</EM>
+      , que une o cristão ao sacrifício de
+      <EM ID="H2-dftre765-127" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-124" TIPOREL="vinculo_inst">Cristo Jesus</EM>
+      que os alimenta com seu corpo e sangue.
+    
+    
+      Para os anglicanos estes dois sacramentos foram instituídos pelo próprio
+      <EM ID="H2-dftre765-96" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-127" TIPOREL="ident">Senhor Jesus Cristo</EM>
+      . Os demais ritos sacramentais da
+      <EM ID="H2-dftre765-97" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-22" TIPOREL="ident">Igreja</EM>
+      também são aceitos, apesar de não terem sido instituídos por
+      <EM ID="H2-dftre765-98" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-127" TIPOREL="ident">Cristo</EM>
+      , mas são reconhecidos por serem, em parte, estados de vida aprovados nas
+      <EM ID="H2-dftre765-128" CATEG="OBRA" TIPO="REPRODUZIDA"  >Escrituras</EM>
+      : a
+      <EM ID="H2-dftre765-129" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Confirmação</EM>
+      ,
+      <EM ID="H2-dftre765-130" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Penitência</EM>
+      ,
+      <EM ID="H2-dftre765-131" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Ordens</EM>
+      ,
+      <EM ID="H2-dftre765-132" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Matrimônio</EM>
+      e a
+      <EM ID="H2-dftre765-133" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Unção dos enfermos</EM>
+      .
+    
+    
+      Embora tenham se afastado de muitas das prática devocionais medievais com relação aos santos e a
+      <EM ID="H2-dftre765-99" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-127" TIPOREL="relacao_familiar">Virgem Maria</EM>
+      mantiveram um calendário específico para sua comemoração na
+      <EM ID="H2-dftre765-100" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-dftre765-22" TIPOREL="ident">Igreja</EM>
+      , em especial as antigas festas marianas diretamente associadas aos méritos de seu
+      Filho <EM ID="H2-dftre765-89" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-dftre765-127" TIPOREL="ident">Jesus Cristo</EM>
+      (
+      <EM ID="H2-dftre765-134" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Anunciação</EM>
+      ,
+      <EM ID="H2-dftre765-135" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Natividade</EM>
+      etc).
+    
+  

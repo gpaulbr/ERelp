@@ -1,0 +1,53 @@
+
+    
+      <EM ID="hub-822-39" CATEG="COISA" TIPO="CLASSE"  >Euro</EM>
+      segue em alta face ao dólar
+    
+    
+      O euro segue a reforçar os ganhos em relação à divisa dos
+      <EM ID="hub-822-40" CATEG="ORGANIZACAO|LOCAL" TIPO="ADMINISTRACAO|HUMANO"  >Estados Unidos</EM>
+      <EM ID="hub-822-41" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >esta segunda-feira</EM>
+      , cotando sobre
+      <EM ID="hub-822-43" CATEG="VALOR" TIPO="MOEDA"  >1,474 dólares</EM>
+      , seis cêntimos acima dos máximos da sessão anterior.
+    
+    
+      A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da
+      
+        <EM ID="hub-822-45" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-822-40 hub-822-40" TIPOREL="ORGANIZACAO**incluido**hub-822-40**ORGANIZACAO ORGANIZACAO**ocorre_em**hub-822-40**LOCAL">Reserva Federal dos EUA</EM>
+        
+      com o objectivo de inverter o cenário de abrandamento da economia.
+    
+    
+      Por outro lado, números do
+      <EM ID="hub-822-48" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Fundo Monetário Internacional</EM>
+      divulgados
+      <EM ID="hub-822-49" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na passada sexta-feira</EM>
+      indicam que a divisa europeia já pesa
+      <EM ID="hub-822-50" CATEG="VALOR" TIPO="QUANTIDADE"  >26,4%</EM>
+      do total das reservas externas em todo mundo <EM ID="hub-822-500" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no terceiro trimestre</EM>, mais do que
+      <EM ID="hub-822-51" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no trimestre anterior</EM>
+      e a comparar com
+      <EM ID="hub-822-52" CATEG="VALOR" TIPO="QUANTIDADE"  >24,4%</EM>
+      <EM ID="hub-822-53" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >um ano antes</EM>
+      .
+    
+    
+      <EM ID="hub-822-54" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Na passada sexta-feira</EM>
+      , o
+      <EM ID="hub-822-55" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Banco Central Europeu</EM>
+      (
+      <EM ID="hub-822-56" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-822-55" TIPOREL="ident">BCE</EM>
+      ) fixou a taxa de câmbio oficial a
+      <EM ID="hub-822-57" CATEG="VALOR" TIPO="MOEDA"  >1,4692 dólares</EM>
+      , um valor que corresponde a
+      <EM ID="hub-822-58" CATEG="VALOR" TIPO="QUANTIDADE"  >mais 17%</EM>
+      face ao câmbio média calculado
+      <EM ID="hub-822-59" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para 2006</EM>
+      , quando a moeda única europeia se fixou em
+      <EM ID="hub-822-60" CATEG="VALOR" TIPO="MOEDA"  >1,2556 dólares</EM>
+      , segundo dados do
+      <EM ID="hub-822-61" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-822-55" TIPOREL="ident">BCE</EM>
+      para a média anual.
+    
+  

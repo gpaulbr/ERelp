@@ -1,0 +1,27 @@
+$S-25
+Ouvimos	 [ouvir] <*> <vH> <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+melhor	 [bom] <KOMP> <SUP> <jh> ADJ M S @>N  O
+agrado	 [agrado] <percep-f> <act-d> N M S @P<  O
+essa	 [esse] <dem> DET F S @>N  O
+exposição	 [exposição] <occ> <act> <sem-s> <per> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+V.Exa.	 [V.Exa.] <hum> <*> PROP M/F S @P<  O
+a=respeito=de	 [a=respeito=de] <sam-> PRP @ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+progressos	 [progresso] <am> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Petrobrás	 [Petrobrás] <org> <*> PROP M S @P< ORG O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+produção	 [produção] <act> <am> N F S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+óleo	 [óleo] <cm-liq> <food> N M S @P< REL
+em	 [em] <np-close> PRP @N< REL
+nosso	 [nosso] <poss 1P> DET M S @>N REL
+País	 [país] <prop> <*> <Lciv> N M S @P< LOCAL O
+$. O
+</s>

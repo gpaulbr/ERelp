@@ -1,0 +1,199 @@
+$S-1
+Campanhas=Donativos=Pode	 [Campanhas=Donativos=Pode] <hum> <*> PROP M/F S @SUBJ>  O
+fazer	 [fazer] <mv> V INF 3S @IMV  O
+o	 [o] <artd> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+donativo	 [donativo] <mon> N M S @<ACC  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Comité=Português=para=a=UNICEF	 [Comité=Português=para=a=UNICEF] <inst> <*> PROP M S @P<  O
+utilizando	 [utilizar] <clb> <vH> <mv> V GER @ICL-<OC  O
+umas	 [um] <quant> DET F P @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+seguintes	 [seguinte] <nh> ADJ F P @>N  O
+vias	 [via] <Lpath> N F P @P<  O
+$: O
+$-- O
+Transferência	 [transferência] <*> <act> N F S @NPHR  O
+bancária	 [bancário] <nh> <np-close> ADJ F S @N<  O
+junto	 [junto] ADV @ADVL  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Banco=Sotto=Mayor	 [Banco=Sotto=Mayor] <inst> <*> PROP M S @P<  O
+$-- O
+Agência=Fontes=Pereira=de=Melo	 [Agência=Fontes=Pereira=de=Melo] <org> <*> PROP F S @NPHR  O
+$, O
+para	 [para] PRP @ADVL  O
+o	 [o] <artd> DET M S @>N  O
+NIB=00	 [NIB=00] <inst> <*> PROP M S @P<  O
+$. O
+33.0000.50131901229.05	 [33.0000.50131901229.05] <card> NUM M/F P @NPHR  O
+$( O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+efectuar	 [efectuar] <mv> V INF @ICL-AUX<  O
+esta	 [este] <dem> DET F S @>N  O
+transferência	 [transferência] <act> N F S @<ACC  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Internet	 [Internet] <top> <*> PROP F S @P<  O
+através	 [através] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+site	 [site] <Lh> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+seu	 [seu] <poss 3S> DET M S @>N  O
+banco	 [banco] <furn> <inst> <Ltop> N M S @P<  O
+$) O
+$-- O
+Por	 [por] <*> PRP @ADVL  O
+cheque	 [cheque] <cc-r> N M S @P<  O
+passado	 [passado] <np-close> ADJ M S @N<  O
+a	 [a] <sam-> PRP @ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+ordem	 [ordem] <act-s> <HH> <sit> <ac> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Comité=Português=para=a=UNICEF	 [Comité=Português=para=a=UNICEF] <inst> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+enviado	 [enviado] <Hprof> N M S @P< REL
+para	 [para] <np-close> PRP @N< REL
+a	 [o] <artd> DET F S @>N O
+Avenida=António=Augusto=de=Aguiar	 [Avenida=António=Augusto=de=Aguiar] <top> <*> PROP F S @P< LOCAL O
+$, O
+56-3.º	 [56-3.º] <NUM-ord> <np-close> ADJ M S @N<PRED  O
+Esq	 [Esq] <hum> <*> PROP M/F S @NPHR  O
+$. O
+$, O
+1069-115	 [1069-115] <card> NUM F P @>N  O
+Lisboa	 [Lisboa] <inst> <*> <np-close> PROP F S @APP  O
+$-- O
+Por	 [Por] <hum> <*> <np-close> PROP M/F S @APP  O
+vale	 [vale] <Ltop> <cc-r> N M S @<PRED  O
+postal	 [postal] <nh> <np-close> ADJ M S @N<  O
+Imprimir=Em	 [Imprimir=Em] <top> <*> <np-long> PROP M S @N<  O
+qualquer	 [qualquer] <quant> <np-long> DET M/F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+casos	 [caso] <event> <ac-cat> <sem> N M P @P<  O
+$, O
+por=favor	 [por=favor] IN @ADVL  O
+preencha	 [preencher] <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+seguinte	 [seguinte] <nh> ADJ M S @>N  O
+formulário	 [formulário] <sem-r> N M S @<ACC  O
+$( O
+essencial	 [essencial] <ac-cat> <np-close> N M S @N<PRED  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+pretende	 [pretender] <vH> <mv> V PR 3S IND VFIN @FS-<SUBJ @FS-<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+seja	 [ser] <aux> V PR 3S SUBJ VFIN @FS-<ACC  O
+emitido	 [emitir] <mv> V PCP M S @ICL-AUX<  O
+um	 [um] <arti> DET M S @>N  O
+recibo	 [recibo] <cc-r> N M S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+seu	 [seu] <poss 3S> DET M S @>N  O
+donativo	 [donativo] <mon> N M S @P<  O
+para	 [para] PRP @<ADVL  O
+efeitos	 [efeito] <ac> <cc-r> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+dedução	 [dedução] <act> <ac> N F S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+impostos	 [imposto] <amount> <mon> N M P @P<  O
+$) O
+$: O
+Quero	 [querer] <*> <vH> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+fazer	 [fazer] <mv> V INF @ICL-<ACC  O
+um	 [um] <arti> DET M S @>N  O
+donativo	 [donativo] <mon> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+valor	 [valor] <am> <ac> <unit> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+$: O
+euros	 [euro] <cur> N M P @NPHR  O
+Envio	 [Envio] <hum> <*> PROP M/F S @NPHR  O
+cheque	 [cheque] <cc-r> N M S @NPHR  O
+nª	 [nª] N M/F S @NPHR  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+banco	 [banco] <furn> <inst> <Ltop> N M S @P<  O
+a	 [a] <sam-> PRP @ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+ordem	 [ordem] <act-s> <HH> <sit> <ac> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+unicef	 [unicef] N M S @P<  O
+$. O
+</s>
+
+$S-5
+v	 [v] <ac-sign> N M S @PRED>  O
+Uma	 [um] <*> <arti> DET F S @>N  O
+iniciativa	 [iniciativa] <act-d> N F S @PRED>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Solvay=Portuguesa	 [Solvay=Portuguesa] <org> <*> PROP F S @P< ORG O
+$, O
+reuniu	 [reunir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+965.08100	 [965.08100] <card> NUM M/F P @<ACC REL
+para	 [para] PRP @<ADVL REL
+Timor	 [Timor] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-7
+v	 [v] <ac-sign> N M S @PRED>  O
+Uma	 [um] <*> <arti> DET F S @>N  O
+acção	 [acção] <act-d> <cc-r> N F S @PRED>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Cartier	 [Cartier] <org> <*> PROP F S @P< ORG O
+$, O
+doou	 [doar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+2.000.00000	 [2.000.00000] <card> NUM M/F P @<ACC REL
+para	 [para] PRP @<ADVL REL
+os	 [o] <artd> DET M P @>N REL
+órfãos	 [órfão] <H> N M P @P< REL
+de	 [de] <np-close> PRP @N< REL
+Moçambique	 [Moçambique] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-9
+v	 [v] <ac-sign> N M S @PRED>  O
+A	 [o] <*> <artd> DET F S @>N  O
+acção	 [acção] <act-d> <cc-r> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Portugal=Telecom	 [Portugal=Telecom] <org> <*> PROP F S @P< ORG O
+resultou	 [resultar] <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+em	 [em] PRP @<PIV REL
+10.000.00000	 [10.000.00000] <card> NUM M/F P @P< REL
+para	 [para] PRP @<ADVL REL
+o	 [o] <artd> DET M S @>N O
+Kosovo	 [Kosovo] <inst> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-10
+v	 [v] <ac-sign> N M S @PRED>  O
+A	 [o] <*> <artd> DET F S @>N  O
+participação	 [participação] <act> <sem-s> N F S @PRED>  O
+anual	 [anual] <nh> <np-close> ADJ F S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+campanha	 [campanha] <activity> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Seguradora=Allianz=Portugal	 [Seguradora=Allianz=Portugal] <org> <*> PROP F S @P< ORG O
+$, O
+permitiu	 [permitir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+enviar	 [enviar] <vH> <mv> V INF @ICL-<ACC REL
+5.083.61800	 [5.083.61800] <card> NUM M/F P @<ACC REL
+para	 [para] PRP @<ADVL REL
+Timor	 [Timor] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>

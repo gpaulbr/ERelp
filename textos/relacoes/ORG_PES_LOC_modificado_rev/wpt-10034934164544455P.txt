@@ -1,0 +1,33 @@
+$S-8
+Gostaria	 [gostar] <*> <vH> <fmc> <mv> V COND 3S VFIN @FS-STA  O
+muito	 [muito] <quant> DET M S @<SUBJ  O
+$, O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+Acólitos	 [acólito] <prop> <*> <H> PROP M P @PRED> PES O
+$, O
+se	 [se] <refl> PERS M/F 3P ACC @ACC>-PASS  O
+registassem	 [registar] <vH> <mv> V IMPF 3P SUBJ VFIN @FS-<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+forum	 [fórum] <Lh> N M S @P<  O
+$, O
+de=modo=a	 [de=modo=a] PRP @<ADVL  O
+ser	 [ser] <vK> <mv> V INF @ICL-P<  O
+algo	 [algo] <quant> <det> ADV @>A  O
+organizado	 [organizar] <vH> <jh> V PCP M S @<SC  O
+$, O
+principalmente	 [principalmente] ADV @>N  O
+os	 [o] <dem> DET M P @<SC REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N O
+AAPSE	 [AAPSE] <org> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-<ADVL  O
+muito	 [muito] <quant> ADV @>A  O
+simples	 [simples] <jh> ADJ M/F S/P @<SC  O
+$, O
+querem	 [querer] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+ver	 [ver] <vH> <mv> V INF @ICL-<ACC  O
+$. O
+</s>

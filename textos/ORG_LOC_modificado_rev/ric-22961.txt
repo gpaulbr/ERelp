@@ -1,0 +1,51 @@
+$S-12
+A	 [o] <*> <artd> DET F S @>N  O
+inspiração	 [inspiração] <am> N F S @SUBJ>  O
+veio	 [vir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+de	 [de] <sam-> PRP @<SA  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+ruas	 [rua] <Lpath> N F P @P<  O
+$: O
+há	 [há] PRP @ADVL>  O
+três	 [três] <card> NUM F P @>N  O
+semanas	 [semana] <dur> N F P @P<  O
+$, O
+um	 [um] <arti> DET M S @>N  O
+outdoor	 [outdoor] <part-build> <cc-light> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+McDonald's	 [McDonald's] <hum> <*> PROP M S @P< ORG O
+em	 [em] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N O
+Avenida=Jorge=Amado	 [Avenida=Jorge=Amado] <top> <*> PROP F S @P< LOCAL O
+havia	 [haver] <fmc> <aux> V IMPF 3S IND VFIN @FS-STA  O
+recebido	 [receber] <vH> <mv> V PCP M S @ICL-AUX<  O
+uma	 [um] <arti> DET F S @>N  O
+interferência	 [interferência] <am> N F S @<ACC  O
+gráfica	 [gráfico] <nh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-26
+Sangue=Quente	 [Sangue=Quente] <hum> <*> PROP M/F S @SUBJ>  O
+$-- O
+Pelo=menos	 [pelo=menos] <quant> <*> ADV @>N  O
+a	 [o] <artd> DET F S @>N  O
+ocupação	 [ocupação] <activity> <act> <per> N F S @SUBJ>  O
+sinistra	 [sinistro] <jh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+Bush	 [Bush] <hum> <*> PROP M/F S @P< ORG O
+em	 [em] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Iraque	 [Iraque] <civ> <*> PROP M S @P< LOCAL O
+serviu	 [servir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+para	 [para] PRP @<PIV  O
+mobilizar	 [mobilizar] <vH> <mv> V INF @ICL-P<  O
+os	 [o] <artd> DET M P @>N  O
+glóbulos	 [glóbulo] <cc> N M P @<ACC  O
+vermelhos	 [vermelho] <col> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+muita	 [muito] <quant> DET F S @>N  O
+gente	 [gente] <HH> N F S @P<  O
+$. O
+</s>

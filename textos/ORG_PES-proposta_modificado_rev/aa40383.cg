@@ -1,0 +1,144 @@
+$S-1
+Acusa-	 [acusar] <hyfen> <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] <obj> PERS M/F 3S ACC @<ACC O
+Koeman	 [Koeman] <hum> PROP M/F S @<SUBJ PES O
+de	 [de] PRP @<PIV O
+mudar	 [mudar] <mv> V INF @ICL-P< O
+constantemente	 [constantemente] <nh> ADV @<ADVL O
+a	 [o] <artd> DET F S @>N O
+equipa	 [equipa] <HH> N F S @<ACC O
+$, O
+como=se	 [como=se] <clb> <clb-fs> KS @SUB O
+ele	 [ele] PERS M 3S NOM @SUBJ> O
+fosse	 [ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-<ADVL O
+responsável	 [responsável] <jh> ADJ M S @<SC O
+por	 [por] <sam-> PRP @A< O
+as	 [o] <artd> <-sam> DET F P @>N O
+lesões	 [lesão] <f-an> N F P @P< O
+e	 [e] <co-prparg> KC @CO O
+castigos	 [castigo] <act> N M P @P< O
+ou	 [ou] <co-fin> KC @CO O
+por	 [por] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+chegada	 [chegada] <event> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+mini-enxurrada	 [mini-enxurrada] <wea-rain> <Lwater> <amount> N F S @P< O
+de	 [de] <np-close> PRP @N< O 
+reforços	 [reforço] <ac> N M P @P< O
+em	 [em] <np-close> PRP @N< O 
+Dezembro	 [dezembro] <prop> N M S @P< O
+$, O
+anunciados	 [anunciar] <vH> <mv> V PCP M P @ICL-N<PRED O
+por	 [por] <sam-> PRP @<PASS O
+a	 [o] <artd> <-sam> DET F S @>N O
+Direcção	 [Direcção] <prop> <dir> <HH> <Ltop> N F S @P< ORG O
+como	 [como] <clb> <clb-fs> <interr> ADV @ADVL> O
+o	 [o] <artd> DET M S @>N O
+suplemento	 [suplemento] <cc-r> <mon> N M S @SUBJ> O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+faltava	 [faltar] <mv> <np-close> V IMPF 3S IND VFIN @FS-N< O 
+para	 [para] PRP @<ADVL O
+a	 [o] <artd> DET F S @>N O
+conquista	 [conquista] <act> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+Liga=dos=Campeões	 [Liga=dos=Campeões] <org> PROP F S @P< O
+e	 [e] <co-fin> KC @CO O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+ele	 [ele] PERS M 3S NOM @SUBJ> O
+$, O
+logicamente	 [lógico] <nh> ADV @ADVL> O
+$, O
+tinha	 [ter] <aux> V IMPF 3S IND VFIN @FS-<SUBJ O
+de	 [de] PRP @PRT-AUX< O
+experimentar	 [experimentar] <vH> <mv> V INF @ICL-AUX< O
+e	 [e] <co-inf> KC @CO O
+utilizar	 [utilizar] <vH> <mv> V INF @ICL-AUX< O
+$. O
+</s>
+
+$S-2
+mais=de	 [mais=de] <quant> ADV @>A  O
+um	 [um] <card> NUM M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @ADVL> O
+de	 [de] <np-close> PRP @N< O
+investigações	 [investigação] <act> N F P @P< O
+decorrido	 [decorrido] <nh> <np-long> ADJ M S @N< O 
+$, O
+depois	 [depois] ADV @ADVL> O
+de	 [de] <sam-> PRP @A< O
+aquele	 [aquele] <dem> <-sam> DET M S @>N O
+imenso	 [imenso] <jh> ADJ M S @>N O
+aparato	 [aparato] <sit> <tool> <act> N M S @P< O
+policial-mediático	 [policial-mediático] <Hprof> <np-close> N M S @N< O 
+para	 [para] PRP @ADVL> O
+ouvir	 [ouvir] <vH> <mv> V INF @ICL-P< O
+o	 [o] <artd> DET M S @>N O
+$" O
+suspeitíssimo	 [suspeitíssimo] <n> <DERS> <jh> ADJ M S @<ACC O
+$" O
+Pinto=da=Costa	 [Pinto=da=Costa] <hum> PROP M S @<ACC PES O
+$, O
+depois	 [depois] ADV @ADVL> O
+de	 [de] PRP @A< O
+dezenas	 [dezena] N F P @P< O
+ou	 [ou] <co-prparg> KC @CO O
+centenas	 [centena] <amount> N F P @<ACC O
+de	 [de] <np-close> PRP @N< O 
+milhares	 [milhar] <amount> N M P @P< O
+de	 [de] <np-close> PRP @N< O 
+contos	 [conto] <cur> <amount> <sem-r> <tool> N M P @P< O
+gastos	 [gasto] <mon> N M P @<ACC O
+a	 [a] <sam-> PRP @<ADVL O
+os	 [o] <-sam> <artd> DET M P @>N O
+contribuintes	 [contribuinte] <H> N M P @P< O
+$, O
+depois	 [depois] ADV @ADVL> O
+de	 [de] PRP @A< O
+não	 [não] ADV @ADVL> O
+sei	 [saber] <fmc> <mv> V PR 1S IND VFIN @FS-STA O
+quantas	 [quanto] <clb> <clb-fs> <quant> <interr> DET F P O
+prorrogações	 [prorrogação] <act> N F P @PRED> O
+de	 [de] <np-close> PRP @N< O 
+prazo	 [prazo] <per> <temp> N M S @P< O
+a=favor=de	 [a=favor=de] <sam-> <np-close> PRP @N< O
+o	 [o] <-sam> <artd> DET M S @>N O
+Ministério=Público	 [Ministério=Público] <inst> PROP M S @P< ORG O
+$, O
+depois	 [depois] ADV @ADVL> O
+de	 [de] <sam-> PRP @A< O
+o	 [o] <artd> <-sam> DET M S @>N O
+reforço	 [reforço] <ac> N M S @P< O
+extraordinário	 [extraordinário] <np-close> ADJ M S @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+meios	 [meio] <amount> <tool> <Labs> N M P @P< O
+de	 [de] <np-close> PRP @N< O
+investigação	 [investigação] <act> N F S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+$" O
+task	 [task] N F S @SUBJ> O
+force	 [forçar] <vH> <mv> V PR 3S SUBJ VFIN @FS-<ACC O
+$" O
+judicial	 [judicial] <n> <nh> ADJ M/F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+Gondomar	 [Gondomar] <hum> PROP M/F S @P< O
+conclui	 [concluir] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+apenas	 [apenas] ADV @>P O
+em	 [em] PRP @<ADVL O
+extrair	 [extrair] <vH> <mv> V INF @ICL-P< O
+certidões	 [certidão] <am> N F P @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+processo	 [processo] <activity> <process> <occ> N M S @P< O
+para	 [para] PRP @<ADVL O
+que	 [que] <clb> <clb-fs> KS @SUB O
+outros	 [outro] <KOMP> <diff> DET M P @SUBJ> O
+continuem	 [continuar] <vH> <aux> V PR 3P SUBJ VFIN @FS-P< O
+a	 [a] PRP @PRT-AUX< O
+investigar	 [investigar] <vH> <mv> V INF @ICL-AUX< O
+Pinto=da=Costa	 [Pinto=da=Costa] <hum> PROP M S @<ACC O
+$. O
+</s>

@@ -1,0 +1,114 @@
+$S-1
+Prémios	 [Prémios] <tit> <*> PROP M S @SUBJ>  O
+atribuídos	 [atribuir] <vH> V PCP M P @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @ADVL>  O
+10	 [10] <card> <np-close> NUM M/F P @N<  O
+Concurso	 [concurso] <prop> <*> <occ> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+logotipo	 [logotipo] <ac-sign> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setúbal	 [Setúbal] <civ> <*> PROP M S @P<  O
+terminou	 [terminar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+Alexandre=Marques	 [Alexandre=Marques] <hum> <*> PROP M S @<SUBJ PES O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+vencedor	 [vencedor] <H> N M S @<SC REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+concurso	 [concurso] <occ> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+criação	 [criação] <act> N F S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+logotipo	 [logotipo] <ac-sign> N M S @P< REL
+para	 [para] <np-close> PRP @N< @<ADVL REL
+o	 [o] <artd> DET M S @>N REL
+porto	 [porto] <Lwater> <inst> <drink> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Setúbal	 [Setúbal] <civ> <*> PROP M S @P< REL
+aberto	 [abrir] <vH> <mv> <np-close> V PCP M S @ICL-N< REL
+recentemente	 [recentemente] ADV @<ADVL REL
+por	 [por] <sam-> PRP @<PASS REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Administração=dos=Portos=de=Setúbal=e=Sesimbra	 [Administração=dos=Portos=de=Setúbal=e=Sesimbra] <org> <*> PROP F S @P< ORG O
+$( O
+APSS	 [APSS] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+ganhando	 [ganhar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+prémio	 [prémio] <mon> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+200	 [200] <card> NUM M P @>N  O
+contos	 [conto] <sem-r> <amount> <cur> <tool> N M P @P<  O
+$. O
+</s>
+
+$S-10
+Todos=os	 [todo=o] <quant> <*> DET M P @>N  O
+desenhos	 [desenho] <pict> N M P @SUBJ>  O
+premiados	 [premiado] <np-close> ADJ M P @N<  O
+são	 [ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+pertença	 [pertença] <f-right> <Labs> N F S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+APSS	 [APSS] <org> <*> PROP F S @P<  O
+e	 [e] KC @NPHR  O
+qualquer=um	 [qualquer=um] SPEC M S @SUBJ>  O
+poderá	 [poder] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+adoptado	 [adoptar] <vH> <mv> V PCP M S @ICL-AUX<  O
+como	 [como] <prd> <adv-rel> PRP @<SC  O
+logotipo	 [logotipo] <asarg> <ac-sign> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+porto	 [porto] <Lwater> <inst> <drink> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setúbal	 [Setúbal] <civ> <*> PROP M S @P<  O
+$, O
+por	 [por] PRP @<ADVL  O
+decisão	 [decisão] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho=de=Administração	 [Conselho=de=Administração] <org> <*> PROP M S @P< ORG O
+$, O
+depois	 [depois] ADV @<ADVL  O
+de=ouvido	 [de=ouvido] <pp> ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Júri	 [júri] <asarg> <prop> <*> <HH> <np-close> N M S @P< @APP PES O
+$, O
+estipula	 [estipular] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+ainda	 [ainda] ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+regulamento	 [regulamento] <activity> <sem-c> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+concurso	 [concurso] <occ> N M S @P<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> DET M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+se	 [se] PERS M 3S ACC @ACC>-PASS  O
+mantém	 [manter] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+curiosidade	 [curiosidade] <am> <ac> N F S @<OC  O
+de	 [de] <np-close> PRP @N<  O
+saber	 [saber] <am> N M S @P<  O
+qual	 [qual] <clb> <clb-fs> <rel> DET M/F S @SC> @ACC>  O
+e	 [e] KC @NPHR  O
+de	 [de] <clb> PRP @ADVL>  O
+quem	[quem] <rel> SPEC M/F S/P @P<  O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<SUBJ @FS-<ACC  O
+o	 [o] <artd> DET M S @>N  O
+logotipo	 [logotipo] <ac-sign> N M S @<SUBJ @<SC  O
+a	 [a] <np-close> PRP @N<  O
+ser	 [ser] <aux> V INF @ICL-P<  O
+utilizado	 [utilizar] <vH> <mv> V PCP M S @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+porto	 [porto] <Lwater> <inst> <drink> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setúbal	 [Setúbal] <civ> <*> PROP M S @P<  O
+$. O
+</s>

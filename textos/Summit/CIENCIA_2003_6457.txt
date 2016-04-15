@@ -1,0 +1,308 @@
+$S-1
+Depois 	[depois] <*> ADV @ADVL>  
+de 	[de] PRP @A<  
+ter 	[ter] <aux> V INF @ICL-P<  
+sido 	[ser] <aux> V PCP @ICL-AUX<  
+acusada 	[acusar] <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Organização=Mundial=da=Saúde 	[Organização=Mundial=da=Saúde] <org> <*> PROP F S @P<  
+de 	[de] PRP @<PIV  
+ter 	[ter] <mv> V INF @ICL-P<  
+mais 	[muito] <quant> <KOMP> DET M P @>N  
+casos 	[caso] <event> <ac-cat> <sem> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+pneumonia 	[pneumonia] <sick> N F S @P<  
+asiática 	[asiático] <nat> <np-close> ADJ F S @N<  
+do=que 	[do=que] <clb> <clb-fs> KS @COM  
+relatava 	[relatar] <vH> <mv> V IMPF 1/3S IND VFIN @FS-KOMP<  
+publicamente 	[público] ADV @<ADVL  
+$, 
+a 	[o] <artd> DET F S @>N  
+China 	[China] <org> <newlex> <*> PROP F S @SUBJ> 	[China] <*> PROP F S @SUBJ>  
+prometeu 	[prometer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+mais 	[muito] <quant> <KOMP> DET F S @>N  
+transparência 	[transparência] <am> N F S @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+notificação 	[notificação] <act> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+casos 	[caso] <event> <ac-cat> <sem> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+$. 
+</s>
+
+$S-2
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+a 	[o] <artd> DET F S @>N  
+agência=de=notícias 	[agência=de=notícias] <cjt-head> <asarg> <HH> N F S @P<  
+oficial 	[oficial] <nh> <np-close> ADJ F S @N<  
+Xinhua 	[Xinhua] <org> <*> <np-close> PROP F S @N<  
+$, 
+o 	[o] <artd> DET M S @>N  
+comitê 	[comitê] <cjt> <asarg> <HH> <np-close> N M S @P< @APP  
+central 	[central] <nh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Partido=Comunista=Chinês 	[Partido=Comunista=Chinês] <party> <*> PROP M S @P<  
+$, 
+após 	[após] PRP @ADVL>  
+uma 	[um] <arti> DET F S @>N  
+reunião 	[reunião] <occ> N F S @P<  
+$, 
+alertou 	[alertar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+as 	[o] <artd> DET F P @>N  
+autoridades 	[autoridade] <am> <HH> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+saúde 	[saúde] <state-h> N F S @P<  
+a 	[a] PRP @<ADVL  
+não 	[não] ADV @ADVL>  
+esconder 	[esconder] <vH> <mv> V INF @ICL-P<  
+casos 	[caso] <event> <ac-cat> <sem> N M P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+pneumonia 	[pneumonia] <sick> N F S @P<  
+$, 
+conhecida 	[conhecido] <np-close> ADJ F S @N<PRED  
+por 	[por] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+sigla 	[sigla] <ac-sign> N F S @P<  
+Sars 	[Sars] <org> <*> <np-close> PROP F S @N<  
+$( 
+síndrome 	[síndrome] <sick> <np-close> N M/F S @N<PRED  
+respiratória 	[respiratório] <nh> <np-close> ADJ F S @N<  
+aguda 	[agudo] <np-long> ADJ F S @N<  
+grave 	[grave] <np-long> ADJ M/F S @N<  
+$) 
+$. 
+</s>
+
+$S-3
+$"  
+Não 	[não] <*> <*1> ADV @ADVL>  
+deve 	[dever] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+haver 	[haver] <mv> V INF @ICL-AUX<  
+demora 	[demora] <cjt-head> <per> N F S @<ACC  
+nem 	[nem] KC @NPHR  
+fraude 	[fraude] <cjt> <act-trick> N F S @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+relato 	[relato] <sem-r> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+casos 	[caso] <*2> <event> <ac-cat> <sem> N M P @P<  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+agência 	[agência] <HH> N F S @<SUBJ  
+$, 
+citando 	[citar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+o 	[o] <artd> DET M S @>N  
+comitê 	[comitê] <HH> N M S @<ACC  
+$_  
+cuja 	[cujo] <clb> <clb-fs> <rel> DET F S @>N  
+reunião 	[reunião] <occ> N F S @SUBJ>  
+foi 	[ser] <aux> <np-close> V PS 3S IND VFIN @FS-N<  
+liderada 	[liderar] <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+presidente 	[presidente] <Hprof> N M S @P<  
+chinês 	[chinês] <nat> <jh> <np-close> ADJ M S @N<  
+$, 
+Hu=Jintao 	[Hu=Jintao] <hum> <*> PROP M S @<ACC  
+$. 
+</s>
+
+$S-4
+O 	[o] <*> <artd> DET M S @>N  
+encontro 	[encontro] <occ> <event> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+partido 	[partido] <HHparty> N M S @P<  
+ocorreu 	[ocorrer] <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+um 	[um] <card> NUM M S @>N  
+dia 	[dia] <temp> <dur> <per> N M S @>A  
+depois 	[depois] <np-close> ADV @N< @<ADVL  
+de 	[de] PRP @A<  
+a 	[o] <clb> <artd> DET F S @>N  
+OMS 	[OMS] <org> <*> PROP F S @SUBJ>  
+ter 	[ter] <aux> V INF 3S @ICL-P<  
+dito 	[dizer] <vH> <mv> V PCP @ICL-AUX<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+Pequim 	[Pequim] <civ> <*> PROP M S @SUBJ>  
+tem 	[ter] <mv> V PR 3S IND VFIN @FS-<ACC  
+200 	[200] <card> NUM M P @>N  
+casos 	[caso] <event> <ac-cat> <sem> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+Sars 	[Sars] <hum> <*> PROP M/F S @P<  
+em=vez=de 	[em=vez=de] <sam-> <np-close> PRP @N< @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+37 	[37] <card> NUM M P @>N  
+notificados 	[notificar] <n> <vH> V PCP M P @P<  
+$. 
+</s>
+
+$S-5
+O 	[o] <*> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @SUBJ>  
+chinês 	[chinês] <nat> <jh> <np-close> ADJ M S @N<  
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+tem 	[ter] <aux> V PR 3S IND VFIN @FS-<ACC  
+agido 	[agir] <vH> <mv> V PCP @ICL-AUX<  
+com 	[com] PRP @<ADVL  
+responsabilidade 	[responsabilidade] <am> N F S @P<  
+desde=que 	[desde=que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+epidemia 	[epidemia] <sick> N F S @SUBJ>  
+começou 	[começar] <vH> <mv> V PS 3S IND VFIN @FS-<ADVL  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Província=de=Guangdong 	[Província=de=Guangdong] <org> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-6
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+último 	[último] <NUM-ord> <jh> ADJ M S @>N  
+relatório 	[relatório] <asarg> <sem-r> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+OMS 	[OMS] <org> <*> PROP F S @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+pneumonia 	[pneumonia] <sick> N F S @SUBJ>  
+asiática 	[asiático] <nat> <np-close> ADJ F S @N<  
+já 	[já] ADV @ADVL>  
+matou 	[matar] <predco> <cjt-head> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+170 	[170] <card> NUM F P @>N  
+pessoas 	[pessoa] <H> N F P @<ACC  
+e 	[e] KC @NPHR  
+infectou 	[infectar] <nosubj> <cjt> <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+3.461 	[3.461] <card> NUM M/F P @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+cinco 	[cinco] <card> NUM M P @>N  
+continentes 	[continente] <Ltop> N M P @P<  
+$. 
+</s>
+
+$S-7
+Só 	[só] <*> ADV @>A  
+ontem 	[ontem] ADV @ADVL>  
+$, 
+cinco 	[cinco] <card> NUM F P @>N  
+pessoas 	[pessoa] <H> N F P @SUBJ>  
+morreram 	[morrer] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Ásia 	[Ásia] <top> <*> PROP F S @P<  
+$_  
+quatro 	[quatro] <card> <np-close> NUM M/F P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+elas 	[elas] <-sam> PERS F 3P NOM/PIV @P<  
+em 	[em] PRP @<ADVL  
+Hong=Kong 	[Hong=Kong] <civ> <*> PROP M S @P<  
+$, 
+de 	[de] <clb> PRP @ADVL>  
+onde 	[onde] <clb-fs> <rel> <ks> ADV @P<  
+a 	[o] <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @SUBJ>  
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  
+espalhou 	[espalhar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$. 
+</s>
+
+$S-8
+Autoridades 	[autoridade] <*> <am> <HH> N F P @SUBJ>  
+locais 	[local] <nh> <np-close> ADJ F P @N<  
+iniciaram 	[iniciar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+ontem 	[ontem] ADV @<ADVL  
+uma 	[um] <arti> DET F S @>N  
+campanha 	[campanha] <activity> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+limpeza 	[limpeza] <am> <act-d> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+cidade 	[cidade] <Lciv> N F S @P<  
+$, 
+para 	[para] PRP @<ADVL  
+evitar 	[evitar] <vH> <mv> V INF @ICL-P<  
+mais 	[mais] ADV @<ADVL  
+contaminação 	[contaminação] <state> <event> N F S @<ACC  
+$. 
+</s>
+
+$S-9
+O 	[o] <*> <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @SUBJ>  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+até 	[até] PRP @ADVL>  
+agora 	[agora] <kc> ADV @P<  
+teve 	[ter] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+dois 	[dois] <card> NUM M P @>N  
+casos 	[caso] <event> <ac-cat> <sem> N M P @<ACC  
+$_  
+ainda 	[ainda] ADV @>A  
+não 	[não] ADV @ADVL>  
+confirmados 	[confirmar] <vH> <mv> V PCP M P @ICL-<PRED  
+$_  
+$, 
+era 	[ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+único 	[único] ADJ M S @>N  
+país 	[país] <Lciv> N M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+América=do=Sul 	[América=do=Sul] <top> <*> PROP F S @P<  
+afetado 	[afetado] ADJ M S @<PRED  
+$. 
+</s>
+
+$S-10
+Mas 	[mas] <*> KC @NPHR  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @ADVL>  
+a 	[o] <artd> DET F S @>N  
+agência=de=notícias 	[agência=de=notícias] <asarg> <HH> N F S @P<  
+France=Presse 	[France=Presse] <org> <*> <np-close> PROP F S @N<  
+$, 
+a 	[o] <artd> DET F S @>N  
+Venezuela 	[Venezuela] <civ> <*> PROP F S @SUBJ>  
+já 	[já] ADV @ADVL>  
+tem 	[ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+caso 	[caso] <event> <ac-cat> <sem> N M S @<ACC  
+suspeito 	[suspeito] <np-close> ADJ M S @N<  
+$:  
+
+um 	[um] <arti> DET M S @>N  
+homem 	[homem] <Hattr> N M S @NPHR  
+de 	[de] <np-close> PRP @N<  
+48 	[48] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  
+viajou 	[viajar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+recentemente 	[recentemente] ADV @<ADVL  
+a 	[a] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+China 	[China] <civ> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-11
+Com 	[com] <*> PRP @ADVL  
+agências=internacionais 	[agência=internacional] <HH> N F P @P<  
+$. 
+</s>
+
+$S-12

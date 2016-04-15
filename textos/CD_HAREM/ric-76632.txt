@@ -1,0 +1,129 @@
+
+    Software livre, cultura livre, palco livre...
+    
+      <EM ID="ric-76632-56" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Eduardo EGS</EM>
+      ·
+      <EM ID="ric-76632-57" CATEG="LOCAL" TIPO="HUMANO"  >Porto Alegre</EM>
+      (
+      <EM ID="ric-76632-58" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-76632-57" TIPOREL="incluido">RS</EM>
+      ) ·
+      <EM ID="ric-76632-59" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >20/4/2007</EM>
+      <EM ID="ric-76632-60" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >15:38</EM>
+      ·
+      <EM ID="ric-76632-61" CATEG="VALOR" TIPO="QUANTIDADE"  >153</EM>
+      votos
+    
+    
+      Num imenso galpão com estruturas metálicas, acontece
+      <EM ID="ric-76632-62" CATEG="TEMPO" TIPO="FREQUENCIA"  >todo ano</EM>
+      um evento que prima pela liberdade. É o
+      <EM ID="ric-76632-63" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Fórum Internacional Software Livre</EM>
+      , o fisl, que chega a sua oitava edição cada vez maior. E mais diversificado. Diferentes tipos circulam pelo local em harmonia. E não haveria por que ser diferente. Todos estão lá por um motivo em comum: o uso de ferramentas livres, baseadas na colaboração. E dentro desse evento, ocorre outra manifestação de liberdade: o
+      <EM ID="ric-76632-64" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-63" TIPOREL="incluido">Criei, Tive Como!</EM>
+      ,
+      <EM ID="ric-76632-73" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-64" TIPOREL="ident">Festival Multimídia de Cultura Livre do Brasil</EM> 
+      , que acontece pela segunda vez
+      . Se
+      <EM ID="ric-76632-68" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano passado</EM>
+      o festival tinha um estande acanhado, num dos cantos do
+      
+        <EM ID="ric-76632-69" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-76632-57 ric-76632-73" TIPOREL="incluido sede_de">Centro de Eventos da Fiergs</EM>
+        
+      , em
+      <EM ID="ric-76632-72" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-76632-57" TIPOREL="ident">Porto Alegre</EM>
+      , agora as coisas foram bem diferentes. E Como!
+    
+    
+      Um estande central foi montado, com direito a banquinhos brancos e cortinas feitas com tubo de plástico, o que garantiu o resultado mais bonito entre todos os estandes, sem dúvida. Mas não ficou só por aí (e não mesmo!). O espaço contou com um estúdio de rádio e um estúdio de TV em pleno estande, que projetou vídeos o tempo inteiro, chamando a atenção dos participantes. Comandadas por
+      <EM ID="ric-76632-74" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">Gabriel Menotti</EM>
+      , do
+      <EM ID="ric-76632-75" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-76632-74" TIPOREL="vinculo_inst">Cine Falcatrua</EM>
+      , as projeções não seguiam uma programação prévia. "
+      <EM ID="ric-76632-76" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-76632-68" TIPOREL="ident">Ano passado</EM>
+      a gente preparou um mote especial pra cá, que passava num horário determinado.
+      <EM ID="ric-76632-77" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nesse ano</EM>
+      , a gente tá controlando a transmissão
+      <EM ID="ric-76632-78" CATEG="TEMPO|VALOR" TIPO="DURACAO|QUANTIDADE"  >24 horas</EM>
+      , conta. Foi feita uma grade de programação 
+      <EM ID="ric-76632-79" CATEG="TEMPO" TIPO="DURACAO"  >de 36 horas</EM> 
+
+      , com materiais da internet e enviados através de uma convocação especial para o festival, mas o que se viu por lá foram pessoas levando seus vídeos para passar sem marcar hora, bem no espírito colaborativo da cultura livre. "Naturalmente, você fazendo a programação do lado do espaço de exibição, as pessoas têm acesso não só a tela como ao dispositivo de controle e também a nós, que estamos controlando a estrutura. Então você tem um diálogo muito maior entre os projecionistas e o público, completa.
+    
+    
+      Sem dúvida, houve uma evolução no comparativo
+      <EM ID="ric-76632-80" CATEG="TEMPO" TIPO="GENERICO"  >com o ano anterior</EM>
+      . Quem confirma isso é o <EM ID="ric-76632-88" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">Vj</EM>  pixel, que viu o festival crescer: "
+      <EM ID="ric-76632-82" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-76632-77" TIPOREL="ident">Esse ano</EM>
+      a gente tem uma estrutura bem maior, que não atinge só o público que tá circulando pelo fisl, mas atinge as pessoas que acessam o site do fisl na internet também, porque a gente tem uma TV e uma rádio que tão sendo exibidas aqui internamente. A gente tem um telão e uma caixa de som com a programação da rádio, mas tem também streaming desse material que a gente tá produzindo, que é onde tá a maior parte do público. Mas a evolução não ficou só na estrutura do estande e dos conteúdos. O famoso show de abertura do festival também cresceu e se diversificou.
+    
+    
+      Realizada no
+      <EM ID="ric-76632-100" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-76632-57 ric-76632-73" TIPOREL="incluido sede_de">Teatro do Sesi</EM> 
+      , local ao lado do espaço do fisl, a noite começou com os gaúchos da
+      <EM ID="ric-76632-85" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-76632-58 ric-76632-73" TIPOREL="local_nascimento_de participante_em">Bataclã FC</EM>
+      , que entraram no palco com uniformes do
+      <EM ID="ric-76632-86" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >DMLU</EM>
+      , o
+      
+        <EM ID="ric-76632-87" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-76632-86 ric-76632-57" TIPOREL="ident ocorre_em">Departamento Municipal de Limpeza Urbana de Porto Alegre</EM>
+        
+      e abriram o show com o clássico
+      <EM ID="ric-76632-90" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-76632-85" TIPOREL="obra_de">Amigo Punk</EM>
+      .
+      A certa altura, o vocalista
+      <EM ID="ric-76632-92" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-85" TIPOREL="incluido">Richard Serraria</EM>
+      chamou o público que dançava na fila do gargarejo a subir ao palco, com o comentário "É software livre, é palco livre, mas acho que a cara feia dos seguranças não motivou o pessoal a se arriscar. Não que isso tenha sido problema:
+      <EM ID="ric-76632-93" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-92" TIPOREL="ident">Richard</EM>
+      acabou o show no meio da massa, cantando com as mãos pra cima, pra alegria de todos. A segunda atração foi o
+      
+        <EM ID="ric-76632-95" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">DJ Dolores</EM>
+        
+      , que antes de tocar comentou que muita gente considerava que fazer música no computador era como enviar um e-mail, uma atividade burocrática e sem vida. Pra fechar o seu discurso, largou um "Então me dêem licença que eu vou ali passar um e-mail, sob os aplausos do público. O ponto alto foi o dueto com a rabeca do
+      <EM ID="ric-76632-97" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">Maciel Salustiano</EM>
+      , filho do
+      <EM ID="ric-76632-98" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">Mestre Salustiano</EM>
+      , que fizeram uma performance de arrepiar.
+    
+    
+      Na seqüência, vieram os DJs
+        <EM ID="ric-76632-99" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">Lucio K</EM>
+      e
+      <EM ID="ric-76632-101" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-73" TIPOREL="participante_em">JC</EM>
+      , ganhadores do
+      <EM ID="ric-76632-102" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-99 ric-76632-101" TIPOREL="ter_participacao_de ter_participacao_de">Overmixter</EM>
+      ,
+      <EM ID="ric-76632-117" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-102" TIPOREL="ident">Concurso de Remixes Brasil-África do Sul</EM> 
+      . O sul-africano
+      <EM ID="ric-76632-104" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-101" TIPOREL="ident">JC</EM>
+      abriu os trabalhos com o seu remix vencedor e convidou o público a bater palma enquanto a mistura sonora invadia o recinto.
+      Em seguida, foi a vez do
+      <EM ID="ric-76632-105" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-99" TIPOREL="ident">Lucio K</EM>
+      , com o seu remix vencedor
+      <EM ID="ric-76632-107" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-76632-99" TIPOREL="obra_de">Tudo Vem da África</EM>
+      e com uma faixa do seu último disco, que mistura carimbó com música eletrônica, agitando a platéia. Pra valer: "
+      No final, ainda recebi de um espectador um dos melhores elogios possíveis: "fiquei impressionado com o groove que você tem, mesmo sendo branco assim!, diverte-se o
+      <EM ID="ric-76632-109" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-99" TIPOREL="ident">Lucio</EM>
+      . Encerrando a noite, os pernambucanos do
+      <EM ID="ric-76632-110" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-76632-73" TIPOREL="participante_em">Mombojó</EM>
+      fizeram um ótimo show, com o público cantando junto e dançando.
+      No final, o vocalista
+      <EM ID="ric-76632-112" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-110" TIPOREL="incluido">Felipe S.</EM>
+      convidou o povo pra subir ao palco, e ao contrário do show da
+      <EM ID="ric-76632-113" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-76632-85" TIPOREL="ident">Bataclã</EM>
+      , o convite foi aceito, com uma galera invadindo o palco e pulando muito, pelo menos até a hora em que os seguranças começaram a tirar todo mundo de lá. Mas foi uma bela forma de terminar a festa, com alegria e empolgação, características que marcaram não só os shows como <EM ID="ric-76632-123" CATEG="TEMPO" TIPO="GENERICO"  >os três dias</EM> de
+      <EM ID="ric-76632-114" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-64" TIPOREL="ident">Criei, Tive Como!</EM>
+      .
+    
+    
+      E no que depender do
+      <EM ID="ric-76632-124" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-88" TIPOREL="ident">Vj</EM>  pixel
+      , que pela segunda vez fez a ambientação visual do show (
+      <EM ID="ric-76632-118" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-76632-77" TIPOREL="ident">esse ano</EM>
+      ao lado do inglês <EM ID="ric-76632-1" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-76632-64" TIPOREL="participante_em">Salsaman</EM>), o
+      <EM ID="ric-76632-119" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="ric-76632-64" TIPOREL="ident">Criei</EM>
+      tem tudo para melhorar cada vez mais empolgante: "A gente gostou muito da estrutura que tem aqui, todo mundo tá adorando fazer. Nossa intenção é, terminando o evento, refletir sobre isso e escrever um relatório sobre o que foi bom e o que foi ruim, pra
+      <EM ID="ric-76632-120" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano que vem</EM>
+      fazer uma estrutura semelhante, mas ainda melhor".
+    
+    Pelo que vi <EM ID="ric-76632-1200" CATEG="TEMPO|TEMPO" TIPO="TEMPO_CALEND|DURACAO"  >nos três dias</EM> de evento, tenho certeza que esse objetivo vai ser alcançado.
+  

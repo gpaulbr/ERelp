@@ -1,0 +1,36 @@
+$S-3
+Guerra 	[guerra]   <occ> <per> N F S @SUBJ>  
+participou 	[participar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+debate 	[debate] <talk> N M S @P<  
+Biotecnologia=para=uma=Agricultura=Sustentável 	[Biotecnologia=para=uma=Agricultura=Sustentável] <tit> <np-close> PROP M S @N<  
+$, 
+realizado 	[realizar] <vH> <np-close> V PCP M S @N<PRED  
+ontem 	[ontem] ADV @<ADVL  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual 	[Reunião=Anual] <occ>   PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+SBPC 	[SBPC] <org>   PROP F S @P<  ORG
+$( 
+Sociedade=Brasileira 	[Sociedade=Brasileira] <org>   <np-close> PROP F S @N<PRED  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst>   PROP M S @P<  LOCAL
+$) 
+$, 
+sobre 	[sobre] PRP @<PIV @<ADVL  
+as 	[o] <artd> DET F P @>N  
+biotecnologias 	[biotecnologia] <domain> N F P @P<  
+apropriadas 	[apropriado] <nh> <np-close> ADJ F P @N<  
+a 	[a] <sam-> PRP @A<  
+o 	[o] <-sam> <artd> DET M S @>N  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$. 
+</s>

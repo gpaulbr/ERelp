@@ -1,0 +1,232 @@
+$S-1
+Sete 	[sete] <*> <card> NUM M/F P @>N  
+ativistas 	[ativista] <Hideo> N M/F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Greenpeace 	[Greenpeace] <inst> <*> PROP M S @P< ORG
+foram 	[ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  
+presos 	[prender] <mv> V PCP M P @ICL-AUX<  
+ontem 	[ontem] ADV @<ADVL  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+Eua 	[Eua] <org> <*> PROP M P @P<  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+tentar 	[tentar] <vH> <mv> V INF @ICL-P<  
+impedir 	[impedir] <mv> V INF @ICL-<ACC  
+o 	[o] <artd> DET M S @>N  
+descarregamento 	[descarregamento] <act> N M S @<ACC  
+de 	[de] PRP @<PIV  
+madeira 	[madeira] <mat> N F S @P<  
+brasileira 	[brasileiro] <nat> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+cidade 	[cidade] <Lciv> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+Savannah 	[Savannah] <civ> <*> PROP M/F S @P< LOCAL
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+costa 	[costa] <Ltop> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Estado=da=Geórgia 	[Estado=da=Geórgia] <inst> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-2
+Os 	[o] <*> <artd> DET M P @>N  
+ativistas 	[ativista] <Hideo> N M P @SUBJ>  
+$( 
+norte-americano 	[norte-americano] <nat> <jh> <np-close> ADJ M S @N<PRED  
+e 	[e] <cjt-head> KC @NPHR  
+europeus 	[europeu] <nat> <jh> <np-close> ADJ M P @N<PRED  
+$) 
+foram 	[ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  
+rechaçados 	[rechaçar] <cjt-head> <vH> <mv> V PCP M P @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+os 	[o] <-sam> <artd> DET M P @>N  
+tripulantes 	[tripulante] <H> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+navio 	[navio] <Vwater> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+bandeira 	[bandeira] <A> <newlex> PROP M S @P<  
+dinamarquesa 	[dinamarquês] <Hnat> <ling> <np-close> N F S @N< 	[dinamarquesa] <Hnat> <np-close> N F S @N<  
+e 	[e] <cjt> KC @NPHR  
+presos 	[prender] <cjt> <mv> V PCP M P @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+polícia 	[polícia] <HH> N F S @P<  
+$. 
+</s>
+
+$S-3
+O 	[o] <*> <artd> DET M S @>N  
+navio 	[navio] <Vwater> N M S @SUBJ>  
+trazia 	[trazer] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+compensados 	[compensado] <n> <nh> ADJ M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+madeira 	[madeira] <mat> N F S @P<  
+exportados 	[exportar] <vH> <mv> <np-close> V PCP M P @ICL-N<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Selvaplac 	[Selvaplac] <hum> <*> PROP F S @P<  
+$, 
+subsidiária 	[subsidiário] <nh> ADJ F S @>N  
+brasileira 	[brasileira] <Hnat> <np-close> N F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Malásia 	[Malásia] <civ> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-4
+O 	[o] <*> <artd> DET M S @>N  
+Greenpeace 	[Greenpeace] <inst> <*> PROP M S @SUBJ>  
+sustenta 	[sustentar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+existe 	[existir] <mv> V PR 3S IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+grande 	[grande] ADJ F S @>N  
+possibilidade 	[possibilidade] <ac> N F S @<SUBJ  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+a 	[o] <artd> DET F S @>N  
+madeira 	[madeira] <mat> N F S @SUBJ>  
+seja 	[ser] <vK> <mv> <np-close> V PR 3S SUBJ VFIN @FS-N<  
+ilegal 	[ilegal] <nh> ADJ F S @<SC  
+$. 
+</s>
+
+$S-5
+$"  
+Não 	[não] <*> <*1> ADV @ADVL>  
+temos 	[ter] <nosubj> <cjt-head> <fmc> <mv> V PR 1P IND VFIN @FS-STA  
+certeza 	[certeza] <am> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+aquela 	[aquele] <dem> DET F S @>N  
+carga 	[carga] <amount> <act> <ac> N F S @SUBJ>  
+era 	[ser] <predco> <cjt-head> <vK> <mv> V IMPF 3S IND VFIN @FS-P<  
+ilegal 	[ilegal] <nh> ADJ F S @<SC  
+$, 
+mas 	[mas] <cjt-head> <clb> KC @NPHR  
+sabemos 	[saber] <nosubj> <cjt> <fmc> <mv> V PR 1P IND VFIN @FS-P<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+80 	[80] <card> NUM M P @>N  
+$% 	[%] N M P @PRED>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+atividade 	[atividade] <act-d> <activity> N F S @P<  
+madeireira 	[madeireiro] <nh> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @P< LOCAL
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+irregular 	[irregular] <nh> ADJ M/F S @<SC  
+e 	[e] <cjt> KC @NPHR  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+Selvaplac 	[Selvaplac] <org> <*> PROP F S @SUBJ> ORG
+tem 	[ter] <mv> V PR 3S IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+tradição 	[tradição] <ac> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+envolvimento 	[envolvimento] <event> <act> N M S @P<  
+com 	[com] <np-close> PRP @N<  
+madeira 	[madeira] <mat> N F S @P<  
+ilegalmente 	[ilegalmente] <nh> ADV @ADVL>  
+extraída 	[extrair] <*2> <vH> <mv> <np-close> V PCP F S @ICL-N<  
+$"  
+$, 
+disse 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+Folha=Rebeca=Lerer 	[Folha=Rebeca=Lerer] <org> <*> PROP F S @P<  
+$, 
+ativista 	[ativista] <np-close> ADJ M/F S @N<PRED  
+brasileira 	[brasileiro] <nat> <jh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Greenpeace 	[Greenpeace] <inst> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-6
+A 	[o] <*> <artd> DET F S @>N  
+operação 	[operação] <act-d> N F S @SUBJ>  
+resulta 	[resultar] <vN> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] PRP @<PIV  
+uma 	[um] <arti> DET F S @>N  
+investigação 	[investigação] <act> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+18 	[18] <card> NUM M P @>N  
+meses 	[mês] <dur> <per> <unit> N M P @P<  
+sobre 	[sobre] <np-long> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+comércio 	[comércio] <activity> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+madeira 	[madeira] <mat> N F S @P<  
+em 	[em] PRP @<ADVL  
+regiões 	[região] <L> <Ltop> N F P @P<  
+remotas 	[remoto] <nh> <np-close> ADJ F P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Amazônia 	[Amazônia] <top> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-7
+Para 	[para] <*> PRP @ADVL>  
+a 	[o] <artd> DET F S @>N  
+ONG 	[NGO] <org> <*> PROP F S @P<  
+$, 
+há 	[haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+evidências 	[evidência] <percep-f> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+as 	[o] <artd> DET F P @>N  
+companhias 	[companhia] <HH> N F P @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @ADVL>  
+exportam 	[exportar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+madeira 	[madeira] <mat> N F S @<ACC  
+para 	[para] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+Eua 	[Eua] <org> <*> PROP M P @P<  
+estejam 	[estar] <vK> <mv> V PR 3P SUBJ VFIN @FS-P<  
+envolvidas 	[envolvido] <jh> ADJ F P @<SC  
+com 	[com] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+comércio 	[comércio] <activity> N M S @P<  
+ilegal 	[ilegal] <nh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+produto 	[produto] <cc-h> <mon> <ac-cat> N M S @P<  
+$. 
+</s>
+
+$S-8
+A 	[o] <*> <artd> DET F S @>N  
+União 	[união] <cjt-head> <prop> <*> <HH> N F S @NPHR  
+estima 	[estima] <cjt> <am> N F S @NPHR  
+que 	[que] <clb> KS @SUB  
+80 	[80] <card> NUM M P @>N  
+$% 	[%] N M P @PRED>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+madeira 	[madeira] <mat> N F S @P<  
+extraída 	[extrair] <vH> <mv> <np-close> V PCP F S @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Amazônia 	[Amazônia] <top> <*> PROP F S @P<  
+brasileira 	[brasileiro] <nat> <np-close> ADJ F S @N<  
+seja 	[ser] <vK> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA  
+ilegal 	[ilegal] <nh> ADJ M/F S @<SC  
+$. 
+</s>
+
+$S-9

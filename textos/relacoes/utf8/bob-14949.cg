@@ -1,0 +1,44 @@
+$S-1
+Com	 [com] PRP @PRED> O
+curadoria	 [curadoria] <f-right> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Fabiano=Canosa	 [Fabiano=Canosa] <hum> PROP M S @P< O
+$, O
+a	 [ela] PERS F 3S ACC @ACC> O
+mostra	 [mostrar] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+feita	 [feita] <act> <temp> N F S @<OC O
+com	 [com] <np-close> PRP @N< O
+peças	 [peça] <cc-gun> <amount> <cc-h> <sem-c> <furn> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+própria	 [próprio] ADJ F S @>N O
+coleção	 [coleção] <coll-cc> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Canosa	 [Canosa] <hum> PROP M/F S @P< PES O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Museu=Carmen=Miranda	 [Museu=Carmen=Miranda] <inst> PROP M S @P< ORG O
+$( O
+inaugurado	 [inaugurar] <np-close> V PCP M S @N<PRED O 
+em	 [em] PRP @<ADVL O
+1976	 [1976] <card> <year> <date> NUM M/F P @P< O
+$) O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+de	 [de] <sam-> PRP @A< O
+a	 [o] <artd> <-sam> DET F S @>N O
+família	 [família] <HH> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+artista	 [artista] <Hprof> N F S @P< O
+$, O
+tem	 [ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+percurso	 [percurso] <Lpath> N M S @<ACC O
+cronológico	 [cronológico] <nh> <np-close> ADJ M S @N< O 
+e	 [e] <co-fin> <co-fmc> KC @CO O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+dividida	 [dividir] <mv> V PCP F S @ICL-<SC O
+em	 [em] PRP @<ADVL O
+núcleos	 [núcleo] <Labs> N M P @P< O
+$. O
+</s>

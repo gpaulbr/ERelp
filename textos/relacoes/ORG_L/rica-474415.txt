@@ -1,0 +1,49 @@
+$S-41
+A	 [o] <*> <artd> DET F S @>N  O
+Arábia=Saudita	 [Arábia=Saudita] <civ> <*> PROP F S @SUBJ> ORG O
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+um	 [um] <card> NUM M S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+três	 [três] <card> NUM M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mundo	 [mundo] <L> N M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+reconheciam	 [reconhecer] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N  O
+governo	 [governo] <HH> N M S @<ACC  O
+Talibã	 [Talibã] <org> <*> <np-close> PROP M S @N<  O
+$. O
+</s>
+
+$S-42
+A	 [o] <*> <artd> DET F S @>N  O
+Arábia=Saudita	 [Arábia=Saudita] <civ> <*> PROP F S @SUBJ>  O
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+um	 [um] <card> NUM M S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+três	 [três] <card> NUM M P @>N  O
+países	 [país] <Lciv> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mundo	 [mundo] <L> N M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+reconheciam	 [reconhecer] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Afeganistão	 [Afeganistão] <civ> <*> PROP M S @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N B-REL
+governo	 [governo] <HH> N M S @<ACC I-REL
+Talibã	 [Talibã] <org> <*> <np-close> PROP M S @N< ORG O
+$. O
+</s>

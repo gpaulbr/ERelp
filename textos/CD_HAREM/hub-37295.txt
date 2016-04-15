@@ -1,0 +1,13 @@
+
+
+<EM ID="hub-37295-474" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Lisboa-Dakar</EM> : <EM ID="hub-37295-476" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-37295-474" TIPOREL="participante_em">Carlos Sousa</EM> ambiciona pódio
+
+PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
+
+O piloto português <EM ID="hub-37295-477" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-37295-476" TIPOREL="ident">Carlos Sousa</EM> revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição <EM ID="hub-37295-478" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2008</EM> do <EM ID="hub-37295-475" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-37295-474" TIPOREL="ident">Lisboa-Dakar</EM>  cujo percurso foi <EM ID="hub-37295-41" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM> apresentado em <EM ID="hub-37295-480" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-37295-480aa hub-37295-474" TIPOREL="ident sede_de">Lisboa</EM>.
+
+<EM ID="hub-37295-481" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-37295-476" TIPOREL="ident">Carlos Sousa</EM> acredita que <EM ID="hub-37295-482" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-37295-478" TIPOREL="ident">este ano</EM> o rali vai ser mais duro. "Vai ser um percurso para os mais resistentes. É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da <EM ID="hub-37295-483" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-37295-476" TIPOREL="inclui">Lagos Team</EM>, que vai conduzir um <EM ID="hub-37295-484" CATEG="COISA" TIPO="MEMBROCLASSE"  >Volkswagen Touareg</EM> idêntico aos de fábrica.
+
+Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há <EM ID="hub-37295-485" CATEG="VALOR" TIPO="QUANTIDADE"  >15 ou mais</EM> pilotos com hipóteses de chegar à vitória e ao pódio. As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela <EM ID="hub-37295-42" CATEG="LOCAL|OUTRO" TIPO="VIRTUAL|"  >Internet</EM> , mas para os pilotos vai ser uma luta <EM ID="hub-37295-486" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até ao último dia</EM>".
+
+O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical <EM ID="hub-37295-487" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Setembro</EM>. No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições <EM ID="hub-37295-488" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dentro de mês e meio</EM>, quando começar o rali.

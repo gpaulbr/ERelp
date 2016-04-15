@@ -1,0 +1,33 @@
+$S-5
+O	 [o] <*> <artd> DET M S @>N  O
+anúncio	 [anúncio] <act-s> N M S @SUBJ>  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+feito	 [fazer] <mv> V PCP M S @ICL-AUX<  O
+ontem	 [ontem] ADV @<ADVL  O
+$, O
+em	 [em] PRP @<ADVL  O
+São=Francisco	 [São=Francisco] <hum> <*> <newlex> PROP M S @P< LOCAL O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+Eua	 [Eua] <org> <*> PROP M P @P<  O
+$, O
+onde	 [onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+decorre	 [decorrer] <vN> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+Macworld	 [Macworld] <org> <*> PROP F S @<SUBJ  O
+$, O
+feira	 [feira] <occ> <np-close> N F S @N<PRED  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+a	 [o] <artd> DET F S @>N  O
+Apple	 [Apple] <org> <*> PROP F S @SUBJ> ORG O
+organiza	 [organizar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+todos=os	 [todo=o] <quant> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @<ACC  O
+para	 [para] PRP @<ADVL  O
+apresentar	 [apresentar] <vH> <mv> V INF @ICL-P<  O
+as	 [o] <artd> DET F P @>N  O
+suas	 [seu] <si> <poss 3S> DET F P @>N  O
+novidades	 [novidade] <am> N F P @<ACC  O
+$. O
+</s>

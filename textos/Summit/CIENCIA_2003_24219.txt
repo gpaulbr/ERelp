@@ -1,0 +1,501 @@
+$S-1
+Os 	[o] <*> <artd> DET M P @>N  
+ministérios 	[ministério] <inst> N M P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Agricultura 	[agricultura] <prop> <*> <domain> N F S @P<  
+e 	[e] <cjt-head> KC @NPHR  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Ciência 	[ciência] <cjt-head> <prop> <*> <domain> N F S @P<  
+e 	[e] <cjt> KC @NPHR  
+Tecnologia 	[Tecnologia] <cjt> <hum> <*> PROP M/F S @P<  
+defenderam 	[defender] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+ontem 	[ontem] ADV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+uso 	[uso] <act> <ac> N M S @<ACC  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+soja 	[soja] <food> N F S @P<  
+transgênica 	[transgênico] <DERS> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+biodiesel 	[biodiesel] <cm-liq> <DERP> N M S @P<  
+para 	[para] PRP @<ADVL  
+abastecer 	[abastecer] <vH> <mv> V INF @ICL-P<  
+parte 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+frota 	[frota] <VV> N F S @P<  
+nacional 	[nacional] <np-close> ADJ F S @N<  
+de 	[de] <np-close> PRP @N<  
+veículos 	[veículo] <V> N M P @P<  
+$. 
+</s>
+
+$S-2
+A 	[o] <*> <artd> DET F S @>N  
+idéia 	[idéia] <sem-c> N F S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+lançada 	[lançar] <cjt-head> <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+ministro 	[ministro] <Hprof> <Htit> N M S @P<  
+Roberto=Amaral 	[Roberto=Amaral] <hum> <*> <np-close> PROP M S @N<  
+$( 
+Ciência 	[Ciência] <top> <*> <np-close> PROP M/F S @N<PRED  
+e 	[e] <cjt-head> KC @NPHR  
+Tecnologia 	[Tecnologia] <hum> <*> PROP M/F S @SUBJ>  
+$) 
+e 	[e] <cjt> KC @NPHR  
+detalhada 	[detalhar] <cjt> <vH> <mv> V PCP F S @ICL-AUX<  
+ontem 	[ontem] ADV @<ADVL  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+abertura 	[abertura] <Lopening> <am> <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+1º 	[1º] <NUM-ord> ADJ M S @>N  
+Congresso=Internacional=de=Biodiesel 	[Congresso=Internacional=de=Biodiesel] <occ> <*> PROP M S @P<  
+$, 
+realizado 	[realizar] <vH> <mv> V PCP M S @ICL-N<PRED  
+em 	[em] PRP @<ADVL  
+Ribeirão=Preto 	[Ribeirão=Preto] <civ> <*> PROP M S @P< LOCAL
+e 	[e] <cjt> KC @NPHR  
+promovido 	[promover] <vH> <mv> V PCP M S @ICL-<PRED  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org> <*> PROP F S @P< ORG
+$( 
+Universidade 	[Universidade] <top> <*> <np-close> PROP M/F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+São=Paulo 	[São=Paulo] <hum> <*> <newlex> PROP M S @P<  
+$) 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+cidade 	[cidade] <Lciv> N F S @P<  
+$. 
+</s>
+
+$S-3
+A 	[o] <*> <artd> DET F S @>N  
+intenção 	[intenção] <sem-c> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @P<  
+é 	[ser] <cjt-head> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+usar 	[usar] <vH> <mv> V INF @ICL-<SC  
+parte 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+soja 	[soja] <food> N F S @P<  
+transgênica 	[transgênico] <DERS> <np-close> ADJ F S @N<  
+já 	[já] ADV @ADVL>  
+plantada 	[plantar] <vH> <mv> V PCP F S @ICL-<PRED  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$, 
+e 	[e] KC @NPHR  
+que 	[que] <clb> <rel> SPEC M S @SUBJ>  
+está 	[estar] <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+com 	[com] PRP @<SC  
+seu 	[seu] <poss 3S> DET M S @>N  
+consumo 	[consumo] <act-d> N M S @P<  
+proibido 	[proibido] <nh> <np-close> ADJ M S @N<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+combustível 	[combustível] <cm> N M S @P<  
+$. 
+</s>
+
+$S-4
+Cálculos 	[cálculo] <*> <sem-c> N M P @SUBJ>  
+iniciais 	[inicial] <nh> <np-close> ADJ M P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+ministério 	[ministério] <inst> N M S @P<  
+apontam 	[apontar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+programa 	[programa] <sem-c> <cc-r> N M S @SUBJ>  
+nacional 	[nacional] <jh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+biodiesel 	[biodiesel] <cm-liq> <DERP> N M S @P<  
+pode 	[poder] <aux> V PR 3S IND VFIN @FS-<ACC  
+representar 	[representar] <cjt-head> <mv> V INF @ICL-AUX<  
+uma 	[um] <arti> DET F S @>N  
+economia 	[economia] <cjt-head> <domain> N F S @<ACC  
+anual 	[anual] <nh> <np-close> ADJ F S @N<  
+de 	[de] <np-close> PRP @N<  
+R$ 	[r$] <prop> <*> <cur> <unit> N M S @P<  
+1,8 	[1,8] <card> <np-close> NUM M/F P @N<  
+bilhão 	[bilhão] <cjt> <amount> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+litros 	[litro] <amount> <unit> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+diesel 	[diesel] <cm-liq> N M S @P<  
+importado 	[importar] <mv> <np-close> V PCP M S @ICL-N<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @P<  
+e 	[e] KC @NPHR  
+gerar 	[gerar] <cjt> <mv> V INF @ICL-AUX<  
+200 	[200] <cjt-head> <card> NUM M/F P @<ACC  
+$mil  
+empregos 	[emprego] <cjt> <pos-soc> <ac> N M P @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+campo 	[campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<  
+$. 
+</s>
+
+$S-5
+Francelino=Grando 	[Francelino=Grando] <hum> <*> PROP M S @SUBJ>  
+$, 
+secretário 	[secretário] <Hprof> <np-close> N M S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+Política=Tecnológica=Empresarial 	[Política=Tecnológica=Empresarial] <tit> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+MCT 	[MCT] <inst> <*> PROP M S @P<  
+$( 
+Ministério=da=Ciência 	[Ministério=da=Ciência] <inst> <*> <np-close> PROP M S @N<PRED  
+e 	[e] KC @NPHR  
+Tecnologia 	[Tecnologia] <genre> <*> <np-close> PROP M/F S @APP  
+$) 
+$, 
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+proposta 	[proposta] <act-s> N F S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+$"  
+uma 	[um] <*1> <arti> DET F S @>N  
+equação 	[equação] <cc-r> N F S @<SC  
+lógica 	[lógico] <*2> <nh> <np-close> ADJ F S @N<  
+$"  
+$. 
+</s>
+
+$S-6
+$"  
+Temos 	[ter] <*> <*1> <fmc> <aux> V PR 1P IND VFIN @FS-STA  
+que 	[que] <clb> KS @PRT-AUX<  
+ter 	[ter] <mv> V INF @ICL-AUX<  
+em 	[em] PRP @<ADVL  
+mente 	[mente] <anorg> N F S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M/F S/P @ADVL>  
+a 	[o] <artd> DET F S @>N  
+soja 	[soja] <food> N F S @SUBJ>  
+transgênica 	[transgênico] <DERS> <np-close> ADJ F S @N<  
+não 	[não] ADV @ADVL>  
+desaparecerá 	[desaparecer] <mv> <np-close> V FUT 3S IND VFIN @FS-N<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+próximo 	[próximo] ADJ M S @>N  
+ano 	[ano] <dur> <temp> <per> <unit> N M S @P<  
+$. 
+</s>
+
+$S-7
+E 	[e] <*> KC @NPHR  
+precisamos 	[precisar] <fmc> <mv> V PR 1P IND VFIN @FS-STA  
+ter 	[ter] <mv> V INF @ICL-<ACC  
+uma 	[um] <arti> DET F S @>N  
+alternativa 	[alternativa] <ac> N F S @<ACC  
+$. 
+$"  
+</s>
+
+$S-8
+O 	[o] <*> <artd> DET M S @>N  
+ministro 	[ministro] <Hprof> <Htit> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Agricultura 	[agricultura] <prop> <*> <domain> N F S @P<  
+$, 
+Roberto=Rodrigues 	[Roberto=Rodrigues] <hum> <*> <np-long> PROP M S @APP  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+uso 	[uso] <act> <ac> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+soja 	[soja] <food> N F S @P<  
+transgênica 	[transgênico] <DERS> <np-close> ADJ F S @N<  
+$"  
+é 	[ser] <*1> <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+boa 	[bom] <jh> ADJ F S @>N  
+idéia 	[idéia] <*2> <sem-c> N F S @<SC  
+$"  
+$. 
+</s>
+
+$S-9
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+defendeu 	[defender] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+até 	[até] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+se 	[se] PERS M/F 3S/P ACC @SUBJ>  
+continue 	[continuar] <vH> <aux> V PR 3S SUBJ VFIN @FS-P<  
+produzindo 	[produzir] <clb> <mv> V GER @ICL-AUX<  
+esse 	[esse] <dem> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+soja 	[soja] <food> N F S @P<  
+para 	[para] PRP @<ADVL  
+$"  
+esmagar- 	[esmagar] <cjt-head> <*1> <hyfen> <mv> V INF @ICL-P<  
+la 	[ela] <*2> PERS F 3S ACC @<ACC  
+$"  
+e 	[e] KC @NPHR  
+transformar- 	[transformar] <cjt> <hyfen> <mv> V INF @ICL-P<  
+la 	[ela] PERS F 3S ACC @<ACC  
+em 	[em] PRP @<PIV  
+biodiesel 	[biodiesel] <DERP> <jh> ADJ M/F S/P @P<  
+$. 
+</s>
+
+$S-10
+Essa 	[esse] <*> <dem> DET F S @>N  
+proposta 	[proposta] <act-s> N F S @SUBJ>  
+$, 
+ainda 	[ainda] ADV @ADVL>  
+segundo 	[segundo] <com> <adv-rel> PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+ministro 	[ministro] <asarg> <Hprof> <Htit> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Agricultura 	[agricultura] <prop> <*> <domain> N F S @P<  
+$, 
+será 	[ser] <vK> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  
+discutida 	[discutido] <nh> ADJ F S @<SC  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @P<  
+$. 
+</s>
+
+$S-11
+$"  
+Assim=que 	[assim=que] <clb> <clb-fs> <*1> <rel> <ks> <*> ADV @ADVL>  
+tivermos 	[ter] <mv> V FUT 1P SUBJ VFIN @FS-ADVL>  
+uma 	[um] <arti> DET F S @>N  
+posição 	[posição] <act> <pos-an> N F S @<ACC  
+$, 
+cada 	[cada] <quant> DET M S @>N  
+ministério 	[ministério] <inst> N M S @SUBJ>  
+vai 	[ir] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+tratar 	[tratar] <mv> V INF @ICL-AUX<  
+de 	[de] PRP @<PIV  
+sua 	[seu] <si> <poss 3S> DET F S @>N  
+parte 	[parte] <*2> <part> <amount> <L> <HH> <sem-l> <ac> N F S @P<  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Rodrigues 	[Rodrigues] <hum> <*> PROP M S @<SUBJ  
+$. 
+</s>
+
+$S-12
+O 	[o] <*> <artd> DET M S @>N  
+secretário 	[secretário] <Hprof> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+MCT 	[MCT] <inst> <*> PROP M S @P<  
+também 	[também] ADV @ADVL>  
+defendeu 	[defender] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+manutenção 	[manutenção] <activity> N F S @<ACC  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+transgênicos 	[transgênico] <n> <DERS> <jh> ADJ M P @P<  
+$. 
+</s>
+
+$S-13
+$"  
+Um 	[um] <*> <*1> <arti> DET M S @>N  
+assunto 	[assunto] <sem-c> N M S @SUBJ>  
+produtivo 	[produtivo] <jh> <np-close> ADJ M S @N<  
+não 	[não] ADV @ADVL>  
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+tratado 	[tratar] <mv> V PCP M S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+polícia 	[polícia] <*2> <HH> N F S @P<  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+$. 
+</s>
+
+$S-14
+Francelino=Grando 	[Francelino=Grando] <cjt-head> <hum> <*> PROP M S @SUBJ>  
+e 	[e] KC @NPHR  
+Roberto=Rodrigues 	[Roberto=Rodrigues] <cjt> <hum> <*> PROP M S @SUBJ>  
+chegaram 	[chegar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<SA  
+o 	[o] <-sam> <artd> DET M S @>N  
+evento 	[evento] <event> <occ> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Ribeirão 	[Ribeirão] <hum> <*> PROP M/F S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+um 	[um] <-sam> <arti> DET M S @>N  
+microônibus 	[microônibus] <V> N M S @P<  
+movido 	[mover] <np-close> V PCP M S @N<  
+a 	[o] <artd> DET F S @>N  
+biodiesel 	[biodiesel] <n> <DERP> <jh> ADJ F S @<ACC  
+$. 
+</s>
+
+$S-15
+$"  
+É 	[ser] <clb-fs> <*> <*1> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+para 	[para] PRP @<SC  
+mostrar 	[mostrar] <mv> V INF @ICL-P<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+isso 	[isso] <dem> SPEC M S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+realidade 	[realidade] <sit> <percep-f> N F S @<SC  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+não 	[não] ADV @ADVL>  
+é 	[ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+um 	[um] <arti> DET M S @>N  
+sonho 	[sonho] <cjt-head> <sem-w> N M S @<SC  
+nem 	[nem] KC @NPHR  
+um 	[um] <arti> DET M S @>N  
+discurso 	[discurso] <cjt> <*2> <sem-s> N M S @<SC  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Rodrigues 	[Rodrigues] <hum> <*> PROP M S @<SUBJ  
+$. 
+</s>
+
+$S-16
+O 	[o] <*> <artd> DET M S @>N  
+projeto 	[projeto] <sem-c> N M S @SUBJ>  
+$, 
+desenvolvido 	[desenvolvido] <nh> <np-close> ADJ M S @N<PRED  
+por 	[por] <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org> <*> PROP F S @P<  
+de 	[de] <np-close> PRP @N<  
+Ribeirão 	[ribeirão] <prop> <*> <Lwater> N M S @P<  
+$, 
+consegue 	[conseguir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+produzir 	[produzir] <mv> V INF @ICL-<ACC  
+o 	[o] <artd> DET M S @>N  
+biodiesel 	[biodiesel] <cm-liq> <DERP> N M S @<ACC  
+a=partir=de 	[a=partir=de] <sam-> PRP @<ADVL  
+a 	[o] <artd> <-sam> DET F S @>N  
+mistura 	[mistura] <ac-cat> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+óleo 	[óleo] <cm-liq> <food> N M S @P<  
+vegetal 	[vegetal] <nh> <np-close> ADJ M S @N<  
+$_  
+incluindo 	[incluir] <clb> <mv> V GER @ICL-<ADVL  
+o 	[o] <cjt-head> <dem> DET M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+soja 	[soja] <cjt-head> <food> N F S @P<  
+$_  
+e 	[e] KC @NPHR  
+etanol 	[etanol] <cjt> N M S @<ACC @P<  
+$, 
+álcool 	[álcool] <cjt> <cm-liq> N M S @P< @<ACC  
+derivado 	[derivado] <nh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+cana-de-açúcar 	[cana-de-açúcar] <Btree> N F S @P<  
+$. 
+</s>
+
+$S-17
+A 	[o] <*> <artd> DET F S @>N  
+tecnologia 	[tecnologia] <domain> N F S @SUBJ>  
+difere 	[diferir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+biodiesel 	[biodiesel] <cm-liq> <DERP> N M S @P<  
+utilizado 	[utilizar] <vH> <mv> <np-close> V PCP M S @ICL-N<  
+em 	[em] PRP @<ADVL  
+outras 	[outro] <diff> <KOMP> DET F P @>N  
+partes 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+usa 	[usar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+metanol 	[metanol] <cjt-head> <cm-chem> N M S @<ACC  
+$_  
+um 	[um] <arti> DET M S @>N  
+derivado 	[derivado] <cjt> <cm-chem> <ac-cat> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+petróleo 	[petróleo] <cm-liq> N M S @P<  
+$. 
+</s>
+
+$S-18
+Ainda 	[ainda] <*> ADV @>A  
+ontem 	[ontem] ADV @ADVL>  
+$, 
+o 	[o] <artd> DET M S @>N  
+prefeito 	[prefeito] <Hprof> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+Ribeirão 	[Ribeirão] <hum> <*> PROP M/F S @P< LOCAL
+$, 
+Gilberto=Maggioni 	[Gilberto=Maggioni] <hum> <*> <np-long> PROP M S @APP  
+$( 
+PMN 	[PMN] <party> <*> <np-close> PROP M/F S @N<PRED ORG
+$) 
+$, 
+assinou 	[assinar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+carta 	[carta] <cc-r> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+intenção 	[intenção] <sem-c> N F S @P<  
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+USP 	[USP] <org> <*> PROP F S @P<  
+para 	[para] PRP @<ADVL  
+colocar 	[colocar] <vH> <mv> V INF @ICL-P<  
+parte 	[parte] <cjt-head> <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+frota 	[frota] <VV> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+administração 	[administração] <HH> <activity> N F S @P<  
+municipal 	[municipal] <nh> <np-close> ADJ F S @N<  
+movida 	[mover] <np-long> V PCP F S @N<  
+a 	[o] <artd> DET F S @>N  
+biodiesel 	[biodiesel] <cjt> <n> <DERP> <jh> ADJ F S @<ACC  
+$, 
+já 	[já] ADV @<ADVL  
+a=partir=de 	[a=partir=de] PRP @<ADVL  
+junho 	[junho] N M S @P<  
+$. 
+</s>
+
+$S-19

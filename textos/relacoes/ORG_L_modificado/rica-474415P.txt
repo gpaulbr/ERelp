@@ -1,0 +1,57 @@
+$S-1
+Paquistão	 [Paquistão] <civ> <*> PROP M S @NPHR ORG O
+após	 [após] <np-close> PRP @N< REL
+o	 [o] <artd> DET M S @>N REL
+assassinato	 [assassinato] <act> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Benazir=Bhutto	 [Benazir=Bhutto] <hum> <*> PROP M S @P< PES O
+28/	 [28/] <card> NUM M P @>N  O
+Dezembro	 [dezembro] <prop> <*> N M S @ADVL>  O
+$/	 [$/] KC @CO  O
+2007	 [2007] <card> <date> <year> NUM M/F P @SUBJ>  O
+$· O
+</s>
+
+$S-20
+Em	 [em] <*> PRP @ADVL>  O
+campanha	 [campanha] <activity> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+ex-primeira-ministra	 [ex-primeira-ministra] <Hprof> <Htit> N F S @SUBJ>  O
+mostrava-	 [mostrar] <hyfen> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS F 3S ACC @<ACC  O
+particularmente	 [particularmente] <quant> ADV @>A  O
+agressiva	 [agressivo] <n> <jh> ADJ F S @<OC  O
+contra	 [contra] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+Talibã	 [Talibã] <inst> <*> PROP M S @P< PES O
+$, O
+o	 [o] <artd> DET M S @>N  O
+radicalismo	 [radicalismo] <ism> <np-close> N M S @APP @P<  O
+islâmico	 [islâmico] <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+sua	 [seu] <poss 3S> DET F S @>N O
+cria	 [cria] <Adom> <np-close> N F S @APP @P< O
+$, O
+a	 [o] <artd> DET F S @>N REL
+al-Qaeda	 [al-Qaeda] <np-close> N F S @APP ORG O
+$, O
+alojados	 [alojar] <vH> <np-close> V PCP M P @N<PRED  O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+norte	 [norte] <dir> N M S @P<  O
+$. O
+</s>
+
+$S-21
+Benazir=Bhutto	 [Benazir=Bhutto] <hum> <*> PROP M S @SUBJ> PES O
+contava	 [contar] <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA REL
+com	 [com] PRP @<PIV REL
+a	 [o] <artd> DET F S @>N REL
+simpatia	 [simpatia] <am> N F S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <-sam> <artd> DET M P @>N O
+Eua	 [Eua] <org> <*> PROP M P @P< ORG O
+por=conta	 [por=conta] ADJ @N< @<ADVL  O
+$. O
+</s>

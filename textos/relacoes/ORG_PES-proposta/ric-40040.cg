@@ -1,0 +1,34 @@
+$S-1
+Teve	 [ter] <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+também	 [também] ADV @>N O
+$" O
+Sortilégio=Negro	 [Sortilégio=Negro] <genre> PROP M S @<ACC O
+$, O
+de	 [de] <np-close> PRP @N<PRED O
+Abdias=do=Nascimento	 [Abdias=do=Nascimento] <top> PROP M S @P< PES O
+$, O
+fundador	 [fundador] <H> <np-close> N M S @N<PRED B-REL 
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Teatro=Experimental=do=Negro	 [Teatro=Experimental=do=Negro] <inst> PROP M S @P< ORG O
+$( O
+TEN	 [TEN] <tit> <np-close> PROP M/F S @N<PRED O 
+$) O
+$, O
+referência	 [referência] <sem-r> <act-s> <ac> <np-close> N F S @N<PRED O 
+histórica	 [histórico] <jh> <np-close> ADJ F S @N< O 
+assumida	 [assumir] <vH> <mv> <np-close> V PCP F S @ICL-N< O 
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+CaixaPreta	 [CaixaPreta] <org> PROP M S @P< O
+já	 [já] ADV @<ADVL O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+época	 [época] <per> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+lançamento	 [lançamento] <act> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Transegun	 [Transegun] <hum> PROP M/F S @P< O
+$. O
+</s>

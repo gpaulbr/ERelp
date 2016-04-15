@@ -1,0 +1,110 @@
+
+    
+      <EM ID="hjlll-14" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Associação Académica de Coimbra</EM> 
+    
+    
+      A
+      <EM ID="hjlll-15" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">Associação Académica de Coimbra</EM> 
+      (
+      <EM ID="hjlll-16" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      ), fundada
+      <EM ID="hjlll-17" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 3 de Novembro de 1887</EM>
+      , é a mais antiga associação de estudantes de
+      <EM ID="hjlll-19" CATEG="LOCAL" TIPO="HUMANO" COREL="hjlll-88" TIPOREL="inclui">Portugal</EM>
+      . Representa os
+      <EM ID="hjlll-20" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 20 000</EM>
+      estudantes da
+      <EM ID="hjlll-21" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-88 hjlll-14 hjlll-1400" TIPOREL="ocorre_em inclui inclui">Universidade de Coimbra</EM> 
+      , que são automaticamente considerados seus sócios quando se encontrem inscritos nesta universidade.
+    
+    
+      A
+      <EM ID="hjlll-36" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      alberga uma série de secções culturais e desportivas. Entre as secções culturais pontificam, o
+      <EM ID="hjlll-22" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="incluido">Centro de Estudos Cinematográficos</EM>
+      (
+      <EM ID="hjlll-23" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-22" TIPOREL="ident">CEC</EM>
+      ) que realiza <EM ID="hjlll-5" CATEG="TEMPO" TIPO="FREQUENCIA"  >anualmente</EM> o
+      
+        <EM ID="hjlll-1" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hjlll-22" TIPOREL="produzido_por">Festival "Caminhos do Cinema Português"</EM>
+      
+      , a
+      <EM ID="hjlll-25" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="incluido">Rádio Universidade de Coimbra</EM>
+      (
+      <EM ID="hjlll-26" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-25" TIPOREL="ident">RUC</EM>
+      ), a
+      <EM ID="hjlll-27" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="incluido">Secção de Jornalismo</EM>
+      (que edita o jornal universitário "
+      <EM ID="hjlll-30" CATEG="COISA" TIPO="CLASSE" COREL="hjlll-27" TIPOREL="produzido_por">A Cabra</EM>
+      "), a secção de fado, o 
+      <EM ID="hjlll-118" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Grupo de folclore e etnografia</EM> 
+      (
+      <EM ID="hjlll-32" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hjlll-14" TIPOREL="vinculo_inst">GEFAC</EM>
+      ) e os grupos de teatro (
+      <EM ID="hjlll-33" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hjlll-14" TIPOREL="vinculo_inst">TEUC</EM>
+      e
+      <EM ID="hjlll-34" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hjlll-14" TIPOREL="vinculo_inst">CITAC</EM>
+      ). As secções desportivas abrangem um vasto leque de desportos, tais como o futebol, andebol, basquetebol, rugby, conoagem, natação, voleibol, ténis, artes marciais e xadrez, entre outros. A "
+      <EM ID="hjlll-35" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hjlll-14" TIPOREL="vinculo_inst">Académica</EM>
+      " é assim o "clube" mais eclético do pais, uma vez que "pratica" o maior número de modalidades.
+    
+    
+      Também referido como "
+      <EM ID="hjlll-37" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hjlll-39" TIPOREL="nome_de_ident">Académica</EM>
+      ", o clube de futebol profissional mais conhecido de
+      <EM ID="hjlll-38" CATEG="LOCAL" TIPO="HUMANO" COREL="hjlll-88" TIPOREL="ident">Coimbra</EM>
+      , de seu verdadeiro nome
+      <EM ID="hjlll-39" CATEG="ABSTRACCAO" TIPO="NOME"  >Associação Académica de Coimbra - Organismo Autónomo de Futebol</EM>
+      (
+      <EM ID="hjlll-40" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hjlll-39 hjlll-14" TIPOREL="ident nome_de_incluido">AAC-OAF</EM>
+      ), é considerado o herdeiro da secção de futebol da
+      <EM ID="hjlll-41" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      (que se mantém na pratica amadora), mas é <EM ID="hjlll-65" CATEG="TEMPO" TIPO="GENERICO"  >hoje</EM> um clube independente, cuja ligação com a
+      <EM ID="hjlll-42" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      é cada vez mais ténue.
+    
+    
+      A
+      <EM ID="hjlll-43" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      é dirigida pela
+      <EM ID="hjlll-44" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="incluido">Direcção Geral</EM>
+      (
+      <EM ID="hjlll-45" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-44" TIPOREL="ident">DG</EM>
+      ), composta por estudantes, e eleita <EM ID="hjlll-66" CATEG="TEMPO" TIPO="FREQUENCIA"  >anualmente</EM>
+      <EM ID="hjlll-46" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre Novembro e Dezembro</EM>
+      em eleições abertas a todos os sócios, tanto estudantes como os sócios seccionistas. À
+      <EM ID="hjlll-47" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-44" TIPOREL="ident">DG</EM>
+      compete a administração da
+      <EM ID="hjlll-48" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      bem como a representação política dos estudantes. Em termos políticos, é ainda de referir a importância das
+      <EM ID="hjlll-49" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hjlll-88" TIPOREL="ocorre_em">Assembleias Magnas</EM>
+      , assembleias sobretudo de discussão da política da
+      <EM ID="hjlll-50" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-21" TIPOREL="ident">Academia</EM>
+      , abertas a todos os sócios, cujas decisões têm de ser obrigatoriamente cumpridas, independentemente da opinião da
+      <EM ID="hjlll-51" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-44" TIPOREL="ident">DG</EM>
+      . Este poder decisório da
+      <EM ID="hjlll-52" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >Assembleia Magna</EM>
+      torna-a no palco de discussões acesas, sobretudo entre os estudantes politizados.
+      No passado recente, tem havido no mínimo
+      <EM ID="hjlll-2" CATEG="VALOR" TIPO="QUANTIDADE"  >5-6</EM>
+      <EM ID="hjlll-54" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hjlll-49" TIPOREL="ident">Assembleias Magnas</EM>
+      <EM ID="hjlll-55" CATEG="TEMPO" TIPO="FREQUENCIA"  >por ano</EM>
+      , com participação oscilante, mas um mínimo de
+      <EM ID="hjlll-56" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 200</EM>
+      sócios. Infelizmente, a falta de interesse generalizado por estas questões na nossa sociedade, particularmente nas faixas etárias mais jovens, faz-se reflectir na fraca participação das
+      <EM ID="hjlll-57" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hjlll-49" TIPOREL="ident">Assembleias Magnas</EM>
+      [carece de fontes?]. No entanto, a
+      <EM ID="hjlll-58" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      continua a lutar para pautar a política educativa do
+      <EM ID="hjlll-59" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO"  >Ensino Superior</EM>
+      em
+      <EM ID="hjlll-60" CATEG="LOCAL" TIPO="HUMANO" COREL="hjlll-88 hjlll-19" TIPOREL="inclui ident">Portugal</EM>
+      [carece de fontes?]. O actual edifício da
+      <EM ID="hjlll-61" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      foi inaugurado
+      <EM ID="hjlll-62" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1961</EM>
+      e alberga praticamente todas as secções da
+      <EM ID="hjlll-63" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hjlll-14" TIPOREL="ident">AAC</EM>
+      , estando integrado num quarteirão que inclui ainda uma sala de espectáculos (<EM ID="hjlll-119" CATEG="LOCAL" TIPO="HUMANO"  >Teatro Académico de Gil Vicente</EM>) e um complexo de cantinas.
+    
+  

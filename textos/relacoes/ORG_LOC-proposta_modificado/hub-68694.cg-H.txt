@@ -1,0 +1,13 @@
+$S-1
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+última	 [último] <NUM-ord> ADJ F S @>N O
+década	 [década] <dur> N F S @P< O
+$, O
+revela	 [revelar] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+um	 [um] <arti> DET M S @>N O
+estudo	 [estudo] <sem-l> <per> <sem-r> <activity> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Marktest	 [Marktest] <org> PROP F S @P< ORG O

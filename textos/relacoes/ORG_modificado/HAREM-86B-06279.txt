@@ -1,0 +1,85 @@
+$S-11
+Apesar=de	 [apesar=de] <sam-> <*> PRP @ADVL>  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+contestação	 [contestação] <act> N F S @P<  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+fórums	 [fórum] <Lh> N M P @P<  O
+mundiais	 [mundial] <nh> <np-close> ADJ M P @N<  O
+$, O
+como	 [como] <advl> <adv-rel> PRP @ADVL>  O
+em	 [em] <asarg> <sam-> PRP @P<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+ONU	 [ONU] <org> <*> PROP F S @P<  O
+$, O
+Portugal	 [Portugal] <civ> <*> PROP M S @SUBJ> ORG O
+manteve	 [manter] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+política	 [política] <domain> <sem-c> N F S @<ACC  O
+de=força	 [de=força] ADJ @N<  O
+$, O
+tendo	 [ter] <aux> V GER @ICL-<ADVL  O
+sido	 [ser] <aux> V PCP @ICL-AUX<  O
+obrigado	 [obrigar] <mv> V PCP M S @ICL-AUX<  O
+$, O
+a=partir=de	 [a=partir=de] <sam-> PRP @<ADVL  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+início	 [início] <temp> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+60	 [60] <card> <np-close> NUM M/F P @N<  O
+$, O
+a	 [a] PRP @<PIV O
+defender	 [defender] <vH> <mv> V INF @ICL-P< REL
+militarmente	 [militarmente] ADV @<ADVL REL
+as	 [o] <artd> DET F P @>N REL
+colónias	 [colónia] <ac> N F P @<ACC  O
+contra	 [contra] PRP @<PIV @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+grupos	 [grupo] <HH> N M P @P<  O
+independentistas	 [independentista] <jh> <np-close> ADJ M P @N<  O
+em	 [em] <np-long> PRP @N<  O
+Angola	 [Angola] <civ> <*> PROP F S @P< ORG O
+$, O
+Guiné	 [Guiné] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Moçambique	 [Moçambique] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-30
+E	 [e] <*> KC @NPHR  O
+forças	 [força] <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Cioe	 [Cioe] <inst> <*> PROP M S @P< ORG O
+tomam	 [tomar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA REL
+a	 [o] <artd> DET F S @>N REL
+RTP	 [RTP] <media> <*> PROP F S @<ACC ORG O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+RCP	 [RCP] <inst> <*> PROP M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Porto	 [Porto] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-31
+E	 [e] <*> KC @NPHR  O
+forças	 [força] <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Cioe	 [Cioe] <inst> <*> PROP M S @P< ORG O
+tomam	 [tomar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA REL
+a	 [o] <artd> DET F S @>N REL
+RTP	 [RTP] <media> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+RCP	 [RCP] <inst> <*> PROP M S @<ACC ORG O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Porto	 [Porto] <civ> <*> PROP M S @P<  O
+$. O
+</s>

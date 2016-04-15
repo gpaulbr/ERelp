@@ -1,0 +1,65 @@
+$S-1
+José=Sócrates	 [José=Sócrates] <hum> PROP M S @SUBJ> PES O
+apresentou	 [apresentar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA B-REL
+balanço	 [balanço] <sem-c> <state> N M S @<ACC I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+os	 [o] <artd> <-sam> DET M P @>N I-REL
+últimos	 [último] <NUM-ord> ADJ M P @>N I-REL
+seis	 [seis] <card> NUM M P @>N I-REL
+meses	 [mês] <per> <dur> <unit> N M P @P< I-REL
+UE	 [UE] <org> <np-long> PROP M/F S @N< ORG O 
+$: O
+</s>
+
+$S-2
+Durão=Barroso	 [Durão=Barroso] <hum> PROP M S @SUBJ> PES O
+elogia	 [elogiar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+prestação	 [prestação] <act-d> <mon> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+presidência	 [presidência] <pos-soc> N F S @P< O
+portuguesa	 [português] <nat> <np-close> ADJ F S @N< O 
+O	 [o] <artd> DET M S @>N B-REL
+presidente	 [presidente] <Hprof> N M S @PRED> I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Comissão=Europeia	 [Comissão=Europeia] <org> PROP F S @P< ORG O
+elogiou	 [elogiar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+hoje	 [hoje] ADV @<ADVL O
+a	 [o] <artd> DET F S @>N O
+prestação	 [prestação] <act-d> <mon> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+presidência	 [presidência] <pos-soc> N F S @P< O
+portuguesa	 [português] <nat> <np-close> ADJ F S @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+UE	 [UE] <org> PROP F S @P< O
+e	 [e] <co-acc> KC @CO O
+a	 [o] <artd> DET F S @>N O
+$" O
+competente	 [competente] <jh> ADJ F S @>N O
+liderança	 [liderança] <pos-soc> <HH> N F S @<ACC O
+$" O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+primeiro-ministro	 [primeiro-ministro] <Hprof> <Htit> N M S @P< O
+$, O
+José=Sócrates	 [José=Sócrates] <hum> <np-close> PROP M S @APP O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+condução	 [condução] <activity> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+destinos	 [destino] <f-psych> <Labs> N M P @P< O
+europeus	 [europeu] <nat> <np-close> ADJ M P @N< O
+em	 [em] <sam-> <np-long> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+segundo	 [segundo] <NUM-ord> ADJ M S @>N O
+semestre	 [semestre] <per> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+este	 [este] <dem> <-sam> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @P< O
+$. O
+</s>

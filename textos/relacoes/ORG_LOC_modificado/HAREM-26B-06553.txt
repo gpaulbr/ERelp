@@ -1,0 +1,26 @@
+$S-8
+A=19	 [A=19] <tit> <*> PROP F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Dezembro	 [Dezembro] <top> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1974	 [1974] <card> <date> <year> NUM M/F P @P<  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+assinado	 [assinar] <vH> <mv> V PCP M S @ICL-AUX<  O
+um	 [um] <arti> DET M S @>N  O
+acordo	 [acordo] <sem-c> N M S @<SUBJ  O
+entre	 [entre] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+PAIGC	 [PAIGC] <party> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Portugal	 [Portugal] <civ> <*> PROP M S @P< ORG O
+$, O
+instaurando-	 [instaurar] <clb> <hyfen> <vH> <mv> V GER @ICL-<ADVL  O
+se	 [se] PERS M/F 3S/P ACC @<SUBJ  O
+um	 [um] <arti> DET M S @>N  O
+governo	 [governo] <HH> N M S @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+transição	 [transição] <event> N F S @P<  O
+em	 [em] PRP @<ADVL  O
+Cabo=Verde	 [Cabo=Verde] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>

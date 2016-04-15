@@ -1,0 +1,41 @@
+$S-5
+O 	[o]   <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>  
+$, 
+feito 	[feito] <act> <np-close> N M S @N<PRED  
+por 	[por] PRP @ADVL>  
+pesquisadores 	[pesquisador] <Hprof> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Imperial=College 	[Imperial=College] <inst>   PROP M S @P<  ORG
+$, 
+em 	[em] PRP @ADVL>  
+Londres 	[Londres] <civ>   PROP F S @P<  LOCAL
+$, 
+mostra 	[mostrar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+$, 
+além=disso 	[além=disso] ADV @ADVL>  
+$, 
+elas 	[elas] PERS F 3P NOM @SUBJ>  
+são 	[ser] <vK> <mv> V PR 3P IND VFIN @FS-<ACC  
+capazes 	[capaz] <jh> ADJ F P @<SC  
+de 	[de] PRP @A<  
+originar 	[originar] <mv> V INF @ICL-P<  
+outro 	[outro] <diff> <KOMP> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+célula 	[célula] <Acell> <Lh> <HH> N F S @P<  
+células 	[célula] <Acell> <Lh> <HH> N F P @<SUBJ  
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<  
+dentro=de 	[dentro=de] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+organismo 	[organismo] <A> <inst> N M S @P<  
+humano 	[humano] <jh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+
+
+
+

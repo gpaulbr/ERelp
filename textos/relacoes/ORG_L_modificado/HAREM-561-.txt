@@ -1,0 +1,79 @@
+$S-1
+Os	 [o] <*> <artd> DET M P @>N  O
+Melhores=Hotéis=da=Costa=Rica	 [Melhores=Hotéis=da=Costa=Rica] <org> <*> PROP M P @SUBJ>  O
+com	 [com] <np-close> PRP @N<  O
+Acomodações=de=Cinco=Estrelas=Hotéis	 [Acomodações=de=Cinco=Estrelas=Hotéis] <hum> <*> PROP M/F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+costa	 [costa] <Ltop> N F S @P<  O
+rica	 [rico] <np-close> ADJ F S @N<  O
+$, O
+férias	 [féria] <per> <mon> <temp> <np-close> N F P @N<PRED  O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+américa	 [américa] <sit> N F S @P<  O
+central	 [central] <nh> <np-close> ADJ F S @N<  O
+$, O
+estâncias	 [estância] <Lh> <np-close> N F P @N<PRED  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+costa	 [costa] <Ltop> N F S @P<  O
+rica	 [rico] <np-close> ADJ F S @N<  O
+$, O
+spas	 [spa] <Lh> <newlex> <np-close> N M P @N<PRED  O
+de	 [de] <np-close> PRP @N<  O
+saúde	 [saúde] <state-h> N F S @P<  O
+$, O
+acomodações	 [acomodação] <sit> <act-d> N F P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+cinco	 [cinco] <card> NUM F P @>N  O
+estrelas	 [estrela] <Lstar> <H> <tool> <ac-sign> N F P @P<  O
+$, O
+estância	 [estância] <Lh> N F S @SUBJ>  O
+com	 [com] <np-close> PRP @N<  O
+spa	 [spa] <Ltop> N M S @P<  O
+$, O
+recuperação	 [recuperação] <act> <process> N F S @SUBJ>  O
+física	 [físico] <nh> <np-close> ADJ F S @N<  O
+$, O
+recuperação	 [recuperação] <act> <process> <np-close> N F S @N<PRED  O
+emocional	 [emocional] <nh> <np-close> ADJ F S @N<  O
+Hotel=Martino	 [Hotel=Martino] <inst> <*> PROP M S @SUBJ> ORG O
+Rodeado	 [Rodeado] <inst> <*> PROP M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+jardins	 [jardim] <BB> N M P @P<  O
+arranjados	 [arranjado] <nh> <np-close> ADJ M P @N<  O
+manualmente	 [manualmente] <nh> ADV @ADVL>  O
+$, O
+instalações	 [instalação] <act> <ac> <np-close> N F P @N<PRED  O
+de	 [de] <np-close> PRP @N<  O
+alojamento	 [alojamento] <Lh> <act> <con> N M S @P<  O
+excelentes	 [excelente] <jh> <np-long> ADJ M P @N<  O
+e	 [e] KC @NPHR  O
+uma	 [uma] <card> NUM F S @>N  O
+spa	 [spa] <Ltop> N M S @P<  O
+moderna	 [moderno] <np-close> ADJ F S @N<  O
+$, O
+oferecendo	 [oferecer] <clb> <vH> <mv> V GER @ICL-ADVL  O
+a	 [o] <artd> DET F S @>N  O
+última	 [último] <NUM-ord> <jh> ADJ F S @>N  O
+tecnologia	 [tecnologia] <domain> N F S @<ACC  O
+em	 [em] PRP @<ADVL  O
+boa	 [bom] ADJ F S @>N  O
+forma	 [forma] <percep-f> <con> N F S @P<  O
+e	 [e] KC @NPHR  O
+recuperação	 [recuperação] <act> <process> N F S @P<  O
+física	 [físico] <nh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+emocional	 [emocional] <nh> <np-close> ADJ M/F S @N<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Estância=de=Cinco=Estrelas=Martino	 [Estância=de=Cinco=Estrelas=Martino] <org> <*> PROP F S @<ACC ORG O
+atria	 [atria] <DERS> N F S @<ACC  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+beleza	 [beleza] <am> N F S @P<  O
+clássica	 [clássico] <nh> <np-close> ADJ F S @N<  O
+$. O
+</s>

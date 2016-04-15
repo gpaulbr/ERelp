@@ -1,0 +1,82 @@
+$S-7
+7.	 [7.] <n> <NUM-ord> <jh> ADJ M/F S @SC>  O
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P< ORG O
+deu-	 [dar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M/F 3S ACC @<ACC-PASS  O
+mais	 [mais] ADV @>A  O
+um	 [um] <card> NUM M S @>N  O
+passo	 [passo] <act-d> <activity> <Ltop> <Lwater> <cc-r> <event> <f-q> N M S @<SUBJ  O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+irrelevância	 [irrelevância] <percep-f> N F S @P<  O
+$, O
+ou	 [ou] KC @NPHR  O
+ainda	 [ainda] ADV @>A  O
+pior	 [pior] <KOMP> <SUP> ADV @<ADVL  O
+$, O
+para	 [para] PRP @<ADVL  O
+tornar	 [tornar] <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+partido	 [partido] <HHparty> N M S @<ACC  O
+um	 [um] <arti> DET M S @>N  O
+mero	 [mero] <jh> ADJ M S @>N  O
+gestor	 [gestor] <Hprof> N M S @<OC  O
+alternativo	 [alternativo] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+políticas	 [política] <domain> <sem-c> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-14
+E	 [e] <*> KC @NPHR  O
+no=entanto	 [no=entanto] <kc> ADV @ADVL>  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+retirada	 [retirada] <activity> <act> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+oposição	 [oposição] <am> <Labs> <HH> <sem-s> N F S @P<  O
+poderia	 [poder] <fmc> <aux> V COND 3S VFIN @FS-STA  O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX<  O
+uma	 [um] <arti> DET F S @>N  O
+oportunidade	 [oportunidade] <ac> <event> <am> N F S @<SC  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+PP	 [pp] <prop> <*> <percep-l> N M S @SUBJ> ORG O
+tem	 [ter] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+aproveitado	 [aproveitar] <vH> <mv> V PCP @ICL-AUX<  O
+os	 [o] <artd> DET M P @>N  O
+vazios	 [vazio] <state> <Labs> N M P @<ACC  O
+para	 [para] <np-close> PRP @N<  O
+ocupar	 [ocupar] <vH> <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+terreno	 [terreno] <L> <Ltop> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+algumas	 [algum] <quant> DET F P @>N  O
+questões	 [questão] <act-s> <ac> N F P @P<  O
+importantes	 [importante] <jh> <np-close> ADJ F P @N<  O
+como	 [como] <prd> <adv-rel> PRP @<OC  O
+a	 [o] <asarg> <dem> DET F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+direitos	 [direito] <domain> <f-right> <amount> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+contribuintes	 [contribuinte] <n> <jh> ADJ M P @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+omnipotência	 [omnipotência] <asarg> <am> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+fisco	 [fisco] <HH> N M S @P<  O
+$. O
+</s>

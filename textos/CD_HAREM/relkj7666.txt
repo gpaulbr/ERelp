@@ -1,0 +1,567 @@
+
+    ARQUITETURA E HISTÓRIA
+    
+      A partir do
+      <EM ID="relkj7666-205" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE"  >Forte de Santiago</EM>
+      , na
+      <EM ID="relkj7666-206" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="relkj7666-205 relkj7666-205" TIPOREL="LOCAL**inclui**relkj7666-205**LOCAL LOCAL**localizacao_de**relkj7666-205**OBRA">Ponta do Calabouço</EM>
+      , a evolução do conjunto arquitetônico do
+      <EM ID="relkj7666-207" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE" COREL="relkj7666-205 relkj7666-205 relkj7666-206" TIPOREL="LOCAL**inclui**relkj7666-205**LOCAL OBRA**inclui**relkj7666-205**OBRA OBRA**localizado_em**relkj7666-206**LOCAL">Museu</EM>
+      acompanhou a trajetória urbana da cidade do
+      <EM ID="relkj7666-208" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-206 relkj7666-207" TIPOREL="LOCAL**inclui**relkj7666-206**LOCAL LOCAL**inclui**relkj7666-207**LOCAL">Rio de Janeiro</EM>
+      . À fortificação inicial veio se juntar a
+      <EM ID="relkj7666-209" CATEG="OBRA" TIPO="ARTE" COREL="relkj7666-206 relkj7666-207" TIPOREL="OBRA**localizado_em**relkj7666-206**LOCAL OBRA**incluido**relkj7666-207**OBRA">Casa do Trem</EM>
+      , destinada à guarda do "trem de artilharia", conjunto de apetrechos bélicos usados na defesa da cidade, e,
+      <EM ID="relkj7666-210" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >mais tarde</EM>
+      , o
+      <EM ID="relkj7666-211" CATEG="OBRA" TIPO="ARTE" COREL="relkj7666-206 relkj7666-207" TIPOREL="OBRA**localizado_em**relkj7666-206**LOCAL OBRA**incluido**relkj7666-207**OBRA">Arsenal de Guerra</EM>
+      .
+    
+    
+      <EM ID="relkj7666-212" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No início do século XX</EM>
+      o
+      <EM ID="relkj7666-213" CATEG="OBRA" TIPO="ARTE" COREL="relkj7666-211" TIPOREL="ident">Arsenal</EM>
+      é transferido para a
+      <EM ID="relkj7666-214" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="relkj7666-208 relkj7666-211" TIPOREL="incluido LOCAL**localizacao_de**relkj7666-211**OBRA">Ponta do Caju</EM>
+      , abrindo o caminho para a adaptação do conjunto para suas novas funções :
+      <EM ID="relkj7666-215" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-207" TIPOREL="LOCAL**incluido**relkj7666-207**LOCAL">Pavilhão das Grandes Indústrias</EM>
+      da "
+      <EM ID="relkj7666-216" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="relkj7666-215" TIPOREL="ocorre_em">Exposição Internacional de 1922</EM> 
+      ".
+    
+    
+      Por determinação do
+      <EM ID="relkj7666-217" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Presidente Epitácio Pessoa</EM>
+      , o
+      <EM ID="relkj7666-218" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-215" TIPOREL="ident">Pavilhão</EM>
+      abrigou, em duas de suas salas, o núcleo inicial do
+      <EM ID="relkj7666-219" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-215" TIPOREL="ocorre_em">Museu Histórico Nacional</EM>
+      . Com o encerramento da
+      <EM ID="relkj7666-220" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="relkj7666-216" TIPOREL="ident">Exposição</EM>
+      , o
+      <EM ID="relkj7666-221" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-207" TIPOREL="LOCAL**ident**relkj7666-207**LOCAL">Museu</EM>
+      veio ocupando progressivamente toda a área.
+    
+    PATROCINADORES
+    
+     <EM ID="relkj7666-222" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Ministério da Cultura</EM>
+    
+    
+      <EM ID="relkj7666-223" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Instituto do Patrimônio Histórico e Artístico Nacional</EM>
+    
+    
+      <EM ID="relkj7666-224" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Associação dos Amigos do Museu Histórico Nacional</EM>
+    
+    
+      <EM ID="relkj7666-225" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Banco Nacional de Desenvolvimento Econômico e Social</EM>
+    
+    
+      <EM ID="relkj7666-226" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Caixa Econômica Federal</EM>
+    
+    
+      <EM ID="relkj7666-227" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Holcim (Brasil) S. A.</EM>
+    
+    
+      <EM ID="relkj7666-228" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Vitae</EM>
+      --
+    
+    
+      Recuperar a arquitetura original, ampliar espaços destinados ao público, aprimorar os serviços oferecidos aos visitantes, democratizar o acesso dos mais diversos segmentos da sociedade e viabilizar uma circulação e um percurso adequados ao discurso museográfico: essas foram as diretrizes que nortearam o "
+      <EM ID="relkj7666-229" CATEG="OBRA" TIPO="PLANO"  >Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006</EM>
+      ", concluído
+      <EM ID="relkj7666-122" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 19 de maio de 2006</EM>
+      .
+    
+    
+      A primeira fase das obras, totalmente financiada pelo
+      <EM ID="relkj7666-231" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="relkj7666-222" TIPOREL="ident">Ministério da Cultura</EM>
+      num total de
+      <EM ID="relkj7666-232" CATEG="VALOR" TIPO="MOEDA"  >R$ 1.980.000,00</EM>
+      , foi inaugurada
+      <EM ID="relkj7666-233" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dia 9 de setembro de 2004</EM>
+      , com a presença do
+      
+        <EM ID="relkj7666-234" CATEG="PESSOA" TIPO="CARGO"  >Primeiro Ministro de Portugal</EM>
+        
+      ,
+      <EM ID="relkj7666-237" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-234 relkj7666-234-aa" TIPOREL="ident ident">Pedro Santana Lopes</EM>
+      , da
+      
+        <EM ID="relkj7666-238" CATEG="PESSOA" TIPO="CARGO"  >Ministra da Cultura de Portugal</EM>
+        
+      ,
+      <EM ID="relkj7666-241" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-238 relkj7666-238-aa" TIPOREL="ident ident">Maria João Bustorff Silva</EM>
+      , e do
+      <EM ID="relkj7666-242" CATEG="PESSOA" TIPO="CARGO"  >Ministro de Estado da Cultura</EM>
+      ,
+      <EM ID="relkj7666-243" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-242" TIPOREL="ident">Gilberto Passos Gil Moreira</EM>
+      , já que
+      <EM ID="relkj7666-244" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="relkj7666-233" TIPOREL="ident">nesta data</EM>
+      foi aberta a exposição internacional «
+      <EM ID="relkj7666-245" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="relkj7666-233" TIPOREL="data_de">Artes Tradicionais de Portugal</EM>
+      », promovida pela
+      <EM ID="relkj7666-246" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-245" TIPOREL="produtor_de">Fundação Gulbenkian</EM>.
+    
+    
+      Iniciada
+      <EM ID="relkj7666-123" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em dezembro de 2003</EM>
+      , a primeira fase das obras incluiu a recuperação de uma área de
+      <EM ID="relkj7666-248" CATEG="VALOR" TIPO="QUANTIDADE"  >1.500 metros quadrados</EM>
+      que estavam completamente sem uso
+      <EM ID="relkj7666-249" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >há mais de trinta anos</EM>
+      e apresentavam um avançado processo de deteriorização. Nesse local, foram instalados os novos acessos ao circuito de exposições (escadas rolantes e elevador para portadores de necessidades especiais) e os espaços para atendimento ao público - guarda volumes, cafeteria, sanitários públicos e bilheteria - além de áreas para serviços internos.
+    
+    
+      A partir da assinatura de contrato entre o
+      <EM ID="relkj7666-250" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu Histórico Nacional</EM>
+      , a
+      <EM ID="relkj7666-251" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219 relkj7666-224" TIPOREL="incluido ident">Associação dos Amigos do Museu Histórico Nacional</EM>
+      e a
+      <EM ID="relkj7666-252" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-226" TIPOREL="ident">Caixa Econômica Federal</EM>
+      realizada
+      <EM ID="relkj7666-253" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 26 de novembro de 2004</EM>
+      , foram liberados recursos no valor de
+      <EM ID="relkj7666-254" CATEG="VALOR" TIPO="MOEDA"  >R$ 1.900.000,00</EM>
+      para o início da segunda fase das obras ainda
+      <EM ID="relkj7666-255" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em dezembro de 2005</EM>
+      .
+    
+    
+      Nesse etapa foi desmontada a laje construída
+      <EM ID="relkj7666-256" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1940</EM>
+      , quando parte do conjunto arquitetônico era utilizada pelo
+      <EM ID="relkj7666-257" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Ministério da Agricultura</EM>
+      , para abrigar um canteiro de experiências agrícolas e que gerava no pavimento térreo uma área de insalubridade que comprometia a integridade física do acervo sob a guarda do
+      <EM ID="relkj7666-258" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219 relkj7666-229" TIPOREL="ident outrarel">Museu</EM>
+      .
+    
+    
+      Essa obra foi fundamental para resgatar a arquitetura original
+      <EM ID="relkj7666-259" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1922</EM>
+      , devolvendo ao público um belíssimo pátio interno interligado aos
+      <EM ID="relkj7666-260" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-207" TIPOREL="LOCAL**incluido**relkj7666-207**LOCAL">Pátios da Minerva</EM>
+      e dos
+      <EM ID="relkj7666-261" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-207" TIPOREL="LOCAL**incluido**relkj7666-207**LOCAL">Canhões</EM>
+      e um espaço nobre para exposições, além de permitir que parte da
+      <EM ID="relkj7666-263" CATEG="OBRA|LOCAL" TIPO="ARTE|HUMANO"  >Reserva Técnica</EM>
+      seja vista, sem prejudicar a segurança do acervo. Com uma área de
+      <EM ID="relkj7666-264" CATEG="VALOR" TIPO="QUANTIDADE"  >2.000 metros</EM>
+      , o novo pátio recebeu o nome de
+      <EM ID="relkj7666-265" CATEG="ABSTRACCAO" TIPO="NOME"  >Gustavo Barroso</EM>
+      , numa homenagem ao fundador e primeiro diretor do <EM ID="relkj7666-266" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219 relkj7666-265" TIPOREL="ident nome_de_vinculo_inst">Museu Histórico Nacional</EM> 
+
+      .
+    
+    
+      Com o patrocínio da
+      <EM ID="relkj7666-267" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="relkj7666-227" TIPOREL="ident">HOLCIM (Brasil) S. A .</EM>
+      foram recuperados
+      <EM ID="relkj7666-268" CATEG="VALOR" TIPO="QUANTIDADE"  >1.000 metros quadrados</EM>
+      de galerias voltadas para o
+      <EM ID="relkj7666-269" CATEG="LOCAL" TIPO="HUMANO"  >Pátio Gustavo Barroso</EM>
+      para a implantação da exposição permanente "
+      <EM ID="relkj7666-270" CATEG="COISA" TIPO="OBJECTO"  >Do Móvel Ao Automóvel: Transitando pela História</EM>
+      ", reunindo a preciosa coleção de meios de transportes terrestres do
+      <EM ID="relkj7666-271" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu Histórico Nacional</EM>
+      em sua totalidade, a partir de restauração viabilizada graças a
+      <EM ID="relkj7666-272" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-228" TIPOREL="ident">Vitae - Apoio à Cultura, Educação e Promoção Social</EM>
+      .
+    
+    
+      Com recursos do
+      <EM ID="relkj7666-273" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="relkj7666-222" TIPOREL="ident">Ministério da Cultura</EM>
+      foram concluidas as obras da terceira fase do «
+      <EM ID="relkj7666-274" CATEG="OBRA" TIPO="PLANO" COREL="relkj7666-229 relkj7666-273" TIPOREL="ident outrarel">Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006</EM> 
+      " com o objetivo de ampliar o auditório, visando dobrar a capacidade de atendimento de cem para duzentos lugares e, possibilitando a um maior número de interessados o acesso aos cursos e seminários promovidos pelo
+      <EM ID="relkj7666-275" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu</EM>
+      . Ainda com recursos do
+      <EM ID="relkj7666-276" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="relkj7666-222" TIPOREL="ident">Ministério da Cultura</EM>
+      , o
+      <EM ID="relkj7666-277" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-261" TIPOREL="ident">Pátio dos Canhões</EM>
+      foi reformado, contando com o apoio do
+      <EM ID="relkj7666-278" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Arsenal de Guerra do Rio</EM> 
+      e do
+      <EM ID="relkj7666-279" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Instituto Benjamin Constant</EM>
+      para a confecção das novas legendas das peças expostas, inclusive em braille.
+    
+    
+      Com o patrocínio do
+      <EM ID="relkj7666-280" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-225" TIPOREL="ident">Banco Nacional de Desenvolvimento Econômico e Social</EM>
+      , essa etapa incluiu, ainda, a recuperação de três amplas galerias de exposição permanente situadas no segundo andar, além da realização de obras estruturais no terceiro andar, onde funciona a
+      <EM ID="relkj7666-281" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="incluido">Administração</EM>
+      .
+    
+    
+      As galerias revitalizadas com os recursos do
+      <EM ID="relkj7666-282" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-225" TIPOREL="ident">BNDES</EM>
+      abrigam o multivídeo panorâmico "
+      <EM ID="relkj7666-283" CATEG="OBRA" TIPO="REPRODUZIDA"  >A Trajetória de um museu</EM>
+      ", que apresenta o
+      <EM ID="relkj7666-284" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-219" TIPOREL="ORGANIZACAO**ident**relkj7666-219**ORGANIZACAO">Museu Histórico Nacional</EM>
+      ao visitante, e a exposição "
+      <EM ID="relkj7666-285" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Oreretama</EM>
+      ", que abre pela primeira vez no
+      <EM ID="relkj7666-286" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-285" TIPOREL="sede_de">Museu Histórico Nacional</EM>
+      um espaço permanente dedicado ao índio brasileiro. "
+      <EM ID="relkj7666-287" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="relkj7666-285" TIPOREL="ident">Oreretama</EM>
+      » apresenta também uma ambientação representando uma gruta do sítio arqueológico da
+      <EM ID="relkj7666-288" CATEG="LOCAL" TIPO="FISICO"  >Serra da Capivara</EM>
+      e os sambaquis do litoral, incluindo objetos retirados de sítios do
+      <EM ID="relkj7666-289" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-208" TIPOREL="inclui">Estado do Rio de Janeiro</EM>
+      .
+    
+    
+      Com o "
+      <EM ID="relkj7666-290" CATEG="OBRA" TIPO="PLANO" COREL="relkj7666-229" TIPOREL="ident">Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006</EM> 
+      ", o
+      <EM ID="relkj7666-291" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu Histórico Nacional</EM>
+      segue a tendência mundial dos grandes museus nacionais de se adequarem às necessidades impostas pelo aumento do fluxo de visitantes e à valorização das instituições culturais
+      <EM ID="relkj7666-292" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nesse novo milênio</EM>
+      .
+    
+    
+      A solenidade do término das obras do "
+      <EM ID="relkj7666-293" CATEG="OBRA" TIPO="PLANO" COREL="relkj7666-229" TIPOREL="ident">Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006</EM>
+      " foi realizada
+      <EM ID="relkj7666-294" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 19 de maio de 2006</EM>
+      , no âmbito das comemorações
+       do <EM ID="relkj7666-54" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="relkj7666-294" TIPOREL="ident">Dia Internacional de Museus</EM>
+      , com a presença do
+      <EM ID="relkj7666-296" CATEG="PESSOA" TIPO="CARGO" COREL="relkj7666-222" TIPOREL="vinculo_inst">Ministro de Estado da Cultura</EM>
+      ,
+      <EM ID="relkj7666-297" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-296" TIPOREL="ident">Gilberto Passos Gil Moreira</EM>
+      .
+    
+    ARQUIVO HISTÓRICO
+    
+      O
+      <EM ID="relkj7666-298" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu Histórico Nacional</EM>
+      oferece ao público
+      <EM ID="relkj7666-299" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-219" TIPOREL="ORGANIZACAO**incluido**relkj7666-219**ORGANIZACAO">Arquivo Histórico</EM>
+      , com
+      <EM ID="relkj7666-300" CATEG="VALOR" TIPO="QUANTIDADE"  >50.000</EM>
+      documentos iconográficos e manuscritos sobre a história do
+      <EM ID="relkj7666-301" CATEG="ABSTRACCAO|LOCAL|PESSOA" TIPO="IDEIA|HUMANO|POVO" COREL="relkj7666-289 relkj7666-288" TIPOREL="LOCAL**inclui**relkj7666-289**LOCAL LOCAL**inclui**relkj7666-288**LOCAL">Brasil</EM>
+      , e
+      <EM ID="relkj7666-302" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-219" TIPOREL="ORGANIZACAO**incluido**relkj7666-219**ORGANIZACAO">Biblioteca</EM>
+      com
+      <EM ID="relkj7666-303" CATEG="VALOR" TIPO="QUANTIDADE"  >57.000</EM>
+      obras versando sobre história, história da arte, museologia, heraldica, numismática, genealogia e moda.
+    
+    
+      Oferece, ainda, o
+      <EM ID="relkj7666-304" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="incluido">Centro de Referência Luso-Brasileiro</EM>
+      , ligado ao
+      <EM ID="relkj7666-305" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-299" TIPOREL="ORGANIZACAO**ident**relkj7666-299**ORGANIZACAO">Arquivo Histórico</EM>
+      e criado
+      <EM ID="relkj7666-306" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1998</EM>
+      , no âmbito das comemorações dos
+      <EM ID="relkj7666-307" CATEG="VALOR" TIPO="QUANTIDADE"  >500 anos</EM>
+      da chegada dos portugueses ao
+      <EM ID="relkj7666-308" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-301" TIPOREL="LOCAL**ident**relkj7666-301**LOCAL">Brasil</EM>
+      .
+    
+    
+      O
+      <EM ID="relkj7666-309" CATEG="COISA" TIPO="OBJECTO"  >Arquivo</EM>
+      pode ser consultado
+      <EM ID="relkj7666-310" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de segunda a sexta-feira</EM>
+      ,
+      <EM ID="relkj7666-311" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >das 10h às 16h30m</EM>
+      , mediante agendamento prévio através do telefone (0xx21) 2550-9268.
+    
+    
+      O
+      <EM ID="relkj7666-312" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu</EM>
+      mantém, ainda,
+      <EM ID="relkj7666-313" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="incluido">Arquivo Institucional</EM>
+      sobre a trajetória do próprio
+      <EM ID="relkj7666-314" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-207 relkj7666-219" TIPOREL="LOCAL**ident**relkj7666-207**LOCAL ORGANIZACAO**ident**relkj7666-219**ORGANIZACAO">Museu Histórico Nacional</EM>
+      , com documentos, fotografias, impressos, recortes de jornal, etc. As fotos utilizadas para ilustrar o item "
+      <EM ID="relkj7666-315" CATEG="OUTRO"   >ARQUITETURA E HISTÓRIA</EM>
+      " integram este acervo. O
+      <EM ID="relkj7666-316" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-313" TIPOREL="ident">Arquivo Institucional</EM>
+      é aberto a consultas, mediante agendamento prévio através do telefone 21-25509265.
+    
+    
+      Retrato do
+      <EM ID="relkj7666-317" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-208" TIPOREL="natural_de">Imperador D. Pedro II</EM>
+    
+    
+      Fotografia
+      <EM ID="relkj7666-318" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Francisco Pesce</EM>
+      ,
+      <EM ID="relkj7666-319" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >1888</EM>
+      O
+      <EM ID="relkj7666-320" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-305" TIPOREL="ORGANIZACAO**ident**relkj7666-305**ORGANIZACAO">Arquivo Histórico</EM>
+      reúne importantes documentos manuscritos e iconográficos referentes à nossa história e divididos em coleções, como a "
+      <EM ID="relkj7666-321" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE"  >Coleção Família Imperial</EM>
+      ", compreendendo
+      <EM ID="relkj7666-322" CATEG="VALOR" TIPO="QUANTIDADE"  >1.445</EM>
+      documentos de diversas procedências, relacionados aos
+      <EM ID="relkj7666-323" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Imperadores D. Pedro I</EM>
+      e
+      <EM ID="relkj7666-324" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-317" TIPOREL="ident">D. Pedro II</EM>
+      e respectivos familiares. São gravuras e álbuns de fotografias com retratos da realeza e nobreza da época, vistas de cidades brasileiras e estrangeiras e documentos pessoais, como os exercícios de caligrafia de
+      <EM ID="relkj7666-325" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Pedro II</EM>
+      ; de correspondência entre membros da família imperial e outros, além de homenagens como poesias, sonetos, hinos ou músicas dedicados a membros da família.
+    
+    
+      <EM ID="relkj7666-326" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-308" TIPOREL="natural_de">Ântonio Carlos Gomes</EM>
+    
+    
+      Il
+      <EM ID="relkj7666-1" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-326" TIPOREL="obra_de">Guarany</EM>
+    
+    
+      Folha de rosto da
+      <EM ID="relkj7666-328" CATEG="OBRA|COISA" TIPO="ARTE|OBJECTO" COREL="relkj7666-1" TIPOREL="OBRA**outrarel**relkj7666-328**OBRA">Partitura</EM>
+    
+    
+      O
+      <EM ID="relkj7666-329" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-305" TIPOREL="ident">Arquivo Histórico</EM>
+      preserva, ainda, importante coleção referente ao compositor brasileiro
+      <EM ID="relkj7666-330" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-326" TIPOREL="ident">Ântonio Carlos Gomes</EM>
+      , que inclui o primeiro volume da partitura original de um de seus primeiros trabalhos, a ópera "
+      <EM ID="relkj7666-331" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-326" TIPOREL="obra_de">Joana de Flandres</EM>
+      ". Formada a partir de diversas doações, a coleção reúne
+      <EM ID="relkj7666-332" CATEG="VALOR" TIPO="QUANTIDADE"  >216</EM>
+      documentos, entre desenhos de cenários, cartas, fotografias, partituras originais e libretos de algumas obras como "
+      <EM ID="relkj7666-333" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-326" TIPOREL="obra_de">Condor</EM>
+      ", "
+      <EM ID="relkj7666-334" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-326" TIPOREL="obra_de">Morena</EM>
+      " e "
+      <EM ID="relkj7666-335" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-326" TIPOREL="obra_de">Colombo</EM>
+      ", preciosos para uma melhor compreensão do trabalho de
+      <EM ID="relkj7666-336" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-326" TIPOREL="ident">Carlos Gomes</EM>
+      , cuja obra de maior sucesso, "
+      <EM ID="relkj7666-337" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="relkj7666-1" TIPOREL="ident">O Guarani</EM>
+      ", estreou no
+      
+        <EM ID="relkj7666-5" CATEG="LOCAL" TIPO="HUMANO"  >Teatro Scala de Milão</EM>
+      
+      <EM ID="relkj7666-340" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1870</EM>
+      , sendo encenada em diversos países.
+    
+    
+      A
+      <EM ID="relkj7666-341" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE"  >Coleção Eusébio de Queirós</EM>
+      engloba
+      <EM ID="relkj7666-342" CATEG="VALOR" TIPO="QUANTIDADE"  >350</EM>
+      documentos, sobretudo correspondências trocadas entre políticos e seus familiares, versando, principalmente, sobre a repressão ao tráfico negreiro e temas políticos e judiciais. Magistrado e político brasileiro, nascido em
+      <EM ID="relkj7666-343" CATEG="LOCAL" TIPO="HUMANO"  >Angola</EM>
+      <EM ID="relkj7666-344" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1812</EM>
+      ,
+      <EM ID="relkj7666-345" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-343 relkj7666-344 relkj7666-341" TIPOREL="natural_de data_nascimento PESSOA**nome_de**relkj7666-341**COISA">Eusébio de Queirós Coutinho Matoso da Câmara</EM>
+      exerceu o cargo de
+      <EM ID="relkj7666-346" CATEG="PESSOA" TIPO="CARGO" COREL="relkj7666-345" TIPOREL="ident">Ministro da Justiça</EM>
+      <EM ID="relkj7666-347" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1848 a 1852</EM>
+      , destacando-se como autor de duas importantes leis do
+      <EM ID="relkj7666-348" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="relkj7666-345 relkj7666-308" TIPOREL="vinculo_inst ident">Império</EM>
+      : a
+      lei 556
+      , que criava o
+      <EM ID="relkj7666-350" CATEG="OBRA" TIPO="PLANO"  >Código Comercial</EM>
+      , e o
+      <EM ID="relkj7666-351" CATEG="OBRA" TIPO="PLANO"  >decreto 708</EM>
+      , que estabelecia medidas para a repressão ao tráfico de africanos.
+    
+    
+      <EM ID="relkj7666-352" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO"  >Missão Salesiana</EM>
+      em
+      <EM ID="relkj7666-353" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-308 relkj7666-352" TIPOREL="incluido LOCAL**sede_de**relkj7666-352**ORGANIZACAO">Mato Grosso</EM>
+      ,
+      <EM ID="relkj7666-354" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >1908</EM>
+    
+    Meninas bororos freqüentam a escola
+    
+      Documentação pessoal, álbuns de fotografias e documentos cartográficos compõem a "
+     <EM ID="relkj7666-355" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE"  >Coleção Miguel Calmon Du Pin e Almeida</EM>
+      ", engenheiro e político brasileiro, que ocupou o cargo de
+      <EM ID="relkj7666-356" CATEG="PESSOA" TIPO="CARGO"  >Ministro de Viação e Obras Públicas</EM>
+      no
+      <EM ID="relkj7666-357" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="relkj7666-356" TIPOREL="vinculo_inst">Governo Afonso Pena</EM>
+      ,
+      <EM ID="relkj7666-358" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre 1906 e 1909</EM>
+      e de
+      <EM ID="relkj7666-359" CATEG="PESSOA" TIPO="CARGO"  >Ministro da Agricultura</EM>
+      no mandato de
+      <EM ID="relkj7666-360" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Artur Bernardes</EM>
+      ,
+      <EM ID="relkj7666-361" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1922 a 1926</EM>
+      .
+    
+    
+      As fotografias documentam as principais obras que significaram a incorporação dos ideais de progresso e modernização pelo
+      <EM ID="relkj7666-362" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO"  >Brasil</EM>
+      <EM ID="relkj7666-363" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no começo do século XX</EM>
+      , assim como as diversas áreas indígenas encontradas ao longo deste trabalho.
+    
+    
+      Aquarelas de
+      <EM ID="relkj7666-364" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sophia Jobim</EM>
+      para Ilustrar suas aulas de indumentária
+    
+    
+      A moda também faz parte do
+      <EM ID="relkj7666-365" CATEG="ORGANIZACAO|COISA" TIPO="INSTITUICAO|OBJECTO" COREL="relkj7666-305" TIPOREL="ORGANIZACAO**ident**relkj7666-305**ORGANIZACAO">Arquivo Histórico</EM>
+      . Quem pesquisa a indumentária civil e militar não pode deixar de consultar as coleções "
+      <EM ID="relkj7666-366" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE" COREL="relkj7666-364 relkj7666-364" TIPOREL="COISA**nomeado_por**relkj7666-364**PESSOA OBJECTO**nomeado_por**relkj7666-364**PESSOA">Sophia Jobim Magno de Carvalho</EM>
+      " e "
+      <EM ID="relkj7666-367" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE"  >Uniformes Militares</EM>
+      ".
+    
+    
+      Museóloga e desenhista,
+      <EM ID="relkj7666-368" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-364" TIPOREL="ident">Sophia Jobim</EM>
+      lecionava na
+      <EM ID="relkj7666-369" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-364" TIPOREL="vinculo_inst">Escola Nacional de Belas Artes</EM>
+      a disciplina de
+      <EM ID="relkj7666-370" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Indumentária Histórica</EM>
+      .
+    
+    
+      Através de suas constantes viagens pelo mundo, colecionou um vasto acervo de trajes típicos, fundando,
+      <EM ID="relkj7666-799" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1960</EM>
+      , o primeiro
+      
+        <EM ID="relkj7666-800" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO"  >Museu de Indumentária Histórica e Antigüidades da América Latina</EM>
+        
+      em sua residência no bairro carioca de
+      <EM ID="relkj7666-803" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-800 relkj7666-800aa relkj7666-364 relkj7666-208" TIPOREL="LOCAL**sede_de**relkj7666-800**ORGANIZACAO LOCAL**sede_de**relkj7666-800aa**ORGANIZACAO residencia_de incluido">Santa Teresa</EM>
+      .
+    
+    
+      Toda a coleção
+      <EM ID="relkj7666-804" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE" COREL="relkj7666-366 relkj7666-366" TIPOREL="COISA**ident**relkj7666-366**COISA OBRA**ident**relkj7666-366**OBRA">Sophia Jobim</EM>
+      é doada ao
+      <EM ID="relkj7666-805" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-804 relkj7666-219 relkj7666-355 relkj7666-341 relkj7666-321" TIPOREL="ORGANIZACAO**proprietario_de**relkj7666-804**COISA ident ORGANIZACAO**proprietario_de**relkj7666-355**COISA ORGANIZACAO**proprietario_de**relkj7666-341**COISA ORGANIZACAO**proprietario_de**relkj7666-321**COISA">Museu</EM>
+      após a sua morte. Os trajes típicos são preservados na
+      <EM ID="relkj7666-806" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-219 relkj7666-263" TIPOREL="ORGANIZACAO**incluido**relkj7666-219**ORGANIZACAO LOCAL**ident**relkj7666-263**LOCAL">Reserva Técnica</EM>
+      , os livros na
+      <EM ID="relkj7666-807" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-302 relkj7666-302" TIPOREL="LOCAL**ident**relkj7666-302**LOCAL ORGANIZACAO**ident**relkj7666-302**ORGANIZACAO">Biblioteca</EM>
+      e os
+      <EM ID="relkj7666-808" CATEG="VALOR" TIPO="QUANTIDADE"  >1.124</EM>
+      documentos textuais e iconográficos, inclusive livros de receitas de pratos regionais e álbuns de fotografia de eventos relacionados à trajetória da titular da coleção, estão à disposição do pesquisador no
+      <EM ID="relkj7666-809" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="relkj7666-299 relkj7666-299" TIPOREL="LOCAL**ident**relkj7666-299**LOCAL ORGANIZACAO**ident**relkj7666-299**ORGANIZACAO">Arquivo Histórico</EM>
+      .
+    
+    
+      Já a coleção de uniformes militares é composta por
+      <EM ID="relkj7666-810" CATEG="VALOR" TIPO="QUANTIDADE"  >836</EM>
+      documentos iconográficos, dos quais destacam-se
+      <EM ID="relkj7666-811" CATEG="VALOR" TIPO="QUANTIDADE"  >228</EM>
+      aquarelas de autoria de
+      <EM ID="relkj7666-812" CATEG="PESSOA" TIPO="INDIVIDUAL"  >José Wasth Rodrigues</EM>
+      ; álbuns de aquarelas,
+      <EM ID="relkj7666-813" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do século XVIII</EM>
+      , de uniformes militares
+      do período colonial
+      e de desenhos copiados de modelos de uniformes existentes no
+      
+        <EM ID="relkj7666-814" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Arquivo Histórico e Colonial de Lisboa</EM>
+        
+      . O valor documental destas obras reside na constituição dos traços da indumentária militar brasileira,
+      do período colonial ao republicano
+      , tornando-se fonte de consulta obrigatória com relação a este tema.
+    
+    
+      <EM ID="relkj7666-817" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Juan Gutierrez</EM>
+    
+    
+      Documentou a
+      <EM ID="relkj7666-818" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Revolta da Armada</EM>
+      (
+      <EM ID="relkj7666-819" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="relkj7666-818" TIPOREL="data_de">1893/94</EM>
+      )
+    
+    
+      <EM ID="relkj7666-820" CATEG="VALOR" TIPO="QUANTIDADE"  >Cerca de 10.200</EM>
+      fotografias, entre as quais os primeiros processos fotográficos, como daguerreótipos e ambrotipos, integram o acervo do
+      <EM ID="relkj7666-10" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-305" TIPOREL="ident">Arquivo Histórico</EM>
+      . São fotografias de
+      <EM ID="relkj7666-11" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marc Ferrez</EM>
+      e
+      <EM ID="relkj7666-12" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Augusto Malta</EM>
+      , além de cartões postais de diversas épocas. Destaque para a "
+      <EM ID="relkj7666-13" CATEG="COISA|OBRA" TIPO="OBJECTO|ARTE" COREL="relkj7666-817 relkj7666-817 relkj7666-805" TIPOREL="COISA**nomeado_por**relkj7666-817**PESSOA OBJETO**nomeado_por**relkj7666-817**PESSOA COISA**propriedade_de**relkj7666-805**ORGANIZACAO">Coleção Juan Gutierrez</EM>
+      ". Fotógrafo espanhol,
+      <EM ID="relkj7666-14" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-817" TIPOREL="ident">Gutierrez</EM>
+      atuou no
+      <EM ID="relkj7666-15" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-208" TIPOREL="ident">Rio de Janeiro</EM>
+      <EM ID="relkj7666-16" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre 1880 e 1890</EM>
+      . Documentou a
+      <EM ID="relkj7666-17" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="relkj7666-818" TIPOREL="ident">Revolta da Armada</EM>
+      (
+      <EM ID="relkj7666-18" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="relkj7666-819" TIPOREL="ident">1893/94</EM>
+      ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate. Suas lentes captaram, ainda, vistas de vários bairros da antiga cidade do
+      <EM ID="relkj7666-19" CATEG="LOCAL" TIPO="HUMANO" COREL="relkj7666-208" TIPOREL="ident">Rio de Janeiro</EM>
+      , reproduzindo sua arquitetura e seu cotidiano. Conheça toda a coleção de fotografias de
+      <EM ID="relkj7666-20" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-817" TIPOREL="ident">Gutierrez</EM>
+      em nossa
+      <EM ID="relkj7666-21" CATEG="LOCAL" TIPO="VIRTUAL"  >Galeria Virtual</EM>
+      . Desenhos, gravuras e aquarelas de importantes artistas como
+      <EM ID="relkj7666-22" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rugendas</EM>
+      ,
+      <EM ID="relkj7666-23" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Debret</EM>
+      ,
+      <EM ID="relkj7666-24" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Norfini</EM>
+      e
+      <EM ID="relkj7666-25" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Reis Carvalho</EM>
+      , retratam cidades e paisagens brasileiras
+      <EM ID="relkj7666-26" CATEG="TEMPO" TIPO="GENERICO"  >ao longo dos séculos XIX</EM> e <EM ID="relkj7666-129" CATEG="TEMPO" TIPO="GENERICO"  >XX</EM>
+      , estando também preservados no
+      <EM ID="relkj7666-27" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="relkj7666-299 relkj7666-299" TIPOREL="LOCAL**ident**relkj7666-299**LOCAL ORGANIZACAO**ident**relkj7666-299**ORGANIZACAO">Arquivo Histórico</EM>
+      .
+    
+    
+      <EM ID="relkj7666-28" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nair de Teffé</EM>
+    
+    
+      Dita
+      <EM ID="relkj7666-29" CATEG="ABSTRACCAO" TIPO="NOME" COREL="relkj7666-28" TIPOREL="nome_de_ident">Rian</EM>
+      (
+      <EM ID="relkj7666-30" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="relkj7666-28" TIPOREL="periodo_vida">1886-1981</EM>
+      )
+    
+    Caricatura
+    
+      Outra curiosa coleção pertencente ao acervo do
+      <EM ID="relkj7666-31" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="relkj7666-219" TIPOREL="ident">Museu</EM>
+      é formada por
+      <EM ID="relkj7666-32" CATEG="VALOR" TIPO="QUANTIDADE"  >26</EM>
+      caricaturas de
+      <EM ID="relkj7666-33" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-28" TIPOREL="ident">Rian</EM>
+      , entre as quais as dos
+      <EM ID="relkj7666-34" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Presidentes Juscelino Kubitsckek</EM>
+      ,
+      <EM ID="relkj7666-35" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Eurico Gaspar Dutra</EM>
+      ,
+      <EM ID="relkj7666-36" CATEG="PESSOA" TIPO="INDIVIDUAL"  >João Café Filho</EM>
+      e
+      <EM ID="relkj7666-37" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Humberto de Alencar Castelo Branco</EM>
+      . Os traços irônicos de
+      <EM ID="relkj7666-38" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-28" TIPOREL="ident">Rian</EM>
+      fixaram, sobretudo, personalidades políticas e figuras da alta sociedade.
+      <EM ID="relkj7666-39" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-28" TIPOREL="ident">Rian</EM>
+      , na realidade
+      <EM ID="relkj7666-40" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-28" TIPOREL="ident">Nair de Teffé</EM>
+      , já era conhecida caricaturista ao casar-se,
+      <EM ID="relkj7666-41" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1913</EM>
+      , com o então
+      <EM ID="relkj7666-42" CATEG="PESSOA" TIPO="CARGO" COREL="relkj7666-28" TIPOREL="relacao_familiar">Presidente da República</EM>
+      ,
+      <EM ID="relkj7666-43" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="relkj7666-42" TIPOREL="ident">Hermes da Fonseca</EM>
+      . Com trabalhos publicados em revistas nacionais e estrangeiras, como o
+      <EM ID="relkj7666-44" CATEG="COISA" TIPO="CLASSE"  >Semanário Fon-Fon</EM>
+      ,
+      <EM ID="relkj7666-45" CATEG="COISA" TIPO="CLASSE"  >Le Rire</EM>
+      e a
+      <EM ID="relkj7666-46" CATEG="COISA" TIPO="CLASSE"  >Gazeta de Notícias</EM>
+      , escandalizou
+      <EM ID="relkj7666-47" CATEG="TEMPO" TIPO="FREQUENCIA"  >muitas vezes</EM>
+      o
+     <EM ID="relkj7666-48" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Palácio do Catete</EM>
+      com suas atitudes excêntricas.
+    
+  

@@ -1,0 +1,24 @@
+$S-7
+De	 [de] <*> PRP @ADVL>  O
+lá	 [lá] ADV @P<  O
+$, O
+existem	 [existir] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+ônibus	 [ônibus] <V> N M S/P @<SUBJ  O
+diários	 [diário] <nh> <np-close> ADJ M P @N<  O
+a	 [a] PRP @<ADVL  O
+cada	 [cada] <quant> DET F S @>N  O
+hora	 [hora] <dur> <temp> <unit> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Viação=Unir	 [Viação=Unir] <org> <*> PROP F S @P< ORG O
+$( O
+R$	 [r$] <*> <cur> <unit> <np-close> N M S @N<PRED  O
+2,25	 [2,25] <card> <np-close> NUM M/F P @N<  O
+$) O
+para	 [para] PRP @<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+cidade	 [cidade] <Lciv> N F S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Pedro=Leopoldo	 [Pedro=Leopoldo] <civ> <*> <newlex> PROP M S @P< LOCAL O
+$. O
+</s>

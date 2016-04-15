@@ -1,0 +1,31 @@
+$S-1
+Em 	[em]   <sam-> PRP @ADVL>   O
+uma 	[um] <-sam> <arti> DET F S @>N   O
+entrevista 	[entrevista] <talk> <occ> N F S @P<   O
+coletiva 	[coletivo] <nh> <np-close> ADJ F S @N<   O
+conduzida 	[conduzir] <vH> <np-long> V PCP F S @N<   O
+ontem 	[ontem] ADV @ADVL>   O
+a 	[a] <sam-> PRP @ADVL>   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+noite 	[noite] <per> <temp> N F S @P<   O
+$, 
+os 	[o] <artd> DET M P @>N   O
+gerentes 	[gerente] <n> <jh> ADJ M P @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Nasa 	[Nasa] <org> <newlex>   PROP F S @P<  ORG O
+deram 	[dar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+veredicto 	[veredicto] <act-s> N M S @<ACC   O
+$:  
+o 	[o] <artd> DET M S @>N   O
+Discovery 	[Discovery] <V>   PROP M S @SUBJ>  PES O
+precisa 	[precisar] <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+de 	[de] PRP @<PIV   O
+reparos 	[reparo] <percep-w> N M P @P<   O
+antes 	[antes] ADV @<ADVL   O
+de 	[de] PRP @A<   O
+voltar 	[voltar] <mv> V INF @ICL-P<   O
+para=casa 	[para=casa] ADV @<SA   O
+$. 
+</s>

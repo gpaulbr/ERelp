@@ -1,0 +1,4 @@
+$S-1
+Centro=Comercial=Forestside	 [Centro=Comercial=Forestside] <inst> PROP M S @<ACC ORG O
+em	 [em] PRP @<ADVL O
+Belfast	 [Belfast] <civ> PROP M S @P< LOCAL O

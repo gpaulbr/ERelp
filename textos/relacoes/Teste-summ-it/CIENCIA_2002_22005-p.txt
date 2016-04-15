@@ -1,0 +1,124 @@
+$S-4
+Os 	[o]   <artd> DET M P @>N   O
+brasileiros 	[brasileiro] <Hnat> N M P @SUBJ>    O
+Gilson=Rambelli 	[Gilson=Rambelli] <hum>   <np-close> PROP M S @N<   O
+$, 
+Paulo=Bava=de=Camargo 	[Paulo=Bava=de=Camargo] <hum>   <np-long> PROP M S @N<  PES O
+e 	[e] <cjt-head> KC @NPHR   O
+Flávio=Rizzi 	[Flávio=Rizzi] <hum>   <np-close> PROP M S @N<   O
+$, 
+pesquisadores 	[pesquisador] <Hprof> N M P @PRED>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Museu=de=Arqueologia=e=Etnologia 	[Museu=de=Arqueologia=e=Etnologia] <inst>   PROP M S @P<  ORG O
+$( 
+MAE 	[MAE] <org>   <np-close> PROP M/F S @N<PRED   O
+$) 
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+USP 	[USP] <org>   PROP F S @P<   O
+acharam 	[achar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA   O
+mesmo 	[mesmo] <quant> ADV @>N   O
+restos 	[resto] <cjt-head> <amount> N M P @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+um 	[um] <card> NUM M S @>N   O
+ou 	[ou] <cjt> KC @NPHR   O
+dois 	[dois] <card> NUM M P @>N   O
+navios 	[navio] <Vwater> N M P @P<   O
+antigos 	[antigo] <np-close> ADJ M P @N<   O
+$, 
+possivelmente 	[possivelmente] ADV @>A   O
+portugueses 	[português] <nat> <np-close> ADJ M P @N<PRED   O
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+século 	[século] <dur> <per> N M S @P<   O
+15 	[15] <card> <np-close> NUM M/F P @N<   O
+ou 	[ou] <cjt> KC @NPHR   O
+16 	[16] <cjt> <card> NUM M/F P @<ACC   O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+chamada 	[chamado] ADJ F S @>N   O
+tradição 	[tradição] <ac> N F S @P<   O
+ibero-atlântica 	[ibero-atlântica] <Hnat> N M S @<PRED   O
+$. 
+</s>
+$S-13
+A 	[o]   <artd> DET F S @>N   O
+coordenação 	[coordenação] <activity> N F S @SUBJ>   O
+foi 	[ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+de 	[de] <sam-> PRP @<SC   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+arqueólogo 	[arqueólogo] <Hprof> N M S @P<   O
+português 	[português] <nat> <jh> <np-close> ADJ M S @N<   O
+Francisco=Alves 	[Francisco=Alves] <hum>   <np-close> PROP M S @N<  PES O
+$, 
+um 	[um] <card> <np-long> NUM M S @N<PRED   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+pioneiros 	[pioneiro] <H> N M P @P<   O
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+área 	[área] <L> <Lh> N F S @P<   O
+em 	[em] <np-close> PRP @N<   O
+Portugal 	[Portugal] <civ>   PROP M S @P<   O
+e 	[e] KC @NPHR   O
+responsável 	[responsável] ADJ M/F S @P< @<PRED   O
+por 	[por] <sam-> PRP @A<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+trabalhos 	[trabalho] <act-d> <am> N M P @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+galeão 	[galeão] <part-build> <tool> N M S @P<   O
+Nossa=Senhora 	[Nossa=Senhora] <hum>   <np-close> PROP F S @N<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+Mártires 	[mártir] <prop>   <H> N M P @P<   O
+$, 
+cujos 	[cujo] <clb> <clb-fs> <rel> DET M P @>N   O
+achados 	[achado] <event> N M P @SUBJ>   O
+foram 	[ser] <vK> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<   O
+a 	[o] <artd> DET F S @>N   O
+atração 	[atração] <am> N F S @<SC   O
+central 	[central] <nh> <np-close> ADJ F S @N<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+pavilhão 	[pavilhão] <build> N M S @P<   O
+de 	[de] <np-close> PRP @N<   O
+Portugal 	[Portugal] <civ>   PROP M S @P<  O
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+exposição 	[exposição] <occ> <act> <sem-s> <per> N F S @P<   O
+internacional 	[internacional] <nh> <np-close> ADJ F S @N<   O
+de 	[de] <np-close> PRP @N<   O
+Lisboa 	[Lisboa] <civ>   PROP F S @P<   O
+em 	[em] PRP @<ADVL   O
+1998 	[1998] <card> <date> <year> NUM M/F S @P<   O
+$, 
+a 	[o] <artd> DET F S @>N   O
+Expo-98 	[Expo-98] <occ>   <np-close> PROP F S @APP   O
+Rambelli 	[Rambelli] <hum>   PROP M/F S @SUBJ>   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+coordenou 	[coordenar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+a 	[o] <artd> DET F S @>N   O
+participação 	[participação] <act> <sem-s> N F S @<ACC   O
+brasileira 	[brasileiro] <nat> <jh> <np-close> ADJ F S @N<   O
+$, 
+está 	[estar] <fmc> <aux> V PR 3S IND VFIN @FS-STA   O
+lançando 	[lançar] <clb> <vH> <mv> V GER @ICL-AUX<   O
+em 	[em] <sam-> PRP @<PIV   O
+esta 	[este] <-sam> <dem> DET F S @>N   O
+semana 	[semana] <dur> N F S @P<   O
+o 	[o] <artd> DET M S @>N   O
+livro 	[livro] <cc-r> N M S @<ACC    O
+Arqueologia=Até=Debaixo=DÁgua 	[Arqueologia=Até=Debaixo=DÁgua] <tit> <np-close> PROP M S @N<   O
+$( 
+Editora=Maranta 	[Editora=Maranta] <org>   <np-close> PROP F S @APP  ORG O
+$, 
+São=Paulo 	[São=Paulo] <hum>   <newlex> <np-close> PROP M S @N<   O
+$, 
+2002 	[2002] <card> <date> <year> NUM M/F P @>N   O
+$) 
+$. 
+</s>

@@ -1,0 +1,67 @@
+
+    
+      <EM ID="hub-31642-463" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Restauração da Independência</EM>
+    
+    
+      <EM ID="hub-31642-464" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Guerra da Restauração</EM>
+    
+    
+      Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta
+      <EM ID="hub-31642-465" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1640</EM>
+      , na qual um grupo de conspiradores da nobreza aclamou o
+        <EM ID="hub-31642-466" CATEG="PESSOA" TIPO="CARGO"  >duque de Bragança</EM>
+      como
+      
+        <EM ID="hub-31642-468" CATEG="PESSOA" TIPO="CARGO" COREL="hub-31642-466" TIPOREL="ident">Rei de Portugal</EM>
+        
+      , com o título de
+      <EM ID="hub-31642-471" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-31642-468" TIPOREL="ident">D. João IV</EM>
+      (
+      <EM ID="hub-31642-472" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >1640-1656</EM>
+      ), dando início à quarta
+        <EM ID="hub-31642-474" CATEG="PESSOA|ACONTECIMENTO" TIPO="GRUPOMEMBRO|ORGANIZADO" COREL="hub-31642-468 hub-31642-468" TIPOREL="PESSOA**inclui**hub-31642-468**PESSOA ACONTECIMENTO**ter_participacao_de**hub-31642-468**ACONTECIMENTO">Dinastia</EM>
+      --
+      <EM ID="hub-31642-11" CATEG="PESSOA|ACONTECIMENTO" TIPO="GRUPOMEMBRO|ORGANIZADO" COREL="hub-31642-474 hub-31642-474 hub-31642-472" TIPOREL="PESSOA**ident**hub-31642-474**PESSOA ACONTECIMENTO**ident**hub-31642-474**ACONTECIMENTO ACONTECIMENTO**datado_de**hub-31642-472**TEMPO">Dinastia de Bragança</EM>
+      .
+    
+    
+      O esforço nacional foi mantido
+      <EM ID="hub-31642-476" CATEG="TEMPO" TIPO="DURACAO"  >durante vinte e oito anos</EM>
+      , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de
+      <EM ID="hub-31642-479" CATEG="PESSOA|ORGANIZACAO" TIPO="INDIVIDUAL|ADMINISTRACAO"  >Filipe III</EM>
+      e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo
+      <EM ID="hub-31642-480" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1668</EM>
+      . <EM ID="hub-31642-13" CATEG="TEMPO" TIPO="GENERICO"  >Esses anos</EM> foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na
+      <EM ID="hub-31642-481" CATEG="LOCAL" TIPO="HUMANO"  >Catalunha</EM>
+      , os esforços diplomáticos da
+      <EM ID="hub-31642-482" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Inglaterra</EM>
+      ,
+      <EM ID="hub-31642-483" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >França</EM>
+      ,
+      <EM ID="hub-31642-484" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Holanda</EM>
+      e
+      <EM ID="hub-31642-485" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Roma</EM>
+      , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa.
+    
+    
+      Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do
+      <EM ID="hub-31642-486" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM>
+      , como também de
+      <EM ID="hub-31642-487" CATEG="LOCAL" TIPO="HUMANO"  >Angola</EM>
+      e de
+      <EM ID="hub-31642-488" CATEG="LOCAL" TIPO="HUMANO"  >São Tomé e Príncipe</EM>
+      (
+      <EM ID="hub-31642-489" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >1641-1654</EM>
+      ), restabelecendo o poder atlântico português. No entanto, as perdas no
+      <EM ID="hub-31642-490" CATEG="LOCAL" TIPO="HUMANO"  >Oriente</EM>
+      tornaram-se irreversíveis e
+      <EM ID="hub-31642-491" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-31642-490" TIPOREL="incluido">Ceuta</EM>
+      ficaria na posse dos
+      <EM ID="hub-31642-494" CATEG="PESSOA" TIPO="GRUPOIND"  >Habsburgo</EM>
+      . Devido a estarem indisponíveis as mercadorias indianas,
+      <EM ID="hub-31642-492" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="hub-31642-470" TIPOREL="ORGANIZACAO**ident**hub-31642-470**ORGANIZACAO">Portugal</EM>
+      passou a só obter lucro com a cana-de-açúcar do
+      <EM ID="hub-31642-493" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-31642-486" TIPOREL="ident">Brasil</EM>
+      .
+    
+  

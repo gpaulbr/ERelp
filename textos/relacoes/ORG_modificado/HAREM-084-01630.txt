@@ -1,0 +1,39 @@
+$S-7
+Desde=que	 [desde=que] <clb> <clb-fs> <*> KS @SUB  O
+Itamar	 [Itamar] <hum> <*> PROP M S @SUBJ>  O
+assumiu	 [assumir] <vH> <mv> V PS 3S IND VFIN @FS-ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+governo	 [governo] <HH> N M S @<ACC  O
+$, O
+depois	 [depois] ADV @ADVL>  O
+de	 [de] PRP @A<  O
+denúncias	 [denúncia] <act> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+imprensa	 [imprensa] <domain> <tool> <sem-r> <HH> N F S @P<  O
+José=de=Castro	 [José=de=Castro] <tit> <*> <np-close> PROP M S @N<  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+obrigado	 [obrigar] <mv> V PCP M S @ICL-AUX<  O
+a	 [a] PRP @<PIV  O
+voltar	 [voltar] <mv> V INF @ICL-P<  O
+atrás	 [atrás] ADV @<ADVL  O
+em	 [em] PRP @<ADVL  O
+diversas	 [diversos] <quant> DET F P @>N  O
+operações	 [operação] <act-d> N F P @P<  O
+pouco	 [pouco] <quant> ADV @>A  O
+claras	 [claro] <nh> <np-close> ADJ F P @N<  O
+$, O
+articuladas	 [articulado] <jh> <np-close> ADJ F P @N<PRED  O
+tanto	 [tanto] <quant> <KOMP> ADV @<ADVL @>A  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Consultoria=Geral=da=República	 [Consultoria=Geral=da=República] <inst> <*> PROP F S @P< ORG O
+quanto	 [quanto] <clb-fs> <rel> <ks> <quant> ADV @ADVL>  O
+em	 [em] <sam-> PRP @FOC>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+presidência	 [presidência] <pos-soc> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Telerj	 [Telerj] <org> <*> PROP F S @P< ORG O
+$. O
+</s>

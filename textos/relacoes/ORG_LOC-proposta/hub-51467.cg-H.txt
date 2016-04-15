@@ -1,0 +1,57 @@
+$S-1
+Entidade=Reguladora=dos=Serviços=Energéticos	 [Entidade=Reguladora=dos=Serviços=Energéticos] <org> PROP F S @P< ORG O
+Erse	 [erse] <nat> <np-close> ADJ M/F S @N<PRED O
+$, O
+aprovada	 [aprovar] <vH> <mv> V PCP F S @ICL-N<PRED O
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+Conselho=Tarifário	 [Conselho=Tarifário] <inst> PROP M S @P< O
+$, O
+2,9	 [2,9] <card> NUM M P @>N O
+$, O
+em	 [em] PRP @<ADVL O
+média	 [média] <Labs> <amount> N F S @P< O
+$, O
+em	 [em] PRP @<ADVL O
+Portugal=Continental	 [Portugal=Continental] <civ> PROP M S @P< LOCAL O
+
+$S-2
+Associação=Nacional=dos=Industriais=de=Arroz	 [Associação=Nacional=dos=Industriais=de=Arroz] <org> PROP F S @SUBJ> ORG O
+Ania	 [Ania] <org> <np-close> PROP M/F S @N<PRED O
+explicou	 [explicar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+que	 [que] <clb> <clb-fs> KS @SUB O
+um	 [um] <clb> <arti> DET M S @>N O
+conjunto	 [conjunto] <HH> <coll> <amount> N M S @SUBJ> O
+de	 [de] <np-close> PRP @N< O
+factores	 [factor] <ac> <Hprof> N M P @P< O
+a	 [a] PRP @<ADVL O
+nível	 [nível] <Labs> <tool> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+mercado	 [mercado] <inst> N M S @P< O
+internacional	 [internacional] <nh> <np-close> ADJ M S @N< O 
+$-- O
+aumento	 [aumento] <act> N M S @<PRED O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+preço	 [preço] <f-q> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <artd> <-sam> DET F P @>N O
+matérias-primas	 [matéria-primo] <cm> <ac> N F P @P< O
+com	 [com] <np-close> PRP @N< O
+parte	 [parte] <ac> <sem-l> <HH> <L> <amount> <part> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+produção	 [produção] <act> <am> N F S @P< O
+a	 [a] PRP @<ADVL O
+ser	 [ser] <aux> V INF @ICL-P< O
+desviada	 [desviar] <vH> <mv> V PCP F S @ICL-AUX< O
+para	 [para] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+fabrico	 [fabrico] <act> <cc> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+biocombustíveis	 [biocombustívei] <DERP> <cm> N M P @P< O
+$-- O
+provocou	 [provocar] <mv> V PS 3S IND VFIN @FS-<ACC O
+em	 [em] PRP @<ADVL O
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O

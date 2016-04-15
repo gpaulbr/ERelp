@@ -1,0 +1,60 @@
+$S-1
+Astrônomos 	[astrônomo]  <Hprof> N M P @SUBJ>  
+brasileiros 	[brasileiro] <nat> <jh> <np-close> ADJ M P @N<  
+esperam 	[esperar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+fotografar 	[fotografar] <vH> <mv> V INF @ICL-<ACC  
+os 	[o] <artd> DET M P @>N  
+primeiros 	[primeiro] <NUM-ord> ADJ M P @>N  
+planetas 	[planeta] <Lstar> N M P @<ACC  
+fora=de 	[fora=de] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+Sistema=Solar 	[Sistema=Solar] <tit>  PROP M S @P<  ORG
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+ajuda 	[ajuda] <am> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+maior 	[grande] <KOMP> ADJ M S @>N  
+telescópio 	[telescópio] <tool> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+Gemini 	[Gemini] <inst>  <np-close> PROP M S @APP  PES
+$, 
+a=partir=de 	[a=partir=de] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+ano=que=vem 	[ano=que=vem] <temp> N M S @P<  
+$. 
+</s>
+
+$S-2
+A 	[o]  <artd> DET F S @>N  
+informação 	[informação] <ac> N F S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+dada 	[dar] <mv> V PCP F S @ICL-AUX<  
+em 	[em] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+conferência 	[conferência] <occ> N F S @P<  
+Da=Origem=do=Universo=aos=Grandes=Telescópios 	[Da=Origem=do=Universo=aos=Grandes=Telescópios] <occ>  <np-close> PROP F S @N<  PES 
+$, 
+ministrada 	[ministrar] <vH> <mv> V PCP F S @ICL-N<PRED  
+ontem 	[ontem] ADV @<ADVL  
+por 	[por] PRP @<PASS  
+João=Steiner 	[João=Steiner] <hum>  PROP M S @P<  
+$, 
+astrofísico 	[astrofísico] <Hprof> <np-close> N M S @APP  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org>  PROP F S @P<  ORG
+$, 
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+52a 	[52a] <NUM-ord> ADJ F S @>N  
+Reunião=Anual=da=Sociedade=Brasileira 	[Reunião=Anual=da=Sociedade=Brasileira] <occ>  PROP F S @P<  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst>  PROP M S @P<  
+$. 
+</s>

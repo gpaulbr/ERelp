@@ -1,0 +1,38 @@
+$S-1
+O	 [o] <artd> DET M S @>N O
+Diário=de=Notícias	 [Diário=de=Notícias] <media> PROP M S @SUBJ> O
+falava	 [falar] <fmc> <vH> <mv> V IMPF 3S IND VFIN @FS-STA O
+de	 [de] <sam-> PRP @<PIV O
+as	 [o] <artd> <-sam> DET F P @>N O
+biografias	 [biografia] <sem-r> N F P @P< O
+e	 [e] <co-piv> KC @CO O
+de	 [de] <sam-> PRP @<PIV O
+o	 [o] <artd> <-sam> DET M S @>N O
+background	 [background] <Ltop> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+detidos	 [detido] <H> N M P @P< O
+$, O
+fazendo	 [fazer] <mv> V GER @ICL-<ADVL O
+nota	 [notar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+$, O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL> O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ADVL O
+óbvio	 [óbvio] <nh> ADJ M S @<SC O
+$, O
+de	 [de] <sam-> PRP @<SC O
+o	 [o] <artd> <-sam> DET M S @>N O
+seu	 [seu] <poss 3S> DET M S @>N O
+profundo	 [profundo] <nh> ADJ M S @>N O
+envolvimento	 [envolvimento] <event> <act> N M S @P< O
+com	 [com] PRP @<SC @<ADVL O
+a	 [o] <artd> DET F S @>N O
+claque	 [claque] <HH> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+FCP	 [FCP] <inst> PROP M S @P< ORG O
+$, O
+os	 [o] <artd> DET M P @>N REL
+Super=Dragões	 [Super=Dragões] <org> <np-close> PROP M P @APP PES O 
+$. O
+</s>

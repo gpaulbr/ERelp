@@ -1,0 +1,47 @@
+$S-2
+A 	[o]  <artd> DET F S @>N   O
+informação 	[informação] <ac> N F S @SUBJ>   O
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA   O
+dada 	[dar] <mv> V PCP F S @ICL-AUX<   O
+em 	[em] <sam-> PRP @<PIV   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+conferência 	[conferência] <occ> N F S @P<     O
+Da=Origem=do=Universo=aos=Grandes=Telescópios 	[Da=Origem=do=Universo=aos=Grandes=Telescópios] <occ> <np-close> PROP F S @N<    O
+$, 
+ministrada 	[ministrar] <vH> <mv> V PCP F S @ICL-N<PRED   O
+ontem 	[ontem] ADV @<ADVL   O
+por 	[por] PRP @<PASS   O
+João=Steiner 	[João=Steiner] <hum>  PROP M S @P<   O
+$, 
+astrofísico 	[astrofísico] <Hprof> <np-close> N M S @APP   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+USP 	[USP] <org>  PROP F S @P<  ORG O
+$, 
+durante 	[durante] PRP @<ADVL   O
+a 	[o] <artd> DET F S @>N   O
+52a 	[52a] <NUM-ord> ADJ F S @>N   O
+Reunião=Anual=da=Sociedade=Brasileira 	[Reunião=Anual=da=Sociedade=Brasileira] <occ>  PROP F S @P<   O
+para 	[para] PRP @<ADVL   O
+o 	[o] <artd> DET M S @>N   O
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst>  PROP M S @P<  LOCAL O
+$. 
+</s>
+$S-12
+Um 	[um]  <card> NUM M S @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+telescópios 	[telescópio] <tool> N M P @P<   O
+já 	[já] ADV @ADVL>   O
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+pronto 	[pronto] <cjt-head> ADJ M S @<SC   O
+e 	[e] KC @NPHR   O
+em 	[em] PRP @<ADVL   O
+funcionamento 	[funcionamento] <process> N M S @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Havaí 	[Havaí] <inst>  PROP M S @P< LOCAL O
+$, 
+Eua 	[Eua] <cjt> <hum>  PROP M S @<SC ORG O
+$. 
+</s>

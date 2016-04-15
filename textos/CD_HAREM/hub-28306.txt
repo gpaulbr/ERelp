@@ -1,0 +1,19 @@
+
+
+<EM ID="hub-28306-592" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Panda</EM> elege os vírus mais curiosos <EM ID="hub-28306-591" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2007</EM>
+
+O laboratório anti-malware da <EM ID="hub-28306-593" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-28306-592" TIPOREL="ident">Panda Security</EM>, revelou um relatório onde agrupa os "mais curiosos" exemplos de malware que emergiram <EM ID="hub-28306-594" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-28306-591" TIPOREL="incluido">no último semestre de 2007</EM>.
+
+Alguns exemplos da lista:
+
+-O código malicioso "mais pontual" detectado nos últimos tempos, revela a <EM ID="hub-28306-595" CATEG="OBRA|ORGANIZACAO" TIPO="PLANO|EMPRESA" COREL="hub-28306-592" TIPOREL="ORGANIZACAO**ident**hub-28306-592**ORGANIZACAO">Panda</EM>, foi o <EM ID="hub-28306-597" CATEG="COISA" TIPO="CLASSE"  >Trojan Aifone.A</EM>. O nome não engana: é um malware associado ao <EM ID="hub-28306-598" CATEG="COISA" TIPO="CLASSE" COREL="hub-28306-597" TIPOREL="outrarel">iPhone da Apple</EM> . Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores...
+
+-"O worm mais travesso" foi o <EM ID="hub-28306-601" CATEG="COISA" TIPO="CLASSE"  >RogueMario.A</EM>, destinado a entreteter os utilizadores enquanto os infecta. Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo <EM ID="hub-28306-602" CATEG="COISA" TIPO="CLASSE"  >Mario Bros</EM> de cada vez que infecta um computador.
+
+-A categoria <EM ID="hub-28306-603" CATEG="ABSTRACCAO|OUTRO" TIPO="DISCIPLINA|"  >Lost in Translation</EM>" vai para worms como os <EM ID="hub-28306-604" CATEG="COISA" TIPO="CLASSE"  >MSNFunny.B</EM>, <EM ID="hub-28306-605" CATEG="COISA" TIPO="CLASSE"  >Mimbot.A</EM> ou <EM ID="hub-28306-606" CATEG="COISA" TIPO="CLASSE"  >MsnSend.A</EM>, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas.
+
+-O <EM ID="hub-28306-607" CATEG="COISA" TIPO="CLASSE"  >Voter.A</EM> é um worm com "consciência cívica", conta a <EM ID="hub-28306-609" CATEG="ORGANIZACAO|OBRA" TIPO="EMPRESA|PLANO" COREL="hub-28306-595 hub-28306-595" TIPOREL="ORGANIZACAO**ident**hub-28306-595**ORGANIZACAO OBRA**ident**hub-28306-595**OBRA">Panda</EM>. Convida os cidadãos do <EM ID="hub-28306-610" CATEG="LOCAL" TIPO="HUMANO"  >Quénia</EM> a participarem em eleições e a votarem num dos candidatos. Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato <EM ID="hub-28306-611" CATEG="TEMPO" TIPO="FREQUENCIA"  >de nove a nove segundos</EM>.
+
+-O <EM ID="hub-28306-608" CATEG="COISA" TIPO="CLASSE"  >Trojan LiveDeath.A</EM> tem associado a si a curiosidade. Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como "Qual a sua cor favorita?". O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á.
+
+Ainda que algumas destas ameaças lhe possam parecer interessantes, a <EM ID="hub-28306-613" CATEG="OBRA|ORGANIZACAO" TIPO="PLANO|EMPRESA" COREL="hub-28306-595 hub-28306-595" TIPOREL="ORGANIZACAO**ident**hub-28306-595**ORGANIZACAO OBRA**ident**hub-28306-595**OBRA">Panda</EM> recomenda o afastamento face a estes exemplos de malware.

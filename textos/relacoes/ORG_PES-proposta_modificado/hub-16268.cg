@@ -1,0 +1,35 @@
+$S-1
+A	 [o] <artd> DET F S @>N O
+entidade	 [entidade] <H> N F S @SUBJ> O
+liderada	 [liderar] <vH> <mv> <np-close> V PCP F S @ICL-N< O
+por	 [por] PRP @<PASS O
+Abel=Mateus	 [Abel=Mateus] <hum> PROP M S @P< PES O
+tinha	 [ter] <fmc> <aux> V IMPF 3S IND VFIN @FS-STA O
+já	 [já] ADV @<ADVL O
+comunicado	 [comunicar] <vH> <mv> V PCP @ICL-AUX< O
+$, O
+a	 [a] PRP @<ADVL O
+10	 [10] <card> NUM M/F S @P< O
+de	 [de] <np-close> PRP @N< O
+Dezembro	 [dezembro] <prop> N M S @P< O
+$, O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+Sonae=Distribuição	 [Sonae=Distribuição] <org> PROP F S @P< ORG O
+$, O
+a	 [o] <artd> DET F S @>N O
+$" O
+decisão	 [decisão] <act> N F S @<ACC O
+provável	 [provável] <nh> <np-close> ADJ F S @N< O 
+de	 [de] <np-close> PRP @N< O
+não	 [não] ADV @>N O
+oposição	 [oposição] <sem-s> <HH> <Labs> <am> N F S @P< O
+$" O
+$, O
+que	 [que] <clb> <clb-fs> KS @SUB O
+se	 [se] <refl> PERS M/F 3S ACC @ACC> O
+tornou	 [tornar] <mv> V PS 3S IND VFIN @FS-<ADVL O
+agora	 [agora] <kc> ADV @<ADVL O
+efectiva	 [efetivo] <jh> ADJ F S @<OC O
+$. O
+</s>

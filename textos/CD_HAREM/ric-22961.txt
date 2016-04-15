@@ -1,0 +1,151 @@
+
+    "ATAQUES GRÁFICOS CONTRA O IMPÉRIO
+    
+      <EM ID="ric-22961-57" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Iansã Negrão</EM>
+      e
+      <EM ID="ric-22961-58" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Flanie Ziéme</EM>
+    
+    
+      Pacifistas protestam com tinta vermelha atirada na logomarca de instituições americanas e inglesa, em
+      <EM ID="ric-22961-59" CATEG="LOCAL" TIPO="HUMANO"  >Salvador</EM>
+      (
+      <EM ID="ric-22961-60" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-59" TIPOREL="inclui">BA</EM>
+      )
+    
+    ...........................................
+    
+      <EM ID="ric-22961-61" CATEG="TEMPO" TIPO="GENERICO"  >A terça-feira</EM>
+      em
+      <EM ID="ric-22961-62" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-59" TIPOREL="ident">Salvador</EM>
+      amanheceu diferente. As logomarcas nos totens dos bancos de
+      <EM ID="ric-22961-91" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-22961-59" TIPOREL="ocorre_em">Boston</EM>
+      e
+      <EM ID="ric-22961-92" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-22961-59" TIPOREL="ocorre_em">Citibank</EM>
+      ,
+      <EM ID="ric-22961-93" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-22961-59" TIPOREL="ocorre_em">Clube Banco dos Ingleses</EM>
+      e lanchonete
+      <EM ID="ric-22961-94" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-22961-59" TIPOREL="ocorre_em">McDonalds</EM>
+      estavam manchadas de sangue. Pelo menos é o que parecia numa olhada rápida. O primeiro pensamento: mais uma onda de protestos atingiu os símbolos dos impérios britânico e americano. É vermelho, embora não seja sangue.
+    
+    
+      Mas a imagem é tão forte quanto: sobre o verdinho do
+      <EM ID="ric-22961-95" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-91 ric-22961-59" TIPOREL="sede_de incluido">BankBoston</EM>
+      , escorria uma gosmenta tinta vermelha impregnada, difícil de limpar. "Só outro, algum transeunte pode ter balbuciado na ida para o ponto de ônibus
+      <EM ID="ric-22961-96" CATEG="TEMPO" TIPO="GENERICO"  >de mais uma segunda-feira</EM>
+      , dessa vez surpreendente e politizada. A mensagem é assim: "Estamos devolvendo simbolicamente o sangue derramado às empresas que representam entre nós o predomínio do
+      <EM ID="ric-22961-97" CATEG="LOCAL|ORGANIZACAO|PESSOA" TIPO="HUMANO|ADMINISTRACAO|POVO"  >Império</EM>
+      , as quais serão consideradas cúmplices deste projeto macabro até que tomem publicamente posição contra (1). E veio de um coletivo organizado e anônimo de "cidadãos de boa índole indignados com essa nova fase do imperialismo, com o nome de "
+      <EM ID="ric-22961-99" CATEG="ABSTRACCAO" TIPO="NOME"  >Operação Sangue Quente. Gente pacífica, mas não passiva</EM> 
+      .
+    
+    
+      A inspiração veio das ruas:
+      <EM ID="ric-22961-100" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >há três semanas</EM>
+      , um outdoor do
+      <EM ID="ric-22961-101" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-22961-94" TIPOREL="ident">McDonald's</EM>
+      na
+      <EM ID="ric-22961-102" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-94 ric-22961-62" TIPOREL="sede_de incluido">Avenida Jorge Amado</EM>
+      havia recebido uma interferência gráfica. Estava lá em cima da mensagem publicitária da promoção
+      <EM ID="ric-22961-103" CATEG="OUTRO"  COREL="ric-22961-94" TIPOREL="outrarel">McNight</EM>
+      (sanduíches mais baratos <EM ID="ric-22961-1" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >durante a madrugada</EM>) um texto em tinta neon: "Lixo dos
+      <EM ID="ric-22961-104" CATEG="LOCAL" TIPO="HUMANO"  >EUA</EM>. Não financie a guerra. Boicote os produtos americanos.
+      É o que está todo mundo fazendo, não é? Então eles decidiram ir além: um ataque cromático em emblemas do "
+      <EM ID="ric-22961-105" CATEG="LOCAL|ORGANIZACAO|PESSOA" TIPO="HUMANO|ADMINISTRACAO|POVO" COREL="ric-22961-97 ric-22961-97 ric-22961-97 ric-22961-104" TIPOREL="LOCAL**ident**ric-22961-97**LOCAL ORGANIZACAO**ident**ric-22961-97**ORGANIZACAO PESSOA**ident**ric-22961-97**PESSOA LOCAL**ident**ric-22961-104**LOCAL">Império</EM>
+      . Bombas de tinta seriam o arsenal bélico usado no atentado.
+    
+    
+      Foram
+      <EM ID="ric-22961-106" CATEG="VALOR" TIPO="QUANTIDADE"  >20</EM>
+      pessoas no planejamento. Oito partiram para o ataque. Foi
+      <EM ID="ric-22961-107" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na madrugada de segunda para terça-feira</EM>
+      ,
+      <EM ID="ric-22961-108" CATEG="TEMPO|VALOR" TIPO="TEMPO_CALEND|QUANTIDADE"  >entre 3 e 4 horas</EM>
+      , cronometradas, aproveitando a calmaria das ruas
+      <EM ID="ric-22961-109" CATEG="TEMPO" TIPO="GENERICO"  >do primeiro dia da semana</EM>
+      . Duas "viaturas de ataque com quatro ativistas cada e um carro de cobertura. Eles se definem: "São três gerações de homens e mulheres desobedientes civis e militares com diferentes graus de envolvimento em questões e ações sociais. O mais novo
+      <EM ID="ric-22961-110" CATEG="VALOR" TIPO="QUANTIDADE"  >20</EM>
+      , o mais velho
+      <EM ID="ric-22961-111" CATEG="VALOR" TIPO="QUANTIDADE"  >59</EM>
+      . "Não deixe seu sangue esfriar, proteste é só o começo. Ainda que o efeito vermelho das bombas tenha sido efêmero, a adrenalina continua em alta.
+    
+    
+      SANGUE QUENTE - Pelo menos a ocupação sinistra de
+      <EM ID="ric-22961-112" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="ric-22961-104" TIPOREL="ocorre_em">Bush</EM>
+      no
+      <EM ID="ric-22961-113" CATEG="LOCAL" TIPO="HUMANO"  >Iraque</EM>
+      serviu para mobilizar os glóbulos vermelhos de muita gente. O grupo da "
+      <EM ID="ric-22961-114" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO"  >Operação Sangue Quente</EM>
+      garante: "O sangue não vai esfriar tão cedo. Eles estão em alerta. A idéia é que outras intervenções surpreendam os cidadãos soteropolitanos, autoridades e o que estiver no alvo dos "guerreiros.
+    
+    O incômodo com questões sociais não se bastará com o fim da guerra. Para eles, a pulsão coletiva capaz de intervenções plástico-ideológicas na cidade são mais poderosas, por exemplo, do que a maioria das caminhadas em favor da paz, que costumam atrair toda a mídia local.
+    
+      O símbolo universal da paz, a pomba branca, aparece na logomarca da "
+      <EM ID="ric-22961-115" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="ric-22961-114 ric-22961-114" TIPOREL="ABSTRACCAO**ident**ric-22961-114**ABSTRACCAO PESSOA**ident**ric-22961-114**PESSOA">Operação Sangue Quente</EM>
+      bicando a cabeça de uma ave, que lembra o cruzamento de um urubu com uma águia: uma remissão às forças armadas norte-americanas sendo detonada por uma força que, embora pareça inofensiva, é propositiva, intervém. "Nessa ação específica, queríamos atingir os cidadãos médios, para que eles associassem os alvos com o capital que financia a guerra, explicam.
+    
+    
+      Agora, qualquer questão, a qualquer momento, em qualquer lugar poderá ser o próximo alvo do fervilhar sanguíneo dos coligados anônimos da "
+      <EM ID="ric-22961-117" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="ric-22961-114 ric-22961-114" TIPOREL="ABSTRACCAO**ident**ric-22961-114**ABSTRACCAO PESSOA**ident**ric-22961-114**PESSOA">Operação Sangue Quente</EM>
+      . Motivos por aqui não faltam. Mas o grupo ambiciona mais: quer instigar os cidadãos a ações semelhantes. Ou, no mínimo a um exercício de pensamento.
+      <EM ID="ric-22961-118" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Um dia desses</EM>
+      uma estátua de gente importante pode aparecer ensacada (como fizeram os três artistas do grupo "<EM ID="ric-22961-2" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >3Nós3</EM>,
+      <EM ID="ric-22961-120" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no início da década de 80</EM>
+      , <EM ID="ric-22961-209" CATEG="TEMPO" TIPO="GENERICO"  >tempos</EM> em que
+      <EM ID="ric-22961-121" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO"  >São Paulo</EM>
+      amanhecia mais surpreendente) ou algo do gênero.
+    
+    Permanecer no anonimato é, segundo dizem, muito mais uma questão ligada à estratégia do que ao temor de autoridades. Ou da confusão que estas fazem quando não distinguem vândalos de manifestantes. Numa guerra sem armas de fogo, o anonimato pode ser a melhor estratégia.
+    
+      AÇÃO ENTRE AMIGOS - O plano foi discutido, a estratégia de ação muito bem pensada. Reuniões de cúpula na
+      <EM ID="ric-22961-122" CATEG="LOCAL" TIPO="HUMANO"  >Toca dos Carcarás</EM>
+      - nome dado ao local que abrigou os latinos de sangue quente - levantavam questões ideológicas e operacionais. Mapa do itinerário pronto, tinta fresca na bagagem. Alguns, tomados pela "síndrome do amarelismo, abortaram antes do ataque. "Melhor assim, disseram alguns.
+    
+    
+      <EM ID="ric-22961-123" CATEG="TEMPO" TIPO="GENERICO"  >Aquela madrugada</EM>
+      pertenceu ao deserto. No céu cinza, uma semi-lua era a única em vigília. O clima era protetor porque não tinha olhos, mas a calma das ruas sem gente provocava uma sensação de vulnerabilidade. O medo veio porque havia também outras viaturas: policiais federais e militares estavam em atividade.
+    
+    
+      A primeira bomba que atingiu o
+      <EM ID="ric-22961-124" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-92" TIPOREL="sede_de">Citibank</EM>
+      da
+      <EM ID="ric-22961-125" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-92 ric-22961-59" TIPOREL="sede_de incluido">Rua Miguel Calmon</EM>
+      , no
+      <EM ID="ric-22961-126" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-125" TIPOREL="inclui">Comércio</EM>
+      , e que deveria ser silenciosa como planejado fez um estrondo alto. Pernas bambas titubearam. Sorte a ronda da
+      <EM ID="ric-22961-127" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Polícia Federal</EM>
+      que estava na área ter mais o que fazer
+      <EM ID="ric-22961-128" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >naquele momento</EM>
+      . Da mesma forma com os homens da viatura da
+      <EM ID="ric-22961-129" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Polícia Militar</EM>
+      ocupados em espancar dois homens em outra esquina e nada viram. Uma prostituta entretia a guarda de outra viatura na
+      <EM ID="ric-22961-130" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-59" TIPOREL="incluido">Manoel Dias</EM>
+      e o coletivo pôde agir sem problemas no
+      <EM ID="ric-22961-131" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-95" TIPOREL="ident">BankBoston</EM>
+      , último banco-alvo da ação.
+    
+    Enquanto cumpriam a missão, um advogado aguardava o pior, preparado. Eles alegariam protesto e desobediência civil, mas por estar dentro de uma ação política integrada, provavelmente seriam enquadrados em crime de vandalismo e formação de quadrilha. O plantão insone foi dispensado quando todos se reencontraram ainda com bombas armadas-não detonadas e com todos os alvos atingidos.
+    
+      Aliviados, alguém do grupo levantou o fato de nenhum deles nunca ter participado de uma ação clandestina.
+     Só <EM ID="ric-22961-132" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >naquele momento</EM>
+      , eles avaliaram o perigo de uma bala ter sido disparada ou um policial ter perseguido os carros. As moças acharam melhor não irem direto para casa: voltaram à cena do crime como boas criminosas para fotografar e flagrar dois vigias e dois cães, todos de guarda dormindo relaxados, bem de frente para a fachada iluminada do
+      
+        <EM ID="ric-22961-133" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-22961-92" TIPOREL="ident">Citibank da Barra</EM>
+        
+      , tingida de tinta ainda quente.
+    
+    (1) Esta matéria foi escrita com base em relatos dos participantes que preferiram não se identificar.
+    
+      <EM ID="ric-22961-136" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >16 de abril de 2003</EM>
+    
+    
+      Fontes: 
+      <EM ID="ric-22961-137" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|VIRTUAL"  >Centro de Mídia Independente</EM>
+      (www.midiaindependente.org). 
+    
+    
+      
+        <EM ID="ric-22961-138" CATEG="ORGANIZACAO|LOCAL" TIPO="EMPRESA|VIRTUAL"  >Jornal A Tarde</EM>
+        
+      (www.atarde.com.br). 
+    
+  

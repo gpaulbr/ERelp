@@ -1,0 +1,42 @@
+$S-6  
+O 	[o]   <artd> DET M S @>N   O
+Reino=Unido 	[Reino=Unido] <org>   PROP M S @SUBJ>   O
+se 	[se] PERS M 3S ACC @ACC>-PASS   O
+propôs 	[propor] <clb-fs> <vH> <mv> <quote> V PS 3S IND VFIN @FS-ACC   O
+a 	[a] PRP @<PIV   O
+reduzir 	[reduzir] <mv> V INF @ICL-P<   O
+suas 	[seu] <si> <poss 3S> DET F P @>N   O
+emissões 	[emissão] <ac> <sem-l> <act> N F P @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+gás=carbônico 	[gás=carbônico] <cm-chem> N M S @P<   O
+em 	[em] PRP @<ADVL   O
+60% 	[60%] <card> NUM M P @>N    O
+até 	[até] PRP @<ADVL   O
+2050 	[2050] <card> <date> <year> NUM M/F P @P<   O
+$, 
+e 	[e] <clb> KC @NPHR   O
+gostaríamos 	[gostar] <clb-fs> <vH> <mv> <quote> V COND 1P VFIN @FS-ACC   O
+de 	[de] PRP @<PIV   O
+ver 	[ver] <vH> <mv> V INF @ICL-P<   O
+os 	[o] <artd> DET M P @>N   O
+Eua 	[Eua] <org>   PROP M P @SUBJ>   O
+tomando 	[tomar] <clb> <vH> <mv> V GER @ICL-<ACC   O
+medidas 	[medida] <f-q> <act-d> N F P @<ACC   O
+semelhantes 	[semelhante] <nh> <np-close> ADJ F P @N<   O
+$, 
+mas 	[mas] <clb> KC @NPHR   O
+não 	[não] ADV @ADVL>   O
+é 	[ser] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC   O
+o 	[o] <dem> DET M S @<ACC   O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+está 	[estar] <aux> <np-close> V PR 3S IND VFIN @FS-N<   O
+acontecendo 	[acontecer] <vN> <mv> V GER @ICL-AUX<   O
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA   O
+sir 	[sir] <Htit> N M S @<SUBJ   O
+David 	[David] <hum>   <np-close> PROP M S @N<  LOCAL O
+$. 
+$( 
+RJL 	[RJL] <org>   PROP M/F S @NPHR  ORG O
+$) 
+</s>

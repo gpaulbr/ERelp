@@ -1,0 +1,24 @@
+$S-12
+A	 [o] <*> <artd> DET F S @>N  O
+Lusa	 [Lusa] <org> <*> PROP F S @SUBJ> ORG O
+tentou	 [tentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA B-REL
+contactar	 [contatar] <vH> <mv> V INF @ICL-<ACC I-REL
+o	 [o] <artd> DET M S @>N I-REL
+porta-voz	 [porta-voz] <tool> <Hprof> N M S @<ACC I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+ASAE	 [ASAE] <org> <*> PROP F S @P< ORG O
+para	 [para] PRP @<ADVL  O
+obter	 [obter] <vH> <mv> V INF @ICL-P<  O
+esclarecimentos	 [esclarecimento] <act-d> N M P @<ACC  O
+adicionais	 [adicional] <nh> <np-close> ADJ M P @N<  O
+mas	 [mas] KC @NPHR  O
+tal	 [tal] <diff> <KOMP> <np-close> DET M/F S @N< @SUBJ>  O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+impossível	 [impossível] <nh> ADJ M/F S @<SC  O
+até	 [até] ADV @>P  O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+momento	 [momento] <dur> <f-q> N M S @P<  O
+$. O
+</s>

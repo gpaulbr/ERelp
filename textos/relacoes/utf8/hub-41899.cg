@@ -1,0 +1,54 @@
+$S-1
+Tornou-	 [tornar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS M/F 3S ACC @<ACC O
+então	 [então] <kc> ADV @<ADVL O
+em	 [em] <sam-> PRP @<PIV O
+uma	 [um] <arti> <-sam> DET F S @>N O
+lenda	 [lenda] <sem-r> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+grande	 [grande] <jh> ADJ M S @>N O
+patriota	 [patriota] <Hideo> N M S @P< O
+português	 [português] <nat> <jh> <np-close> ADJ M S @N< O 
+$-- O
+o	 [o] <artd> DET M S @>N O
+$" O
+rei	 [rei] <Htit> N M S @S< O
+dormente	 [dormente] <np-close> ADJ M S @N<  O
+$" O
+$( O
+ou	 [ou] <co-fin> KC @CO O
+um	 [um] <arti> DET M S @>N O
+Messias	 [messias] <prop> <H> <np-close> N M S @N<PRED PES O 
+$) O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+iria	 [ir] <aux> <np-close> V COND 3S VFIN @FS-N< O
+regressar	 [regressar] <mv> V INF @ICL-AUX< O
+para	 [para] PRP @<ADVL O
+ajudar	 [ajudar] <vH> <mv> V INF @ICL-P< O
+Portugal	 [Portugal] <civ> PROP M S @<ACC ORG O
+em	 [em] <sam-> PRP @<ADVL O
+as	 [o] <artd> <-sam> DET F P @>N O
+suas	 [seu] <si> <poss 3S> DET F P @>N O
+horas	 [hora] <temp> <dur> <unit> N F P @P< O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+sombrias	 [sombrio] <np-close> ADJ F P @N< O 
+$, O
+uma	 [um] <arti> DET F S @>N O
+imagem	 [imagem] <sem-c> <pict> <ac-cat> <np-close> N F S @N<PRED O
+semelhante	 [semelhante] <nh> <np-close> ADJ F S @N< O 
+a	 [a] <sam-> PRP @A< O
+a	 [o] <dem> <-sam> DET F S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+o	 [o] <artd> DET M S @>N O
+Rei=Artur	 [Rei=Artur] <hum> PROP M S @SUBJ> O
+tem	 [ter] <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+em	 [em] PRP @<ADVL O
+Inglaterra	 [Inglaterra] <civ> PROP F S @P< O
+ou	 [ou] <co-prparg> KC @CO O
+Frederico=Barbarossa	 [Frederico=Barbarossa] <hum> PROP M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Alemanha	 [Alemanha] <civ> PROP F S @P< O
+$. O
+</s>

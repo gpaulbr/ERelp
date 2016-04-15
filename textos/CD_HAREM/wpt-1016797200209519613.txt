@@ -1,0 +1,43 @@
+
+
+<EM ID="wpt-1016797200209519613-95" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Indústria e Comércio: Informática</EM> :
+
+<EM ID="wpt-1016797200209519613-101" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Consultoria e Sistemas RML</EM> - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas.<EM ID="wpt-1016797200209519613-75" CATEG="COISA" TIPO="CLASSE"  >OperFit</EM>, <EM ID="wpt-1016797200209519613-76" CATEG="COISA" TIPO="CLASSE"  >Adm pro</EM>, <EM ID="wpt-1016797200209519613-77" CATEG="COISA" TIPO="CLASSE"  >R white</EM> e <EM ID="wpt-1016797200209519613-78" CATEG="COISA" TIPO="CLASSE"  >Life sport</EM>
+
+http://www.rml.com.br
+
+<EM ID="wpt-1016797200209519613-79" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >CooperSis Informática</EM> - Somos especializados em pequenas e medias empresas que nao possuem informatizacao ou estao descontentes com o que tem
+
+http://www.airtonmolena.com.br
+
+<EM ID="wpt-1016797200209519613-102" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Credi-Telemática Eletro-Eletrônicos</EM> - Loja virtual que atende todo o território nacional com eletro-eletrônicos importados, material de informática e de telefonia. Configurações personalizadas e as últimas novidades são encontradas aqui.
+
+http://www.credi.com.br
+
+<EM ID="wpt-1016797200209519613-80" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Croma Eletrônica Ltda.</EM> - Componentes eletrônicos antenas áudio vídeo som informática telefonia fios cabos conectores plugs garras adaptadores transformadores pilhas transistores diodos cis fones microfones caixas multímetros câmeras porteiros PABX(21)2233-0030
+
+http://www.divulgacao.com.br/croma
+
+<EM ID="wpt-1016797200209519613-81" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Darun Informática</EM> - Comércio de produtos de informática como impressoras, softwares, equipamentos para automação comercial e suprimentos.
+
+http://www.darun.com.br
+
+Desenhos em <EM ID="wpt-1016797200209519613-82" CATEG="COISA" TIPO="CLASSE"  >Cad</EM> e serviços de informatica - Desenhos em <EM ID="wpt-1016797200209519613-83" CATEG="COISA" TIPO="CLASSE"  >CAD</EM>, desenhos elétricos, diagramas de força e comando, desenhos para engenharia, etc. Se seu <EM ID="wpt-1016797200209519613-84" CATEG="COISA" TIPO="CLASSE"  >Windows</EM> sempre trava ou não funciona direito mande um e-mail
+
+http://www.marckservice.cjb.net/
+
+Desenvolvimentos de projetos eletrônicos - Desenvolvemos projetos eletrônicos para automação de indústrias e Também venda de microcomputadores, cobrimos a oferta da concorrência
+
+http://www.projetoseletronicos.hpg.com.br
+
+<EM ID="wpt-1016797200209519613-85" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >DHCP Informática</EM> - Comércio de equipamentos de informática. Trabalha com placas mães, processadores, HDs, placas de vídeo, gravadores, CD-ROMs, DVDs, disquetes, monitores, placas aceleradoras, mémorias, cooler, drives,hubs, placas da rede, placa de som, fax.
+
+http://www.dhcp.com.br
+
+<EM ID="wpt-1016797200209519613-89" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Di Bello Informática</EM>... seu <EM ID="wpt-1016797200209519613-90" CATEG="ORGANIZACAO|LOCAL" TIPO="EMPRESA|HUMANO"  >Polo de Informática</EM> em <EM ID="wpt-1016797200209519613-91" CATEG="LOCAL" TIPO="HUMANO" COREL="wpt-1016797200209519613-89" TIPOREL="sede_de">MADUREIRA</EM> - A mais antiga loja de <EM ID="wpt-1016797200209519613-92-aa" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="wpt-1016797200209519613-89" TIPOREL="outrarel">Informática</EM> em <EM ID="wpt-1016797200209519613-92" CATEG="LOCAL" TIPO="HUMANO" COREL="wpt-1016797200209519613-91" TIPOREL="ident">Madureira</EM>, são vinte anos de credibilidade...Hardware, software, suprimentos e manutenção
+
+http://www.webspace.com.br/dibello
+
+<EM ID="wpt-1016797200209519613-93" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Diacon Informática</EM> - A <EM ID="wpt-1016797200209519613-94" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="wpt-1016797200209519613-93" TIPOREL="ident">Diacon</EM> presta serviços de consultoria, treinamento e desenvolvimento de sistemas.
+
+http://www.diacon.com.br

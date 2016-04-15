@@ -1,0 +1,372 @@
+$S-1
+O 	[o] <*> <artd> DET M S @>N  
+Instituto=Nacional=de=Pesquisas=Espaciais 	[Instituto=Nacional=de=Pesquisas=Espaciais] <inst> <*> PROP M S @SUBJ>  
+$( 
+Inpe 	[Inpe] <civ> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+prediz 	[predizer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+aumento 	[aumento] <act> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+temperatura 	[temperatura] <f-q> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+até 	[até] ADV @>N  
+5C 	[5C] <card> NUM M/F P @P<  
+em 	[em] <sam-> PRP @<ADVL  
+as 	[o] <-sam> <artd> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @P<  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+secas 	[seco] <nh> <np-close> ADJ F P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Amazônia 	[Amazônia] <top> <*> PROP F S @P<  
+$, 
+em 	[em] PRP @<ADVL  
+50 	[50] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$, 
+se 	[se] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+emissão 	[emissão] <ac> <sem-l> <act> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+gases 	[gás] <cm-gas> N M P @P<  
+por 	[por] <np-close> PRP @N<  
+queimadas 	[queimado] <jh> ADJ F P @P<  
+permanecer 	[permanecer] <mv> V FUT 3S SUBJ VFIN @FS-<ADVL  
+em 	[em] <sam-> PRP @<SA  
+os 	[o] <artd> <-sam> DET M P @>N  
+níveis 	[nível] <Labs> <tool> N M P @P<  
+atuais 	[atual] <nh> <np-close> ADJ M P @N<  
+$. 
+</s>
+
+$S-2
+Esse 	[esse] <*> <dem> DET M S @SUBJ>  
+é 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+o 	[o] <artd> DET M S @>N  
+pior 	[mau] <KOMP> <SUP> ADJ M S @>N  
+panorama 	[panorama] <Ltop> N M S @<SC  
+climático 	[climático] <nh> <np-close> ADJ M S @N<  
+previsto 	[prever] <vH> <np-long> V PCP M S @N<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+instituto 	[instituto] <inst> N M S @P<  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Carlos=Nobre 	[Carlos=Nobre] <hum> <*> PROP M S @<SUBJ  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+participou 	[participar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+debate 	[debate] <talk> N M S @P<  
+$"  
+Cenários=da=Amazônia 	[Cenários=da=Amazônia] <tit> <*> <*1> <*2> <np-close> PROP M S @N<  
+$"  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual 	[Reunião=Anual] <occ> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+SBPC 	[SBPC] <org> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-3
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+afirmou 	[afirmar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+aumento 	[aumento] <act> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+temperatura 	[temperatura] <f-q> N F S @P<  
+$, 
+que 	[que] <clb> <clb-fs> KS @SUB  
+pode 	[poder] <predco> <cjt-head> <aux> V PR 3S IND VFIN @FS-<ACC  
+chegar 	[chegar] <mv> V INF @ICL-AUX<  
+a 	[a] PRP @<ADVL  
+3C 	[3C] <card> NUM M/F P @P<  
+em 	[em] <sam-> PRP @<ADVL  
+as 	[o] <-sam> <artd> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @P<  
+úmidas 	[úmido] <nh> <np-close> ADJ F P @N<  
+$, 
+seria 	[ser] <nosubj> <cjt> <vK> <mv> V COND 3S VFIN @FS-<ACC  
+um 	[um] <arti> DET M S @>N  
+desastre 	[desastre] <event> N M S @<SC  
+$. 
+</s>
+
+$S-4
+A 	[o] <*> <artd> DET F S @>N  
+elevação 	[elevação] <act> <Ltop> <am> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+temperatura 	[temperatura] <f-q> N F S @P<  
+viria 	[vir] <fmc> <mv> V COND 3S VFIN @FS-STA  
+acompanhada 	[acompanhar] <vH> <mv> V PCP F S @ICL-<PRED  
+de 	[de] PRP @<ADVL  
+redução 	[redução] <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+chuvas 	[chuva] <wea-rain> N F P @P<  
+em 	[em] PRP @<ADVL  
+até 	[até] ADV @>N  
+15 	[15] <card> NUM M P @>N  
+$% 	[%] N M P @P<  
+$, 
+aumentando 	[aumentar] <clb> <mv> V GER @ICL-<ADVL  
+o 	[o] <artd> DET M S @>N  
+risco 	[risco] <ac> <ac-sign> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+incêndio 	[incêndio] <occ> N M S @P<  
+$_  
+inexistente 	[inexistente] <nh> ADJ M/F S @<PRED  
+há 	[há] PRP @<ADVL  
+três 	[três] <card> NUM F P @>N  
+décadas 	[década] <dur> N F P @P<  
+$. 
+</s>
+
+$S-5
+Os 	[o] <*> <artd> DET M P @>N  
+dois 	[dois] <card> NUM M P @>N  
+fenômenos 	[fenômeno] <ac> N M P @SUBJ>  
+climáticos 	[climático] <nh> <np-close> ADJ M P @N<  
+combinados 	[combinado] <HH> <mach> <food-h> N M P @SUBJ>  
+levariam 	[levar] <clb-fs> <mv> <quote> V COND 3P VFIN @FS-ACC>>  
+a 	[a] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+desertificação 	[desertificação] <process> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+algumas 	[algum] <quant> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @P<  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+ele 	[ele] PERS M 3S NOM @<SUBJ  
+$. 
+</s>
+
+$S-6
+Nobre 	[Nobre] <hum> <*> PROP M S @SUBJ>  
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @SUBJ>  
+está 	[estar] <mv> V PR 3S IND VFIN @FS-<ACC  
+entre 	[entre] PRP @<SA  
+os 	[o] <artd> DET M P @>N  
+dez 	[dez] <card> NUM M P @>N  
+países 	[país] <Lciv> N M P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @ADVL>  
+poluem 	[poluir] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+a 	[o] <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @<ACC  
+com 	[com] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+emissão 	[emissão] <ac> <sem-l> <act> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+gás=carbônico 	[gás=carbônico] <cm-chem> N M S @P<  
+por=causa=de 	[por=causa=de] <sam-> <np-close> PRP @N< @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+desmatamento 	[desmatamento] <act> N M S @P<  
+com 	[com] PRP @<ADVL  
+queimadas 	[queimado] <jh> ADJ F P @P<  
+$. 
+</s>
+
+$S-7
+O 	[o] <*> <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @SUBJ>  
+emite 	[emitir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+280 	[280] <card> NUM M/F P @<ACC  
+$milhões  
+de 	[de] PRP @<ADVL  
+toneladas 	[tonelada] <unit> <amount> N F P @P<  
+de 	[de] <np-close> PRP @N<  
+carbono 	[carbono] <cm-chem> N M S @P<  
+$( 
+sobretudo 	[sobretudo] ADV @>N  
+CO2 	[CO2] <mat> <*> <np-close> PROP M/F S @APP  
+$, 
+ou 	[ou] KC @NPHR  
+gás=carbônico 	[gás=carbônico] <cm-chem> <np-close> N M S @N<PRED  
+$) 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @P<  
+por 	[por] PRP @<ADVL  
+ano 	[ano] <dur> <temp> <per> <unit> N M S @P<  
+$. 
+</s>
+
+$S-8
+De 	[de] <sam-> <*> PRP @ADVL>  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+total 	[total] <ac-cat> N M S @P<  
+$, 
+200 	[200] <card> NUM M/F P @SUBJ>  
+$milhões  
+se 	[se] <refl> PERS M/F 3P ACC @ACC>-PASS  
+devem 	[dever] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+desmatamento 	[desmatamento] <act> N M S @P<  
+$. 
+</s>
+
+$S-9
+O 	[o] <*> <artd> DET M S @>N  
+gás=carbônico 	[gás=carbônico] <cm-chem> N M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+principal 	[principal] <SUP> <jh> ADJ M S @>N  
+causador 	[causador] <H> N M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+efeito=estufa 	[efeito=estufa] <ac> N M S @P<  
+$( 
+retenção 	[retenção] <act> <sick> <np-close> N F S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+calor 	[calor] <am> N M S @P<  
+solar 	[solar] <nh> <np-close> ADJ M S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @P<  
+$) 
+$. 
+</s>
+
+$S-10
+O 	[o] <*> <artd> DET M S @>N  
+desmatamento 	[desmatamento] <act> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Amazônia 	[Amazônia] <top> <*> PROP F S @P<  
+atingiu 	[atingir] <clb-fs> <mv> <quote> V PS 3S IND VFIN @FS-ACC>>  
+16.926 	[16.926] <card> NUM M P @>N  
+km2 	[km2] <unit> N M P @<ACC  
+em 	[em] <np-close> PRP @N<  
+99 	[99] <card> NUM M/F P @P<  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+secretária 	[secretária] <furn> <Hprof> N F S @<SUBJ  
+de 	[de] <np-close> PRP @N<  
+Coordenação=da=Amazônia 	[Coordenação=da=Amazônia] <top> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Ministério=do=Meio=Ambiente 	[Ministério=do=Meio=Ambiente] <inst> <*> PROP M S @P<  
+$, 
+Mary=Allegretti 	[Mary=Allegretti] <hum> <*> <np-close> PROP F S @APP  
+$. 
+</s>
+
+$S-11
+Foi 	[foi] <foc> <*> ADV @FOC>  
+melhor 	[melhor] <cjt-head> <KOMP> <SUP> ADV @ADVL  
+que 	[que] <com> KS @AS-KOMP<  
+em 	[em] <cjt> PRP @ADVL  
+98 	[98] <cjt-head> <card> NUM M/F S @P<  
+$( 
+17.383 	[17.383] <card> NUM M P @>N  
+km2 	[km2] <cjt> <unit> N M P @P<  
+$) 
+$. 
+</s>
+
+$S-12
+$"  
+Há 	[haver] <clb-fs> <*> <*1> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+tendência 	[tendência] <ac> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+queda 	[queda] <*2> <event> N F S @P<  
+$"  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 1/3S IND VFIN @FS-STA  
+$. 
+</s>
+
+$S-13
+Adalberto=Veríssimo 	[Adalberto=Veríssimo] <hum> <*> PROP M S @SUBJ>  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+ONG=Imazon 	[ONG=Imazon] <org> <*> PROP F S @P<  
+$, 
+apresentou 	[apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+segundo 	[segundo] <NUM-ord> <jh> <np-close> ADJ M S @N<  
+o=qual 	[o=qual] <clb> <clb-fs> <rel> SPEC M S @ADVL>  
+as 	[o] <artd> DET F P @>N  
+cidades 	[cidade] <Lciv> N F P @SUBJ>  
+em 	[em] <np-close> PRP @N<  
+regiões 	[região] <L> <Ltop> N F P @P<  
+amazônicas 	[amazônico] <nat> <np-close> ADJ F P @N<  
+ocupadas 	[ocupado] <nh> <np-long> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+forma 	[forma] <percep-f> <con> N F S @P<  
+predatória 	[predatório] <np-close> ADJ F S @N<  
+duram 	[durar] <vN> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+por=volta=de 	[por=volta=de] PRP @<ADVL  
+23 	[23] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$. 
+</s>
+
+$S-14
+Depois 	[depois] <*> ADV @ADVL>  
+de 	[de] <sam-> PRP @A<  
+isso 	[isso] <-sam> <dem> SPEC M S @P<  
+$, 
+entram 	[entrar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+em 	[em] PRP @<SA  
+colapso 	[colapso] <event> N M S @P<  
+total 	[total] <nh> <np-close> ADJ M S @N<  
+$, 
+por 	[por] PRP @<ADVL  
+falta 	[falta] <f-c> <sit> <event> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+uma 	[um] <arti> DET F S @>N  
+política 	[política] <domain> <sem-c> N F S @P<  
+de 	[de] <np-long> PRP @N<  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @P<  
+sustentável 	[sustentável] <nh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-15
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+como 	[como] <prd> <adv-rel> PRP @<OC  
+exemplo 	[exemplo] <cjt-head> <asarg> <ac> N M S @P<  
+as 	[o] <artd> DET F P @>N  
+cidades 	[cidade] <cjt> <asarg> <Lciv> N F P @P<  
+de 	[de] <np-close> PRP @N<  
+Paragominas 	[Paragominas] <cjt-head> <civ> <*> PROP M/F S @P<  
+$( 
+PA 	[PA] <civ> <*> <np-close> PROP M S @N<PRED  
+$) 
+$, 
+Açailândia 	[Açailândia] <cjt> <civ> <*> PROP M/F S @P<  
+$( 
+MA 	[MA] <civ> <*> <np-close> PROP M S @N<PRED  
+$) 
+e 	[e] KC @NPHR  
+Humaitá 	[Humaitá] <cjt> <hum> <newlex> <*> PROP F S @P<  
+$( 
+AM 	[AM] <civ> <*> <np-close> PROP M S @N<PRED  
+$) 
+$. 
+$( 
+</s>
+
+$S-16
+WILSON=Silveira 	[WILSON=Silveira] <org> <*> PROP M/F S @NPHR  
+$) 
+</s>
+
+$S-17

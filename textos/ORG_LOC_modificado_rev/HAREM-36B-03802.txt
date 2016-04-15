@@ -1,0 +1,28 @@
+$S-5
+De=acordo	 [de=acordo] <pp> <*> ADV @ADVL>  O
+com	 [com] PRP @A<  O
+a	 [o] <artd> DET F S @>N  O
+CBKC	 [CBKC] <org> <*> PROP F S @P<  O
+$( O
+Confederação=Brasileira=de=Cinofilia	 [Confederação=Brasileira=de=Cinofilia] <org> <*> <np-close> PROP F S @N<PRED  O
+$) O
+$, O
+órgão	 [órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> <np-close> N M S @N<PRED  O
+filiado	 [filiar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+FCI	 [FCI] <inst> <*> PROP M S @P< ORG O
+$( O
+Fédération=Cynologique=Internationale	 [Fédération=Cynologique=Internationale] <org> <*> <np-close> PROP M S @N<PRED  O
+$) O
+$, O
+existem	 [existir] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+onze	 [onze] <card> NUM M P @>N  O
+grupos	 [grupo] <HH> N M P @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+raças	 [raça] <percep-f> <HH> N F P @P<  O
+em	 [em] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>

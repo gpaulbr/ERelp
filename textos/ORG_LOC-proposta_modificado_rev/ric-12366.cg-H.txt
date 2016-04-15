@@ -1,0 +1,4 @@
+$S-1
+Wilderness=Awareness=School	 [Wilderness=Awareness=School] <org> PROP F S @P< ORG O
+em	 [em] PRP @<ADVL REL
+Duvall	 [Duvall] <civ> PROP M S @P< ORG O

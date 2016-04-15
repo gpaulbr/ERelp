@@ -1,0 +1,41 @@
+$S-10
+Nossas	 [nosso] <*> <poss 1P> DET F P @>N  O
+equipes	 [equipe] <HH> N F P @SUBJ>  O
+já	 [já] ADV @ADVL>  O
+há	 [há] PRP @ADVL>  O
+algum	 [algum] <quant> DET M S @>N  O
+tempo	 [tempo] <am> <temp> <per> <ac-cat> <wea> N M S @P<  O
+estão	 [estar] <fmc> <aux> V PR 3P IND VFIN @FS-STA  O
+sendo	 [ser] <clb> <vK> <mv> V GER @ICL-AUX<  O
+dirigidas	 [dirigido] <jh> ADJ F P @<SC  O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+professor	 [professor] <Hprof> N M S @P<  O
+Brasil	 [Brasil] <hum> <newlex> <*> <np-close> PROP M S @N<  O
+$, O
+uma	 [um] <quant> DET F S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+brilhantes	 [brilhante] ADJ F P @>N  O
+crias	 [cria] <Adom> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Ronaldo=Goldone	 [Ronaldo=Goldone] <hum> <*> PROP M S @P< PES O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+mesmo	 [mesmo] <quant> <np-close> ADV @N<  O
+não	 [não] ADV @ADVL>  O
+estando	 [estar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+frente	 [frente] <Labs> <an> <wea-c> N F S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+nossas	 [nosso] <poss 1P> DET F P @>N  O
+equipes	 [equipe] <HH> N F P @P<  O
+continua	 [continuar] <vH> <aux> <np-close> V PR 3S IND VFIN @FS-N< B-REL
+atuando	 [atuar] <clb> <mv> V GER @ICL-AUX< I-REL
+em	 [em] <sam-> PRP @<PIV I-REL
+as	 [o] <-sam> <artd> DET F P @>N I-REL
+atividades	 [atividade] <act-d> <activity> N F P @P< I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Niterói=Rugby	 [Niterói=Rugby] <inst> <*> PROP M S @P< ORG O
+$. O
+</s>

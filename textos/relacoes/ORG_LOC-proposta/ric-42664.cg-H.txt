@@ -1,0 +1,23 @@
+$S-1
+Brasil	 [Brasil] <civ> PROP M S @P< LOCAL O
+$, O
+a	 [o] <artd> DET F S @>N O
+Free=Beer	 [Free=Beer] <org> PROP F S @SUBJ> O
+está	 [estar] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+sendo	 [ser] <aux> V GER @ICL-AUX< O
+produzida	 [produzir] <mv> V PCP F S @ICL-AUX< O
+por	 [por] <sam-> PRP @<PASS O
+a	 [o] <artd> <-sam> DET F S @>N B-REL
+Cervejaria=Germânia	 [Cervejaria=Germânia] <inst> PROP F S @P< ORG O
+
+$S-2
+Cooperativa=de=Agricultores	 [Cooperativa=de=Agricultores] <org> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Região=de=Maués	 [Região=de=Maués] <civ> PROP F S @P< LOCAL O
+
+$S-3
+Creative=Commons	 [Creative=Commons] <org> PROP M S @P< ORG O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< LOCAL O

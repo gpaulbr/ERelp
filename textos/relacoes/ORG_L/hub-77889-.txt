@@ -1,0 +1,41 @@
+$S-7
+Ainda	 [ainda] <*> ADV @>A  O
+não	 [não] ADV @ADVL>  O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+data	 [data] <temp> <Ltop> <amount> N F S @<ACC  O
+para	 [para] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+concessão	 [concessão] <ac> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+licenças	 [licença] <f-right> <per> N F P @P<  O
+para	 [para] <np-close> PRP @N<  O
+telemóveis	 [telemóvel] <tool> N M P @P<  O
+3	 [3] <card> NUM M P @>N  O
+G	 [g] <prop> <*> N M P @PRED>  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+serão	 [ser] <aux> <np-close> V FUT 3P IND VFIN @FS-N<  O
+disputadas	 [disputar] <vH> <mv> V PCP F P @ICL-AUX<  O
+entre	 [entre] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+quatro	 [quatro] <card> NUM F P @>N  O
+grandes	 [grande] <jh> ADJ F P @>N  O
+operadoras	 [operadora] <Hprof> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+comunicações	 [comunicação] <activity> <sem-s> <ac> N F P @P<  O
+fixas	 [fixar] <vH> <jh> <np-close> V PCP F P @N<  O
+e	 [e] KC @NPHR  O
+móveis	 [móvel] <furn> <ac> <mach> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+$: O
+China=Telecom	 [China=Telecom] <org> <*> PROP F S @NPHR ORG O
+$, O
+China=Netcom	 [China=Netcom] <org> <*> PROP F S @NPHR ORG O
+$, O
+China=Mobile	 [China=Mobile] <hum> <*> PROP F S @NPHR  O
+e	 [e] KC @NPHR  O
+China=Unicom	 [China=Unicom] <org> <*> PROP F S @NPHR  O
+$. O
+</s>

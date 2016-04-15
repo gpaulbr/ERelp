@@ -1,0 +1,44 @@
+$S-1
+Opinião	 [opinião] <sem-c> N F S @SUBJ> O
+idêntica	 [idêntico] <jh> <np-close> ADJ F S @N< O 
+tem	 [ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+gestor	 [gestor] <Hprof> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Banif=Gestão=de=Activos	 [Banif=Gestão=de=Activos] <inst> PROP M S @P< ORG O
+$, REL
+Pedro=Castro	 [Pedro=Castro] <hum> <np-close> PROP M S @APP PES O
+$, O
+para	 [para] <clb> PRP @ADVL> O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P< O
+a	 [o] <artd> DET F S @>N O
+expectativa	 [expectativa] <sem-c> N F S @SUBJ> O
+é	 [ser] <mv> <np-close> V PS 3S IND VFIN @FS-N< O 
+que	 [que] <clb> <clb-fs> KS @SUB O
+se	 [se] <refl> PERS M/F 3P ACC @ACC> O
+estreiem	 [estrear] <vH> <mv> V PR 3P SUBJ VFIN @FS-<SC O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+bolsa	 [bolsa] <mon> <con> <inst> N F S @P< O
+portuguesa	 [portuguÃªs] <nat> <jh> <np-close> ADJ F S @N< O
+$, O
+além=de	 [alÃ©m=de] <sam-> PRP @<ADVL O
+a	 [o] <-sam> <artd> DET F S @>N O
+ANA	 [ANA] <org> PROP F S @P< O
+e	 [e] <co-advl> KC @CO O
+de	 [de] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+TAP	 [TAP] <inst> PROP M P @P< O
+$, O
+também	 [tambÃ©m] ADV @>N O
+a	 [o] <artd> DET F S @>N O
+Aquapor	 [Aquapor] <org> <np-close> PROP F S @APP O
+$, O
+a	 [o] <artd> DET F S @>N O
+Sonae=Capital	 [Sonae=Capital] <org> <np-close> PROP F S @APP O 
+e	 [e] KC @CO O
+a	 [o] <artd> DET F S @>N O
+Neo	 [neo] EC @PREF O
+$. O
+</s>

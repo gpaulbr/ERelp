@@ -1,0 +1,119 @@
+
+    
+      Biografia de
+      <EM ID="hub-63156-330" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Dead Fish</EM>
+    
+    
+      <EM ID="hub-63156-331" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-330" TIPOREL="ident">Dead Fish</EM>
+      é uma banda de
+      <EM ID="hub-63156-332" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="hub-63156-330" TIPOREL="praticado_por">Hardcore</EM>
+      de
+      <EM ID="hub-63156-333" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-63156-330" TIPOREL="local_nascimento_de">Vitória</EM>
+      , cidade do estado do
+      <EM ID="hub-63156-334" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-63156-333" TIPOREL="inclui">Espírito Santo</EM>
+      ,
+      <EM ID="hub-63156-335" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-63156-334" TIPOREL="inclui">Brasil</EM>
+      .
+    
+    História
+    
+      Tudo começou
+      <EM ID="hub-63156-336" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1991</EM>
+      com um grupo de amigos que andavam de Skate em
+      <EM ID="hub-63156-337" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-63156-333" TIPOREL="ident">Vitória</EM>
+      . Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente
+      <EM ID="hub-63156-338" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="hub-63156-332" TIPOREL="ident">Hardcore</EM>
+      .
+      <EM ID="hub-63156-339" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1995</EM>
+      lançam a demo-tape "
+      <EM ID="hub-63156-340" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-331 hub-63156-339" TIPOREL="obra_de data_de">Re-Progresso</EM>
+      " e
+      <EM ID="hub-63156-341" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >três anos depois</EM>
+      , seu primeiro
+      <EM ID="hub-63156-13" CATEG="COISA" TIPO="CLASSE"  >CD Full-Lenght</EM> 
+      , chamado "
+      <EM ID="hub-63156-344" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-63156-13 hub-63156-330 hub-63156-346" TIPOREL="nome_de_ident nome_de_obra_de nome_de_ident">Sirva-se</EM>
+      " pelo selo capixaba
+      <EM ID="hub-63156-345" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-63156-330" TIPOREL="vinculo_inst">Lona Records</EM>
+      . Após o "
+      <EM ID="hub-63156-346" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-345 hub-63156-330" TIPOREL="produzido_por obra_de">Sirva-se</EM>
+      ", lançaram "
+      <EM ID="hub-63156-347" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330" TIPOREL="obra_de">Sonho Médio</EM>
+      "
+      <EM ID="hub-63156-348" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-63156-347" TIPOREL="data_de">em 1999</EM>
+      e "
+      <EM ID="hub-63156-349" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330" TIPOREL="obra_de">Afasia</EM>
+      "
+      <EM ID="hub-63156-351" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-63156-349" TIPOREL="data_de">em 2001</EM>
+      .
+      <EM ID="hub-63156-352" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-63156-330" TIPOREL="incluido">Giuliano</EM>
+      , até então guitarrista, resolveu deixar a banda,
+      <EM ID="hub-63156-353" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2002</EM>
+      lançam o
+      <EM ID="hub-63156-1" CATEG="OBRA|OBRA" TIPO="REPRODUZIDA|PLANO" COREL="hub-63156-330 hub-63156-353" TIPOREL="obra_de data_de">Projeto Peixe Morto</EM>
+      e
+      <EM ID="hub-63156-2" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-63156-353" TIPOREL="ident">no mesmo ano</EM>
+      também lançam o
+      <EM ID="hub-63156-3" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330 hub-63156-353" TIPOREL="obra_de data_de">EP 2002</EM>
+      , mas que foi gravado
+      <EM ID="hub-63156-4" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2000</EM>
+      . Alguns guitarristas de bandas amigas do
+      <EM ID="hub-63156-5" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-330" TIPOREL="ident">Dead Fish</EM>
+      foram chamados para quebrar um galho, entre eles:
+      <EM ID="hub-63156-6" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alexandre "Capilé"</EM>
+     (
+      <EM ID="hub-63156-9" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-6" TIPOREL="inclui">Sugar Kane</EM>
+      ),
+      <EM ID="hub-63156-10" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Philippe Fargnoli</EM>
+      (
+      <EM ID="hub-63156-11" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-10" TIPOREL="inclui">Reffer</EM>
+      ) e
+      <EM ID="hub-63156-12" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Tiago "Hóspede"</EM>
+     (
+      <EM ID="hub-63156-15" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-12" TIPOREL="inclui">Aditive</EM>
+      ).
+      <EM ID="hub-63156-16" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 2003</EM>
+      gravaram um
+      
+        <EM ID="hub-63156-17" CATEG="COISA" TIPO="CLASSE"  >CD Ao Vivo</EM>
+        
+      no
+      <EM ID="hub-63156-19" CATEG="LOCAL" TIPO="HUMANO"  >Hangar 110</EM>
+      em
+      <EM ID="hub-63156-20" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-63156-19" TIPOREL="inclui">São Paulo</EM>
+      .
+      <EM ID="hub-63156-21" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-63156-330" TIPOREL="incluido">Murilo</EM>
+      , o outro guitarrista do
+      <EM ID="hub-63156-22" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-330" TIPOREL="ident">Dead Fish</EM>
+      , deixa a banda que ameaça acabar.
+      <EM ID="hub-63156-23" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No fim do mesmo ano</EM>
+      , eles recebem uma proposta de uma gravadora, a
+      <EM ID="hub-63156-25" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-63156-330" TIPOREL="vinculo_inst">Deckdisc</EM>
+      . A banda aceita a proposta, chama
+      <EM ID="hub-63156-26" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-63156-10 hub-63156-330" TIPOREL="ident incluido">Philippe</EM>
+      e
+      <EM ID="hub-63156-27" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-63156-12 hub-63156-330" TIPOREL="ident incluido">Hóspede</EM>
+      para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o "
+      <EM ID="hub-63156-28" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330 hub-63156-16" TIPOREL="obra_de data_de">Zero e Um</EM>
+      ".
+      <EM ID="hub-63156-29" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 2004</EM>
+      , o
+      <EM ID="hub-63156-30" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-63156-330" TIPOREL="ident">Dead Fish</EM>
+      ganha projeção nacional ao receber o prêmio
+      <EM ID="hub-63156-31" CATEG="OUTRO"  COREL="hub-63156-330 hub-63156-29" TIPOREL="outrarel outrarel">Video Music Brasil</EM>
+      de artista revelação, lançando seu primeiro DVD
+      , o "
+      <EM ID="hub-63156-33" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330 hub-63156-29" TIPOREL="obra_de data_de">MTV Apresenta: Dead Fish</EM>
+      ".
+      <EM ID="hub-63156-34" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 2006</EM>
+      , lançam mais um disco pela mesma gravadora, chamado "
+      <EM ID="hub-63156-35" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-63156-330 hub-63156-34" TIPOREL="nome_de_obra_de nome_de_data_de">Um Homem Só</EM>
+      " e tem relançadas sua primeiras demo-tapes pelo selo
+      <EM ID="hub-63156-36" CATEG="COISA|ORGANIZACAO" TIPO="CLASSE|EMPRESA" COREL="hub-63156-330" TIPOREL="ORGANIZACAO**vinculo_inst**hub-63156-330**PESSOA">Laja Records</EM>
+      , sob o título de "
+      <EM ID="hub-63156-37" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-63156-330 hub-63156-34 hub-63156-338" TIPOREL="nome_de_obra_de nome_de_data_de nome_de_ident">Dead Fish - Demo Tapes</EM>
+      ". "
+      <EM ID="hub-63156-38" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-63156-330 hub-63156-34" TIPOREL="obra_de data_de">Demo Tapes</EM>
+      " ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.
+    
+  

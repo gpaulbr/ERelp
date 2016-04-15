@@ -1,0 +1,38 @@
+$S-7
+Entre	 [entre] <*> PRP @ADVL>  O
+os	 [o] <artd> DET M P @>N  O
+desafios	 [desafio] <ac> <act-s> <occ> N M P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+esperam	 [esperar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+UE	 [UE] <org> <*> PROP F S @<SUBJ  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+próximos	 [próximo] ADJ M P @>N  O
+meses	 [mês] <dur> <per> <unit> N M P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Comissão=Europeia	 [Comissão=Europeia] <org> <*> PROP F S @P<  O
+destacou	 [destacar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+necessidade	 [necessidade] <am> <sit> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+os	 [o] <clb> <artd> DET M P @>N  O
+27	 [27] <card> NUM M P @SUBJ> ORG O
+ajudarem	 [ajudar] <vH> <mv> V INF 3P @ICL-P<  O
+a	 [a] PRP @<ADVL  O
+encontrar	 [encontrar] <vH> <mv> V INF @ICL-P<  O
+uma	 [um] <arti> DET F S @>N  O
+solução	 [solução] <sem-c> <cm-liq> N F S @<ACC  O
+para	 [para] <np-close> PRP @N<  O
+resolver	 [resolver] <vH> <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+questão	 [questão] <act-s> <ac> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Kosovo	 [Kosovo] <inst> <*> PROP M S @P< LOCAL O
+$. O
+</s>

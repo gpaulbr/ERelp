@@ -1,0 +1,148 @@
+
+    
+      <EM ID="hub-55847-272" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pêro da Covilhã</EM> 
+    
+    
+      <EM ID="hub-55847-273" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pedro</EM>
+      ou
+      <EM ID="hub-55847-274" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro da Covilhã</EM> 
+      (
+      <EM ID="hub-55847-275" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-55847-272" TIPOREL="local_nascimento_de">Covilhã</EM>
+      ?,
+      <EM ID="hub-55847-276" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-55847-272" TIPOREL="periodo_vida">1450? --- 1530?</EM>
+      ) foi um diplomata e explorador português.
+    
+    
+      Com
+      <EM ID="hub-55847-277" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 18 anos</EM>
+      cativa um espanhol que visitava a
+      <EM ID="hub-55847-278" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-55847-275" TIPOREL="ident">Covilhã</EM>
+      para comprar tecidos que o convida a servir o seu amo,
+      <EM ID="hub-55847-279" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Juan de Guzman</EM>
+      , irmão do
+        <EM ID="hub-55847-280" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-279" TIPOREL="relacao_familiar">Duque de Medina-Sidónia</EM>
+      , um dos mais conceituados fidalgos de
+      <EM ID="hub-55847-283" CATEG="LOCAL" TIPO="HUMANO"  >Sevilha</EM>
+      ;
+      <EM ID="hub-55847-284" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro</EM>
+      aceita a proposta e parte para
+      <EM ID="hub-55847-285" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-55847-283" TIPOREL="ident">Sevilha</EM>
+      onde lhe é atribuído o papel de espadachim. Impressionado com a desenvoltura de
+      <EM ID="hub-55847-286" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro de Covilhã</EM> 
+      , convida-o
+      <EM ID="hub-55847-287" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-279" TIPOREL="ident">D. Juan de Gusman</EM>
+      a participar nas embarcações do seu irmão, o
+      <EM ID="hub-55847-288" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-280" TIPOREL="ident">Duque</EM>
+      conhecido também como o
+      <EM ID="hub-55847-289" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-55847-280" TIPOREL="nome_de_ident">Pirata Espanhol</EM>
+      ;
+      <EM ID="hub-55847-290" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro</EM>
+      recusa a oferta e,
+      <EM ID="hub-55847-291" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1474</EM>
+      , acompanha
+      <EM ID="hub-55847-292" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-279" TIPOREL="ident">D. Juan</EM>
+      a
+      <EM ID="hub-55847-293" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      a uma entrevista com
+      
+        <EM ID="hub-55847-294" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Afonso V de Portugal</EM>
+        
+      .
+    
+    
+      <EM ID="hub-55847-297" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-294 hub-55847-294aa" TIPOREL="ident ident">D. Afonso</EM>
+      simpatiza com
+      <EM ID="hub-55847-298" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro</EM>
+      também pelo seu domínio de línguas, nomeadamente a língua árabe e
+      <EM ID="hub-55847-299" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-279" TIPOREL="ident">D. Juan</EM>
+      cede a
+      <EM ID="hub-55847-300" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-297" TIPOREL="ident">el-Rei</EM>
+      os serviços do português. É assim que
+      <EM ID="hub-55847-301" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro da Covilhã</EM>
+      , aos seus
+      <EM ID="hub-55847-303" CATEG="VALOR" TIPO="QUANTIDADE"  >24 anos</EM>
+      , é admitido como moço de esporas de
+      <EM ID="hub-55847-304" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-297" TIPOREL="ident">D. Afonso V</EM>
+      .
+      <EM ID="hub-55847-305" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Passado pouco tempo</EM>
+      , decide
+      <EM ID="hub-55847-306" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-297" TIPOREL="ident">el-Rei</EM>
+      elevá-lo a escudeiro, com direito a armas e cavalo.
+    
+    
+      <EM ID="hub-55847-307" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1476</EM>
+      acompanha
+      <EM ID="hub-55847-308" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-297" TIPOREL="ident">D. Afonso V</EM>
+      na batalha de <EM ID="hub-55847-310" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Toro</EM>, a tentativa fracassada de
+      <EM ID="hub-55847-311" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. João</EM>
+      de reclamar o trono de
+      <EM ID="hub-55847-312" CATEG="LOCAL" TIPO="HUMANO"  >Castela</EM>
+      , já que era cunhado de
+      
+        <EM ID="hub-55847-313" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-311" TIPOREL="relacao_familiar">Henrique IV de Castela</EM>
+        
+      .
+      <EM ID="hub-55847-316" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Mais tarde</EM>
+      , em iria acompanhar
+      <EM ID="hub-55847-317" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-297" TIPOREL="ident">D. Afonso</EM>
+      na jornada a
+      <EM ID="hub-55847-318" CATEG="LOCAL" TIPO="HUMANO"  >França</EM>
+      para pedir auxílio ao
+      
+        <EM ID="hub-55847-319" CATEG="PESSOA" TIPO="INDIVIDUAL"  >rei Luís XI de França</EM>
+        
+      na luta pelo trono de
+      <EM ID="hub-55847-322" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-55847-312" TIPOREL="ident">Castela</EM>
+      , que seria rejeitado. Entretanto,
+      <EM ID="hub-55847-323" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-297" TIPOREL="ident">D. Afonso</EM>
+      abdica do trono, para
+      <EM ID="hub-55847-324" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. João II</EM>
+      .
+    
+    
+      Após a execução do
+        <EM ID="hub-55847-325" CATEG="PESSOA" TIPO="CARGO"  >Duque de Bragança</EM>
+      pelas próprias mãos do rei,
+      <EM ID="hub-55847-328" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro da Covilhã</EM> 
+      foi designado para investigar quais os nobres que conspiravam contra
+      <EM ID="hub-55847-329" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-324" TIPOREL="ident">D. João II</EM>
+      , conseguindo identificar o
+      <EM ID="hub-55847-330" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Diogo</EM>
+      ,
+        <EM ID="hub-55847-331" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-330" TIPOREL="ident">duque de Viseu</EM>
+      e
+      <EM ID="hub-55847-333" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Garcia de Meneses</EM>
+      ,
+      
+        <EM ID="hub-55847-334" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-333" TIPOREL="ident">bispo de Évora</EM>
+        
+      .
+    
+    
+      Na sequência do desejo de
+      <EM ID="hub-55847-336" CATEG="PESSOA" TIPO="CARGO" COREL="hub-55847-297" TIPOREL="ident">el-Rei</EM>
+      continuar a obra iniciada pelo
+        <EM ID="hub-55847-337" CATEG="PESSOA" TIPO="INDIVIDUAL"  >infante D. Henrique</EM>
+      dos
+      <EM ID="hub-55847-339" CATEG="OBRA" TIPO="PLANO"  >Descobrimentos</EM>
+      , escolhe novamente
+      <EM ID="hub-55847-341" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro da Covilhã</EM> 
+      para embaixador nos tratados de paz com os berberes do
+      <EM ID="hub-55847-342" CATEG="LOCAL" TIPO="HUMANO"  >Magrebe</EM>
+      (como o
+       rei de
+        <EM ID="hub-55847-344" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="hub-55847-342 hub-55847-343" TIPOREL="LOCAL**incluido**hub-55847-342**LOCAL ORGANIZACAO**vinculo_inst**hub-55847-343**ORGANIZACAO">Fez</EM>
+      
+      e o de
+      <EM ID="hub-55847-345" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="hub-55847-342" TIPOREL="LOCAL**incluido**hub-55847-342**LOCAL">Tremecém</EM>
+      ), que convinham ao reino para convergir os esforços na odisseia marítima.
+    
+    
+      <EM ID="hub-55847-346" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="ident">Pêro da Covilhã</EM>
+      torna-se, entretanto, escudeiro da guarda real e casa com
+      <EM ID="hub-55847-347" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-55847-272" TIPOREL="relacao_familiar">Catarina</EM>
+      que
+      <EM ID="hub-55847-348" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em poucos meses</EM>
+      engravida.
+    
+  

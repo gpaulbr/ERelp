@@ -1,0 +1,264 @@
+
+    Direitos Fundamentais
+    
+      <EM ID="aa56088-451" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pöttering</EM>
+      ,
+      <EM ID="aa56088-452" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sócrates</EM>
+      e
+      <EM ID="aa56088-453" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Barroso</EM>
+      assinam
+      <EM ID="aa56088-454" CATEG="OBRA" TIPO="PLANO"  >Carta dos Direitos Fundamentais da UE</EM> 
+    
+    
+      Os <EM ID="aa56088-7" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-451" TIPOREL="ident">Presidentes do Parlamento Europeu</EM>, <EM ID="aa56088-7000" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-452" TIPOREL="ident">do Conselho</EM> e <EM ID="aa56088-7500" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-453" TIPOREL="ident">da Comissão</EM>  assinaram,
+      <EM ID="aa56088-458" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa56088-454" TIPOREL="data_de">a 12 de Dezembro de 2007</EM>
+      , em
+      <EM ID="aa56088-459" CATEG="LOCAL" TIPO="HUMANO" COREL="aa56088-10" TIPOREL="sede_de">Estrasburgo</EM>
+      , a
+      <EM ID="aa56088-460" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-454" TIPOREL="ident">Carta dos Direitos Fundamentais da União Europeia</EM> 
+      ,
+      <EM ID="aa56088-461" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >um dia antes</EM>
+      da assinatura do
+     <EM ID="aa56088-462" CATEG="OBRA" TIPO="PLANO"  >Tratado de Lisboa</EM>
+      , na capital portuguesa. Os três salientaram <EM ID="aa56088-4610" CATEG="TEMPO" TIPO="GENERICO" COREL="aa56088-458" TIPOREL="ident">o "dia histórico"</EM> para os cidadãos europeus e também o "desafio quotidiano" e o "compromisso das instituições europeias" de respeitar e promover os direitos e valores fundamentais.
+    
+    
+      "Trata-se <EM ID="aa56088-4611" CATEG="TEMPO" TIPO="GENERICO" COREL="aa56088-4610" TIPOREL="ident">de um dia</EM> feliz para as cidadãs e os cidadãos da
+      <EM ID="aa56088-463" CATEG="LOCAL" TIPO="HUMANO" COREL="aa56088-12 aa56088-459" TIPOREL="sede_de inclui">União Europeia</EM>
+      ", em que se festejam "os nossos valores comuns", afirmou o
+      <EM ID="aa56088-464-aa" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-7" TIPOREL="ident">Presidente do Parlamento Europeu</EM> 
+      ,
+      <EM ID="aa56088-465" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-464-aa aa56088-451 aa56088-14" TIPOREL="ident ident vinculo_inst">Hans-Gert PÖTTERING</EM>
+      , no discurso que antecedeu a assinatura da
+      <EM ID="aa56088-466" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-460" TIPOREL="ident">Carta dos Direitos Fundamentais da União Europeia</EM> 
+      .
+    
+    
+      Relembrando o "caminho significativo" que foi necessário percorrer até chegar <EM ID="aa56088-467aa" CATEG="TEMPO" TIPO="GENERICO"  >a este momento</EM>, afirmou que "os ensinamentos da história da
+      <EM ID="aa56088-467" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="aa56088-463 aa56088-12 aa56088-12" TIPOREL="LOCAL**ident**aa56088-463**LOCAL LOCAL**sede_de**aa56088-12**ORGANIZACAO ORGANIZACAO**ident**aa56088-12**ORGANIZACAO">Europa</EM>
+      foram tomados em consideração", num documento que garante "valores como a liberdade e a segurança".
+    
+    
+      "Com a proclamação da
+      <EM ID="aa56088-468" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-466 aa56088-466aa" TIPOREL="ident ident">Carta</EM>
+      , temos a obrigação e a oportunidade de dar aos
+      <EM ID="aa56088-469" CATEG="VALOR" TIPO="QUANTIDADE"  >quase 500 milhões</EM>
+      de cidadãos a ideia de uma
+      <EM ID="aa56088-24" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO" COREL="aa56088-467 aa56088-467 aa56088-467" TIPOREL="LOCAL**ident**aa56088-467**LOCAL LOCAL**sede_de**aa56088-467**ORGANIZACAO PESSOA**natural_de**aa56088-467**LOCAL">Europa</EM>
+      unida. Somos essencialmente uma comunidade de valores -- são estes valores comuns que constituem o fundamento da
+      <EM ID="aa56088-11" CATEG="ABSTRACCAO|ORGANIZACAO|LOCAL" TIPO="IDEIA|ADMINISTRACAO|HUMANO" COREL="aa56088-24 aa56088-463 aa56088-463" TIPOREL="LOCAL**ident**aa56088-24**LOCAL LOCAL**ident**aa56088-463**LOCAL ORGANIZACAO**ocorre_em**aa56088-463**LOCAL">União Europeia</EM>
+      ", declarou.
+    
+    
+      <EM ID="aa56088-472" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-465" TIPOREL="ident">Hans-Gert PÖTTERING</EM>
+      destacou ainda a importância, para o
+      <EM ID="aa56088-473" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-14" TIPOREL="ident">PE</EM>
+      , de ver reconhecido o valor juridicamente vinculativo da
+      <EM ID="aa56088-474" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-468" TIPOREL="ident">Carta</EM>
+      , um passo "essencial no quadro de reforma dos
+      <EM ID="aa56088-475" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-474 aa56088-462" TIPOREL="inclui inclui">Tratados</EM>
+      e essencial para a identidade europeia".
+    
+    
+      "Sem estes valores, a
+      <EM ID="aa56088-476" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="IDEIA|ADMINISTRACAO" COREL="aa56088-11 aa56088-11" TIPOREL="ABSTRACCAO**ident**aa56088-11**ABSTRACCAO ORGANIZACAO**ident**aa56088-11**ORGANIZACAO">União Europeia</EM>
+      não teria futuro". Dentro e fora da
+      <EM ID="aa56088-477" CATEG="LOCAL" TIPO="HUMANO" COREL="aa56088-24 aa56088-24" TIPOREL="LOCAL**ident**aa56088-24**LOCAL LOCAL**local_nascimento_de**aa56088-24**PESSOA">Europa</EM>
+      , "temos o dever de sempre defender a dignidade e os direitos humanos", concluiu.
+    
+    
+      Também o
+         <EM ID="aa56088-110" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-452" TIPOREL="ident">Presidente</EM> em exercício do <EM ID="aa56088-111" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-110 aa56088-9" TIPOREL="vinculo_inst ident">Conselho da UE</EM> 
+       <EM ID="aa56088-481" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-110 aa56088-111 aa56088-111-aa aa56088-112" TIPOREL="ident vinculo_inst vinculo_inst vinculo_inst">José SÓCRATES</EM>
+      , destacou
+      <EM ID="aa56088-482" CATEG="TEMPO" TIPO="GENERICO" COREL="aa56088-4610" TIPOREL="ident">o dia de hoje</EM>
+      como "uma data fundamental na história da integração europeia".
+    
+    
+      "
+      <EM ID="aa56088-483" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa56088-482" TIPOREL="inclui">A partir de hoje</EM>
+      , e talvez para incómodo de alguns, os direitos fundamentais passam formalmente, e de forma irreversível, a fazer parte do património comum da
+      <EM ID="aa56088-484" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-112 aa56088-111 aa56088-11" TIPOREL="ORGANIZACAO**ident**aa56088-112**ORGANIZACAO ORGANIZACAO**inclui**aa56088-111**ORGANIZACAO ORGANIZACAO**ocorre_em**aa56088-11**LOCAL">UE</EM>
+      . Um património ético, de cidadania e do melhor que há na civilização europeia!", afirmou o
+      <EM ID="aa56088-485" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-481" TIPOREL="ident">Primeiro-Ministro</EM>
+      português.
+    
+    
+      Manifestando-se "muito honrado como europeu e como português" por participar na cerimónia de proclamação da
+      <EM ID="aa56088-486" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-474" TIPOREL="ident">Carta dos Direitos Fundamentais da UE</EM> 
+      -- que definiu como "a mais importante de toda a carreira política" --
+      <EM ID="aa56088-487" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-485 aa56088-481" TIPOREL="ident ident">SÓCRATES</EM>
+      salientou ainda o compromisso assumido pelas três instituições --
+     <EM ID="aa56088-488" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-473 aa56088-17 aa56088-484" TIPOREL="ident incluido incluido">PE</EM>
+      ,
+      <EM ID="aa56088-489" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-111 aa56088-111-aa aa56088-17 aa56088-484" TIPOREL="ident ident incluido incluido">Conselho</EM>
+      e
+      <EM ID="aa56088-490" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-16 aa56088-17 aa56088-484" TIPOREL="ident incluido incluido">Comissão</EM>
+      -- de que "os valores fundamentais serão respeitados e aplicados".
+    
+    
+      A
+      <EM ID="aa56088-491" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-486aa" TIPOREL="ident">Carta</EM>
+      "representa um compromisso das instituições da
+      <EM ID="aa56088-492" CATEG="ORGANIZACAO|LOCAL" TIPO="ADMINISTRACAO|HUMANO" COREL="aa56088-467 aa56088-467 aa56088-484 aa56088-467" TIPOREL="ORGANIZACAO**ident**aa56088-467**ORGANIZACAO ORGANIZACAO**ocorre_em**aa56088-467**LOCAL ORGANIZACAO**ident**aa56088-484**ORGANIZACAO LOCAL**ident**aa56088-467**LOCAL">União</EM>
+      de a respeitarem e aplicarem <EM ID="aa56088-113" CATEG="TEMPO" TIPO="FREQUENCIA"  >quotidianamente</EM>. Só assim seremos dignos herdeiros do que há de melhor na nossa identidade colectiva e tradição comum de uma
+      <EM ID="aa56088-493" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-467 aa56088-467 aa56088-484" TIPOREL="ORGANIZACAO**ident**aa56088-467**ORGANIZACAO ORGANIZACAO**ocorre_em**aa56088-467**LOCAL ORGANIZACAO**ident**aa56088-484**ORGANIZACAO">Europa</EM>
+      que honra os direitos e as garantias dos cidadãos".
+    
+    
+      Para
+      <EM ID="aa56088-494" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-487" TIPOREL="ident">SÓCRATES</EM>
+      , esta
+      <EM ID="aa56088-495" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-491" TIPOREL="ident">Carta</EM>
+      "vai para além" dos cidadãos da
+      <EM ID="aa56088-496" CATEG="LOCAL" TIPO="HUMANO" COREL="aa56088-463" TIPOREL="ident">UE</EM>
+      , representando "um esteio fundamental da convicção de um mundo melhor e de que os direitos são universalmente respeitados".
+    
+    
+      Expressando ainda a "honra" por
+      <EM ID="aa56088-497" CATEG="ORGANIZACAO|LOCAL" TIPO="ADMINISTRACAO|HUMANO" COREL="aa56088-467 aa56088-467 aa56088-484 aa56088-496" TIPOREL="ORGANIZACAO**incluido**aa56088-467**ORGANIZACAO LOCAL**incluido**aa56088-467**LOCAL ORGANIZACAO**incluido**aa56088-484**ORGANIZACAO LOCAL**incluido**aa56088-496**LOCAL">Portugal</EM>
+      ficar associado a "uma importante etapa da cidadania europeia" -- foi durante a
+      <EM ID="aa56088-498" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="aa56088-497" TIPOREL="ACONTECIMENTO**ocorre_em**aa56088-497**LOCAL">Presidência</EM>
+      <EM ID="aa56088-499" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa56088-498" TIPOREL="data_de">em 2000</EM>
+      que se iniciou a
+      <EM ID="aa56088-500" CATEG="OBRA" TIPO="PLANO"  >Convenção</EM>
+      que deu origem à
+      <EM ID="aa56088-501" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-500 aa56088-495" TIPOREL="consequencia_de ident">Carta</EM>
+      e é durante a actual
+      <EM ID="aa56088-502" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="aa56088-498" TIPOREL="outra_edicao">Presidência</EM>
+      que a
+      <EM ID="aa56088-503" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-495" TIPOREL="ident">Carta</EM>
+
+      é proclamada --
+      <EM ID="aa56088-504" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-494" TIPOREL="ident">SÓCRATES</EM>
+      alertou, no entanto, para o facto de a tarefa ainda não estar acabada.
+    
+    
+      "O combate pelos direitos fundamentais é uma tarefa quotidiana, uma tarefa sem fim, dos
+      <EM ID="aa56088-505" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-12" TIPOREL="incluido">Estados</EM>
+      , das sociedades civis, das empresas, dos sindicatos, dos cidadãos. A sua defesa é o reconhecimento de um valor essencial à identidade europeia, faz parte do nosso código genético, e esta é a
+      <EM ID="aa56088-506" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="ADMINISTRACAO|IDEIA" COREL="aa56088-505 aa56088-11 aa56088-11 aa56088-11 aa56088-493 aa56088-497" TIPOREL="ORGANIZACAO**inclui**aa56088-505**ORGANIZACAO ORGANIZACAO**ident**aa56088-11**ORGANIZACAO ABSTRACCAO**ident**aa56088-11**ABSTRACCAO ORGANIZACAO**ocorre_em**aa56088-11**LOCAL ORGANIZACAO**ident**aa56088-493**ORGANIZACAO ORGANIZACAO**inclui**aa56088-497**ORGANIZACAO">Europa</EM>
+      a que eu quero pertencer", concluiu.
+    
+    
+      Também o
+      <EM ID="aa56088-507" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-7500" TIPOREL="ident">Presidente da Comissão Europeia</EM> 
+      ,
+      <EM ID="aa56088-508" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-507" TIPOREL="ident">José Manuel Durão BARROSO</EM>
+      , declarou que, com a
+      <EM ID="aa56088-509" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-501" TIPOREL="ident">Carta dos Direitos Fundamentais</EM>
+      , a
+      <EM ID="aa56088-510" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-493" TIPOREL="ident">Europa</EM>
+      está "mais equipada para levar a cabo o seu combate pela liberdade, democracia e paz".
+    
+    
+      "A
+      <EM ID="aa56088-511" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-509" TIPOREL="ident">Carta</EM>
+      encorajará a
+      <EM ID="aa56088-512" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="aa56088-510 aa56088-476 aa56088-17 aa56088-24 aa56088-24 aa56088-24" TIPOREL="ORGANIZACAO**ident**aa56088-510**ORGANIZACAO ORGANIZACAO**ident**aa56088-476**ORGANIZACAO ORGANIZACAO**ident**aa56088-17**ORGANIZACAO ORGANIZACAO**ocorre_em**aa56088-24**LOCAL PESSOA**ident**aa56088-24**PESSOA PESSOA**natural_de**aa56088-24**LOCAL">UE</EM>
+      numa verdadeira cultura dos direitos fundamentais. Comprometemo-nos, sobretudo, a respeitar os nossos próprios direitos. Pode parecer fácil de assumir, mas é, na verdade, um verdadeiro desafio quotidiano", salientou
+      <EM ID="aa56088-513" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-508" TIPOREL="ident">BARROSO</EM>
+      .
+    
+    
+      "Trata-se de um êxito extraordinário de que a
+      <EM ID="aa56088-514" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="aa56088-512 aa56088-512" TIPOREL="ORGANIZACAO**ident**aa56088-512**ORGANIZACAO PESSOA**ident**aa56088-512**PESSOA">UE</EM>
+      se deve sentir orgulhosa. É particularmente importante que aconteça numa
+      <EM ID="aa56088-515" CATEG="ORGANIZACAO|LOCAL" TIPO="ADMINISTRACAO|HUMANO" COREL="aa56088-467 aa56088-467 aa56088-492 aa56088-492" TIPOREL="ORGANIZACAO**ident**aa56088-467**ORGANIZACAO LOCAL**ident**aa56088-467**LOCAL ORGANIZACAO**ident**aa56088-492**ORGANIZACAO LOCAL**ident**aa56088-492**LOCAL">Europa</EM>
+      alargada que esteve dividia por regimes ditatoriais. Se conjugarmos esforços para estimular esta cultura de direitos humanos, daremos um contributo essencial para uma
+      <EM ID="aa56088-516" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="ADMINISTRACAO|IDEIA" COREL="aa56088-476 aa56088-476 aa56088-11 aa56088-11 aa56088-11" TIPOREL="ORGANIZACAO**ident**aa56088-476**ORGANIZACAO ABSTRACCAO**ident**aa56088-476**ABSTRACCAO ORGANIZACAO**ident**aa56088-11**ORGANIZACAO ORGANIZACAO**ocorre_em**aa56088-11**LOCAL ABSTRACCAO**ident**aa56088-11**ABSTRACCAO">Europa</EM>
+      de valores", concluiu.
+    
+    
+      Depois de a
+      <EM ID="aa56088-517" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-511" TIPOREL="ident">Carta</EM>
+      ser assinada pelos
+      <EM ID="aa56088-518" CATEG="PESSOA" TIPO="GRUPOCARGO" COREL="aa56088-7-aa aa56088-451 aa56088-452 aa56088-453" TIPOREL="inclui inclui inclui inclui">Presidentes</EM>
+      das três instituições, ouviu-se o hino europeu no hemiciclo de
+      <EM ID="aa56088-519" CATEG="LOCAL" TIPO="HUMANO" COREL="aa56088-459 aa56088-514" TIPOREL="LOCAL**ident**aa56088-459**LOCAL LOCAL**sede_de**aa56088-514**ORGANIZACAO">Estrasburgo</EM>
+      .
+    
+    
+      A cerimónia de proclamação foi interrompida em diversas ocasiões por uma minoria de deputados que protestaram nas últimas bancadas do hemiciclo, exigindo a realização de um referendo ao
+      <EM ID="aa56088-520" CATEG="OBRA" TIPO="PLANO" COREL="aa56088-475 aa56088-462" TIPOREL="incluido ident">Tratado de Lisboa</EM>
+      . Os protestos foram calados pelos aplausos da maioria dos eurodeputados e pelo próprio
+      <EM ID="aa56088-521" CATEG="PESSOA" TIPO="CARGO" COREL="aa56088-518 aa56088-504" TIPOREL="incluido ident">Presidente do Conselho</EM> 
+      , no início do seu discurso: "Por mais que muitos gritem tentando impedir os outros de falar, esta é uma data fundamental da história europeia", afirmou
+      <EM ID="aa56088-522" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-521" TIPOREL="ident">José SÓCRATES</EM>
+      .
+    
+    
+      O
+       líder do <EM ID="aa56088-2" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PPE/DE</EM>
+      ,
+      <EM ID="aa56088-524" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-1 aa56088-2" TIPOREL="ident vinculo_inst">Joseph DAUL</EM>
+      , criticou os protestos, afirmando que o
+      <EM ID="aa56088-525" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-14" TIPOREL="ident">PE</EM>
+      é "um hemiciclo onde reina a democracia" não sendo, por isso, "digno actuar desta maneira".
+    
+    
+      No mesmo registo,
+      <EM ID="aa56088-526" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Martin SCHULZ</EM>
+      (
+      <EM ID="aa56088-527" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa56088-526" TIPOREL="vinculo_inst">PSE</EM>
+      ,
+      <EM ID="aa56088-528" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa56088-526 aa56088-527" TIPOREL="vinculo_inst incluido">DE</EM>
+      ),
+       líder do <EM ID="aa56088-4" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa56088-527" TIPOREL="ident">PSE</EM>
+      , recordou que, na
+      <EM ID="aa56088-530" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >República de Weimar</EM>
+      , se queria acabar com os inimigos em forma de coro e quem dirigia esse coro era
+      <EM ID="aa56088-531" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-530" TIPOREL="vinculo_inst">Hitler</EM>
+      ".
+    
+    
+      Do grupo
+      <EM ID="aa56088-532" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >ALDE</EM>
+      ,
+      <EM ID="aa56088-533" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-532" TIPOREL="vinculo_inst">Graham WATSON</EM>
+      lançou uma petição para que a
+      <EM ID="aa56088-537" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOCARGO|ADMINISTRACAO" COREL="aa56088-525" TIPOREL="ORGANIZACAO**incluido**aa56088-525**ORGANIZACAO">Presidência do PE</EM> 
+      use os poderes que lhe confere o regimento "para mandar embora um deputado que se comporte de maneira indigna": "Uma atitude como esta não se pode tolerar e traz-nos o pior de um estádio de futebol", afirmou.
+    
+    
+      <EM ID="aa56088-538" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Francis WURTZ</EM>
+      , da
+      <EM ID="aa56088-539" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa56088-538" TIPOREL="vinculo_inst">CEUE/EVN</EM>
+      , condenou "de maneira absoluta as declarações antieuropeias e indignas" que se ouviram no hemiciclo: "O meu grupo está a favor de um referendo, mas opõe-se a acções como esta", afirmou.
+    
+    
+      Também o
+       co-presidente dos <EM ID="aa56088-6" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Verdes/ALE</EM>
+      ,
+      <EM ID="aa56088-541" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-5 aa56088-6" TIPOREL="ident vinculo_inst">Daniel COHN-BENDIT</EM>
+      , se mostrou "consternado" com o ocorrido, mas pediu que não se dramatize a situação: "Há
+      <EM ID="aa56088-542" CATEG="VALOR" TIPO="QUANTIDADE"  >50</EM>
+      loucos mas há
+      <EM ID="aa56088-543" CATEG="VALOR" TIPO="QUANTIDADE"  >700</EM>
+      sãos"; "não peçamos a expulsão destes loucos porque um
+      <EM ID="aa56088-544" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa56088-22" TIPOREL="ident">Parlamento</EM> 
+      livre é aquele que aguenta os loucos que lhe são desagradáveis".
+    
+    
+      Da mesma forma, para
+      <EM ID="aa56088-545" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Brian CROWLEY</EM>
+      , da
+      <EM ID="aa56088-546" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa56088-545" TIPOREL="vinculo_inst">UEN</EM>
+      , o ocorrido "superou o permissível".
+    
+    
+      Do grupo
+      <EM ID="aa56088-547" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >IND/DEM</EM>
+      ,
+      <EM ID="aa56088-548" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-547" TIPOREL="vinculo_inst">Jens-Peter BONDE</EM>
+      assinalou que, pessoalmente, não participou nos protestos mas que vestiu a camisola com a referência à realização de um referendo, que faz parte da vida democrática.
+    
+    Consultar
+    http://www.eu2007.pt/UE/vPT/Noticias_Documentos/20071212DiscursoPM.htm
+    
+      Discurso de
+      <EM ID="aa56088-550" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa56088-522" TIPOREL="ident">José Sócrates</EM>
+      na cerimónia de
+      <EM ID="aa56088-551" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="aa56088-497" TIPOREL="ACONTECIMENTO**ocorre_em**aa56088-497**LOCAL">Proclamação da Carta dos Direitos Fundamentais</EM>
+    
+  

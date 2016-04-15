@@ -1,0 +1,106 @@
+
+    
+      <EM ID="aa64686-187" CATEG="ACONTECIMENTO|TEMPO" TIPO="EFEMERIDE|GENERICO"  >THANKSGIVING</EM>
+      COM MINE DE RIEN
+    
+    
+      
+        <EM ID="aa64686-149" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Na noite de Acção de Graças</EM>
+        
+      apresento-vos um blogue escrito dos
+      <EM ID="aa64686-153" CATEG="LOCAL" TIPO="HUMANO"  >EUA</EM>
+      , da cidade onde eu <EM ID="aa64686-500" CATEG="TEMPO" TIPO="FREQUENCIA"  >várias vezes</EM> passei este feriado. Evidentemente, é mais um blogue de um LEFTista (embora neste caso não vá insistir muito no aspecto
+      <EM ID="aa64686-155" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="IDEIA|DISCIPLINA"  >LEFT</EM>
+      porque o rapaz nem é muito disso...). O autor, para além de um velho amigo - conheço-o desde caloiro -, é uma pessoa interessantíssima, e tem com certeza uma perspectiva muito sua a acrescentar ao assunto para mim fascinante das relações entre a
+      <EM ID="aa64686-160" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO"  >Europa</EM>
+      e a
+      <EM ID="aa64686-161" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO"  >América</EM>
+      , o
+      <EM ID="aa64686-158" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Velho</EM>
+      e o
+      <EM ID="aa64686-162" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa64686-153" TIPOREL="inclui">Novo Continente</EM>
+      . Antes de eu ir para os
+      <EM ID="aa64686-163" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-153" TIPOREL="ident">EUA</EM>
+      falava-me entusiasmadíssimo do american way of life e de como era boa a comida nas universidades americanas - a escolha de pizzas! os hot-dogs! os hamburgers! - sem se aperceber de como me estava a deixar horrorizado. Depois da
+      <EM ID="aa64686-164" CATEG="ABSTRACCAO|ABSTRACCAO|ACONTECIMENTO" TIPO="DISCIPLINA|IDEIA|EVENTO" COREL="aa64686-155" TIPOREL="ABSTRACCAO**ident**aa64686-155**ABSTRACCAO">LEFT</EM>
+      o
+      <EM ID="aa64686-165" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pedro</EM>
+      veio para
+      <EM ID="aa64686-166" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-158" TIPOREL="incluido">Paris</EM>
+      fazer
+      <EM ID="aa64686-167" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="aa64686-165" TIPOREL="praticado_por">Teoria de Cordas</EM>
+      . Na
+      <EM ID="aa64686-168" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa64686-165" TIPOREL="vinculo_inst">Cité Universitaire</EM>
+      arranjou maneira de não ficar
+      <EM ID="aa64686-169" CATEG="TEMPO" TIPO="DURACAO"  >muito tempo</EM>
+      na
+      <EM ID="aa64686-170" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-165 aa64686-166" TIPOREL="residencia_de incluido">Residência André de Gouveia</EM>
+      , indo antes para uma casa que era a cara dele - a
+      <EM ID="aa64686-171" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-165 aa64686-166" TIPOREL="residencia_de incluido">Deutsche de la Meurthe</EM>
+      , a mais antiga, a mais clássica, aquela onde
+      <EM ID="aa64686-172" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-166" TIPOREL="natural_de">Simone de Beauvoir</EM>
+      ia visitar o estudante
+      <EM ID="aa64686-173" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-166" TIPOREL="natural_de">Jean-Paul Sartre</EM>
+      . Quando eu cheguei, deu-me a conhecer a área de
+      <EM ID="aa64686-174" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-166" TIPOREL="incluido">Montparnasse</EM>
+      e do
+      <EM ID="aa64686-175" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-166" TIPOREL="incluido">Port Royal</EM>
+      .
+      <EM ID="aa64686-176" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nessa altura</EM>
+      era um parisiense com uma costela americana, português q.b. e vagamente judeu. Agora é um americano parisiense, um verdadeiro mangeur de fromage. Pôs a
+      <EM ID="aa64686-178" CATEG="ABSTRACCAO|LOCAL" TIPO="IDEIA|HUMANO" COREL="aa64686-166 aa64686-158 aa64686-160 aa64686-160" TIPOREL="LOCAL**inclui**aa64686-166**LOCAL LOCAL**ident**aa64686-158**LOCAL LOCAL**sede_de**aa64686-160**ORGANIZACAO LOCAL**natural_de**aa64686-160**PESSOA">Europa</EM>
+      e a
+      <EM ID="aa64686-179" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="aa64686-167" TIPOREL="ident">Teoria das Cordas</EM>
+      de parte e foi para a melhor cidade da
+      <EM ID="aa64686-180" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-161 aa64686-162 aa64686-153" TIPOREL="incluido incluido incluido">América do Norte</EM>
+      mostrar que um físico matemático é pau para toda a obra - nem que seja para mostrar que a
+      <EM ID="aa64686-181" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Biologia Celular</EM>
+      é só "quebra de simetria" e que não há nada como <EM ID="aa64686-107" CATEG="TEMPO" TIPO="GENERICO" COREL="aa64686-153" TIPOREL="incluido">o outono</EM> na
+      <EM ID="aa64686-182" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-165" TIPOREL="residencia_de">Nova Inglaterra</EM>
+      . Que rica prenda
+       de <EM ID="aa64686-5" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="aa64686-152" TIPOREL="ident">Thanksgiving</EM>
+      . Bem vindo,
+      <EM ID="aa64686-186" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-165" TIPOREL="ident">Pedro</EM>
+      .
+    
+    EFEMÉRIDE
+    
+      <EM ID="aa64686-188" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A 24 de Novembro de 1960</EM>
+      , no restaurante
+      <EM ID="aa64686-189" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-166" TIPOREL="incluido">Le Vrai Gascon</EM>
+      (n.º 82 da rue du
+      <EM ID="aa64686-190" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-166" TIPOREL="incluido">Bac</EM>
+      ,
+      <EM ID="aa64686-191" CATEG="LOCAL" TIPO="HUMANO" COREL="aa64686-166" TIPOREL="ident">Paris</EM>
+      ), em torno dessas figuras majestáticas que eram
+      <EM ID="aa64686-192" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Raymond Queneau</EM>
+      e
+      <EM ID="aa64686-193" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-166 aa64686-195" TIPOREL="natural_de praticante_de">François Le Lionnais</EM>
+      , nasceu uma das mais heterodoxas correntes literárias
+      <EM ID="aa64686-194" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do século XX</EM>
+      . Desafio intelectual e brincadeira de literatos apaixonados pela sua língua, explosiva mistura de cérebros moldados pelas leis da gramática e mentes científicas habituadas a todo o tipo de operações lógicas, o
+      <EM ID="aa64686-195" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >OuLiPo</EM>
+      (
+      <EM ID="aa64686-196" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="aa64686-195" TIPOREL="ident">Ouvroir de Littérature Potentiel</EM>
+      ) veio libertar a literatura da forma mais radical: acorrentando-a. Isto é, inventando um sem número de constrangimentos que estimulam a imaginação e a perícia verbal de quem escreve.
+    
+    
+      Na definição sucinta de
+      <EM ID="aa64686-197" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-192 aa64686-196" TIPOREL="ident praticante_de">Queneau</EM>
+      , um autor oulipiano é um «rato que constrói o labirinto do qual se propõe sair». Um labirinto de palavras, claro; um labirinto textual. E se grande parte da produção destes autores auto-espartilhados não sobrevive fora do contexto em que surgiu, enquanto mecanismo lúdico ou exercício de estilo, o certo é que os processos do
+      <EM ID="aa64686-198" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="aa64686-195" TIPOREL="ident">OuLiPo</EM>
+      estão inscritos na estrutura de algumas obras-primas de autores como
+      <EM ID="aa64686-199" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-195" TIPOREL="praticante_de">Italo Calvino</EM>
+      (
+      <EM ID="aa64686-200" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa64686-199" TIPOREL="obra_de">Se Numa Noite de Inverno um Viajante</EM>
+      ) ou
+      <EM ID="aa64686-201" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa64686-195" TIPOREL="praticante_de">Georges Perec</EM>
+      (
+      <EM ID="aa64686-202" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa64686-201" TIPOREL="obra_de">A Vida Modo de Usar</EM>
+      ;
+      <EM ID="aa64686-203" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa64686-201" TIPOREL="obra_de">La Disparition</EM>
+      ; etc). Quanto mais não fosse por isso, já valeria a pena celebrar 
+<EM ID="aa64686-280" CATEG="TEMPO" TIPO="GENERICO"  >os 45 anos</EM> 
+      de um movimento que continua activo e em expansão (investigar aqui).
+    
+  

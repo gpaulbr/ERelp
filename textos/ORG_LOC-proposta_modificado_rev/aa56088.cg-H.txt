@@ -1,0 +1,23 @@
+$S-1
+UE	 [UE] <org> PROP F S @P< ORG O
+Os	 [o] <artd> DET M P @>N O
+Presidentes=do=Parlamento=Europeu	 [Presidentes=do=Parlamento=Europeu] <org> <np-close> PROP M P @APP O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED O
+o	 [o] <artd> <-sam> DET M S @>N O
+Conselho	 [conselho] <prop> <HH> N M S @P< O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+de	 [de] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Comissão	 [comissão] <org> PROP F S @P< O
+assinaram	 [assinar] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+$, O
+a	 [a] PRP @<ADVL O
+12	 [12] <card> NUM M/F S @P< O
+de	 [de] <np-close> PRP @N< O
+Dezembro	 [dezembro] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+2007	 [2007] <card> <year> <date> NUM M/F P @P< O
+$, O
+em	 [em] PRP @<ADVL REL
+Estrasburgo	 [Estrasburgo] <civ> PROP M S @P< LOCAL O

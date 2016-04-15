@@ -1,0 +1,146 @@
+$S-5
+Ao=contrário	 [ao=contrário] <*> ADV @ADVL>  O
+$, O
+cessada	 [cessar] <mv> V PCP F S @IMV  O
+a	 [o] <artd> DET F S @>N  O
+justa	 [justo] <n> <jh> ADJ F S @<SUBJ  O
+e	 [e] KC @NPHR  O
+magoada	 [magoado] <nh> ADJ F S @>N  O
+emoção	 [emoção] <percep-f> <am> N F S @<SUBJ  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+perda	 [perda] <event> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+eminente	 [eminente] <jh> ADJ M S @>N  O
+Getúlio=Vargas	 [Getúlio=Vargas] <hum> <*> <newlex> PROP M S @P<  O
+$, O
+os	 [o] <artd> DET M P @>N  O
+pescadores	 [pescador] <Hprof> N M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+votos	 [voto] <act-s> <sem-s> N M P @P<  O
+$, O
+a	 [a] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sombra	 [sombra] <Labs> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+memória	 [memória] <sem-c> <sem-r> N F S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+conseguiram	 [conseguir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+convencer	 [convencer] <vH> <mv> V INF @ICL-<ACC  O
+$-- O
+nem	 [nem] ADV @>P	 [nem] KC  O
+a	 [a] <sam-> PRP @<ADVL  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+menos	 [menos] <quant> <KOMP> ADV @>A  O
+argutos	 [arguto] <n> <jh> ADJ M P @P<  O
+$-- O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+os	 [o] <artd> DET M P @>N  O
+valorosos	 [valoroso] ADJ M P @>N  O
+e	 [e] KC @NPHR  O
+honrados	 [honrado] ADJ M P @>N  O
+oficiais	 [oficial] <n> <nh> ADJ M P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Força=Aérea	 [Força=Aérea] <org> <*> PROP F S @P< ORG O
+não	 [não] ADV @ADVL>  O
+passem	 [passar] <mv> V PR 3P SUBJ VFIN @FS-<ACC  O
+de	 [de] PRP @<PIV  O
+simples	 [simples] <jh> ADJ M P @>N  O
+carrascos	 [carrasco] <Hprof> <Lpath> <BB> <Btree> N M P @P<  O
+de	 [de] PRP @<SA  O
+uma	 [um] <arti> DET F S @>N  O
+nova	 [novo] <jh> ADJ F S @>N  O
+inquisição	 [inquisição] <HH> <per> N F S @P<  O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> KS @SUB  O
+Gregório=Fortunato	 [Gregório=Fortunato] <hum> <*> PROP M S @SUBJ> PES O
+seja	 [ser] <vK> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+inocência	 [inocência] <f-psych> N F S @P<  O
+e	 [e] KC @NPHR  O
+probidade	 [probidade] <am> N F S @P<  O
+$, O
+modelo	 [modelo] <Hprof> N F S @<SC  O
+à=imitação=de	 [à=imitação=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+juventude	 [juventude] <percep-f> <per> <HH> N F S @P<  O
+brasileira	 [brasileiro] <nat> <jh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-8
+O=povo	 [o=povo] <HH> <*> N M S @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+hesitará	 [hesitar] <vH> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+$, O
+por	 [por] PRP @<ADVL  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+doloroso	 [doloroso] <nh> ADJ M S @P<  O
+que	 [que] <clb> <clb-fs> KS @COM  O
+seja	 [ser] <vK> <mv> V PR 3S SUBJ VFIN @FS-KOMP<  O
+escrever	 [escrever] <vH> <mv> V INF @ICL-<SC  O
+este	 [este] <dem> DET M S @>N  O
+contraste	 [contraste] <ac> <am> N M S @<SUBJ  O
+$, O
+entre	 [entre] PRP @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+herói	 [herói] <H> N M S @P<  O
+autêntico	 [autêntico] <jh> <np-close> ADJ M S @N<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+reserva	 [reserva] <amount> <sem-c> <Ltop> <act> <np-close> N F S @N<PRED  O
+moral	 [moral] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Pátria	 [pátria] <prop> <*> <inst> N F S @P<  O
+$, O
+um	 [um] <arti> DET M S @>N  O
+soldado	 [soldado] <Hprof> <Aich> <Aorn> <np-close> N M S @N<PRED  O
+de	 [de] <np-close> PRP @N<  O
+Deus	 [Deus] <hum> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<PRED  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+$, O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+chefe	 [chefe] <Htit> N M S @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+bando	 [bando] <HH> <AA> <Aorn> <sem-r> N M S @P<  O
+de	 [de] <np-long> PRP @N<  O
+sicários	 [sicário] <jh> ADJ M P @P<  O
+$, O
+a	 [a] <clb> PRP @ADVL>  O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P<  O
+o	 [o] <artd> DET M S @>N  O
+próprio	 [próprio] <ident> DET M S @>N  O
+Getúlio=Vargas	 [Getúlio=Vargas] <hum> <*> PROP M S @SUBJ> PES O
+foi	 [ser] <aux> <np-close> V PS 3S IND VFIN @FS-N< REL
+forçado	 [forçar] <vH> <mv> V PCP M S @ICL-AUX< REL
+a	 [a] PRP @<ADVL REL
+expulsar	 [expulsar] <vH> <mv> V INF @ICL-P< REL
+de	 [de] <sam-> PRP @<SC @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Palácio	 [palácio] <prop> <*> <build> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @A< @<ADVL @<SC  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+companhia	 [companhia] <HH> N F S @P<  O
+$, O
+como	 [como] <prd> <adv-rel> PRP @<SC @SC>  O
+traidor	 [traidor] <asarg> <H> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+confiança	 [confiança] <am> N F S @P<  O
+$. O
+</s>

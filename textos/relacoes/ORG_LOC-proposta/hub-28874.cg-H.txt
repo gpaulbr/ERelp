@@ -1,0 +1,19 @@
+$S-1
+Portugal	 [Portugal] <civ> PROP M S @<ACC LOCAL O
+$, O
+segundo	 [segundo] <com> <adv-rel> PRP @<ADVL O
+cenários	 [cenário] <asarg> <Labs> N M P @P< O
+elaborados	 [elaborar] <vH> <np-close> V PCP M P @N< O
+este	 [este] <dem> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @<ADVL O
+por	 [por] PRP @<ADVL O
+peritos	 [perito] <H> N M P @P< B-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Instituto=Nacional=de=Saúde=Ricardo=Jorge	 [Instituto=Nacional=de=Saúde=Ricardo=Jorge] <inst> PROP M S @P< ORG O
+
+$S-2
+Portugal	 [Portugal] <civ> PROP M S @P< ORG O
+$, O
+o	 [o] <artd> DET M S @>N B-REL
+Instituto=Nacional=de=Saúde	 [Instituto=Nacional=de=Saúde] <inst> PROP M S @SUBJ> LOCAL O

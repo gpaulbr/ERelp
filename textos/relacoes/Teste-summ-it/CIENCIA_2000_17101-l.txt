@@ -1,0 +1,33 @@
+$S-11
+Hossne 	[Hossne] <hum>   PROP M/F S @SUBJ>   O
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+Tuskegee 	[Tuskegee] <hum>   PROP M/F S @P<  LOCAL O
+$( 
+Eua 	[Eua] <top>   <np-close> PROP M/F S @N<PRED ORG  O
+$) 
+$, 
+em 	[em] <clb> PRP @ADVL>   O
+que 	[que] <clb-fs> <rel> SPEC M S @P<   O
+negros 	[negro] <Htit> N M P @SUBJ>   O
+com 	[com] <np-close> PRP @N<   O
+sífilis 	[sífilis] <sick> N F S/P @P<   O
+não 	[não] ADV @ADVL>   O
+foram 	[ser] <aux> <np-close> V PS/MQP 3P IND VFIN @FS-N<   O
+tratados 	[tratar] <mv> V PCP M P @ICL-AUX<   O
+por 	[por] PRP @<ADVL   O
+40 	[40] <card> NUM M P @>N   O
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<   O
+para 	[para] PRP @<ADVL   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+evolução 	[evolução] <process> N F S @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+doença 	[doença] <sick> N F S @P<   O
+fosse 	[ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-P<   O
+estudada 	[estudado] <nh> ADJ F S @<SC   O
+$. 
+</s>

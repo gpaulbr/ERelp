@@ -1,0 +1,48 @@
+$S-2
+A 	[o]  <artd> DET F S @>N  
+informação 	[informação] <ac> N F S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+dada 	[dar] <mv> V PCP F S @ICL-AUX<  
+em 	[em] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+conferência 	[conferência] <occ> N F S @P<    
+Da=Origem=do=Universo=aos=Grandes=Telescópios 	[Da=Origem=do=Universo=aos=Grandes=Telescópios] <occ> <np-close> PROP F S @N<   
+$, 
+ministrada 	[ministrar] <vH> <mv> V PCP F S @ICL-N<PRED  
+ontem 	[ontem] ADV @<ADVL  
+por 	[por] PRP @<PASS  
+João=Steiner 	[João=Steiner] <hum>  PROP M S @P<  
+$, 
+astrofísico 	[astrofísico] <Hprof> <np-close> N M S @APP  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org>  PROP F S @P<  ORG
+$, 
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual=da=Sociedade=Brasileira 	[Reunião=Anual=da=Sociedade=Brasileira] <occ>  PROP F S @P<  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst>  PROP M S @P<  LOCAL
+$. 
+</s>
+
+$S-12
+Um 	[um]  <card> NUM M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+telescópios 	[telescópio] <tool> N M P @P<  
+já 	[já] ADV @ADVL>  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+pronto 	[pronto] <cjt-head> ADJ M S @<SC  
+e 	[e] KC @NPHR  
+em 	[em] PRP @<ADVL  
+funcionamento 	[funcionamento] <process> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Havaí 	[Havaí] <inst>  PROP M S @P< LOCAL
+$, 
+Eua 	[Eua] <cjt> <hum>  PROP M S @<SC ORG
+$. 
+</s>

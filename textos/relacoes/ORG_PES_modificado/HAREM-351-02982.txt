@@ -1,0 +1,140 @@
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+visita	 [visita] <act-d> N F S @SUBJ>  O
+iniciou-	 [iniciar] <hyfen> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] PERS F 3S ACC @<ACC-PASS  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Associação=Cultural,Recreativa=e=Desportiva=da=Marquiteira	 [Associação=Cultural,Recreativa=e=Desportiva=da=Marquiteira] <org> <*> PROP F S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+recebeu	 [receber] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< REL
+a	 [o] <artd> DET F S @>N REL
+Governadora=Civil	 [Governadora=Civil] <org> <*> PROP F S @<ACC PES O
+com	 [com] PRP @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+almoço	 [almoço] <occ> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+caldeirada	 [caldeirada] <amount> <food-h> N F S @P<  O
+$, O
+com	 [com] <np-close> PRP @N<PRED @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+particularidade	 [particularidade] <am> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+ter	 [ter] <aux> V INF @ICL-P<  O
+sido	 [ser] <vK> <mv> V PCP @ICL-AUX<  O
+pescada	 [pescada] <Aich> N F S @<SC  O
+e	 [e] KC @NPHR  O
+confeccionada	 [confeccionar] <vH> V PCP F S @<SC  O
+por	 [por] PRP @<ADVL  O
+elementos	 [elemento] <ac> <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+órgãos	 [órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> N M P @P<  O
+sociais	 [social] <jh> <np-close> ADJ M P @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+aquela	 [aquele] <-sam> <dem> DET F S @>N  O
+colectividade	 [colectividade] <am> N F S @P<  O
+$. O
+</s>
+
+$S-5
+Rodrigo=Maurício	 [Ouvir=Som=Rodrigo=Maurício] <inst> <*> PROP F P @SUBJ> O
+lança	 [lançar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+novo	 [novo] ADJ M S @>N  O
+disco	 [disco] <cc> <tool-mus> <tool> N M S @<ACC  O
+$-- O
+A	 [a] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Entardecer	 [entardecer] <*> <mv> V INF @ICL-P<  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+nome	 [nome] <percep-f> <ac-cat> N M S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+segundo	 [segundo] <NUM-ord> ADJ M S @>N  O
+disco	 [disco] <cc> <tool-mus> <tool> N M S @P<  O
+$, O
+lançado	 [lançar] <vH> <mv> V PCP M S @ICL-N<PRED  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+acordeonista	 [acordeonista] <Hprof> N M S @P<  O
+Lourinhanense	 [Lourinhanense] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+Rodrigo=Maurício	 [Rodrigo=Maurício] <hum> <*> <np-close> PROP M S @<SC @APP PES O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> <rel> SPEC M S @SUBJ>  O
+será	 [ser] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+apresentado	 [apresentar] <vH> <mv> V PCP M S @ICL-AUX<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+próximo	 [próximo] ADJ M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+24	 [24] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+Maio	 [Maio] <hum> <*> PROP M/F S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Associação=para=o=Desenvolvimento=de=Miragaia	 [associação=para=o=Desenvolvimento=de=Miragaia] <prop> <*> <HH> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-8
+Desta=vez	 [desta=vez] <*> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+Museu	 [museu] <prop> <*> <inst> N M S @SUBJ>  O
+lourinhanense	 [lourinhanense] <DERS> <jh> <np-close> ADJ M S @N<  O
+está	 [estar] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+a	 [a] PRP @PRT-AUX<  O
+usar	 [usar] <vH> <mv> V INF @ICL-AUX<  O
+Tomografia=Axial=Computorizada	 [Tomografia=Axial=Computorizada] <inst> <*> PROP F S @<ACC  O
+$( O
+TAC	 [TAC] <inst> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+para	 [para] PRP @<ADVL  O
+descobrir	 [descobrir] <vH> <mv> V INF @ICL-P<  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+existem	 [existir] <mv> V PR 3P IND VFIN @FS-<ACC  O
+mais	 [mais] ADV @<ADVL  O
+ovos	 [ovo] <food-c> N M P @<SUBJ  O
+com	 [com] <np-close> PRP @N<  O
+embriões	 [embrião] <Hbio> N M P @P<  O
+$, O
+os	 [o] <artd> DET M P @>N  O
+ossos	 [osso] <mat> <np-close> N M P @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+dinossauros	 [dinossauro] <Azo> N M P @P<  O
+antes	 [antes] ADV @<ADVL  O
+de	 [de] PRP @A<  O
+Habitualmente	 [Habitualmente] <common> <*> PROP M/F S @P<  O
+usado	 [usado] <nh> <np-close> ADJ M S @N<  O
+para	 [para] <np-long> PRP @N<  O
+fins	 [fim] <temp> <event> <sem-c> N M P @P<  O
+médicos	 [médico] <nh> <np-close> ADJ M P @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+equipamento	 [equipamento] <cm> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+TAC	 [TAC] <inst> <*> PROP M/F S @P<  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+disponibilizado	 [disponibilizar] <vH> <mv> V PCP M S @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+clínicas	 [clínica] <inst> N F P @P<  O
+Cedima/IRM	 [Cedima/IRM] <inst> <*> <np-close> PROP F S @N< O
+e	 [e] KC @NPHR  O
+Montepio	 [Montepio] <hum> <*> <np-close> PROP M S @N< ORG O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [a] <-sam> <artd> DET M P @>N  O
+Caldas=da=Rainha	 [Caldas=da=Rainha] <hum> <*> <np-close> PROP M S @N<  O
+em	 [em] <np-long> PRP @N< O
+colaboração	 [colaboração] <activity> N F S @P< O
+com	 [com] <np-close> PRP @N< O
+os	 [o] <artd> DET M P @>N O
+médicos	 [médico] <Hprof> N M P @P< O
+Francisco=Rita	 [Francisco=Rita] <hum> <*> <np-close> PROP M S @N< PES O
+e	 [e] KC @NPHR  O
+José	 [José] <hum> <*> <np-close> PROP M S @N<  O
+$. O
+</s>

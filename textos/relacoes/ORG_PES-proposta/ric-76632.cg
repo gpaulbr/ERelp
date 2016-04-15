@@ -1,0 +1,19 @@
+$S-1
+Comandadas	 [comandar] <vH> <mv> V PCP F P @ICL-PRED> O
+por	 [por] PRP @<PASS O
+Gabriel=Menotti	 [Gabriel=Menotti] <hum> PROP M S @P< PES O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED B-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Cine=Falcatrua	 [Cine=Falcatrua] <inst> PROP M S @P< ORG O
+$, O
+as	 [o] <artd> DET F P @>N O
+projeções	 [projeção] <act> N F P @SUBJ> O
+não	 [não] ADV @ADVL> O
+seguiam	 [seguir] <fmc> <mv> V IMPF 3P IND VFIN @FS-STA O
+uma	 [um] <arti> DET F S @>N O
+programação	 [programação] <act> N F S @<ACC O
+prévia	 [prévio] <nh> <np-close> ADJ F S @N< O 
+$. O
+$" O
+</s>

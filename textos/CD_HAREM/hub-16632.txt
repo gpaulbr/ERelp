@@ -1,0 +1,20 @@
+
+    A MINHOCA E A MAÇÃ
+    
+      Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário,
+      <EM ID="hub-16632-211" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Vasco Pulido Valente</EM>
+      recomendou-lhe esta reflexão: «
+      <EM ID="hub-16632-212" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Vítor Dias</EM>
+      que puxe pela cabeça: existe em
+      <EM ID="hub-16632-213" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      alguém ou alguma coisa a que o
+      <EM ID="hub-16632-214" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >PCP</EM>
+      já não chamou 'fascista??» Bom argumento. De facto, a repetição exaustiva da mesma acusação desacredita o acusador. Proponho, por isso, outra reflexão.
+      <EM ID="hub-16632-215" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-16632-211" TIPOREL="ident">Vasco Pulido Valente</EM>
+      que puxe pela cabeça: existe em
+      <EM ID="hub-16632-216" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16632-213" TIPOREL="ident">Portugal</EM>
+      alguém ou alguma coisa a que
+      <EM ID="hub-16632-217" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-16632-211" TIPOREL="ident">Vasco Pulido Valente</EM>
+      já não tenha chamado "ignorante"?
+    
+  

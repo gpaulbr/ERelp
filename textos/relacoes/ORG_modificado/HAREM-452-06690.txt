@@ -1,0 +1,61 @@
+$S-7
+Cansados	 [cansado] <*> <jh> ADJ M P @PRED>  O
+de	 [de] <np-close> PRP @N<  O
+terem	 [ter] <aux> V INF 3P @ICL-P<  O
+que	 [que] <clb> KS @PRT-AUX<  O
+contar	 [contar] <vH> <mv> V INF @ICL-AUX<  O
+com	 [com] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+boa=vontade	 [boa=vontade] <f-psych> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+dirigentes	 [dirigente] <H> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+grandes	 [grande] ADJ F P @>N  O
+clubes	 [clube] <newlex> N F P @P<  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+novo	 [novo] <jh> ADJ M S @>N  O
+esporte	 [esporte] <sport> <domain> N M S @P<  O
+$, O
+em	 [em] PRP @ADVL>  O
+1981	 [1981] <card> <date> <year> NUM M/F S @P<  O
+os	 [o] <artd> DET M P @>N  O
+principais	 [principal] <SUP> <jh> ADJ M P @>N  O
+jogadores	 [jogador] <Hprof> N M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Niterói	 [Niterói] <civ> <*> PROP M/F S @P<  O
+$, O
+até=então	 [até=então] ADV @ADVL>  O
+jogando	 [jogar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+C.=R.=Flamengo	 [C.=R.=Flamengo] <hum> <*> PROP M S @P< ORG O
+$, O
+juntaram-	 [juntar] <hyfen> <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+se	 [se] <refl> <coll> PERS M 3P ACC @<ACC  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+clube	 [clube] <newlex> N F S @P<  O
+em	 [em] <clb> <sam-> PRP @ADVL>  O
+o=qual	 [o=qual] <clb-fs> <rel> <-sam> SPEC M S @P<  O
+muitos	 [muito] <quant> DET M P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+eles	 [eles] <-sam> PERS M 3P NOM/PIV @P<  O
+praticavam	 [praticar] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  O
+também	 [também] ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+rugby	 [rugby] <sport> N M S @<ACC  O
+$, O
+formando	 [formar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+então	 [então] <kc> ADV @<ADVL  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+equipe	 [equipe] <HH> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+handebol	 [handebol] N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Niterói=Rugby	 [Niterói=Rugby] <inst> <*> PROP M S @P< ORG O
+$. O
+</s>

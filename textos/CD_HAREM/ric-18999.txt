@@ -1,0 +1,63 @@
+
+    
+      <EM ID="ric-18999-213" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Amazonas</EM>
+      - <EM ID="ric-18999-16" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-18999-213" TIPOREL="local_nascimento_de">Índios</EM> querem sobrenomes característicos da etnia
+    
+    
+      HOME PAGE
+      <EM ID="ric-18999-236" CATEG="LOCAL" TIPO="VIRTUAL"  >RONDONIA AO VIVO</EM>
+      ,
+      <EM ID="ric-18999-214" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >24.12.2007</EM>
+    
+    
+      <EM ID="ric-18999-17" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-18999-16" TIPOREL="ident">Índios</EM> do
+      <EM ID="ric-18999-215" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="ric-18999-213" TIPOREL="ident">Amazonas</EM>
+      reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias. Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do
+      <EM ID="ric-18999-18" CATEG="OBRA" TIPO="PLANO" COREL="ric-18999-16" TIPOREL="obra_de">Projeto Registro Civil dos Povos Indígenas do Amazonas</EM> 
+      , que aconteceu
+      <EM ID="ric-18999-217" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na última semana</EM>
+      em
+      <EM ID="ric-18999-218" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Manaus</EM>
+      .
+    
+    
+      De acordo com o projeto, iniciado
+      <EM ID="ric-18999-219" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em setembro de 2007</EM>
+      ,
+      <EM ID="ric-18999-220" CATEG="VALOR" TIPO="QUANTIDADE"  >17</EM>
+      líderes indígenas estiveram em
+      <EM ID="ric-18999-221" CATEG="VALOR" TIPO="QUANTIDADE"  >44</EM>
+      comunidades no
+      <EM ID="ric-18999-222" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Alto Rio Negro</EM>
+      ,
+      <EM ID="ric-18999-223" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Alto e Médio Solimões</EM>
+      ,
+      <EM ID="ric-18999-224" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Vale do Javari</EM>
+      ,
+      <EM ID="ric-18999-225" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Purus</EM>
+      ,
+      <EM ID="ric-18999-226" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-213" TIPOREL="incluido">Juruá</EM>
+      e
+      <EM ID="ric-18999-227" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-18999-218" TIPOREL="ident">Manaus</EM>
+      para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório.
+    
+    
+      O documento, será apresentado
+      <EM ID="ric-18999-228" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em março de 2008</EM>
+      e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas. Ao todo, foram
+      <EM ID="ric-18999-229" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 1,4 mil</EM>
+      questionários aplicados em
+      <EM ID="ric-18999-231" CATEG="VALOR" TIPO="QUANTIDADE"  >325</EM>
+      comunidades, o equivalente a
+      <EM ID="ric-18999-232" CATEG="VALOR" TIPO="QUANTIDADE"  >43</EM>
+      etnias visitadas.
+    
+    
+      Fonte: Clipping da
+      
+        6ªCCR do
+        <EM ID="ric-18999-235" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >MPF</EM>
+       
+      .
+    
+  

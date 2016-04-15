@@ -1,0 +1,60 @@
+
+    
+      Primeiro bebé
+      <EM ID="hub-71248-190" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2008</EM>
+      nasceu em
+      <EM ID="hub-71248-188" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      <EM ID="hub-71248-189" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 00:00:30 segundos</EM>
+    
+    
+      O provável primeiro bebé português <EM ID="hub-71248-4" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-71248-190" TIPOREL="ident">do ano</EM> é do sexo masculino e nasceu
+      <EM ID="hub-71248-191" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >aos 30 segundos</EM>
+      <EM ID="hub-71248-192" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de hoje</EM>
+      na
+      <EM ID="hub-71248-193" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-188" TIPOREL="incluido">Maternidade Alfredo da Costa</EM>
+      , em
+      <EM ID="hub-71248-194" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-193 hub-71248-188 hub-71248-209" TIPOREL="inclui ident ident">Lisboa</EM>
+      , disse à agência
+      <EM ID="hub-71248-195" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Lusa</EM>
+      uma fonte daquele hospital.
+    
+    
+      Com
+      <EM ID="hub-71248-196" CATEG="VALOR" TIPO="QUANTIDADE"  >3,520 quilos</EM>
+      , o bebé nasceu de parto normal e encontra-se bem, tal como a sua mãe,
+      <EM ID="hub-71248-197" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Mariana</EM>
+      , de
+      <EM ID="hub-71248-198" CATEG="VALOR" TIPO="QUANTIDADE"  >16 anos</EM>
+      .
+    
+    
+      O provável segundo bebé <EM ID="hub-71248-5" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-71248-190" TIPOREL="ident">do ano</EM> nasceu no
+      <EM ID="hub-71248-199" CATEG="LOCAL" TIPO="HUMANO"  >Hospital de São João</EM>
+      , no
+      <EM ID="hub-71248-200" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-199" TIPOREL="inclui">Porto</EM>
+      <EM ID="hub-71248-202" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao primeiro minuto do dia</EM>
+      , de parto normal. Chama-se
+      <EM ID="hub-71248-204" CATEG="ABSTRACCAO" TIPO="NOME"  >Francisco</EM>
+      e é o terceiro filho de um casal residente no
+      <EM ID="hub-71248-205" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-200" TIPOREL="ident">Porto</EM>
+      , disse à
+      <EM ID="hub-71248-206" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-71248-195" TIPOREL="ident">Lusa</EM>
+      fonte hospitalar.
+    
+    
+      <EM ID="hub-71248-207" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Ao quinto minuto do dia</EM>
+      , novamente na
+      <EM ID="hub-71248-208" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-193" TIPOREL="ident">Maternidade Alfredo da Costa</EM>
+      , em
+      <EM ID="hub-71248-209" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-71248-208" TIPOREL="inclui">Lisboa</EM>
+      ,nasceu um rapaz, de parto assistido por ventosa, com
+      <EM ID="hub-71248-210" CATEG="VALOR" TIPO="QUANTIDADE"  >3,360 quilos</EM>
+      . O bebé encontra-se bem, tal como a mãe,
+      <EM ID="hub-71248-211" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cristina</EM>
+      , de
+      <EM ID="hub-71248-212" CATEG="VALOR" TIPO="QUANTIDADE"  >30 anos</EM>
+      , disse à
+      <EM ID="hub-71248-213" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-71248-206" TIPOREL="ident">Lusa</EM>
+      a fonte do hospital.
+    
+  

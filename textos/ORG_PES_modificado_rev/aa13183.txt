@@ -1,0 +1,91 @@
+$S-8
+$" O
+O	 [o] <*> <*1> <artd> DET M S @>N  O
+Observatório=de=Coimbra	 [Observatório=de=Coimbra] <inst> <*> PROP M S @SUBJ> ORG O
+tem	 [ter] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  O
+um	 [um] <arti> DET M S @>N  O
+grande	 [grande] ADJ M S @>N  O
+acervo	 [acervo] <amount> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+imagens	 [imagem] <pict> <sem-c> <ac-cat> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Sol	 [sol] <prop> <*> <Lstar> <ac-sign> N M S <unit> <cm> <cur> @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+registam	 [registar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+diariamente	 [diariamente] ADV @<ADVL  O
+desde	 [desde] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+vinte	 [vinte] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+século	 [século] <dur> <per> N M S @P<  O
+passado	 [passado] <np-close> ADJ M S @N<  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+estão	 [estar] <clb-fs> <aux> <quote> V PR 3P IND VFIN @FS-ACC>>  O
+a	 [a] PRP @PRT-AUX<  O
+digitalizar	 [digitalizar] <vH> <mv> V INF @ICL-AUX<  O
+essas	 [esse] <dem> DET F P @>N  O
+imagens	 [imagem] <pict> <sem-c> <ac-cat> N F P @<ACC  O
+para	 [para] PRP @<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+possam	 [poder] <aux> V PR 3P SUBJ VFIN @FS-P<  O
+estar	 [estar] <vK> <mv> V INF @ICL-AUX<  O
+a	 [a] <sam-> PRP @<SC  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+disposição	 [disposição] <act-s> <f-right> <state-h> <f-psych> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+escolas	 [escola] <*2> <inst> N F P @P<  O
+$" O
+$, O
+explica	 [explicar] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  O
+Rosa=Doran	 [Rosa=Doran] <hum> <*> PROP F S @<SUBJ PES O
+$, O
+realçando	 [realçar] <mv> <v-quote> V GER @ICL-<ADVL  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+desta=forma	 [desta=forma] ADV @ADVL>  O
+$" O
+os	 [o] <*1> <artd> DET M P @>N  O
+meninos	 [menino] <H> N M P @SUBJ>  O
+podem	 [poder] <aux> V PR 3P IND VFIN @FS-<ACC  O
+fazer	 [fazer] <mv> V INF @ICL-AUX<  O
+ciência	 [ciência] <domain> N F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+própria	 [próprio] ADJ F S @>N  O
+sala=de=aula	 [sala=de=aula] <Lh> N F S @P<  O
+$, O
+podem	 [poder] <fmc> <aux> V PR 3P IND VFIN @FS-STA  O
+ver	 [ver] <vH> <mv> V INF @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+evolução	 [evolução] <process> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+manchas	 [mancha] <f-c> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+sol	 [sol] <Lstar> <ac-sign> N M S <unit> <cm> <cur> @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+últimas	 [último] <NUM-ord> ADJ F P @>N  O
+décadas	 [década] <dur> N F P @P<  O
+e	 [e] KC @NPHR  O
+comparar	 [comparar] <vH> <mv> V INF @ICL-AUX<  O
+essa	 [esse] <dem> DET F S @>N  O
+evolução	 [evolução] <process> N F S @<ACC  O
+$, O
+por=exemplo	 [por=exemplo] ADV @<ADVL  O
+$, O
+com	 [com] <np-close> PRP @N<PRED @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+mudanças	 [mudança] <event> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+clima	 [clima] <*2> <percep-f> N M S @P<  O
+$" O
+$. O
+</s>

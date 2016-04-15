@@ -1,0 +1,42 @@
+$S-1
+Norte-americanos	 [norte-americano] <*> <Hnat> N M P @SUBJ>  O
+disparam	 [disparar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+contra	 [contra] PRP @<ADVL  O
+posições	 [posição] <act> <pos-an> N F P @P<  O
+iraquianas	 [iraquiano] <nat> <jh> <np-close> ADJ F P @N<  O
+Aparelhos	 [aparelho] <prop> <*> <tool> N M P @<ACC  O
+norte-americano	 [norte-americano] <nat> ADJ M S @<PRED  O
+dispararam	 [disparar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+mísseis	 [míssil] <Vair> N M P @<ACC  O
+e	 [e] KC @NPHR  O
+lançaram	 [lançar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+bombas	 [bomba] <cc-h> <sit> <event> <inst> N F P @<ACC  O
+sobre	 [sobre] PRP @<PIV @<ADVL  O
+posições	 [posição] <act> <pos-an> N F P @P<  O
+iraquianas	 [iraquiano] <nat> <jh> <np-close> ADJ F P @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+norte	 [norte] <dir> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+$" O
+em	 [em] <*1> PRP @<ADVL  O
+resposta	 [resposta] <act-s> N F S @P<  O
+a	 [a] <np-close> PRP @N<  O
+disparos	 [disparo] <act> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+artilharia	 [artilharia] <HH> N F S @P<  O
+anti-aérea	 [anti-aéreo] <*2> <nh> <np-close> ADJ F S @N<  O
+$" O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Iraque	 [Iraque] <civ> <*> PROP M S @P< ORG O
+$, O
+anunciou	 [anunciar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+Pentágono	 [pentágono] <prop> <*> <geom> N M S @<ACC ORG O
+em	 [em] PRP @<ADVL  O
+comunicado	 [comunicado] <sem-r> N M S @P<  O
+$. O
+</s>

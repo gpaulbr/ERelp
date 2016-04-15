@@ -1,0 +1,24 @@
+$S-13
+A	 [o] <*> <artd> DET F S @>N  O
+nossa	 [nosso] <poss 1P> DET F S @>N  O
+Escola=de=Pilotagem	 [Escola=de=Pilotagem] <inst> <*> PROP F S @SUBJ> ORG O
+utiliza	 [utilizar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+3	 [3] <card> NUM F P @>N  O
+salas	 [sala] <Lh> N F P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+aulas	 [aula] <Lh> <per> <act-d> <sem-c> N F P @P<  O
+$, O
+1	 [1] <card> NUM M/F S @<ACC  O
+quais	 [qual] <rel> DETM/F P @NPHR  O
+em	 [em] PRP @<ADVL REL
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P< LOCAL O
+$, O
+estando	 [estar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+equipada	 [equipado] <jh> ADJ F S @<SC  O
+com	 [com] PRP @<ADVL  O
+modernos	 [moderno] <n> <jh> ADJ M P @P<  O
+meios	 [meio] <np-close> ADJ M P @N<  O
+audio	 [audio] EC @PREF  O
+visuais	 [visual] <nh> <np-close> ADJ M/F P @N<  O
+$. O
+</s>

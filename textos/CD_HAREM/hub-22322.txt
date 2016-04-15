@@ -1,0 +1,62 @@
+
+    
+      <EM ID="hub-22322-281" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cavaco</EM>
+      começa
+      <EM ID="hub-22322-282" CATEG="TEMPO" TIPO="GENERICO"  >ano</EM>
+      com recados de maior exigência ao
+      <EM ID="hub-22322-283" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Governo</EM>
+    
+    
+      O
+      <EM ID="hub-22322-284" CATEG="PESSOA" TIPO="CARGO" COREL="hub-22322-281" TIPOREL="ident">Presidente da República</EM>
+      ,
+      <EM ID="hub-22322-285" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-22322-281" TIPOREL="ident">Aníbal Cavaco Silva</EM>
+      , vai deixar uma série de recados ao
+      <EM ID="hub-22322-286" CATEG="ORGANIZACAO|PESSOA|PESSOA" TIPO="ADMINISTRACAO|GRUPOMEMBRO|GRUPOIND" COREL="hub-22322-283" TIPOREL="ORGANIZACAO**ident**hub-22322-283**ORGANIZACAO">Governo</EM>
+      nas palavras que vai dirigir ao país
+      <EM ID="hub-22322-287" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-22322-282" TIPOREL="incluido">no primeiro dia do ano</EM>
+      .
+    
+    
+      A notícia faz manchete na edição
+      <EM ID="hub-22322-288" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desta terça-feira</EM>
+      do
+      <EM ID="hub-22322-289" CATEG="LOCAL" TIPO="VIRTUAL"  >Jornal de Notícias</EM>
+      , com o diário portuense a assegurar que
+      <EM ID="hub-22322-290" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-22322-281" TIPOREL="ident">Cavaco</EM>
+      prepara, para a sua primeira comunicação
+      <EM ID="hub-22322-291" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-22322-282" TIPOREL="ident">em 2008</EM>
+      ao
+      <EM ID="hub-22322-292" CATEG="PESSOA" TIPO="POVO"  >País</EM>
+      , um discurso com menos optimismo do que o transmitido por
+      <EM ID="hub-22322-293" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-22322-283" TIPOREL="vinculo_inst">Sócrates</EM>
+      mensagem
+      <EM ID="hub-22322-295" CATEG="TEMPO" TIPO="GENERICO"  >de Natal</EM>
+      .
+    
+    
+      Afirmando esperar
+      <EM ID="hub-22322-296" CATEG="TEMPO" TIPO="GENERICO"  >um ano de 2008</EM>
+      mais exigente do que
+      <EM ID="hub-22322-297" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2007</EM>
+      , o
+      <EM ID="hub-22322-298" CATEG="PESSOA" TIPO="CARGO" COREL="hub-22322-281" TIPOREL="ident">Presidente da República</EM>
+      promete,
+      <EM ID="hub-22322-299" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao longo do próximo ano</EM>
+      , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho.
+    
+    
+      Segundo o
+      <EM ID="hub-22322-300" CATEG="OBRA" TIPO="REPRODUZIDA"  >JN</EM> 
+      ,
+
+      
+        <EM ID="hub-22322-301" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cavaco silva</EM>
+        
+      vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu
+      <EM ID="hub-22322-303" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-22322-297" TIPOREL="ident">no ano passado</EM>
+      ao
+      <EM ID="hub-22322-304" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-22322-283" TIPOREL="ident">Governo</EM>
+      , para as áreas da economia, educação e justiça
+    
+  

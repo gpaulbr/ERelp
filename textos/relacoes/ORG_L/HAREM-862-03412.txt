@@ -1,0 +1,37 @@
+$S-3
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+30	 [30] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+junho	 [junho] N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Comissão=de=Controle=e=Gestão=Fiscal	 [Comissão=de=Controle=e=Gestão=Fiscal] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ministério=da=Fazenda	 [Ministério=da=Fazenda] <inst> <*> PROP M S @P<  O
+$, O
+publicou	 [publicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+$, O
+em	 [em] <sam-> PRP @<ADVL B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Diário=Oficial	 [Diário=Oficial] <media> <*> PROP M S @P< LOCAL O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+recomendação	 [recomendação] <act-s> N F S @<ACC  O
+a	 [a] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ministério=de=Orçamento=e=Gestão	 [Ministério=de=Orçamento=e=Gestão] <tit> <*> PROP M S @P<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+autorização	 [autorização] <act> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+concursos	 [concurso] <occ> N M P @P<  O
+$. O
+</s>

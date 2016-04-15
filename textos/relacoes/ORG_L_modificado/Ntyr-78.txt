@@ -1,0 +1,220 @@
+$S-1
+CCB=15	 [CCB=15] <org> <*> PROP M S @NPHR  O
+Anos	 [Anos] <org> <*> <np-close> PROP M S @N<  O
+$| O
+Um=Presente	 [Um=Presente] <org> <*> PROP M/F S @SUBJ>  O
+a	 [a] <sam-> PRP @ADVL>  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Espectadores=Com	 [Espectadores=Com] <org> <*> PROP M P @P<  O
+um	 [um] <arti> DET M S @>N  O
+grande	 [grande] <jh> ADJ M S @>N  O
+concerto	 [concerto] <occ> <sem-l> N M S @SUBJ>  O
+realizado	 [realizar] <vH> <np-close> V PCP M S @N<  O
+ao=ar=livre	 [ao=ar=livre] <pp> ADJ @N<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Praça=do=Museu	 [Praça=do=Museu] <top> <*> PROP F S @P<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+21	 [21] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+Março	 [Março] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1993	 [1993] <card> <date> <year> NUM M/F P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+CCB	 [CCB] <org> <*> PROP M S @SUBJ> ORG O
+iniciava	 [iniciar] <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+$, O
+há	 [há] PRP @<ADVL  O
+quinze	 [quinze] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+actividade	 [actividade] <act-d> <activity> N F S @<ACC  O
+como	 [como] <com> <adv-rel> PRP @<ADVL  O
+centro	 [centro] <asarg> <Labs> <inst> <Ltop> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+produção	 [produção] <act> <am> N F S @P<  O
+e	 [e] KC @NPHR  O
+apresentação	 [apresentação] <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+espectáculos	 [espetáculo] <occ> N M P @P<  O
+e	 [e] KC @NPHR  O
+exposições	 [exposição] <occ> <act> <sem-s> <per> N F P @P<  O
+o	 [o] <artd> DET M S @>N REL
+maior	 [grande] <n> <KOMP> <jh> ADJ M S @<ACC REL
+de	 [de] PRP @KOMP< REL
+Portugal	 [Portugal] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-3
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+este	 [este] <-sam> <dem> DET M S @>N  O
+arco	 [arco] <Labs> N M S @P<  O
+temporal	 [temporal] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <np-close> PRP @N<  O
+15	 [15] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+CCB	 [CCB] <org> <*> PROP M S @SUBJ> ORG O
+apresentou	 [apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+a	 [a] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+público	 [público] <HH> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P< LOCAL O
+artistas	 [artista] <jh> ADJ M/F P @<ACC  O
+tão	 [tão] <quant> <KOMP> ADV @<ADVL  O
+diversos	 [diversos] <quant> DET M P @<ACC  O
+como	 [como] <com> <adv-rel> PRP @KOMP<  O
+Sviatoslav=Richter	 [Sviatoslav=Richter] <hum> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Cecilia=Bartoli	 [Cecilia=Bartoli] <hum> <asarg> <*> PROP F S @P<  O
+$, O
+Pina=Bausch=et=Pippo=Delbono	 [Pina=Bausch=et=Pippo=Delbono] <hum> <*> PROP F S @<ACC  O
+$, O
+Peter=Brook	 [Peter=Brook] <hum> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+Jordi=Savall	 [Jordi=Savall] <hum> <*> PROP M S @<ACC  O
+$, O
+Philip=Glass=et=Keith=Jarrett	 [Philip=Glass=et=Keith=Jarrett] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Royal=Shakespeare=Company	 [Royal=Shakespeare=Company] <org> <*> <np-close> PROP M S @APP  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Piccolo=Teatro=di=Milano	 [Piccolo=Teatro=di=Milano] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+Robert=Lepage	 [Robert=Lepage] <hum> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+companhia	 [companhia] <HH> N F S @<ACC  O
+Cheek	 [Cheek] <org> <*> <np-close> PROP F S @N<  O
+by	 [by] <np-long> PRP @N< @<ADVL  O
+Jowl	 [Jowl] <hum> <*> PROP M/F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+companhia	 [companhia] <HH> <np-close> N F S @APP @P<  O
+de	 [de] <np-close> PRP @N<  O
+ópera	 [ópera] <sem-l> <inst> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Teatro=Mariinski=de=S.=Petersburgo	 [Teatro=Mariinski=de=S.=Petersburgo] <inst> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+The=Wooster=Group	 [The=Wooster=Group] <org> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-33
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+este	 [este] <-sam> <dem> DET M S @>N  O
+arco	 [arco] <Labs> N M S @P<  O
+temporal	 [temporal] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <np-close> PRP @N<  O
+15	 [15] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+CCB	 [CCB] <org> <*> PROP M S @SUBJ> O
+apresentou	 [apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+público	 [público] <HH> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P< O
+artistas	 [artista] <jh> ADJ M/F P @<ACC  O
+tão	 [tão] <quant> <KOMP> ADV @<ADVL  O
+diversos	 [diversos] <quant> DET M P @<ACC  O
+como	 [como] <com> <adv-rel> PRP @KOMP<  O
+Sviatoslav=Richter	 [Sviatoslav=Richter] <hum> <asarg> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Cecilia=Bartoli	 [Cecilia=Bartoli] <hum> <asarg> <*> PROP F S @P<  O
+$, O
+Pina=Bausch=et=Pippo=Delbono	 [Pina=Bausch=et=Pippo=Delbono] <hum> <*> PROP F S @<ACC  O
+$, O
+Peter=Brook	 [Peter=Brook] <hum> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+Jordi=Savall	 [Jordi=Savall] <hum> <*> PROP M S @<ACC  O
+$, O
+Philip=Glass=et=Keith=Jarrett	 [Philip=Glass=et=Keith=Jarrett] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Royal=Shakespeare=Company	 [Royal=Shakespeare=Company] <org> <*> <np-close> PROP M S @APP  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Piccolo=Teatro=di=Milano	 [Piccolo=Teatro=di=Milano] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+Robert=Lepage	 [Robert=Lepage] <hum> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+companhia	 [companhia] <HH> N F S @<ACC  O
+Cheek	 [Cheek] <org> <*> <np-close> PROP F S @N<  O
+by	 [by] <np-long> PRP @N< @<ADVL  O
+Jowl	 [Jowl] <hum> <*> PROP M/F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+companhia	 [companhia] <HH> <np-close> N F S @APP @P<  O
+de	 [de] <np-close> PRP @N<  O
+ópera	 [ópera] <sem-l> <inst> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Teatro=Mariinski	 [Teatro=Mariinski=de=S.=Petersburgo] <inst> <*> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+S.=Petersburgo	 [Teatro=Mariinski=de=S.=Petersburgo] <inst> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+The=Wooster=Group	 [The=Wooster=Group] <org> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-6
+Durante	 [durante] <*> PRP @ADVL>  O
+estes	 [este] <dem> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+viragem	 [viragem] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+século	 [século] <dur> <per> N M S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+CCB	 [CCB] <org> <*> PROP M S @SUBJ> ORG O
+acolheu	 [acolher] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+alguns	 [algum] <quant> DET M P @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+maiores	 [grande] <KOMP> <jh> ADJ M P @>N  O
+espectáculos	 [espetáculo] <occ> N M P @P<  O
+apresentados	 [apresentar] <vH> <mv> <np-close> V PCP M P @ICL-N<  O
+em	 [em] PRP @<ADVL REL
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P< LOCAL O
+$, O
+tornando-	 [tornar] <clb> <hyfen> <mv> V GER @ICL-<ADVL  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+um	 [um] <card> NUM M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+equipamentos	 [equipamento] <cm> N M P @P<  O
+culturais	 [cultural] <nh> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+referência	 [referência] <act-s> <sem-r> <ac> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+e	 [e] KC @NPHR  O
+um	 [um] <arti> DET M S @>N  O
+parceiro	 [parceiro] <H> N M S @<ACC  O
+crescentemente	 [crescentemente] <nh> ADV @ADVL>  O
+procurado	 [procurar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+por	 [por] PRP @<PASS  O
+insituições	 [insituição] <DERS> N F P @P<  O
+culturais	 [cultural] <nh> <np-close> ADJ F P @N<  O
+internacionais	 [internacional] <nh> <np-long> ADJ F P @N<  O
+$. O
+</s>

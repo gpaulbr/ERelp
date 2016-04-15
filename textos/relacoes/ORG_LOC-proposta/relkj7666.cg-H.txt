@@ -1,0 +1,78 @@
+$S-1
+Missão=Salesiana	 [Missão=Salesiana] <org> PROP F S @SUBJ> ORG O
+em	 [em] <np-close> PRP @N< B-REL
+Mato=Grosso	 [Mato=Grosso] <civ> PROP M S @P< LOCAL O
+
+$S-2
+Museu=de=Indumentária=Histórica=e=Antiguidades	 [Museu=de=Indumentária=Histórica=e=Antiguidades] <inst> PROP M S @<ACC ORG O
+e	 [e] <co-acc> KC @CO O
+em	 [em] PRP @<ADVL O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+residência	 [residência] <build> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O B-REL
+o	 [o] <artd> <-sam> DET M S @>N O I-REL
+bairro	 [bairro] <Lciv> N M S @P< I-REL
+carioca	 [carioca] <nat> <jh> <np-close> ADJ M S @N< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Santa=Teresa	 [Santa=Teresa] <civ> PROP F S @P< LOCAL O
+
+$S-3
+Pátio=dos=Canhões	 [Pátio=dos=Canhões] <top> PROP M S @SUBJ> LOCAL O
+foi	 [ser] <fmc> <vK> <mv> V PS 3S IND VFIN @FS-STA O
+reformado	 [reformado] <H> N M S @<SC O
+$, O
+contando	 [contar] <clb> <vH> <mv> V GER @ICL-<ADVL O
+com	 [com] PRP @<PIV O
+o	 [o] <artd> DET M S @>N O
+apoio	 [apoio] <cc> <act-d> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Arsenal=de=Guerra=do=Rio	 [Arsenal=de=Guerra=do=Rio] <inst> PROP M S @P< ORG O
+
+$S-4
+Arquivo=Histórico	 [Arquivo=Histórico] <org> <np-close> PROP M S @N< ORG O
+$, O
+com	 [com] <np-close> PRP @N<PRED O 
+50.000	 [50.000] <card> NUM M P @>N O
+documentos	 [documento] <cc-r> N M P @P< O
+iconográficos	 [iconográfico] <nh> <np-close> ADJ M P @N< O 
+e	 [e] <co-postnom> KC @CO O
+manuscritos	 [manuscrito] <nh> <np-close> ADJ M P @N< O 
+sobre	 [sobre] PRP @<ADVL O
+a	 [o] <artd> DET F S @>N O
+história	 [história] <domain> <per> <sem-r> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< LOCAL O
+
+$S-5
+Centro=de=Referência=Luso--Brasileiro	 [Centro=de=Referência=Luso--Brasil] <media> PROP M S @<ACC ORG O
+$, O
+ligado	 [ligar] <mv> V PCP M S @ICL-N<PRED O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Arquivo=Histórico	 [Arquivo=Histórico] <tit> PROP M S @P< O
+e	 [e] <co-pred> KC @CO O
+criado	 [criar] <mv> V PCP M S @ICL-<PRED O
+em	 [em] PRP @<PIV O
+1998	 [1998] <card> <year> <date> NUM M/F P @P< O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+âmbito	 [âmbito] <Labs> <L> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <artd> <-sam> DET F P @>N O
+comemorações	 [comemoração] <act> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+500	 [500] <card> NUM M P @>N O
+anos	 [ano] <per> <temp> <dur> <unit> N M P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+chegada	 [chegada] <event> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+portugueses	 [português] <Hnat> <ling> N M P @P< O
+a	 [a] <sam-> <np-long> PRP @N< O
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< LOCAL O

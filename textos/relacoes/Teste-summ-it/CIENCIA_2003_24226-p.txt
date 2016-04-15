@@ -1,0 +1,30 @@
+$S-5 
+Esse 	[esse] <dem> DET M S @>N   O
+vírus 	[vírus] <Acell> N M S @SUBJ>   O
+é 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC   O
+antigo 	[antigo] ADJ M S @<SC   O
+e 	[e] KC @NPHR   O
+é 	[ser] <vK> <fmc> <mv> <quote> V PR 3S IND VFIN @FS-ACC   O
+uma 	[um] <arti> DET F S @>N   O
+zoonose 	[zoonose] <sick> N F S @<SC    O
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+virologista 	[virologista] <Hprof> N M S @<SUBJ   O
+Paolo=Zanotto 	[Paolo=Zanotto] <hum>   <np-close> PROP M S @N<  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+USP 	[USP] <org>   PROP F S @P<  ORG O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+está 	[estar] <aux> <np-close> V PR 3S IND VFIN @FS-N<   O
+preparando 	[preparar] <clb> <vH> <mv> V GER @ICL-AUX<   O
+um 	[um] <arti> DET M S @>N   O
+diagnóstico 	[diagnóstico] <sem-r> N M S @<ACC   O
+molecular 	[molecular] <nh> <np-close> ADJ M S @N<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+pneumonia 	[pneumonia] <sick> N F S @P<   O
+$. 
+</s>

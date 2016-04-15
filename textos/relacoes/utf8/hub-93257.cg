@@ -1,0 +1,9 @@
+$S-1
+Salazar	 [Salazar] <hum> PROP M S @SUBJ> PES O
+manteve	 [manter] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA B-REL
+a	 [o] <artd> DET F S @>N I-REL
+neutralidade	 [neutralidade] <state-h> N F S @<ACC I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Portugal	 [Portugal] <civ> PROP M S @P< ORG O
+$. O
+</s>

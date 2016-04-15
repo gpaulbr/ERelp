@@ -1,0 +1,36 @@
+$S-5
+O 	[o]   <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>   O
+$, 
+feito 	[feito] <act> <np-close> N M S @N<PRED   O
+por 	[por] PRP @ADVL>   O
+pesquisadores 	[pesquisador] <Hprof> N M P @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Imperial=College 	[Imperial=College] <inst>   PROP M S @P<  ORG O
+$, 
+em 	[em] PRP @ADVL>   O
+Londres 	[Londres] <civ>   PROP F S @P<  LOCAL O
+$, 
+mostra 	[mostrar] <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+$, 
+além=disso 	[além=disso] ADV @ADVL>   O
+$, 
+elas 	[elas] PERS F 3P NOM @SUBJ>   O
+são 	[ser] <vK> <mv> V PR 3P IND VFIN @FS-<ACC   O
+capazes 	[capaz] <jh> ADJ F P @<SC   O
+de 	[de] PRP @A<   O
+originar 	[originar] <mv> V INF @ICL-P<   O
+outro 	[outro] <diff> <KOMP> DET M S @>N   O
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+célula 	[célula] <Acell> <Lh> <HH> N F S @P<   O
+células 	[célula] <Acell> <Lh> <HH> N F P @<SUBJ   O
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<   O
+dentro=de 	[dentro=de] <sam-> PRP @<ADVL   O
+o 	[o] <artd> <-sam> DET M S @>N   O
+organismo 	[organismo] <A> <inst> N M S @P<   O
+humano 	[humano] <jh> <np-close> ADJ M S @N<   O
+$. 
+</s>

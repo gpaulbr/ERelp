@@ -1,0 +1,22 @@
+$S-22
+Deixou-	 [deixar] <*> <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] PERS M/F 3S/P ACC @SUBJ>  O
+enredar	 [enredar] <vH> <mv> V INF 3S @ICL-<ACC  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P< ORG O
+em	 [em] <np-close> PRP @N<PRED REL
+Lisboa	 [Lisboa] <civ> <*> PROP F S @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N  O
+pior	 [mau] <KOMP> <SUP> ADJ M S @>N  O
+sítio	 [sítio] <Ltop> <per> <Lh> N M S @PRED>  O
+para	 [para] PRP @ADVL>  O
+alguém	 [alguém] <clb> SPEC M S @SUBJ> @P<  O
+se	 [se] <clb> PERS M/F 3S/P ACC @SUBJ>  O
+enredar	 [enredar] <vH> <mv> V INF 3S @ICL-P< @ICL-<ACC  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+PS	 [PS] <party> <*> PROP M S @P<  O
+$. O
+</s>

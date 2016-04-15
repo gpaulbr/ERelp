@@ -1,0 +1,144 @@
+$S-1
+Concurso=Para=Auditor=Fiscal	 [Concurso=Para=Auditor=Fiscal] <org> <*> PROP F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+INSS=Já	 [INSS=Já] <inst> <*> PROP M S @P<  O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+pronta	 [pronto] <jh> ADJ F S @<SC  O
+a	 [o] <artd> DET F S @>N  O
+minuta	 [minuta] <cc-r> <act-s> N F S @PRED>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+edital	 [edital] <sem-s> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+concurso	 [concurso] <occ> N M S @P<  O
+para	 [para] <np-close> PRP @N<  O
+auditor	 [auditor] <Hprof> N M S @P<  O
+fiscal	 [fiscal] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+INSS	 [INSS] <inst> <*> PROP M S @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+oferecerá	 [oferecer] <vH> <mv> <np-close> V FUT 3S IND VFIN @FS-N<  O
+150	 [150] <card> NUM M/F P @>N  O
+vagas	 [vago] <n> <nh> ADJ F P @<ACC  O
+$, O
+prometidas	 [prometer] <vH> <mv> V PCP F P @ICL-N<PRED  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+governo	 [governo] <HH> N M S @P<  O
+federal	 [federal] <nh> <np-close> ADJ M S @N<  O
+$, O
+conforme	 [conforme] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+revelou	 [revelar] <mv> <np-close> V PS 3S IND VFIN @FS-<ADVL @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+chefe	 [chefe] <Htit> N M S @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+Divisão=na=Coordenação=Geral=do=INSS	 [Divisão=na=Coordenação=Geral=do=INSS] <org> <*> PROP F S @P< ORG O
+$, O
+Maurílio=Gonçalves=Dias	 [Maurílio=Gonçalves=Dias] <hum> <*> <np-close> PROP M S @APP  O
+$. O
+</s>
+
+$S-3
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+30	 [30] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+junho	 [junho] N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Comissão=de=Controle=e=Gestão=Fiscal	 [Comissão=de=Controle=e=Gestão=Fiscal] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Ministério=da=Fazenda	 [Ministério=da=Fazenda] <inst> <*> PROP M S @P< ORG O
+$, O
+publicou	 [publicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Diário=Oficial	 [Diário=Oficial] <media> <*> PROP M S @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+recomendação	 [recomendação] <act-s> N F S @<ACC  O
+a	 [a] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ministério=de=Orçamento=e=Gestão	 [Ministério=de=Orçamento=e=Gestão] <tit> <*> PROP M S @P<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+autorização	 [autorização] <act> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+concursos	 [concurso] <occ> N M P @P<  O
+$. O
+</s>
+
+$S-4
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+30	 [30] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+junho	 [junho] N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Comissão=de=Controle=e=Gestão=Fiscal	 [Comissão=de=Controle=e=Gestão=Fiscal] <org> <*> PROP F S @SUBJ> ORG O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ministério=da=Fazenda	 [Ministério=da=Fazenda] <inst> <*> PROP M S @P<  O
+$, O
+publicou	 [publicar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Diário=Oficial	 [Diário=Oficial] <media> <*> PROP M S @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N B-REL
+recomendação	 [recomendação] <act-s> N F S @<ACC I-REL
+a	 [a] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Ministério=de=Orçamento=e=Gestão	 [Ministério=de=Orçamento=e=Gestão] <tit> <*> PROP M S @P< ORG O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+autorização	 [autorização] <act> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+concursos	 [concurso] <occ> N M P @P<  O
+$. O
+</s>
+
+$S-5
+Uma	 [um] <*> <arti> DET F S @>N  O
+fonte	 [fonte] <Lwater> <Labs> <an> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+INSS	 [INSS] <inst> <*> PROP M S @P< ORG O
+disse	 [dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  O
+grande	 [grande] <jh> ADJ M S @<SC  O
+a	 [o] <artd> DET F S @>N  O
+possibilidade	 [possibilidade] <ac> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Universidade=de=Brasília	 [Universidade=de=Brasília] <inst> <*> PROP F S @P< ORG O
+$( O
+UnB	 [UnB] <civ> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+organizar	 [organizar] <vH> <mv> V INF 0/1/3S @ICL-<SUBJ  O
+o	 [o] <artd> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+concurso	 [concurso] <occ> N M S @<ACC  O
+$. O
+</s>

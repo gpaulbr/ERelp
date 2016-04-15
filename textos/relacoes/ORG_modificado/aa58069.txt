@@ -1,0 +1,134 @@
+$S-17
+É	 [é] <foc> <*> ADV @FOC>  O
+também	 [também] ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+Quénia	 [Quénia] <civ> <*> PROP F S @SUBJ> ORG O
+$, O
+$" O
+ao=lado=de	 [ao=lado=de] <sam-> <*1> PRP @ADVL>  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+Nigéria	 [Nigéria] <civ> <*> PROP F S @P< ORG O
+$, O
+que	 [que] <foc> ADV @<FOC  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>  O
+incendeia	 [incendiar] <clb-fs> <*2> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  O
+$" O
+$, O
+diz	 [dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  O
+Moncef=Kaabi	 [Moncef=Kaabi] <hum> <*> PROP M/F S @<SUBJ  O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Natixis	 [Natixis] <org> <*> PROP F S @P<  O
+$, O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+também	 [também] ADV @>N  O
+a	 [o] <artd> DET F S @>N  O
+Turquia	 [Turquia] <civ> <*> PROP F S @<SC  O
+$, O
+com	 [com] <np-close> PRP @N<PRED  O
+as	 [o] <artd> DET F P @>N  O
+operações	 [operação] <act-d> N F P @P<  O
+contra	 [contra] <np-close> PRP @N<  O
+os	 [o] <artd> DET M P @>N  O
+separatistas	 [separatista] <Hideo> N M P @P<  O
+curdos	 [curdo] <nat> <jh> <np-close> ADJ M P @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Norte	 [norte] <prop> <*> <dir> N M S @P<  O
+$, O
+justificando	 [justificar] <vH> <mv> <v-quote> V GER @ICL-<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+mercados	 [mercado] <inst> N M P @SUBJ>  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+o	 [o] <asarg> <dem> DET M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+petróleo	 [petróleo] <cm-liq> N M S @P<  O
+$" O
+traduzem	 [traduzir] <*1> <mv> V PR 3P IND VFIN @FS-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+inquietação	 [inquietação] <act> N F S @<ACC  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+incerteza	 [incerteza] <am> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+investidores	 [investidor] <*2> <Hprof> N M P @P<  O
+$" O
+$. O
+</s>
+
+$S-19
+O	 [o] <*> <artd> DET M S @>N  O
+preço	 [preço] <f-q> N M S @SUBJ>  O
+actual	 [actual] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+petróleo	 [petróleo] <cm-liq> N M S @P<  O
+ficou	 [ficar] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+agora	 [agora] <kc> ADV @<ADVL  O
+mais	 [mais] <quant> <KOMP> ADV @<ADVL  O
+próximo=de	 [próximo=de] <sam-> PRP @<SC  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+pico	 [pico] <Ltip> <Ltop> <Labs> <Aorn> <am> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+100	 [100] <card> NUM M P @>N  O
+dólares	 [dólar] <unit> <cur> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+1980	 [1980] <card> <date> <year> NUM M/F P @>N  O
+provocado	 [provocar] <n> <mv> V PCP M S @ICL-P<  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+guerra	 [guerra] <occ> <per> N F S @P<  O
+entre	 [entre] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Irão	 [Irão] <civ> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Iraque	 [Iraque] <civ> <*> PROP M S @P<  O
+$, O
+dois	 [dois] <card> NUM M P @>N REL
+países-membros	 [país-membro] <an> <H> <Lciv> <np-close> N M P @APP REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+OPEP	 [OPEP] <org> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-20
+O	 [o] <*> <artd> DET M S @>N  O
+preço	 [preço] <f-q> N M S @SUBJ>  O
+actual	 [actual] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+petróleo	 [petróleo] <cm-liq> N M S @P<  O
+ficou	 [ficar] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+agora	 [agora] <kc> ADV @<ADVL  O
+mais	 [mais] <quant> <KOMP> ADV @<ADVL  O
+próximo=de	 [próximo=de] <sam-> PRP @<SC  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+pico	 [pico] <Ltip> <Ltop> <Labs> <Aorn> <am> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+100	 [100] <card> NUM M P @>N  O
+dólares	 [dólar] <unit> <cur> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+1980	 [1980] <card> <date> <year> NUM M/F P @>N  O
+provocado	 [provocar] <n> <mv> V PCP M S @ICL-P<  O
+por	 [por] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+guerra	 [guerra] <occ> <per> N F S @P<  O
+entre	 [entre] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Irão	 [Irão] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Iraque	 [Iraque] <civ> <*> PROP M S @P< ORG O
+$, O
+dois	 [dois] <card> NUM M P @>N REL
+países-membros	 [país-membro] <an> <H> <Lciv> <np-close> N M P @APP REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+OPEP	 [OPEP] <org> <*> PROP F S @P< ORG O
+$. O
+</s>

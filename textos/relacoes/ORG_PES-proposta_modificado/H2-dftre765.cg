@@ -1,0 +1,226 @@
+$S-1
+Perante	 [perante] PRP @ADVL> O
+a	 [o] <artd> DET F S @>N O
+recusa	 [recusa] <act-s> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Papado	 [papado] <prop> <pos-soc> N M S @P< O
+$, O
+Henrique	 [Henrique] <hum> PROP M S @SUBJ> PES O
+faz-	 [fazer] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] PERS M/F 3S/P ACC @SUBJ> O
+proclamar	 [proclamar] <vH> <mv> V INF 3S @ICL-<ACC O
+$, O
+em	 [em] PRP @<ADVL O
+1531	 [1531] <card> <year> <date> NUM M/F S @P< O
+$, O
+protector	 [protector] <cm-rem> <H> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja	 [igreja] <prop> <inst> N F S @P< ORG O
+inglesa	 [inglês] <nat> <jh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-2
+O	 [o] <artd> DET M S @>N O
+$" O
+Ato=de=Supremacia	 [Ato=de=Supremacia] <org> PROP M S @SUBJ> O
+$" O
+$, O
+votado	 [votar] <vH> <mv> V PCP M S @ICL-N<PRED O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Parlamento	 [parlamento] <prop> <inst> N M S @P< O
+em	 [em] PRP @ADVL> O
+Novembro	 [novembro] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+1534	 [1534] <card> <year> <date> NUM M/F P @P< O
+$, O
+colocou	 [colocar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+Henrique	 [Henrique] <hum> PROP M S @<ACC PES O
+e	 [e] <co-acc> KC @CO O
+os	 [o] <artd> DET M P @>N O
+seus	 [seu] <si> <poss 3S> DET M P @>N O
+sucessores	 [sucessor] <H> N M P @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+liderança	 [liderança] <pos-soc> <HH> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja	 [igreja] <prop> <inst> N F S @P< ORG O
+$: O
+</s>
+
+$S-3
+De	 [de] PRP @ADVL> O
+início	 [início] <temp> N M S @P< O
+moderada	 [moderar] <jh> <mv> V PCP F S @ICL-PRED> O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+política	 [política] <domain> <sem-c> N F S @P< O
+religiosa	 [religioso] <jh> <np-close> ADJ F S @N< O 
+$, O
+Maria	 [Maria] <hum> PROP F S @SUBJ> PES O
+procura	 [procurar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+reconciliação	 [reconciliação] <act> N F S @<ACC O
+com	 [com] <np-close> PRP @N< O
+Roma	 [Roma] <civ> PROP M S @P< ORG O
+$, O
+consagrada	 [consagrar] <vH> <np-close> V PCP F S @N<PRED O 
+em	 [em] PRP @<ADVL O
+1554	 [1554] <card> <year> <date> NUM M/F P @P< O
+$, O
+quando	 [quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL> O
+o	 [o] <artd> DET M S @>N O
+Parlamento	 [parlamento] <prop> <inst> N M S @SUBJ> O
+vota	 [votar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+o	 [o] <artd> DET M S @>N O
+regresso	 [regresso] <event> N M S @<ACC O
+a	 [a] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+obediência	 [obediência] <am> N F S @P< O
+papal	 [papal] <nh> <np-close> ADJ F S @N< O 
+$. O
+</s>
+
+$S-4
+o	 [o] <artd> DET M S @>N O
+Santo=Batismo	 [Santo=Batismo] <genre> PROP M S @SUBJ> O
+$, O
+através	 [através] ADV @ADVL> O
+de	 [de] <sam-> PRP @A< O
+o=qual	 [o=qual] <rel> <-sam> SPEC M S @P< O
+a	 [o] <artd> DET F S @>N O
+pessoa	 [pessoa] <H> N F S @SUBJ> O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+feita	 [fazer] <mv> V PCP F S @ICL-AUX< O
+membro	 [membro] <an> <H> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja=de=Cristo	 [Igreja=de=Cristo] <top> PROP F S @P< ORG O
+$, O
+sendo=que	 [sendo=que] <clb> <clb-fs> KS @SUB O
+tal	 [tal] <KOMP> <diff> DET F S @>N O
+graça	 [graça] <am> N F S @SUBJ> O
+é	 [ser] <aux> V PR 3S IND VFIN @FS-<ADVL O
+complementada	 [complementar] <vH> <mv> V PCP F S @ICL-AUX< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Confirmação	 [confirmação] <prop> <act> N F S @P< O
+$, O
+e	 [e] <co-fin> KC @CO O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Santa=Comunhão	 [Santa=Comunhão] <top> PROP F S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> REL
+une	 [unir] <mv> <np-close> V PR 3S IND VFIN @FS-N< REL 
+o	 [o] <artd> DET M S @>N REL
+cristão	 [cristão] <Hideo> N M S @<ACC REL
+a	 [a] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+sacrifício	 [sacrifício] <act-d> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+Cristo=Jesus	 [Cristo=Jesus] <hum> PROP M S @P< PES O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+os	 [eles] PERS M 3P ACC @ACC> O
+alimenta	 [alimentar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O
+com	 [com] PRP @<ADVL O
+seu	 [seu] <si> <poss 3S> DET M S @>N O
+corpo	 [corpo] <part-build> <build> <HH> <anmov> <ac-sign> N M S @P< O
+e	 [e] <co-prparg> KC @CO O
+sangue	 [sangue] <cm-liq> N M S @P< O
+$. O
+</s>
+
+$S-5
+Os=demais	 [os=demais] DET M P @>N O
+ritos	 [rito] <occ> N M P @SUBJ> O
+sacramentais	 [sacramental] <nh> <np-close> ADJ M P @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja	 [igreja] <prop> <inst> N F S @P< ORG O
+também	 [também] ADV @ADVL> O
+são	 [ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA O
+aceitos	 [aceitar] <vH> <mv> V PCP M P @ICL-AUX< O
+$, O
+apesar=de	 [apesar=de] PRP @<ADVL O
+não	 [não] ADV @ADVL> O
+terem	 [ter] <aux> V INF 3P @ICL-P< O
+sido	 [ser] <aux> V PCP @ICL-AUX< O
+instituídos	 [instituir] <vH> <mv> V PCP M P @ICL-AUX< O
+por	 [por] PRP @<PASS O
+Cristo	 [Cristo] <hum> PROP M S @P< PES O
+$, O
+mas	 [mas] <co-fin> <co-fmc> KC @CO O
+são	 [ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA O
+reconhecidos	 [reconhecer] <vH> <mv> V PCP M P @ICL-AUX< O
+por	 [por] PRP @<PASS O
+serem	 [ser] <vK> <mv> V INF 3P @ICL-P< O
+$, O
+em=parte	 [em=parte] <pp> ADV @<ADVL O
+$, O
+estados	 [estado] <Lciv> <state> N M P @<SC O
+de	 [de] <np-close> PRP @N< O
+vida	 [vida] <per> N F S @P< O
+aprovados	 [aprovar] <vH> <mv> <np-close> V PCP M P @ICL-N< O
+em	 [em] <sam-> PRP @<ADVL O
+as	 [o] <artd> <-sam> DET F P @>N O
+Escrituras	 [escritura] <prop> <cc-r> N F P @P< O
+$: O
+</s>
+
+$S-6
+Embora	 [embora] <clb> KS @SUB O
+tenham	 [ter] <fmc> <aux> V PR 3P SUBJ VFIN @FS-STA O
+se	 [se] <refl> PERS F 3S/P ACC @ACC> O
+afastado	 [afastar] <vH> <mv> V PCP @ICL-AUX< O
+de	 [de] PRP @<PIV O
+muitas	 [muito] <quant> DET F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+as	 [o] <artd> <-sam> DET F P @>N O
+prática	 [prático] <n> <jh> ADJ F S @P< O
+devocionais	 [devocional] <nh> <np-close> ADJ M/F P @N< O 
+medievais	 [medieval] <nh> <np-long> ADJ M/F P @N< O 
+com=relação=a	 [com=relação=a] <sam-> PRP @<ADVL O
+os	 [o] <-sam> <artd> DET M P @>N O
+santos	 [santo] <Hattr> N M P @P< O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+a	 [o] <artd> DET F S @>N O
+Virgem=Maria	 [Virgem=Maria] <org> PROP F S @<SUBJ PES O
+mantiveram	 [manter] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+um	 [um] <arti> DET M S @>N O
+calendário	 [calendário] <cc-r> N M S @<ACC O
+específico	 [específico] <np-close> ADJ M S @N< O
+para	 [para] PRP @<ADVL O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+comemoração	 [comemoração] <act> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja	 [igreja] <prop> <inst> N F S @P< ORG O
+$, O
+em	 [em] PRP @<ADVL O
+especial	 [especial] <nh> ADJ M/F S @P< O
+as	 [o] <artd> DET F P @>N O
+antigas	 [antigo] <jh> ADJ F P @>N O
+festas	 [festa] <occ> N F P @<ACC O
+marianas	 [mariano] <nh> <np-close> ADJ F P @N< O 
+diretamente	 [diretamente] ADV @ADVL> O
+associadas	 [associar] <jh> <vH> <mv> V PCP F P @ICL-<PRED O
+a	 [a] <sam-> PRP @<PIV O
+os	 [o] <-sam> <artd> DET M P @>N O
+méritos	 [mérito] <ac> <am> N M P @P< O
+de	 [de] <np-close> PRP @N< O
+seu	 [seu] <poss 3S> DET M S @>N O
+Filho=Jesus=Cristo	 [Filho=Jesus=Cristo] <top> PROP M S @P< O
+$( O
+Anunciação	 [anunciação] <act> <temp> <np-close> N F S @N<PRED O 
+$, O
+Natividade	 [natividade] <am> <np-close> N F S @N<PRED O
+etc	 [etc] ADV @<ADVL O
+$) O
+$. O
+</s>

@@ -1,0 +1,21 @@
+$S-2
+Ela	 [ela] <*> PERS F 3S NOM @SUBJ>  O
+me	 [eu] PERS M/F 1S ACC @ACC>  O
+contou	 [contar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+de	 [de] <sam-> PRP @<ADVL  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+seus	 [seu] <si> <poss 3S> DET M P @>N  O
+trabalhos	 [trabalho] <act-d> <am> N M P @P<  O
+$, O
+entre	 [entre] PRP @<ADVL  O
+eles	 [eles] PERS M 3P NOM/PIV @P<  O
+fotos	 [foto] <pict> N F P @<PRED  O
+para	 [para] PRP @<ADVL  O
+DKNY	 [DKNY] <org> <*> PROP M/F S @P< ORG O
+e	 [e] KC @NPHR  O
+campanha	 [campanha] <activity> N F S @P<  O
+mundial	 [mundial] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+Ralfh=Lauren	 [Ralfh=Lauren] <hum> <*> PROP M/F S @P< ORG O
+$. O
+</s>

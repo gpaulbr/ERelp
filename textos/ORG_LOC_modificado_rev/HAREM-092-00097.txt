@@ -1,0 +1,253 @@
+$S-2
+Nossa=História	 [Nossa=História] <tit> <*> PROP F S @SUBJ>  O
+A	 [o] <artd> DET F S	@SUBJ>  O
+Serrambi=Viagens=e=Turismo	 [Serrambi=Viagens=e=Turismo] <genre> <*> PROP F S @SUBJ> ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+uma	 [uma] <card> NUM F S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <-sam> <artd> DET F P @>N O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+tradicionais	 [tradicional] <jh> ADJ F P @>N O
+agências	 [agência] <HH> N F P @P< REL
+de	 [de] <np-close> PRP @N< REL
+viagens	 [viagem] <activity> N F P @P< REL
+de	 [de] <np-close> PRP @N< REL
+Pernambuco	 [Pernambuco] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-3
+Com	 [com] <*> PRP @PRED>  O
+12	 [12] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+existência	 [existência] <percep-f> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Serrambi	 [Serrambi] <org> <*> PROP F S @SUBJ> ORG O
+oferece	 [oferecer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [a] PRP @<PIV  O
+seus	 [seu] <si> <poss 3S> DET M P @>N  O
+clientes	 [cliente] <Hattr> N M P @P<  O
+todos=os	 [todo=o] <quant> DET M P @>N  O
+serviços	 [serviço] <act-d> N M P @<ACC  O
+ligados	 [ligar] <np-close> V PCP M P @N<  O
+a	 [o] <artd> DET F S @>N  O
+área	 [área] <L> <Lh> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+turismo	 [turismo] <domain> <activity> N M S @P<  O
+como	 [como] <com> <adv-rel> PRP @<ADVL  O
+$: O
+passagens	 [passagem] <event> <Lpath> <sem-r> <act-d> N F P @NPHR  O
+aéreas	 [aéreo] <nh> <np-close> ADJ F P @N<  O
+$, O
+excursões	 [excursão] <occ> N F P @NPHR  O
+nacionais	 [nacional] <jh> <np-close> ADJ F P @N<  O
+e	 [e] KC @NPHR  O
+internacionais	 [internacional] <nh> <np-close> ADJ M/F P @N<  O
+$, O
+locação	 [locação] <act> N F S @NPHR REL
+de	 [de] <np-close> PRP @N< REL
+automóveis	 [automóvel] <V> N M P @P< REL
+em	 [em] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+exterior	 [exterior] <Labs> <Ltop> N M S @P<  O
+$, O
+seguro	 [seguro] <jh> ADJ M S @>N  O
+viagem	 [viagem] <activity> N F S @NPHR  O
+$, O
+congressos	 [congresso] <occ> N M P @NPHR  O
+e	 [e] KC @NPHR  O
+etc.	 [etc.] ADV @ADVL  O
+$. O
+</s>
+
+$S-4
+E	 [e] <*> KC @NPHR  O
+tem	 [ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+mais	 [mais] ADV @<ADVL  O
+A	[o] <artd> DET F S	@SUBJ>  O
+Serrambi=Viagens=e=Turismo	 [Serrambi=Viagens=e=Turismo] <genre> <*> PROP F S @<ACC ORG O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+eventos	 [evento] <event> <occ> N M P @<ACC O
+de	 [de] <np-close> PRP @N< O
+grande	 [grande] ADJ F S @>N  O
+importância	 [importância] <am> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+turismo	 [turismo] <domain> <activity> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Pernambuco	 [Pernambuco] <civ> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+$, O
+destacamos	 [destacar] <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+as	 [o] <artd> DET F P @>N  O
+Excursões=Pedagógicas	 [Excursões=Pedagógicas] <org> <*> PROP F P @<ACC  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+Trem=do=Forró	 [Trem=do=Forró] <inst> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+excursões	 [excursão] <occ> N F P @<ACC  O
+com	 [com] PRP @<ADVL  O
+grupos	 [grupo] <HH> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+colégios	 [colégio] <inst> N M P @P<  O
+$( O
+só	 [só] ADV @>P  O
+em	 [em] PRP @<ADVL  O
+julho	 [julho] N M S @P<  O
+$/	 [$/] <co-prparg> KC @CO  O
+99	 [99] <card> NUM M/F P @P<  O
+$, O
+cerca=de	 [cerca=de] ADV @>A  O
+2.000	 [2.000] <card> NUM M P @>N  O
+alunos	 [aluno] <Hprof> N M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+vários	 [vários] <quant> DET M P @>N  O
+colégios	 [colégio] <inst> N M P @P<  O
+viajaram	 [viajar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+com	 [com] <sam-> PRP @<ADVL  O
+nós	 [nós] <-sam> PERS M/F 1P PIV @P<  O
+em	 [em] <np-close> PRP @N<PRED  O
+excursões	 [excursão] <occ> N F P @P<  O
+rodoviárias	 [rodoviário] <jh> <np-close> ADJ F P @N<  O
+$, O
+de	 [de] <np-close> PRP @N<PRED  O
+aproximadamente	 [aproximadamente] ADV @<ADVL  O
+6	 [6] <card> NUM M P @>N  O
+dias	 [dia] <temp> <dur> <per> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+duração	 [duração] <am> N F S @P<  O
+$, O
+para	 [para] PRP @<ADVL  O
+diversos	 [diversos] <quant> DET M P @>N  O
+destinos	 [destino] <f-psych> <Labs> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+Porto=Seguro	 [Porto=Seguro] <civ> <asarg> <*> PROP M S @P<  O
+$, O
+Fortaleza	 [Fortaleza] <hum> <*> PROP M/F S @<ACC  O
+$, O
+Natal	 [Natal] <occ> <newlex> <*> PROP F S @<ACC O
+etc	 [etc] ADV @<ADVL  O
+$) O
+$. O
+</s>
+
+$S-44
+E	 [e] <*> KC @NPHR  O
+tem	 [ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+mais	 [mais] ADV @<ADVL  O
+A	[o] <artd> DET F S	@SUBJ>  O
+Serrambi=Viagens=e=Turismo	 [Serrambi=Viagens=e=Turismo] <genre> <*> PROP F S @<ACC ORG O
+promove	 [promover] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+eventos	 [evento] <event> <occ> N M P @<ACC O
+de	 [de] <np-close> PRP @N< O
+grande	 [grande] ADJ F S @>N  O
+importância	 [importância] <am> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+o	 [o] <artd> DET M S @>N  O
+turismo	 [turismo] <domain> <activity> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Pernambuco	 [Pernambuco] <civ> <*> PROP M S @P< O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+$, O
+destacamos	 [destacar] <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+as	 [o] <artd> DET F P @>N  O
+Excursões=Pedagógicas	 [Excursões=Pedagógicas] <org> <*> PROP F P @<ACC  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+Trem=do=Forró	 [Trem=do=Forró] <inst> <*> PROP M S @<ACC  O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+excursões	 [excursão] <occ> N F P @<ACC  O
+com	 [com] PRP @<ADVL  O
+grupos	 [grupo] <HH> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+colégios	 [colégio] <inst> N M P @P<  O
+$( O
+só	 [só] ADV @>P  O
+em	 [em] PRP @<ADVL  O
+julho	 [julho] N M S @P<  O
+$/	 [$/] <co-prparg> KC @CO  O
+99	 [99] <card> NUM M/F P @P<  O
+$, O
+cerca=de	 [cerca=de] ADV @>A  O
+2.000	 [2.000] <card> NUM M P @>N  O
+alunos	 [aluno] <Hprof> N M P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+vários	 [vários] <quant> DET M P @>N  O
+colégios	 [colégio] <inst> N M P @P<  O
+viajaram	 [viajar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+com	 [com] <sam-> PRP @<ADVL  O
+nós	 [nós] <-sam> PERS M/F 1P PIV @P<  O
+em	 [em] <np-close> PRP @N<PRED  O
+excursões	 [excursão] <occ> N F P @P<  O
+rodoviárias	 [rodoviário] <jh> <np-close> ADJ F P @N<  O
+$, O
+de	 [de] <np-close> PRP @N<PRED  O
+aproximadamente	 [aproximadamente] ADV @<ADVL  O
+6	 [6] <card> NUM M P @>N  O
+dias	 [dia] <temp> <dur> <per> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+duração	 [duração] <am> N F S @P<  O
+$, O
+para	 [para] PRP @<ADVL  O
+diversos	 [diversos] <quant> DET M P @>N  O
+destinos	 [destino] <f-psych> <Labs> N M P @P<  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+Porto=Seguro	 [Porto=Seguro] <civ> <asarg> <*> PROP M S @P<  O
+$, O
+Fortaleza	 [Fortaleza] <hum> <*> PROP M/F S @<ACC  O
+$, O
+Natal	 [Natal] <occ> <newlex> <*> PROP F S @<ACC O
+etc	 [etc] ADV @<ADVL  O
+$) O
+$. O
+</s>
+
+$S-5
+Além=de	 [além=de] <sam-> <*> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+Trem=do=Forró	 [Trem=do=Forró] <inst> <*> PROP M S @P<  O
+$, O
+evento	 [evento] <event> <occ> <np-close> N M S @N<PRED  O
+criado	 [criar] <jh> <np-close> V PCP M S @N<  O
+e	 [e] KC @NPHR  O
+produzido	 [produzir] <mv> <np-close> V PCP M S @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Serrambi=Turismo	 [Serrambi=Turismo] <genre> <*> PROP F S @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+hoje	 [hoje] ADV @ADVL>  O
+desponta	 [despontar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+como	 [como] <com> <adv-rel> PRP @<ADVL  O
+uma	 [uma] <card> NUM F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+principais	 [principal] <SUP> ADJ F P @>N  O
+atrações	 [atração] <am> N F P @P<  O
+turística	 [turístico] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+acontece	 [acontecer] <vN> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mês	 [mês] <dur> <per> <unit> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+junho	 [junho] N M S @P<  O
+$. O
+</s>

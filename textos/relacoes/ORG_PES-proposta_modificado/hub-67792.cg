@@ -1,0 +1,27 @@
+$S-1
+Frequentou	 [frequentar] <fmc> <DERS> <mv> V PS 3S IND VFIN @FS-STA O
+ateliers	 [atelier] <Lh> N M P @<ACC O
+preparatórios	 [preparatório] <nh> <np-close> ADJ M P @N< O 
+para	 [para] PRP @<ADVL O
+Academia	 [academia] <inst> PROP F S @P< O
+de	 [de] <np-close> PRP @N< O
+Beaux-Arts	 [Beaux-Arts] <hum> PROP M/F S @P< O
+e	 [e] <co-prparg> KC @CO O
+a	 [o] <artd> DET F S @>N O
+Academia=Viti	 [Academia=Viti] <org> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <artd> <-sam> DET M S @>N REL
+pintor	 [pintor] <Hprof> N M S @P< REL
+catalão	 [catalão] <nat> <jh> <np-close> ADJ M S @N< REL 
+Anglada=Camarasa	 [Anglada=Camarasa] <org> <np-close> PROP M S @N< PES O 
+mas	 [mas] <co-fin> <co-fmc> KC @CO O
+$, O
+apesar=disso	 [apesar=disso] <kc> ADV @ADVL> O
+$, O
+não	 [não] ADV @ADVL> O
+chega	 [chegar] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+a	 [a] PRP @PRT-AUX< O
+ser	 [ser] <aux> V INF @ICL-AUX< O
+admitido	 [admitir] <vH> <mv> V PCP M S @ICL-AUX< O
+$. O
+</s>

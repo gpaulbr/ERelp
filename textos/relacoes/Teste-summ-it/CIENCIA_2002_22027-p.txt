@@ -1,0 +1,58 @@
+$S-4
+O 	[o]   <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>   O
+tem 	[ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+um 	[um] <arti> DET M S @>N   O
+título 	[título] <f-c> <sem-r> <f-right> N M S @<ACC   O
+significativo 	[significativo] <jh> <np-close> ADJ M S @N<   O
+$:  
+Reatividade=Cardiovascular 	[Reatividade=Cardiovascular] <cjt-head> <hum>   <*1> PROP F S @NPHR   O
+e 	[e] <cjt> KC @NPHR   O
+a 	[o] <artd> DET F S @>N   O
+Presença=de=Animais=Domésticos 	[Presença=de=Animais=Domésticos] <cjt> <org>   PROP F S @NPHR  PES O
+$, 
+Amigos 	[Amigos] <cjt> <hum>   PROP M/F S @NPHR  ORG O
+e 	[e] <cjt> KC @NPHR   O
+Cônjuges 	[Cônjuges] <cjt> <hum>   PROP M/F S @NPHR   O
+$:  
+A 	[o]   <artd> DET F S @>N   O
+Verdade 	[verdade] <cjt-head> <prop>   <percep-f> <ac> N F S @NPHR   O
+sobre 	[sobre] <np-close> PRP @N<   O
+Gatos 	[gato] <cjt-head> <prop>   <Adom> <tool> <H> N M P @P<   O
+e 	[e] <cjt> KC @NPHR   O
+Cachorros 	[Cachorros] <cjt> <hum>   PROP M/F S @P<   O
+$. 
+</s>
+$S-8
+A 	[o]   <artd> DET F S @>N   O
+principal 	[principal] <SUP> <jh> ADJ F S @>N   O
+autora 	[autora] <Hprof> N F S @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<   O
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+Karen=Allen 	[Karen=Allen] <top>   PROP F S @<SC  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Universidade=Estadual 	[Universidade=Estadual] <inst>   PROP F S @P<  ORG O
+de 	[de] <np-close> PRP @N<   O
+Nova=York 	[Nova=York] <civ>   PROP F S @P<   O
+em 	[em] PRP @<ADVL   O
+Buffalo 	[Buffalo] <civ>   PROP M S @P<   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+há 	[há] PRP @ADVL>   O
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<   O
+estuda 	[estudar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<   O
+a 	[o] <artd> DET F S @>N   O
+influência 	[influência] <am> N F S @<ACC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+animais 	[animal] <Azo> N M P @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+saúde 	[saúde] <state-h> N F S @P<   O
+humana 	[humano] <np-close> ADJ F S @N<   O
+$. 
+</s>

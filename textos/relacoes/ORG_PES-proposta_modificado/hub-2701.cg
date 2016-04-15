@@ -1,0 +1,88 @@
+$S-1
+Com	 [com] PRP @PRED> O
+Marques=Mendes	 [Marques=Mendes] <hum> PROP M/F S @P< PES O
+$, O
+o	 [o] <artd> DET M S @>N REL
+PSD	 [PSD] <party> PROP M S @SUBJ> ORG O
+esboçou	 [esboçar] <clb-fs> <vH> <mv> <quote> V PS 3S IND VFIN @FS-ACC>> O 
+um	 [um] <card> NUM M S @>N O
+ruptura	 [ruptura] <event> N F S @<ACC O
+com	 [com] <np-close> PRP @N< O
+o	 [o] <artd> DET M S @>N O
+período	 [período] <per> N M S @P< O
+negro	 [negro] <col> <np-close> ADJ M S @N< O 
+anterior	 [anterior] <nh> <np-long> ADJ M S @N< O 
+$, O
+mas	 [mas] <co-fin> KC @CO O
+como	 [como] <com> <adv-rel> PRP @<ADVL O
+quando	 [quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL> O
+se	 [se] <refl> PERS M 3P ACC @ACC>-PASS O
+fazem	 [fazer] <clb-fs> <mv> V PR 3P IND VFIN @FS-ACC>> O
+$" O
+revoluções	 [revolução] <occ> <event> N F P @<OC O
+por	 [por] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+metade	 [metade] <amount> N F S @P< O
+cava-	 [cavar] <clb-fs> <hyfen> <vH> <mv> <quote> V PR 3S IND VFIN @FS-ACC>> O 
+se	 [se] PERS M 3S ACC @<ACC-PASS O
+o	 [o] <artd> DET M S @>N O
+seu	 [seu] <poss 3S> DET M S @>N O
+próprio	 [próprio] ADJ M S @>N O
+túmulo	 [túmulo] <Lh> N M S @<SUBJ O
+$" O
+$( O
+dizia	 [dizer] <asarg> <fmc> <vH> <mv> <v-quote> V IMPF 3S IND VFIN @FS-P< O
+Saint=Just	 [Saint=Just] <top> PROP M/F S @<SUBJ O
+$) O
+$, O
+perdeu-	 [perder] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS M 3S ACC @<ACC-PASS O
+o	 [o] <artd> DET M S @>N O
+pouco	 [pouco] <quant> DET M S @<SUBJ O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+se	 [se] PERS M/F 3S/P ACC @SUBJ> O
+tinha	 [ter] <aux> <np-close> V IMPF 3S IND VFIN @FS-N< O 
+adquirido	 [adquirir] <vH> <mv> V PCP @ICL-AUX< O
+voltando	 [voltar] <clb> <mv> V GER @ICL-<ADVL O
+o	 [o] <artd> DET M S @>N O
+partido	 [partido] <HHparty> N M S @<ACC O
+a	 [a] <sam-> PRP @<OA O
+o	 [o] <-sam> <artd> DET M S @>N O
+dia	 [dia] <dur> <temp> <per> N M S @P< O
+anterior	 [anterior] <nh> <np-close> ADJ M S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+derrota	 [derrota] <event> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+2005	 [2005] <card> <year> <date> NUM M/F P @P< O
+$. O
+</s>
+
+$S-2
+Portas	 [porta] <part-build> <Lopening> N F P @SUBJ> O
+reduziu	 [reduzir] <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+partido	 [partido] <HHparty> N M S @<ACC O
+a	 [a] PRP @<PIV O
+si	 [se] <refl> PERS M/F 3S/P PIV @P< O
+próprio	 [próprio] <ident> <np-close> DET M S @N< O 
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+dar	 [dar] <mv> V INF @ICL-SUBJ> O
+atenção	 [atenção] <am> N F S @<ACC O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Pp	 [pp] <prop> <percep-l> N M S @P< ORG O
+é	 [ser] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+dar	 [dar] <mv> V INF @ICL-<SC O
+atenção	 [atenção] <am> N F S @<SUBJ O
+a	 [a] PRP @<PIV O
+Portas	 [porta] <prop> <part-build> <Lopening> N F P @P< PES O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+cada=vez	 [cada=vez] ADV @ADVL> O
+menos	 [menos] <quant> <KOMP> ADV @>A O
+pessoas	 [pessoa] <H> <np-close> N F P @N< O 
+o	 [ele] PERS M 3S ACC @ACC> O
+fazem	 [fazer] <fmc> <mv> V PR 3P IND VFIN @FS-STA O
+$. O
+</s>

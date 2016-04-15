@@ -1,0 +1,14 @@
+$S-1
+Escola=Fortec	 [Cultura=da=Escola=Fortec] <org> <np-close> PROP F S @APP ORG O
+$, O
+reuniu	 [reunir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+mais=de	 [mais=de] <quant> ADV @>A O
+2000	 [2000] <card> <year> <date> NUM F P @>N O
+pessoas	 [pessoa] <H> N F P @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+unidade	 [unidade] <ac-cat> <Lh> N F S @P< O
+4	 [4] <card> NUM M/F P @<SC O
+$, O
+em	 [em] PRP @<ADVL B-REL
+São=Vicente	 [São=Vicente] <civ> PROP M S @P< LOCAL O

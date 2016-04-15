@@ -1,0 +1,100 @@
+$S-10
+Também	 [também] <*> ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+Presidente	 [presidente] <prop> <*> <Hprof> N M S @SUBJ>  O
+em=exercício	 [em=exercício] <pp> ADJ @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Conselho	 [conselho] <prop> <*> <HH> N M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+UE	 [UE] <civ> <*> PROP F S @P< ORG O
+$, O
+José	 [José] <hum> <newlex> <*> <np-close> PROP M S @APP  O
+SÓCRATES	 [SÓCRATES] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+destacou	 [destacar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+hoje	 [hoje] ADV @P<  O
+como	 [como] <com> <adv-rel> PRP @<ADVL  O
+$" O
+uma	 [um] <*1> <arti> DET F S @>N  O
+data	 [data] <asarg> <temp> <Ltop> <amount> N F S @P<  O
+fundamental	 [fundamental] <nh> <np-close> ADJ F S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+história	 [história] <per> <domain> <sem-r> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+integração	 [integração] <act> N F S @P<  O
+europeia	 [europeu] <*2> <nat> <jh> <np-close> ADJ F S @N<  O
+$" O
+$. O
+</s>
+
+$S-32
+De	 [de] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+grupo	 [grupo] <HH> N M S @P<  O
+ALDE	 [ALDE] <org> <*> <np-close> PROP M S @N<  O
+$, O
+Graham	 [Graham] <hum> <*> PROP M S @SUBJ>  O
+WATSON	 [WATSON] <org> <*> <np-close> PROP M S @N<  O
+lançou	 [lançar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+petição	 [petição] <act-s> N F S @<ACC  O
+para	 [para] PRP @<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+a	 [o] <artd> DET F S @>N  O
+Presidência	 [presidência] <prop> <*> <pos-soc> PROP F S @SUBJ> ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+PE	 [PE] <civ> <*> PROP M S @P< ORG O
+use	 [usar] <vH> <mv> V PR 3S SUBJ VFIN @FS-P<  O
+os	 [o] <artd> DET M P @>N  O
+poderes	 [poder] <am> <ac> <Labs> N M P @<ACC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+lhe	 [ele] PERS M/F 3S DAT @DAT>  O
+confere	 [conferir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+regimento	 [regimento] <act> N M S @<ACC  O
+$" O
+para	 [para] <*1> PRP @<ADVL  O
+mandar	 [mandar] <vH> <mv> V INF @ICL-P<  O
+embora	 [embora] ADV @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+deputado	 [deputado] <Hprof> N M S @<ACC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>  O
+comporte	 [comportar] <mv> <np-close> V PR 3S SUBJ VFIN @FS-N<  O
+de	 [de] PRP @<ADVL  O
+maneira	 [maneira] <ac> N F S @P<  O
+indigna	 [indigno] <*2> ADJ F S @<PRED  O
+$" O
+$: O
+$" O
+Uma	 [um] <*> <*1> <arti> DET F S @>N  O
+atitude	 [atitude] <f-psych> N F S @SUBJ>  O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+esta	 [este] <dem> DET F S @ACC>  O
+não	 [não] ADV @ADVL>  O
+se	 [se] PERS M/F 3S/P ACC @SUBJ>  O
+pode	 [poder] <aux> <np-close> V PR 3S IND VFIN @FS-ADVL> @FS-N<  O
+tolerar	 [tolerar] <vH> <mv> V INF @ICL-AUX<  O
+e	 [e] KC @NPHR  O
+traz-	 [trazer] <hyfen> <fmc> <mv> <np-close> V PR 3S IND VFIN @FS-ADVL> @FS-N<  O
+nos	 [nós] PERS M/F 1P ACC @<ACC @<DAT  O
+o	 [o] <artd> DET M S @>N  O
+pior	 [mau] <n> <KOMP> <SUP> <jh> ADJ M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+estádio	 [estádio] <Lh> <Labs> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+futebol	 [futebol] <*2> <sport> N M S @P<  O
+$" O
+$, O
+afirmou	 [afirmar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+$. O
+</s>

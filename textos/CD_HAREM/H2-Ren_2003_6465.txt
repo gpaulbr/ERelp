@@ -1,0 +1,62 @@
+
+    
+      Os fragmentos do satélite italiano
+      <EM ID="H2-Ren_2003_6465-163" CATEG="COISA" TIPO="OBJECTO"  >Bepposax</EM>
+      mergulharam
+      <EM ID="H2-Ren_2003_6465-16" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na noite de ontem</EM>
+      no oceano
+      <EM ID="H2-Ren_2003_6465-164" CATEG="LOCAL" TIPO="FISICO"  >Pacífico</EM>
+      , deixando aliviados os
+      <EM ID="H2-Ren_2003_6465-17" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 30</EM>
+      países _inclusive o
+      <EM ID="H2-Ren_2003_6465-165" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM>
+      _ que estavam sob risco de serem atingidos pelos destroços.
+    
+    
+      Segundo informou a
+      <EM ID="H2-Ren_2003_6465-167" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >ASI</EM>
+      (agência espacial italiana) <EM ID="H2-Ren_2003_6465-300" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no fim da noite de ontem</EM> por telefone, o impacto dos destroços teria ocorrido
+      <EM ID="H2-Ren_2003_6465-168" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 18h06</EM>
+      (horário de
+        <EM ID="H2-Ren_2003_6465-8" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-Ren_2003_6465-165" TIPOREL="incluido">Brasília</EM>
+      ), numa área remota do oceano. Os italianos não devem conduzir operação para resgatar os detritos.
+    
+    
+      Estimativas da agência davam conta de que
+      <EM ID="H2-Ren_2003_6465-18" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 40</EM>
+      pedaços, com
+      <EM ID="H2-Ren_2003_6465-19" CATEG="VALOR" TIPO="QUANTIDADE"  >até 120 kg</EM>
+      , poderiam resistir ao atrito com o ar e chegar ao solo. A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a
+      <EM ID="H2-Ren_2003_6465-170" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="H2-Ren_2003_6465-165" TIPOREL="ocorre_em">Agência Espacial Brasileira</EM>
+      , estavam prontas para qualquer contingência.
+    
+    
+      O satélite, com massa total de
+      <EM ID="H2-Ren_2003_6465-20" CATEG="VALOR" TIPO="QUANTIDADE"  >aproximadamente 1,4 tonelada</EM>
+      , foi construído pelos italianos, em colaboração com a
+      <EM ID="H2-Ren_2003_6465-171" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|GRUPOMEMBRO"  >Holanda</EM>
+      , para o estudo dos raios X vindos do espaço cósmico. O equipamento foi lançado ao espaço
+      <EM ID="H2-Ren_2003_6465-172" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1996</EM>
+      , numa órbita baixa (
+      <EM ID="H2-Ren_2003_6465-21" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 600 km</EM>
+      de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a
+      <EM ID="H2-Ren_2003_6465-173" CATEG="LOCAL|OUTRO" TIPO="FISICO|"  >linha do Equador</EM>
+      .
+    
+    
+      A missão científica da nave foi concluída
+      <EM ID="H2-Ren_2003_6465-174" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 30 de abril de 2002</EM>
+      . Depois disso, o satélite deixou de ter sua órbita corrigida. O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada,
+      <EM ID="H2-Ren_2003_6465-22" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ontem</EM>
+      . Como a volta à
+      <EM ID="H2-Ren_2003_6465-175" CATEG="LOCAL" TIPO="FISICO" COREL="H2-Ren_2003_6465-164 H2-Ren_2003_6465-165" TIPOREL="inclui inclui">Terra</EM>
+      não foi realizada de forma controlada (como aconteceu com as
+      <EM ID="H2-Ren_2003_6465-23" CATEG="VALOR" TIPO="QUANTIDADE"  >135 toneladas</EM>
+      da estação espacial
+      <EM ID="H2-Ren_2003_6465-176" CATEG="COISA" TIPO="OBJECTO"  >Mir</EM>
+      ,
+      <EM ID="H2-Ren_2003_6465-177" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2001</EM>
+      ), era impossível prever exatamente onde os destroços iriam cair.
+    
+    (SN)
+  

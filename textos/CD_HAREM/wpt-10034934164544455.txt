@@ -1,0 +1,37 @@
+
+
+Autor Mensagem
+
+joseep
+
+<EM ID="wpt-10034934164544455-103" CATEG="LOCAL" TIPO="VIRTUAL"  >Site Admin</EM> 
+
+Registo: <EM ID="wpt-10034934164544455-104" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >12 Apr 2005</EM>
+
+Mensagens: <EM ID="wpt-10034934164544455-105" CATEG="VALOR" TIPO="QUANTIDADE"  >4</EM>
+
+Local/Origem: <EM ID="wpt-10034934164544455-106" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM> (<EM ID="wpt-10034934164544455-107" CATEG="LOCAL" TIPO="HUMANO" COREL="wpt-10034934164544455-106" TIPOREL="inclui">Portugal</EM>)
+
+Colocada: <EM ID="wpt-10034934164544455-108" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Quarta-feira Maio 04, 2005</EM> <EM ID="wpt-10034934164544455-109" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >23:36</EM> Assunto: Como efectuar um Registo (tem vantagens)
+
+Gostaria muito, que os <EM ID="wpt-10034934164544455-111" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Acólitos</EM>, se registassem no forum, de modo a ser algo organizado, principalmente os da <EM ID="wpt-10034934164544455-112" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="wpt-10034934164544455-111" TIPOREL="vinculo_inst">AAPSE</EM> e é muito simples, querem ver.
+
+1º-Vão ao cabeçalho, onde estão várias teclas, uma delas REGISTAR-SE, e seleccionam.
+
+2º- Aceitam o contrato,
+
+3º Preenchem o que acharem necessário e SUBMETEM (NAO ESQUECER USERNAME, PASS e vosso e-mail).
+
+4º Vão ao vosso e-mail, que colocaram no registo, e vão ver que receberam um novo mail, abrem e carregam no link para concluir o registo (PASSO MUITO IMPORTANTE, dúvidas contactem-me)
+
+5º - Quando acederem ao forum da próxima vez vão a ENTRAR (em cima) e digitam o vosso USERNAME e PASS.
+
+Qualquer dúvida contactem!
+
+_________________
+
+Um abraço,
+
+<EM ID="wpt-10034934164544455-113" CATEG="PESSOA" TIPO="INDIVIDUAL"  >José Eduardo Pires</EM>
+
+<EM ID="wpt-10034934164544455-114" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Ass. de Acólitos da Paróquia de Santo Eugénio</EM>  

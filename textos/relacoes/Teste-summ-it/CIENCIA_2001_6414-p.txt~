@@ -1,0 +1,17 @@
+$S-8
+Ninhais 	[ninhal] <DERS> N M P @SUBJ>  O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+eram 	[ser] <vK> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  O
+ocupados 	[ocupado] <nh> ADJ M P @<SC  O
+há 	[há] PRP @<ADVL  O
+650 	[650] <card> NUM M P @>N  O
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  O
+sumiram 	[sumir] <clb-fs> <mv> <quote> V PS/MQP 3P IND VFIN @FS-ACC O  
+$,
+contou 	[contar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  O
+David=Vaughan 	[David=Vaughan] <hum> PROP M S @<SUBJ  PES O
+a 	[a] <sam-> PRP @<PIV @<ADVL  O
+a 	[o] <-sam> <artd> DET F S @>N  O
+Folha 	[Folha] <media> PROP F S @P<  ORG O
+$. 
+</s>

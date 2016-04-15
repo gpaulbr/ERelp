@@ -1,0 +1,104 @@
+$S-5
+Apesar=de	 [apesar=de] <sam-> <*> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+veto	 [veto] <act-s> N M S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+Guaraná=Power	 [Guaraná=Power] <org> <*> PROP M S @SUBJ>  O
+$, O
+feito	 [feito] <act> <np-close> N M S @N<PRED  O
+em	 [em] PRP @ADVL>  O
+colaboração	 [colaboração] <activity> N F S @P<  O
+com	 [com] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Cooperativa=de=Agricultores	 [Cooperativa=de=Agricultores] <org> <*> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Região=de=Maués	 [Região=de=Maués] <civ> <*> PROP F S @P< LOCAL O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Amazônia	 [Amazônia] <top> <*> PROP F S @P<  O
+$, O
+chegou	 [chegar] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+a	 [a] PRP @PRT-AUX<  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+distribuído	 [distribuir] <vH> <mv> V PCP M S @ICL-AUX<  O
+em	 [em] PRP @<ADVL  O
+museus	 [museu] <inst> N M P @P<  O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+própria	 [próprio] <n> <jh> ADJ F S @P<  O
+Vermelho	 [vermelho] <prop> <*> <col> <np-close> ADJ M S @N<  O
+$, O
+durante	 [durante] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Bienal	 [bienal] <prop> <*> <occ> N F S @P<  O
+$. O
+</s>
+
+$S-18
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+próximo	 [próximo] ADJ M S @>N  O
+sábado	 [sábado] <temp> N M S @P<  O
+$, O
+a	 [a] <sam-> PRP @ADVL>  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+16h	 [16h] <temp> N F P @P<  O
+$, O
+Ronaldo=Lemos	 [Ronaldo=Lemos] <hum> <*> PROP M S @SUBJ>  O
+$, O
+diretor	 [diretor] <Hprof> <np-close> N M S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Creative=Commons	 [Creative=Commons] <org> <*> PROP M S @P< ORG O
+em	 [em] <sam-> PRP @ADVL> REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+$, O
+irá	 [ir] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+participar	 [participar] <vH> <mv> V INF @ICL-AUX<  O
+de	 [de] PRP @<PIV  O
+um	 [um] <arti> DET M S @>N  O
+debate	 [debate] <talk> N M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+os	 [o] <artd> DET M P @>N  O
+membros	 [membro] <an> <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Superflex	 [Superflex] <org> <*> PROP M S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Vermelho	 [vermelho] <prop> <n> <*> <col> <jh> ADJ M S @P<  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+logo	 [logo] <kc> ADV @ADVL>  O
+após	 [após] ADV @ADVL>  O
+será	 [ser] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+realizada	 [realizar] <vH> <mv> V PCP F S @ICL-AUX<  O
+uma	 [um] <arti> DET F S @>N  O
+gincana	 [gincana] <game> N F S @<SUBJ  O
+intitulada	 [intitular] <vH> <np-close> V PCP F S @N<  O
+$" O
+Free=Beer=Pub=Quiz	 [Free=Beer=Pub=Quiz] <tit> <*> <*1> <*2> <np-long> PROP F S @N< @<ACC  O
+$" O
+$, O
+em	 [em] <clb> <sam-> PRP @ADVL>  O
+a=qual	 [o=qual] <clb-fs> <rel> <-sam> SPEC F S @P<  O
+participantes	 [participante] <H> N M P @SUBJ>  O
+receberão	 [receber] <vH> <mv> <np-close> V FUT 3P IND VFIN @FS-N<  O
+prêmios	 [prêmio] <mon> N M P @<ACC  O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+responderem	 [responder] <mv> V INF 3P @ICL-P<  O
+questões	 [questão] <act-s> <ac> N F P @<ACC  O
+sobre	 [sobre] <np-close> PRP @N<  O
+propriedade	 [propriedade] <cm> <Lh> N F S @P<  O
+intelectual	 [intelectual] <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+direitos=autorais	 [direitos=autorais] <ac> N M P @<ACC  O
+$. O
+</s>

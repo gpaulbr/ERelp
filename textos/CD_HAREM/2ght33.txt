@@ -1,0 +1,166 @@
+
+    A MÚSICA É A MENSAGEM
+    
+      Por
+      <EM ID="2ght33-1" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Hari Kunzru</EM>
+    
+    
+      A relação do tecno com o binômio homem-máquina, no diálogo com
+      <EM ID="2ght33-2" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jeff Mills</EM>
+      , o legendário produtor de tecno de
+      <EM ID="2ght33-3" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-2" TIPOREL="local_nascimento_de">Detroit</EM>
+      nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea.
+      <EM ID="2ght33-4" CATEG="LOCAL|ABSTRACCAO" TIPO="HUMANO|IDEIA" COREL="2ght33-3" TIPOREL="LOCAL**ident**2ght33-3**LOCAL">Detroit</EM>
+      , essa "cidade portátil", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a
+      <EM ID="2ght33-5" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="2ght33-3" TIPOREL="ocorre_em">Motown</EM>
+      ,
+      <EM ID="2ght33-6" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="2ght33-3" TIPOREL="natural_de">Stooges</EM>
+      , e
+      <EM ID="2ght33-7" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="2ght33-3" TIPOREL="natural_de">MC5</EM>
+      - o zeitgeist
+      <EM ID="2ght33-8" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >deste início de milênio</EM>
+      .
+    
+    Uma Cidade Difícil
+    
+      <EM ID="2ght33-9" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-3" TIPOREL="ident">Detroit</EM>
+      tem
+      <EM ID="2ght33-10" CATEG="TEMPO" TIPO="DURACAO"  >por longo tempo</EM>
+      sido um lugar de referência na imaginação sônica. Com o fim da escravatura, ela se tornou, como
+      <EM ID="2ght33-11" CATEG="LOCAL" TIPO="HUMANO"  >Chicago</EM>
+      , um das estações ferroviárias do êxodo negro na direção do norte. As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de
+      <EM ID="2ght33-12" CATEG="LOCAL" TIPO="HUMANO"  >New Orleans</EM>
+      e o rural
+      <EM ID="2ght33-13" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Delta do Mississipi</EM>
+      , pelo centro-oeste e para o iluminado mundo novo urbano dos
+      <EM ID="2ght33-15" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Grandes Lagos</EM>
+      . No processo o som acústico do
+      
+        <EM ID="2ght33-17" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="2ght33-13" TIPOREL="praticado_em">Blues do Delta</EM>
+        
+      foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do
+      <EM ID="2ght33-20" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Rythm'n'Blues</EM>
+      elétrico. O
+      
+        <EM ID="2ght33-21" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Blues de Basin Street</EM>
+        
+      vira a
+      <EM ID="2ght33-24" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Pegada da Cidade Motor</EM>
+      (
+      <EM ID="2ght33-25" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="2ght33-24" TIPOREL="ident">Motor City Stomp</EM>
+      ). Quando do boom
+      <EM ID="2ght33-16" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dos anos sessenta</EM>
+      ,
+      <EM ID="2ght33-26" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-3" TIPOREL="ident">Detroit</EM>
+      era sinônimo das esperançosas ficções-soul
+      <EM ID="2ght33-735" CATEG="TEMPO" TIPO="DURACAO"  >de três minutos</EM>
+      da
+      <EM ID="2ght33-27" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="2ght33-5" TIPOREL="ident">Motown</EM>
+      , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da
+      <EM ID="2ght33-28" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Ford</EM>
+      e da
+      <EM ID="2ght33-29" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >General Motors</EM>
+      que dominava as vidas de seu jovem público negro. O povo da
+      <EM ID="2ght33-30" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="2ght33-5" TIPOREL="ident">Motown</EM>
+      deu seus primeiros passos dançando nas ruas, mas, à medida que
+      <EM ID="2ght33-36" CATEG="TEMPO" TIPO="GENERICO"  >os 70</EM>
+      iam passando, eles foram gradualmente reduzidos a viver só para a cidade.
+      <EM ID="2ght33-74" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Durante os desolados anos Reagan</EM> 
+      ,
+      <EM ID="2ght33-33" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-3" TIPOREL="ident">Detroit</EM>
+      parecia uma zona morta, um símbolo do fim da velha ordem industrial. Mas
+      <EM ID="2ght33-34" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >pelo começo dos noventa</EM>
+      a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.
+    
+    
+      O tecno de
+      <EM ID="2ght33-35" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-3" TIPOREL="ident">Detroit</EM>
+      é o som da cidade. Não das pessoas da cidade, mas da própria cidade. Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela. Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o
+      <EM ID="2ght33-61" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="2ght33-17aa" TIPOREL="ident">Blues</EM>
+      .
+    
+    Transmissões do Futuro:
+    
+      A síntese de
+      <EM ID="2ght33-37" CATEG="ABSTRACCAO|LOCAL" TIPO="IDEIA|HUMANO" COREL="2ght33-3" TIPOREL="LOCAL**ident**2ght33-3**LOCAL">Detroit</EM>
+      de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos
+      <EM ID="2ght33-38" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em meados dos 80</EM>
+      . As estórias de
+      <EM ID="2ght33-39" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="2ght33-3" TIPOREL="natural_de">Cybotron</EM>
+      ,
+      <EM ID="2ght33-62" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="2ght33-3" TIPOREL="natural_de">Model 500</EM>
+      e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como
+      <EM ID="2ght33-40" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Matthew Collin</EM>
+      (
+      <EM ID="2ght33-41" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="2ght33-40" TIPOREL="obra_de">Altered State</EM>
+      ) e
+      <EM ID="2ght33-42" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Kodwo Eshun</EM>
+      (
+      <EM ID="2ght33-43" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="2ght33-42" TIPOREL="obra_de">More Brilliant Than The Sun: Adventures In Sonic Fiction</EM>
+      ). Um dos pioneiros foi
+      <EM ID="2ght33-44" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Jeff Mills</EM>
+      , que, como produtor e DJ, tem semeado o som de
+      <EM ID="2ght33-45" CATEG="LOCAL" TIPO="HUMANO"  >Durban</EM>
+      a
+      <EM ID="2ght33-46" CATEG="LOCAL" TIPO="HUMANO"  >Tóquio</EM>
+      , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.
+    
+     
+      <EM ID="2ght33-47" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos. Quando está na cabine ele usa três picapes, <EM ID="2ght33-750" CATEG="TEMPO" TIPO="FREQUENCIA"  >raramente</EM> tocando um vinil
+      <EM ID="2ght33-75" CATEG="TEMPO" TIPO="DURACAO"  >por mais de um minuto</EM>
+      , e
+      <EM ID="2ght33-76" CATEG="TEMPO" TIPO="FREQUENCIA"  >frequentemente</EM>
+      abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal. Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape,
+      <EM ID="2ght33-49" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM> o DJ
+      parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público,
+      <EM ID="2ght33-63" CATEG="COISA" TIPO="CLASSE"  >PA</EM>
+      , o aparato completo da produção de vinis, e o
+      <EM ID="2ght33-64" CATEG="COISA" TIPO="CLASSE"  >Stylus</EM>
+      de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico. Não é surpreendente que quando
+      <EM ID="2ght33-50" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando "a mensagem" (para
+      <EM ID="2ght33-51" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      música é sempre "a mensagem", ou "comunicação") é perdida ou degradada na transmissão da mente para o
+      <EM ID="2ght33-52" CATEG="COISA" TIPO="CLASSE"  >DAT</EM>
+      .
+    
+    
+      "O produtor tem de transferir o que ele está pensando para suas mãos e então para a máquina," ele explica. "Quanto melhor o produtor, mais clara será a imagem. É uma tradução de minhas mãos para a máquina. E é aí normalmente onde ela [a máquina], se perde." De certa forma este é um sentimento padrão, um anseio expresso por todo artista desde que os românticos começaram a lamentar a lacuna entre a inspiração e o artefato. Mas o anseio de
+      <EM ID="2ght33-53" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      por uma simbiose mais próxima com seus instrumentos deriva para um desejo pela cyborguização, pela integração física. "O que eu tenho esperança", ele diz, "é de que alguém crie um sequenciador que traduza o que você está pensando para um teclado ou gerador de som. Muitas idéias ficam perdidas porque não podemos fazer com que nossas máquinas realizem exatamente o que nós pensamos."
+    
+    
+      Para uma cultura musical dominante que está acostumada a tratar álbuns como "obras", objetos invioláveis que contém algum tipo de essência artística, a concepção de
+      <EM ID="2ght33-54" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      sobre música pode parecer estranha. "Depois que faz o álbum", ele diz, "você põe a idéia nas mãos do DJ e é ele quem decide remodelar essa mensagem no momento mais oportuno ou da melhor forma." Ele parece pensar a obra musical como processo, como fluxo de informação, abrindo um canal entre produtor e público dançante.
+    
+    
+      A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de
+      <EM ID="2ght33-55" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      é parte da teologia que guia o tecno de
+      <EM ID="2ght33-68" CATEG="LOCAL" TIPO="HUMANO" COREL="2ght33-3" TIPOREL="ident">Detroit</EM>
+      : a estória do circuito informacional que corre do futuro para o presente, do
+      <EM ID="2ght33-69" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Claro Amanhã</EM>
+      dos cruzadores pesados drexciyanos, de
+      <EM ID="2ght33-56" CATEG="COISA" TIPO="CLASSE"  >OVNIs</EM>
+      ('você provavelmente verá um voando...') e dos anéis de
+      <EM ID="2ght33-58" CATEG="COISA" TIPO="OBJECTO"  >Saturno</EM>
+      , diretamente de volta para as rôtas rotas
+      <EM ID="2ght33-70" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de hoje</EM>
+      . É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo
+      <EM ID="2ght33-71" CATEG="COISA" TIPO="CLASSE" COREL="2ght33-63" TIPOREL="ident">PA</EM>
+      e se distribui sobre a pista de dança.
+      <EM ID="2ght33-72" CATEG="ABSTRACCAO|LOCAL" TIPO="IDEIA|HUMANO" COREL="2ght33-3 2ght33-4" TIPOREL="LOCAL**ident**2ght33-3**LOCAL ABSTRACCAO**ident**2ght33-4**ABSTRACCAO">Detroit</EM>
+      mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade...
+      <EM ID="2ght33-59" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      : "Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente. Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida. Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado."
+    
+    
+      Ao contrário de alguns outros produtores, o futuro criado por
+      <EM ID="2ght33-60" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="2ght33-2" TIPOREL="ident">Mills</EM>
+      não é um sonho em ficção científica de puro cromo. É um "verfremdungseffekt", a desorientação do potencial puro. O ataque das batidas de
+      <EM ID="2ght33-73" CATEG="ABSTRACCAO|LOCAL" TIPO="IDEIA|HUMANO" COREL="2ght33-3 2ght33-4" TIPOREL="LOCAL**ident**2ght33-3**LOCAL ABSTRACCAO**ident**2ght33-4**ABSTRACCAO">Detroit</EM>
+      é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.
+    
+  

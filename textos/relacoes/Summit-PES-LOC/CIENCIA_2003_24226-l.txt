@@ -1,0 +1,42 @@
+$S-11
+Assim=como 	[assim=como] <com> <rel>   ADV @AS-ADVL>  
+o 	[o] <artd> DET M S @>N  
+agente 	[agente] <Hprof> <ac> N M S @AS<  
+causador 	[causador] <nh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Sars 	[Sars] <org>   PROP F S @P<  ORG
+$, 
+o 	[o] <artd> DET M S @>N  
+vírus 	[vírus] <Acell> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+gripe 	[gripe] <sick> N F S @P<  
+espanhola 	[espanhol] <nat> <np-close> ADJ F S @N<  
+surgiu 	[surgir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+China 	[China] <civ>   PROP F S @P<  LOCAL
+$, 
+país 	[país] <Lciv> <np-close> N M S @N<PRED  
+com 	[com] <np-close> PRP @N<PRED @<ADVL  
+uma 	[um] <arti> DET F S @>N  
+grande 	[grande] <jh> ADJ F S @>N  
+população 	[população] <HH> N F S @P<  
+rural 	[rural] <nh> <np-close> ADJ F S @N<  
+$, 
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+porcos 	[porco] <jh> ADJ M P @AS<  
+e 	[e] <cjt-head> KC @NPHR  
+aves 	[ave] <Aorn> N F P @AS<  
+costumam 	[costumar] <vH> <aux> <np-close> V PR 3P IND VFIN @FS-<ADVL @FS-N<  
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  
+criados 	[criado] <cjt-head> <Hprof> N M P @<SC  
+juntos 	[juntar] <vH> <jh> <np-close> V PCP M P @N<  
+e 	[e] <cjt> KC @NPHR  
+perto 	[perto] ADV @<ADVL  
+demais 	[demais] <cjt> DET M/F S/P @<SC  
+de 	[de] <np-close> PRP @N<  
+humanos 	[humano] <jh> ADJ M P @P<  
+$. 
+</s>

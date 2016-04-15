@@ -1,0 +1,32 @@
+$S-1
+John=Murphy	 [John=Murphy] <hum> PROP M/F S @NPHR PES O
+$, O
+Ph.	 [ph.] N M S @NPHR O
+D.	 [D.] <hum> PROP M/F S @NPHR O
+$, O
+Etnomusicólogo	 [Etnomusicólogo] <hum> PROP M/F S @NPHR O
+e	 [e] KC @CO O
+professor	 [professor] <Hprof> N M S @NPHR O
+de	 [de] <np-close> PRP @N< O
+música	 [música] <sem-l> <domain> <cc-r> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Western=Illinois=University	 [Western=Illinois=University] <inst> PROP F S @P< ORG O
+$( O
+até	 [até] PRP @ADVL O
+2001	 [2001] <card> <year> <date> NUM M/F P @P< O
+$) O
+e	 [e] <co-prparg> KC @CO O
+a	 [o] <artd> DET F S @>N O
+University=of=North=Texas	 [University=of=North=Texas] <inst> PROP F S @P< O
+$( O
+a	 [a] <sam-> PRP @ADVL O
+a	 [o] <-sam> <artd> DET F S @>N O
+partir	 [partir] <vH> <mv> V INF @ICL-P< O
+de	 [de] PRP @<ADVL O
+Agosto	 [agosto] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+2001	 [2001] <card> <year> <date> NUM M/F P @P< O
+$) O
+$. O
+</s>

@@ -1,0 +1,10 @@
+$S-1
+Centro=de=Eventos=da=Fiergs	 [Centro=de=Eventos=da=Fiergs] <inst> PROP M S @P< ORG O
+$, O
+em	 [em] PRP @<ADVL O
+Porto=Alegre	 [Porto=Alegre] <civ> PROP M S @P< LOCAL O
+
+$S-2
+Departamento=Municipal=de=Limpeza=Urbana	 [Departamento=Municipal=de=Limpeza=Urbana] <inst> PROP M S @<ACC ORG O
+de	 [de] <np-close> PRP @N< REL
+Porto=Alegre	 [Porto=Alegre] <civ> PROP M S @P< LOCAL O

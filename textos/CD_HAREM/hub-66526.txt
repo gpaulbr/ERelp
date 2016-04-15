@@ -1,0 +1,86 @@
+
+    
+      <EM ID="hub-66526-8" CATEG="OBRA|LOCAL" TIPO="ARTE|HUMANO"  >Mosteiro de Santa Cruz</EM>
+    
+    História
+    
+      A <EM ID="hub-66526-26" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="hub-66526-8" TIPOREL="LOCAL**ident**hub-66526-8**LOCAL">Igreja de Santa Cruz de Coimbra</EM>  foi fundada
+      <EM ID="hub-66526-529" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1131</EM>
+      por
+      <EM ID="hub-66526-530" CATEG="PESSOA" TIPO="INDIVIDUAL"  >D. Telo</EM>
+      (
+      <EM ID="hub-66526-531" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-530" TIPOREL="ident">São Teotónio</EM>
+      ) e
+      <EM ID="hub-66526-532" CATEG="VALOR" TIPO="QUANTIDADE"  >11</EM>
+      outros religiosos, que adotaram a regra dos
+      <EM ID="hub-66526-29" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="hub-66526-531 hub-66526-531" TIPOREL="ABSTRACCAO**praticado_por**hub-66526-531**PESSOA PESSOA**inclui**hub-66526-531**PESSOA">Cónegos Regrantes de Santo Agostinho</EM> 
+      . A nova
+      <EM ID="hub-66526-534" CATEG="ORGANIZACAO|OBRA|LOCAL" TIPO="INSTITUICAO|ARTE|HUMANO" COREL="hub-66526-26-aa hub-66526-26-aa hub-66526-26 hub-66526-26" TIPOREL="ORGANIZACAO**ident**hub-66526-26-aa**ORGANIZACAO LOCAL**ident**hub-66526-26-aa**LOCAL ORGANIZACAO**ident**hub-66526-26**ORGANIZACAO LOCAL**ident**hub-66526-26**LOCAL">Igreja</EM>
+      recebeu muitos privilégios papais e doações dos primeiros
+       reis de <EM ID="hub-66526-22" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="hub-66526-28" TIPOREL="LOCAL**inclui**hub-66526-28**LOCAL">Portugal</EM>
+      , tornando-se a mais importante casa monástica do reino. Sua escola foi uma das melhores instituições de ensino do
+      <EM ID="hub-66526-23" CATEG="OUTRO"  COREL="hub-66526-22 hub-66526-22" TIPOREL="OUTRO**outrarel**hub-66526-22**LOCAL OUTRO**outrarel**hub-66526-22**ORGANIZACAO">Portugal</EM> medieval
+      , tendo uma grande biblioteca (agora na
+      
+        <EM ID="hub-66526-538" CATEG="LOCAL" TIPO="HUMANO"  >Biblioteca Pública Municipal do Porto</EM>
+        
+      ) e um activo scriptorium. <EM ID="hub-66526-24" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nos tempos</EM> de <EM ID="hub-66526-25" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-21 hub-66526-22" TIPOREL="incluido PESSOA**vinculo_inst**hub-66526-22**ORGANIZACAO">D. Afonso Henriques</EM>
+      , primeiro monarca português, o scriptorium de
+      <EM ID="hub-66526-542" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="hub-66526-26 hub-66526-26 hub-66526-26-aa hub-66526-26-aa" TIPOREL="ORGANIZACAO**ident**hub-66526-26**ORGANIZACAO LOCAL**ident**hub-66526-26**LOCAL ORGANIZACAO**ident**hub-66526-26-aa**ORGANIZACAO LOCAL**ident**hub-66526-26-aa**LOCAL">Santa Cruz</EM>
+      foi usado como máquina de consolidação do poder real. A importância da
+      <EM ID="hub-66526-543" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-66526-26 hub-66526-26 hub-66526-26-aa hub-66526-26-aa" TIPOREL="ORGANIZACAO**ident**hub-66526-26**ORGANIZACAO ORGANIZACAO**ocorre_em**hub-66526-26**LOCAL ORGANIZACAO**ident**hub-66526-26-aa**ORGANIZACAO ORGANIZACAO**ocorre_em**hub-66526-26-aa**LOCAL">Igreja</EM>
+      é evidenciada pelo fato de que
+      <EM ID="hub-66526-544" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-25" TIPOREL="ident">D. Afonso Henriques</EM>
+      e seu sucessor,
+      <EM ID="hub-66526-545" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-544 hub-66526-21 hub-66526-22" TIPOREL="relacao_familiar incluido PESSOA**vinculo_inst**hub-66526-22**ORGANIZACAO">D. Sancho I</EM>
+      , foram sepultados lá.
+    
+    
+      Na <EM ID="hub-66526-547" CATEG="OUTRO"   >Idade Média</EM>
+      , o mais famoso estudante da
+      <EM ID="hub-66526-31" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-66526-542 hub-66526-542" TIPOREL="ORGANIZACAO**ident**hub-66526-542**ORGANIZACAO ORGANIZACAO**ocorre_em**hub-66526-542**LOCAL">Igreja de Santa Cruz</EM>
+      foi
+      <EM ID="hub-66526-549" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando Martins de Bulhões</EM>
+      , o futuro
+      <EM ID="hub-66526-33" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-549" TIPOREL="ident">Santo António de Lisboa</EM> 
+      (ou
+      <EM ID="hub-66526-35" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-33" TIPOREL="ident">Santo António de Pádua</EM> 
+      ).
+      <EM ID="hub-66526-552" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1220</EM>
+      , o religioso assiste à chegada à
+      <EM ID="hub-66526-553" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-66526-534" TIPOREL="LOCAL**ident**hub-66526-534**LOCAL">Igreja</EM>
+      dos restos mortais de cinco frades franciscanos martirizados no
+      <EM ID="hub-66526-554" CATEG="LOCAL" TIPO="HUMANO"  >Marrocos</EM>
+      (os
+      <EM ID="hub-66526-37" CATEG="PESSOA" TIPO="GRUPOIND"  >Mártires do Marrocos</EM> 
+      ), e decide fazer-se missionário e partir de
+      <EM ID="hub-66526-556" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-66526-22 hub-66526-22 hub-66526-23 hub-66526-28 hub-66526-538 hub-66526-540 hub-66526-553" TIPOREL="LOCAL**ident**hub-66526-22**LOCAL LOCAL**sede_de**hub-66526-22**ORGANIZACAO LOCAL**outrarel**hub-66526-23**OUTRO LOCAL**inclui**hub-66526-28**LOCAL LOCAL**inclui**hub-66526-538**LOCAL LOCAL**inclui**hub-66526-540**LOCAL LOCAL**inclui**hub-66526-553**LOCAL">Portugal</EM>
+      .
+    
+    
+      <EM ID="hub-66526-557" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No início do século XVI</EM>
+      , o
+      <EM ID="hub-66526-558" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-31 hub-66526-22" TIPOREL="PESSOA**vinculo_inst**hub-66526-31**ORGANIZACAO PESSOA**vinculo_inst**hub-66526-22**ORGANIZACAO">rei D. Manuel I</EM>
+      ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro.
+      <EM ID="hub-66526-559" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-66526-557" TIPOREL="ident">Nessa época</EM>
+      são transladados os restos de
+      <EM ID="hub-66526-560" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-544" TIPOREL="ident">Afonso Henriques</EM>
+      e
+      <EM ID="hub-66526-561" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-545" TIPOREL="ident">Sancho I</EM>
+      dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.
+    
+    
+      <EM ID="hub-66526-562" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Entre 1530 e 1577</EM>
+      funcionou uma imprensa no claustro. É possível que o poeta
+      <EM ID="hub-66526-563" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luís de Camões</EM>
+      tenha estudado em
+      <EM ID="hub-66526-564" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="hub-66526-542 hub-66526-542" TIPOREL="ORGANIZACAO**ident**hub-66526-542**ORGANIZACAO LOCAL**ident**hub-66526-542**LOCAL">Santa Cruz</EM>
+      , uma vez que um parente seu (
+      <EM ID="hub-66526-565" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-66526-563" TIPOREL="relacao_familiar">D. Bento de Camões</EM>
+      ) era prior do mosteiro
+      na época
+      , e há evidências em sua poesia de uma estadia em
+      <EM ID="hub-66526-568" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-66526-564 hub-66526-564 hub-66526-28" TIPOREL="LOCAL**sede_de**hub-66526-564**ORGANIZACAO LOCAL**inclui**hub-66526-564**LOCAL ident">Coimbra</EM>
+      .
+    
+  

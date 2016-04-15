@@ -1,0 +1,71 @@
+
+    
+      CONGRESSOS DO
+      <EM ID="hub-24360-305" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PSD</EM>
+      , VOLTEM QUE ESTÃO PERDOADOS
+    
+    
+      Há poucas coisas que me entristecem tanto como esta história das directas do
+      <EM ID="hub-24360-306" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-24360-305" TIPOREL="ident">PSD</EM>
+      . É que eu sempre fui um aficcionado dos congressos do
+      <EM ID="hub-24360-307" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-24360-305" TIPOREL="ident">PSD</EM>
+      . Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: « 
+      <EM ID="hub-24360-308" CATEG="OUTRO"   >PSD: Responsabilidade e sentido de Estado</EM>
+      .»
+    
+    
+      Habituei-me,
+      <EM ID="hub-24360-309" CATEG="TEMPO" TIPO="GENERICO"  >ao longo dos anos</EM>
+      , a assistir às transmissões televisivas dos congressos social-democratas,
+      <EM ID="hub-24360-310" CATEG="TEMPO" TIPO="GENERICO"  >madrugada adentro</EM>
+      , enquanto comia pipocas. Menos quando
+      <EM ID="hub-24360-311" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-24360-305" TIPOREL="vinculo_inst">Santana Lopes</EM>
+      fazia aqueles discursos improvisados, que me provocavam um nó na garganta. Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o
+      <EM ID="hub-24360-313" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOIND"  >Conselho Nacional</EM>
+      lhe fez... Cafagestes!»
+    
+    
+      É certo que, agora que já não há intervenções pungentes de
+      <EM ID="hub-24360-314" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-24360-311" TIPOREL="ident">Santana Lopes</EM>
+      , os congressos do
+      <EM ID="hub-24360-315" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-24360-305" TIPOREL="ident">PSD</EM>
+      ficariam demasiado dependentes das gaffes de
+      <EM ID="hub-24360-316" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-24360-305" TIPOREL="vinculo_inst">Luís Filipe Menezes</EM>
+      . Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem.
+    
+    
+      Costuma-se dizer -- e com razão - que o
+      <EM ID="hub-24360-317" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO" COREL="hub-24360-305 hub-24360-311 hub-24360-316" TIPOREL="ORGANIZACAO**ident**hub-24360-305**ORGANIZACAO PESSOA**inclui**hub-24360-311**PESSOA PESSOA**inclui**hub-24360-316**PESSOA">PSD</EM>
+      é o
+      <EM ID="hub-24360-318" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >Sport Lisboa e Benfica</EM>
+      da política, uma vez que se trata do partido com a maior diversidade de classes sociais. O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.
+    
+    
+      Segundo
+      <EM ID="hub-24360-319" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-24360-305" TIPOREL="vinculo_inst">Pacheco Pereira</EM>
+      , é esta diversidade social que começa a estar seriamente ameaçada.
+      <EM ID="hub-24360-320" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Há uns tempos</EM>
+      , escreveu no
+      <EM ID="hub-24360-321" CATEG="LOCAL" TIPO="VIRTUAL"  >PÚBLICO</EM>
+      que «o problema do
+      <EM ID="hub-24360-322" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="hub-24360-305" TIPOREL="ORGANIZACAO**ident**hub-24360-305**ORGANIZACAO">PSD</EM>
+      é começar a ter só um
+      <EM ID="hub-24360-323" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Portugal</EM>
+      ou dois dentro de si». Não podia estar mais em desacordo com esta afirmação. Para mim, é precisamente esse o problema do partido. Se, em vez de «
+      <EM ID="hub-24360-324" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Portugais</EM>
+      », o
+      <EM ID="hub-24360-325" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="hub-24360-322 hub-24360-322" TIPOREL="ORGANIZACAO**ident**hub-24360-322**ORGANIZACAO ABSTRACCAO**ident**hub-24360-322**ABSTRACCAO">PSD</EM>
+      tivesse uma
+      <EM ID="hub-24360-326" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Finlândia</EM>
+      ou duas
+      <EM ID="hub-24360-327" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Dinamarcas</EM>
+      dentro dele, aí sim podia ser que o partido fosse a algum lado.
+    
+    
+      De resto, fico já satisfeito por ter conseguido escrever um post sobre o
+      <EM ID="hub-24360-328" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="hub-24360-322 hub-24360-322" TIPOREL="ORGANIZACAO**ident**hub-24360-322**ORGANIZACAO ABSTRACCAO**ident**hub-24360-322**ABSTRACCAO">PSD</EM>
+      , sem uma única referência à baixa estatura de
+      <EM ID="hub-24360-329" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-24360-305" TIPOREL="vinculo_inst">Marques Mendes</EM>
+      . (O quê? Isto conta como referência?)
+    
+  

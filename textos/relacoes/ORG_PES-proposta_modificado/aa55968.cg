@@ -1,0 +1,70 @@
+$S-1
+New=York	 [New=York] <hum> PROP M/F S @SUBJ> O
+$, O
+New=York	 [New=York] <hum> <np-close> PROP M/F S @APP  O
+Em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+mÃªs	 [mÃªs] <per> <dur> <unit> N M S @P< O
+passado	 [passado] <np-close> ADJ M S @N< O 
+$, O
+o	 [o] <artd> DET M S @>N O
+presidente	 [presidente] <Hprof> <np-close> N M S @APP O 
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+CÃ¢mara	 [cÃ¢mara] <prop> <Lh> <HH> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Nova=Iorque	 [Nova=Iorque] <civ> PROP F S @P< O
+$, O
+Michael=Bloomberg	 [Michael=Bloomberg] <hum> <np-close> PROP M S @APP PES O 
+$, O
+decidiu	 [decidir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA REL
+entregar	 [entregar] <vH> <mv> V INF @ICL-<ACC REL
+o	 [o] <artd> DET M S @>N REL
+cartÃ£o	 [cartÃ£o] <cm> <cc-r> N M S @<ACC REL
+de	 [de] <np-close> PRP @N< REL
+militante	 [militante] <H> N M S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <artd> <-sam> DET M S @>N REL
+Partido=Conservador	 [Partido=Conservador] <party> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-2
+Hillary=Clinton	 [Hillary=Clinton] <hum> PROP F S @SUBJ> O
+$, O
+senadora	 [senadora] <Hprof> <np-close> N F S @APP O 
+por	 [por] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+estado	 [estado] <Lciv> <state> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+Nova=Iorque	 [Nova=Iorque] <civ> PROP F S @P< O
+$, O
+Rudy=Giuliani	 [Rudy=Giuliani] <hum> <np-close> PROP M/F S @APP PES O 
+$, O
+o	 [o] <artd> DET M S @>N O
+republicano	 [republicano] <H> <np-close> N M S @APP O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+jÃ¡	 [jÃ¡] ADV @ADVL> O
+foi	 [ser] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N< O
+presidente	 [presidente] <Hprof> N M S @<SC REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N REL
+CÃ¢mara	 [cÃ¢mara] <prop> <Lh> <HH> N F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+cidade	 [cidade] <Lciv> N F S @P< O
+$, O
+e	 [e] <co-fin> KC @CO O
+Michael=Bloomberg	 [Michael=Bloomberg] <hum> PROP M S @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+homem	 [homem] <Hattr> N M S @<SC O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+sucedeu	 [suceder] <vN> <mv> <np-close> V PS 3S IND VFIN @FS-N< O 
+a	 [a] PRP @<PIV O
+Giuliani	 [Giuliani] <hum> PROP M/F S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+cargo	 [cargo] <ac> N M S @P< O
+$. O
+</s>

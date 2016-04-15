@@ -1,0 +1,411 @@
+$S-1
+Pesquisadores=do=Museu=Nacional 	[Pesquisadores=do=Museu=Nacional] <hum> <*> PROP M/F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Rio=de=Janeiro 	[Rio=de=Janeiro] <civ> <*> PROP M S @P<  
+anunciaram 	[anunciar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+ontem 	[ontem] ADV @<ADVL  
+a 	[o] <artd> DET F S @>N  
+descoberta 	[descoberta] <event> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+uma 	[um] <arti> DET F S @>N  
+nova 	[novo] ADJ F S @>N  
+espécie 	[espécie] <meta> <A> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+dinossauro 	[dinossauro] <Azo> N M S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Brasil 	[Brasil] <civ> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-2
+O 	[o] <*> <artd> DET M S @>N  
+animal 	[animal] <Azo> N M S @SUBJ>  
+era 	[ser] <predco> <cjt-head> <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+carnívoro 	[carnívoro] <n> ADJ M S @<SC  
+que 	[que] <clb> KS @SUB  
+habitou 	[habitar] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+nordeste 	[nordeste] <dir> N M S @SUBJ>  
+brasileiro 	[brasileiro] <nat> <np-close> ADJ M S @N<  
+há 	[haver] <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+110 	[110] <card> NUM M/F P @<ACC  
+$milhões  
+de 	[de] PRP @<ADVL  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+período 	[período] <per> N M S @P<  
+Cretáceo 	[Cretáceo] <hum> <*> <np-close> PROP M S @N<  
+$( 
+o 	[o] <artd> DET M S @>N  
+último 	[último] <n> <NUM-ord> <jh> <np-close> ADJ M S @APP  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+era 	[era] <per> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+grandes 	[grande] ADJ M P @>N  
+répteis 	[réptil] <Azo> N M P @P<  
+$) 
+$. 
+</s>
+
+$S-3
+Batizado=de=Santanaraptor 	[Batizado=de=Santanaraptor] <cjt-head> <common> <*> PROP M S @SUBJ>  
+placidus 	[placer] <np-close> V PCP M P @N<  
+$, 
+o 	[o] <artd> DET M S @>N  
+fóssil 	[fóssil] <cjt> <A> N M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+único 	[único] <n> ADJ M S @<SC  
+a 	[a] PRP @<ADVL  
+ser 	[ser] <aux> V INF @ICL-P<  
+encontrado 	[encontrar] <vH> <mv> V PCP M S @ICL-AUX<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+com 	[com] <cjt-head> PRP @<SC @<ADVL  
+restos 	[resto] <amount> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+tecido 	[tecido] <mat-cloth> <an> <cc-rag> N M S @P<  
+mole 	[mole] <np-close> ADJ M S @N<  
+$, 
+como 	[como] <cjt> <prd> <adv-rel> PRP @<SC  
+fibras 	[fibra] <cjt-head> <asarg> <cord> N F P @P<  
+musculares 	[muscular] <nh> <np-close> ADJ F P @N<  
+$, 
+vasos 	[vaso] <cjt> <asarg> <con> <Vwater> N M P @P<  
+sanguíneos 	[sanguíneo] <np-close> ADJ M P @N<  
+e 	[e] KC @NPHR  
+pele 	[pele] <cjt> <asarg> <an> <mat-cloth> <ac> <anbo> N F S @P<  
+$. 
+</s>
+
+$S-4
+Para 	[para] <*> PRP @ADVL>  
+os 	[o] <artd> DET M P @>N  
+paleontólogos 	[paleontólogo] <Hprof> N M P @P<  
+$, 
+achar 	[achar] <vH> <mv> V INF @ICL-UTT  
+esse 	[esse] <dem> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+evidência 	[evidência] <percep-f> N F S @P<  
+equivale 	[equivaler] <vN> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[a] PRP @<PIV  
+acertar 	[acertar] <vH> <mv> V INF @ICL-P<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+loteria 	[loteria] <occ> N F S @P<  
+$. 
+</s>
+
+$S-5
+$"  
+É 	[ser] <clb-fs> <*> <*1> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+como=se 	[como=se] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+dinossauro 	[dinossauro] <Azo> N M S @SUBJ>  
+tivesse 	[ter] <aux> V IMPF 3S SUBJ VFIN @FS-<SC  
+sido 	[ser] <aux> V PCP @ICL-AUX<  
+enterrado 	[enterrar] <mv> V PCP M S @ICL-AUX<  
+ontem 	[ontem] <*2> ADV @<ADVL  
+$"  
+$, 
+disse 	[dizer] <predco> <cjt-head> <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Alexander=Kellner 	[Alexander=Kellner] <hum> <*> PROP M S @<SUBJ  
+$, 
+geólogo 	[geólogo] <Hprof> <np-close> N M S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Setor=de=Paleovertebrados=do=Museu=Nacional 	[Setor=de=Paleovertebrados=do=Museu=Nacional] <cjt-head> <inst> <*> PROP M S @P< ORG
+e 	[e] KC @NPHR  
+coordenador 	[coordenador] <cjt> <Hprof> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+expedição 	[expedição] <occ> <HH> <act> N F S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+encontrou 	[encontrar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+fóssil 	[fóssil] <A> N M S @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Chapada=do=Araripe 	[Chapada=do=Araripe] <org> <*> PROP F S @P< LOCAL
+$, 
+Ceará 	[Ceará] <civ> <*> <np-close> PROP M S @N<  
+$( 
+veja 	[ver] <nosubj> <cjt> <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA  
+mapa 	[mapa] <cc-r> <pict> N M S @<ACC  
+$) 
+$. 
+</s>
+
+$S-6
+Com 	[com] <*> PRP @ADVL> @PRED>  
+os 	[o] <artd> DET M P @>N  
+tecidos 	[tecido] <mat-cloth> <an> <cc-rag> N M P @P<  
+preservados 	[preservar] <vH> <np-close> V PCP M P @N<PRED  
+$, 
+os 	[o] <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @SUBJ>  
+esperam 	[esperar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+poder 	[poder] <aux> V INF @ICL-<ACC  
+saber 	[saber] <mv> V INF @ICL-AUX<  
+mais 	[mais] ADV @<ADVL  
+sobre 	[sobre] PRP @<PIV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+modo=de=vida 	[modo=de=vida] <cjt-head> <f-psych> N M S @P<  
+e 	[e] KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+evolução 	[evolução] <cjt> <process> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+répteis 	[réptil] <Azo> N M P @P<  
+$. 
+</s>
+
+$S-7
+Outra 	[outro] <*> <diff> <KOMP> DET F S @>N  
+importante 	[importante] ADJ F S @>N  
+descoberta 	[descoberta] <cjt-head> <event> N F S @SUBJ>  
+é=que 	[é=que] <foc> ADV @<FOC  
+$, 
+em 	[em] <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+cadeia 	[cadeia] <inst> N F S @P<  
+evolutiva 	[evolutivo] <nh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+dinossauros 	[dinossauro] <Azo> N M P @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+Santanaraptor 	[Santanaraptor] <cjt> <inst> <*> PROP M S @SUBJ>  
+ocuparia 	[ocupar] <vH> <fmc> <mv> V COND 3S VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+posição 	[posição] <cjt-head> <act> <pos-an> N F S @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+Tyrannoraptora 	[Tyrannoraptora] <org> <*> <np-close> PROP M S @N<  
+$, 
+o 	[o] <artd> DET M S @>N  
+mesmo 	[mesmo] <cjt> <diff> <KOMP> DET M S @<ACC  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Tyrannossaurus 	[Tyrannossaurus] <inst> <*> PROP M S @P<  
+rex 	[rex] <cjt> N M S @<ACC  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+habitou 	[habitar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+os 	[o] <artd> DET M P @>N  
+Eua 	[Eua] <org> <*> PROP M P @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+final 	[final] <event> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+era 	[era] <per> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+dinos 	[dino] <Azo> N M P @P<  
+$. 
+</s>
+
+$S-8
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+Kellner 	[Kellner] <hum> <asarg> <*> PROP M/F S @P<  
+$, 
+apesar=de 	[apesar=de] PRP @ADVL>  
+o 	[o] <clb> <artd> DET M S @>N  
+animal 	[animal] <Azo> N M S @SUBJ>  
+ser 	[ser] <vK> <mv> V INF 3S @ICL-P<  
+um 	[um] <arti> DET M S @>N  
+baixinho 	[baixinho] <n> ADJ M S @<SC  
+$( 
+poderia 	[poder] <cjt-head> <fmc> <aux> V COND 3S VFIN @FS-STA  
+atingir 	[atingir] <mv> V INF @ICL-AUX<  
+$, 
+no=máximo 	[no=máximo] ADV @<ADVL  
+$, 
+2,5 	[2,5] <card> NUM M P @>N  
+metros 	[metro] <unit> <ac-cat> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+altura 	[altura] <f-q> <Labs> <temp> <Ltop> N F S @P<  
+$) 
+$, 
+suas 	[seu] <poss 3S> DET F P @>N  
+patas 	[pata] <cjt-head> <anzo> <Aorn> N F P @SUBJ>  
+e 	[e] KC @NPHR  
+bacia 	[bacia] <cjt> <con> <Ltop> N F S @SUBJ>  
+têm 	[ter] <cjt> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+características 	[característica] <ac> N F P @<SC  
+anatômicas 	[anatômico] <nh> <np-close> ADJ F P @N<  
+muito 	[muito] <quant> ADV @>A  
+semelhantes 	[semelhante] <nh> <np-close> ADJ M/F P @N<  
+a 	[a] <sam-> PRP @A<  
+as 	[o] <-sam> <dem> DET F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+ilustre 	[ilustre] ADJ M S @>N  
+réptil 	[réptil] <Azo> N M S @P<  
+norte-americano 	[norte-americano] <nat> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-9
+$"  
+O 	[o] <*> <*1> <artd> DET M S @>N  
+Santanaraptor 	[Santanaraptor] <org> <*> PROP M S @SUBJ>  
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  
+a 	[o] <artd> DET F S @>N  
+espécie 	[espécie] <meta> <A> N F S @<SC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+deu 	[dar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+origem 	[origem] <cjt-head> <Labs> <f-h> N F S @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+tiranossauro 	[tiranossauro] <Adom> N M S @P<  
+68 	[68] <cjt> <card> NUM M/F P @<ACC  
+$milhões  
+de 	[de] PRP @<ADVL  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+mais 	[mais] ADV @<ADVL  
+tarde 	[tarde] <*2> <pp> ADV @<ADVL  
+$"  
+$, 
+explicou 	[explicar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+geólogo 	[geólogo] <Hprof> N M S @<SUBJ  
+$. 
+</s>
+
+$S-10
+Predador 	[predador] <*> <jh> ADJ M S @SC>  
+O 	[o] <*> <artd> DET M S @>N  
+exemplar 	[exemplar] <cc> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+Santanaraptor 	[Santanaraptor] <common> <*> PROP M/F S @P<  
+encontrado 	[encontrado] <nh> <np-close> ADJ M S @N<  
+por 	[por] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+equipe 	[equipe] <HH> N F S @P<  
+carioca 	[carioca] <nat> <jh> <np-close> ADJ F S @N<  
+foi 	[ser] <cjt-head> <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+desenterrado 	[desenterrar] <vH> <mv> V PCP M S @ICL-AUX<  
+em 	[em] PRP @<ADVL  
+1991 	[1991] <card> <date> <year> NUM M/F P @P<  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+montagem 	[montagem] <act> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+fóssil 	[fóssil] <A> N M S @P<  
+só 	[só] ADV @ADVL>  
+foi 	[ser] <cjt> <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+concluída 	[concluir] <vH> <mv> V PCP F S @ICL-AUX<  
+nove 	[nove] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @<ADVL  
+mais 	[mais] <np-close> ADV @N<  
+tarde 	[tarde] <pp> ADV @<ADVL  
+$. 
+</s>
+
+$S-11
+Tudo=o=que 	[tudo=o=que] <clb> <clb-fs> <rel> <quant> <*> SPEC M S @ACC> @SUBJ>  
+sobrou 	[sobrar] <vN> <mv> V PS 3S IND VFIN @FS-SUBJ>  
+de 	[de] <sam-> PRP @<ADVL  
+ele 	[ele] <-sam> PERS M 3S NOM/PIV @P<  
+foram 	[ser] <cjt-head> <vK> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+as 	[o] <artd> DET F P @>N  
+patas 	[pata] <cjt-head> <anzo> <Aorn> N F P @<SC  
+e 	[e] <cjt-head> KC @NPHR  
+partes 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F P @<ACC @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+cauda 	[cauda] <anmov> N F S @P<  
+e 	[e] <cjt> KC @NPHR  
+de 	[de] <cjt> <sam-> <np-close> PRP @<SC @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+bacia 	[bacia] <con> <Ltop> N F S @P<  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+os 	[o] <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <Hprof> N M P @SUBJ>  
+conseguiram 	[conseguir] <cjt> <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+estimar 	[estimar] <vH> <mv> V INF @ICL-<ACC  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+bicho 	[bicho] <Azo> <H> N M S @SUBJ>  
+fosse 	[ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-<ACC  
+um 	[um] <arti> DET M S @>N  
+filhote 	[filhote] <H> N M S @<SC  
+de 	[de] <np-close> PRP @N<  
+1,5 	[1,5] <card> NUM M P @>N  
+metro 	[metro] <unit> <ac-cat> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+altura 	[altura] <f-q> <Labs> <temp> <Ltop> N F S @P<  
+$. 
+</s>
+
+$S-12
+Sua 	[seu] <*> <poss 3S> DET F S @>N  
+estrutura 	[estrutura] <percep-f> <HH> N F S @SUBJ>  
+óssea 	[ósseo] <nh> <np-close> ADJ F S @N<  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] PRP @<SC  
+um 	[um] <arti> DET M S @>N  
+dinossauro 	[dinossauro] <Azo> N M S @P<  
+ágil 	[ágil] <np-close> ADJ M S @N<  
+e 	[e] KC @NPHR  
+veloz 	[veloz] <nh> <np-close> ADJ M/F S @N<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+provavelmente 	[provavelmente] ADV @ADVL>  
+se 	[se] <refl> PERS M 3S ACC @ACC>  
+alimentava 	[alimentar] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  
+de 	[de] PRP @<PIV  
+pequenas 	[pequeno] <jh> ADJ F P @>N  
+presas 	[presa] <A> <cc> <act> <anzo> <bar> N F P @P<  
+$_  
+um 	[um] <arti> DET M S @>N  
+raptor 	[raptor] <H> N M S @<SUBJ  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+linguagem 	[linguagem] <sem-s> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+paleontólogos 	[paleontólogo] <Hprof> N M P @P<  
+$. 
+</s>
+
+$S-13
+O 	[o] <*> <artd> DET M S @>N  
+nome 	[nome] <percep-f> <ac-cat> N M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+alusão 	[alusão] <act-s> N F S @<SC  
+a 	[a] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+ele 	[ele] PERS M 3S NOM @SUBJ>  
+viveu 	[viver] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+$( 
+a 	[o] <artd> DET F S @>N  
+Formação=Santana 	[Formação=Santana] <tit> <*> <np-close> PROP F S @APP  
+$) 
+$. 
+</s>
+
+$S-14

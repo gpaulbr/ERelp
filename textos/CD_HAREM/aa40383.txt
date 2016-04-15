@@ -1,0 +1,165 @@
+
+    A hora da verdade
+    
+      1.
+      <EM ID="aa40383-284" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Hoje à noite</EM>
+      o
+      <EM ID="aa40383-285" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Benfica</EM>
+      tem um teste elucidativo sobre o seu verdadeiro valor. Teve-o também <EM ID="aa40383-500" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes</EM> contra o
+      <EM ID="aa40383-286" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Manchester United</EM>
+      , onde passou com distinção, é facto, mas o
+      <EM ID="aa40383-287" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-286" TIPOREL="ident">Manchester</EM>
+      <EM ID="aa40383-288" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desta época</EM>
+      e, sobretudo, o
+      <EM ID="aa40383-289" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de Dezembro passado</EM>
+      , é uma pálida imitação dos «red devils»
+      de um passado recente
+      , que tudo atemorizavam. O
+      <EM ID="aa40383-291" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Liverpool</EM>
+      , para além de campeão europeu em título, é melhor equipa e mais calculista. Contra ele, o
+      <EM ID="aa40383-292" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica</EM>
+      tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu. Ao iniciar com uma derrota inapelável este terrível ciclo
+      <EM ID="aa40383-183" CATEG="TEMPO" TIPO="DURACAO"  >de nove dias</EM>
+      em que tudo se pode sonhar e tudo se pode perder, o  <EM ID="aa40383-282" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica de Ronald Koeman</EM> 
+      parece ter lançado a descrença entre os seus --- adeptos e jornalistas. De repente, a tão louvada equipa
+      <EM ID="aa40383-296" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de há três semanas atrás</EM>
+      parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações. Acusa-se
+      <EM ID="aa40383-297" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-295" TIPOREL="ident">Koeman</EM>
+      de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços
+      <EM ID="aa40383-298" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Dezembro</EM>
+      , anunciados pela
+      <EM ID="aa40383-299" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa40383-285" TIPOREL="vinculo_inst">Direcção</EM>
+      como o suplemento que faltava para a conquista da
+      <EM ID="aa40383-300" CATEG="OUTRO"   >Liga dos Campeões</EM>
+      e que ele, logicamente, tinha de experimentar e utilizar. E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o
+      <EM ID="aa40383-301" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-286" TIPOREL="ident">Manchester</EM>
+      . Até se acusa
+      <EM ID="aa40383-302" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-295" TIPOREL="ident">Koeman</EM>
+      de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de
+      <EM ID="aa40383-303" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-285" TIPOREL="incluido">Quim</EM>
+      e de
+      <EM ID="aa40383-304" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-285" TIPOREL="incluido">Moreira</EM>
+      , pela manifesta impreparação de
+      <EM ID="aa40383-305" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-285" TIPOREL="incluido">Nereu</EM>
+      , ou pela «épica» contratação de
+      <EM ID="aa40383-306" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-285" TIPOREL="incluido">Moretto</EM>
+      , delirantemente saudada pela massa associativa e afins. Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no
+      <EM ID="aa40383-307" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO" COREL="aa40383-285 aa40383-295 aa40383-303 aa40383-304 aa40383-305 aa40383-306 aa40383-299" TIPOREL="PESSOA**ident**aa40383-285**PESSOA ORGANIZACAO**vinculo_inst**aa40383-295**PESSOA ORGANIZACAO**vinculo_inst**aa40383-303**PESSOA ORGANIZACAO**vinculo_inst**aa40383-304**PESSOA ORGANIZACAO**vinculo_inst**aa40383-305**PESSOA ORGANIZACAO**vinculo_inst**aa40383-306**PESSOA ORGANIZACAO**incluido**aa40383-299**ORGANIZACAO">Benfica</EM>
+      tem sobretudo a ver com a ilusão criada sobre o valor real da equipa. Tudo começou na época passada, com um
+      <EM ID="aa40383-309" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|" COREL="aa40383-285" TIPOREL="ACONTECIMENTO**ter_participacao_de**aa40383-285**ACONTECIMENTO">Campeonato</EM>
+      e uma
+      <EM ID="aa40383-310" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|" COREL="aa40383-285" TIPOREL="ACONTECIMENTO**ter_participacao_de**aa40383-285**ACONTECIMENTO">Taça</EM>
+      ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar. Por isso, quando
+      <EM ID="aa40383-311" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-307" TIPOREL="PESSOA**vinculo_inst**aa40383-307**ORGANIZACAO">Luís Filipe Vieira</EM>
+      disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a
+      <EM ID="aa40383-312" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|" COREL="aa40383-285" TIPOREL="ACONTECIMENTO**ter_participacao_de**aa40383-285**PESSOA">Champions</EM>
+      , continuaram todos a fingir que acreditavam. Depois, houve a vitória sobre o
+      <EM ID="aa40383-314" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Manchester</EM>
+      e a série de sete triunfos consecutivos na
+      <EM ID="aa40383-315" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="aa40383-285" TIPOREL="ter_participacao_de">Liga</EM>  portuguesa e foi ver o
+      <EM ID="aa40383-316" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-307" TIPOREL="PESSOA**vinculo_inst**aa40383-307**ORGANIZACAO">José Veiga</EM>
+      , de peito feito, a anunciar a inevitável revalidação do título e a
+      <EM ID="aa40383-317" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|"  >Europa</EM>
+      ao virar da esquina. Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas. E assim se criou a verdade oficial de que estava aí um grande
+      <EM ID="aa40383-318" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica</EM>
+      , que nada nem ninguém conseguiriam parar. Agora, três súbitas derrotas depois, cai-se no extremo oposto. E na pior altura, quando a equipa mais precisava da confiança dos seus. Mas, se
+      <EM ID="aa40383-320" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre hoje e domingo</EM>
+      , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão. Isso está guardado para um bode expiatório mais conveniente.
+    
+    
+      2. O
+      <EM ID="aa40383-321" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica</EM>
+      jogava em
+      <EM ID="aa40383-322" CATEG="LOCAL" TIPO="HUMANO"  >Guimarães</EM>
+      sob o peso de ter três jogadores ameaçados de não poderem defrontar o
+      <EM ID="aa40383-323" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >FC Porto</EM>
+      caso vissem um cartão amarelo.
+      <EM ID="aa40383-324" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Lucílio Baptista</EM>
+      foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo). Mas, no resto,
+      <EM ID="aa40383-326" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-324" TIPOREL="ident">Lucílio</EM>
+      não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas,
+      <EM ID="aa40383-327" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-324" TIPOREL="ident">Lucílio Batista</EM>
+      conseguiu marcar o dobro de faltas ao
+      <EM ID="aa40383-328" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Vitória</EM>
+      , deixando inúmeras por assinalar contra o
+      <EM ID="aa40383-329" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica</EM>
+      , e mostrar sete cartões amarelos a jogadores do
+      <EM ID="aa40383-330" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Guimarães</EM>
+      contra apenas um aos benfiquistas.
+    
+    
+      3. E, a propósito do «
+      <EM ID="aa40383-331" CATEG="OBRA" TIPO="PLANO"  >Apito Dourado</EM>
+      », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se
+      <EM ID="aa40383-332" CATEG="TEMPO" TIPO="DURACAO"  >durante anos</EM>
+      , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao
+       presidente do <EM ID="aa40383-11" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa40383-323" TIPOREL="vinculo_inst">FC Porto</EM>
+      . Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar. <EM ID="aa40383-294" CATEG="TEMPO" TIPO="DURACAO"  >Mais de um ano</EM> de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo»
+      <EM ID="aa40383-335" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-11 aa40383-10" TIPOREL="vinculo_inst ident">Pinto da Costa</EM>
+      , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do
+      <EM ID="aa40383-336" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Ministério Público</EM>
+      , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de
+      <EM ID="aa40383-337" CATEG="LOCAL" TIPO="HUMANO"  >Gondomar</EM>
+      conclui apenas em extrair certidões do processo para que outros continuem a investigar
+      <EM ID="aa40383-338" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-335" TIPOREL="ident">Pinto da Costa</EM>
+      . E, quanto a factos novos, indícios novos, provas recolhidas, nada. A suspeita «gravíssima» mantém-se rigorosamente a mesma
+      <EM ID="aa40383-339" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de há um ano atrás</EM>
+      :
+      <EM ID="aa40383-340" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2004</EM>
+      , o
+      
+        <EM ID="aa40383-341" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-323" TIPOREL="ident">FC Porto de José Mourinho</EM>
+        
+      , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o
+      <EM ID="aa40383-344" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-285" TIPOREL="ident">Benfica</EM>
+      , <EM ID="aa40383-3440" CATEG="TEMPO" TIPO="DURACAO"  >a semanas</EM> de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no
+      <EM ID="aa40383-345" CATEG="LOCAL" TIPO="HUMANO"  >Dragão</EM>
+      contra o
+      <EM ID="aa40383-346" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >E. Amadora</EM>
+      , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar. E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém. Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.
+    
+    
+      4. E, pé ante pé, o
+      <EM ID="aa40383-347" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Sporting</EM>
+      está a cinco pontos do
+      <EM ID="aa40383-348" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-323" TIPOREL="ident">FC Porto</EM>
+      e poderá ficar a dois se,
+      <EM ID="aa40383-349" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >domingo</EM>
+      na
+      <EM ID="aa40383-350" CATEG="LOCAL" TIPO="HUMANO"  >Luz</EM>
+      , a equipa de
+      <EM ID="aa40383-351" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa40383-323" TIPOREL="incluido">Adriaanse</EM>
+      falhar mais uma vez num jogo decisivo. Dou-me conta, já
+      <EM ID="aa40383-352" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >há um tempo</EM>
+      , que muito pouco ou quase nada tenho escrito sobre o
+      <EM ID="aa40383-353" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOMEMBRO|INSTITUICAO" COREL="aa40383-347" TIPOREL="PESSOA**ident**aa40383-347**PESSOA">Sporting</EM>
+      esta época. A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o
+      <EM ID="aa40383-354" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-347" TIPOREL="ident">Sporting</EM>
+      tenha futebol para ser campeão nacional, esta época. Estão em segundo lugar, já só a cinco pontos e ainda vão receber o
+      <EM ID="aa40383-355" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-323" TIPOREL="ident">FC Porto</EM>
+      em
+      <EM ID="aa40383-356" CATEG="LOCAL" TIPO="HUMANO"  >Alvalade</EM>
+      ? Pois, é facto. Mas, mesmo assim, não me convencem. Ainda
+      <EM ID="aa40383-357" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >esta semana</EM>
+      o que vi, contra o
+      <EM ID="aa40383-358" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Paços de Ferreira</EM>
+      e em
+      <EM ID="aa40383-359" CATEG="LOCAL" TIPO="HUMANO" COREL="aa40383-356" TIPOREL="ident">Alvalade</EM>
+      , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro <EM ID="aa40383-4" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >depois da hora</EM>. Um
+      <EM ID="aa40383-360" CATEG="VALOR" TIPO="CLASSIFICACAO"  >3-0</EM>
+      absolutamente enganador, num jogo que não mereceu sequer ganhar. Como disse, é possível que ainda tenha de engolir esta opinião. Mas, se isso acontecer, é porque o
+      <EM ID="aa40383-361" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa40383-323" TIPOREL="ident">FC Porto</EM>
+      entregou o ouro ao bandido.
+    
+    
+
+      ©
+      <EM ID="aa40383-362" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Miguel Sousa Tavares</EM>
+      -
+      
+        <EM ID="aa40383-181" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Jornal "A Bola"</EM>
+        
+      -
+      <EM ID="aa40383-364" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >21.02.2006</EM>
+    
+  

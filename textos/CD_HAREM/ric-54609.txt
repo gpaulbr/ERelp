@@ -1,0 +1,53 @@
+
+    
+      Na internet, no cinema, na TV, na
+      <EM ID="ric-54609-211" CATEG="LOCAL" TIPO="HUMANO"  >Locadora</EM>
+    
+    
+      <EM ID="ric-54609-188" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Carlos Gerbase</EM>
+      faz parte de uma geração de cineastas que apareceu em
+      <EM ID="ric-54609-189" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-54609-188" TIPOREL="residencia_de">Porto Alegre</EM>
+      <EM ID="ric-54609-190" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos anos 90</EM>
+      , com a intenção de colocar o
+      <EM ID="ric-54609-191" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-54609-189" TIPOREL="inclui">Rio Grande do Sul</EM>
+      no mapa nacional da
+      <EM ID="ric-54609-192" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Sétima Arte</EM>
+      . Através da
+      <EM ID="ric-54609-14" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-54609-189 ric-54609-188" TIPOREL="ocorre_em vinculo_inst">Casa de Cinema de Porto Alegre</EM> 
+      , esse grupo produziu obras-primas como o curta-metragem
+      <EM ID="ric-54609-194" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-54609-188" TIPOREL="obra_de">Ilha das Flores</EM>
+      e apresentou para o país cineastas como
+      <EM ID="ric-54609-195" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-14 ric-54609-188 ric-54609-194" TIPOREL="vinculo_inst relacao_profissional autor_de">Jorge Furtado</EM>
+      , considerado um dos mais interessantes realizadores do cinema brasileiro atual.
+      <EM ID="ric-54609-196" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-188" TIPOREL="ident">Gerbase</EM>
+      faz parte desse grupo e, mantendo a tradição, coloca mais uma questão para a produção nacional ao lançar seu novo filme
+      <EM ID="ric-54609-197" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-54609-196" TIPOREL="obra_de">3 Efes</EM>
+      simultaneamente no cinema, na TV, na internet e em DVD. "Só faltou a versão rádio", brincou ele, bem-humorado, com a reportagem do jornal fluminense
+      <EM ID="ric-54609-200" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >O Globo</EM>
+      .
+    
+    
+      Segundo a sinopse oferecida pela produção do filme, "
+      <EM ID="ric-54609-201" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-54609-197" TIPOREL="ident">3 Efes</EM>
+      é uma comédia dramática que aborda as dificuldades - afetivas, financeiras e culturais - enfrentadas por um grupo de personagens que circula em torno de
+      <EM ID="ric-54609-202" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-201" TIPOREL="personagem_de">Sissi</EM>
+      , uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno. Nessa situação de dificuldade,
+      <EM ID="ric-54609-203" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-202" TIPOREL="ident">Sissi</EM>
+      recorre aos conselhos de sua tia,
+      <EM ID="ric-54609-204" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-201 ric-54609-203" TIPOREL="personagem_de relacao_familiar">Martina</EM>
+      , uma dona-de-casa entediada que, em meio a uma crise no seu casamento com o publicitário
+      <EM ID="ric-54609-205" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-201 ric-54609-204" TIPOREL="personagem_de relacao_familiar">Rogério</EM>
+      , fica irresistivelmente atraída por
+      <EM ID="ric-54609-206" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-201" TIPOREL="personagem_de">William</EM>
+      , um simples catador de papel.
+      <EM ID="ric-54609-207" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-205" TIPOREL="ident">Rogério</EM>
+      também está em apuros: sua última campanha publicitária deu errado, e agora ele precisa dar um jeito de salvar seu emprego - de qualquer jeito. Assim, sob todas essas pressões do cotidiano, os personagens acabam tomando importantes decisões que vão mudar muita coisa entre eles - e também provocar algumas situações inusitadas".
+    
+    
+      O filme, que chegou ao público
+      <EM ID="ric-54609-208" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-54609-197" TIPOREL="data_de">no dia 7 de dezembro</EM>
+      , já pode ser visto pelo site www.3efes.com.br. Confira a entrevista exclusiva com o
+      <EM ID="ric-54609-209" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-54609-196" TIPOREL="ident">diretor Carlos Gerbase</EM>
+      :
+    
+  

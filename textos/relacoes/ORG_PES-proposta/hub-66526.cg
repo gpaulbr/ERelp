@@ -1,0 +1,120 @@
+$S-1
+Em	 [em] <sam-> PRP @ADVL> O
+os	 [o] <artd> <-sam> DET M P @>N O
+tempos	 [tempo] <ac-cat> <per> <temp> <am> <wea> N M P @P< O
+de	 [de] <np-close> PRP @N< O
+D.=Afonso=Henriques	 [D.=Afonso=Henriques] <hum> PROP M/F S @P< PES O
+$, O
+primeiro	 [primeiro] <NUM-ord> <jh> ADJ M S @>N O
+monarca	 [monarca] <Hprof> <np-close> N M S @N<PRED O
+português	 [português] <nat> <jh> <np-close> ADJ M S @N< O 
+$, O
+o	 [o] <artd> DET M S @>N O
+scriptorium	 [scriptorium] N M S @SUBJ> O
+de	 [de] <np-close> PRP @N< O 
+Santa=Cruz	 [Santa=Cruz] <top> PROP F S @P< ORG O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+usado	 [usar] <vH> <mv> V PCP M S @ICL-AUX< O
+como	 [como] <prd> <adv-rel> PRP @<SC O
+máquina	 [máquina] <asarg> <V> <mach> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+consolidação	 [consolidação] <act> N F S @P< O
+de	 [de] <sam-> <np-long> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+poder	 [poder] <ac> <am> <Labs> N M S @P< O
+real	 [real] <np-close> ADJ M S @N< O 
+$. O
+</s>
+
+$S-2
+A	 [o] <artd> DET F S @>N O
+importância	 [importância] <am> N F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja	 [igreja] <prop> <inst> N F S @P< ORG O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+evidenciada	 [evidenciar] <mv> V PCP F S @ICL-AUX< O
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+fato	 [fato] <AAdom> <cloH> <ac> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+D.=Afonso=Henriques	 [D.=Afonso=Henriques] <hum> PROP M/F S @SUBJ> PES O
+e	 [e] <co-subj> KC @CO O
+seu	 [seu] <poss 3S> DET M S @>N O
+sucessor	 [sucessor] <H> N M S @SUBJ> O
+$, O
+D.=Sancho=I	 [D.=Sancho=I] <hum> <np-close> PROP M S @APP O
+$, O
+foram	 [ser] <aux> V PS/MQP 3P IND VFIN @FS-P< O
+sepultados	 [sepultar] <vH> <mv> V PCP M P @ICL-AUX< O
+lá	 [lá] ADV @<ADVL O
+$. O
+</s>
+
+$S-3
+Em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+Idade=Média	 [Idade=Média] <org> PROP F S @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+famoso	 [famoso] <jh> ADJ M S @>N O
+estudante	 [estudante] <Hprof> N M S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Igreja=de=Santa=Cruz	 [Igreja=de=Santa=Cruz] <top> PROP F S @P< ORG O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+Fernando=Martins=de=Bulhões	 [Fernando=Martins=de=Bulhões] <hum> PROP M S @<SC PES O
+$, O
+o	 [o] <artd> DET M S @>N O
+futuro	 [futuro] <jh> ADJ M S @>N O
+Santo=António=de=Lisboa	 [Santo=António=de=Lisboa] <org> <np-close> PROP M S @APP O 
+$( O
+ou	 [ou] <co-app> KC @CO O
+Santo=António=de=Pádua	 [Santo=António=de=Pádua] <hum> <np-close> PROP M S @APP O 
+$) O
+$. O
+</s>
+
+$S-4
+É	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+possível	 [possível] <nh> ADJ M S @<SC O
+que	 [que] <clb> <clb-fs> KS @SUB O
+o	 [o] <artd> DET M S @>N O
+poeta	 [poeta] <Hprof> N M S @SUBJ> O
+Luís=de=Camões	 [Luís=de=Camões] <hum> <np-close> PROP M S @N< PES O 
+tenha	 [ter] <aux> V PR 3S SUBJ VFIN @FS-<SUBJ O
+estudado	 [estudar] <vH> <mv> V PCP @ICL-AUX< O
+em	 [em] PRP @<ADVL O
+Santa=Cruz	 [Santa=Cruz] <top> PROP M S @P< ORG O
+$, O
+uma=vez=que	 [uma=vez=que] <clb> <clb-fs> KS @SUB O
+um	 [um] <arti> DET M S @>N O
+parente	 [parente] <Hfam> N M S @PRED> O
+seu	 [seu] <poss 3S> <np-close> DET M S @N< O 
+$( O
+D.=Bento=de=Camões	 [D.=Bento=de=Camões] <hum> <np-close> PROP M/F S @APP O 
+$) O
+era	 [ser] <vK> <mv> V IMPF 3S IND VFIN @FS-<ADVL O
+prior	 [prior] <Hprof> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+mosteiro	 [mosteiro] <inst> N M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+época	 [época] <per> N F S @P< O
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+evidências	 [evidência] <percep-f> N F P @<ACC O
+em	 [em] PRP @<ADVL O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+poesia	 [poesia] <domain> <sem-r> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+estadia	 [estadia] <per> N F S @P< O
+em	 [em] PRP @<ADVL O
+Coimbra	 [Coimbra] <civ> PROP M S @P< O
+$. O
+</s>

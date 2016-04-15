@@ -1,0 +1,61 @@
+$S-1
+Por	 [por] PRP @ADVL> O
+mim	 [eu] PERS M/F 1S PIV @P< O
+G.S.	 [G.S.] <hum> PROP M/F S @NPHR PES O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+fique	 [ficar] <vK> <mv> <np-close> V PR 3S SUBJ VFIN @FS-N< O
+por	 [por] <sam-> PRP @<SC O
+a	 [o] <artd> <-sam> DET F S @>N O
+América	 [América] <top> PROP F S @P< O
+e	 [e] <co-prparg> KC @CO O
+ataque	 [ataque] <act> <event> N M S @P< O
+outros	 [outro] <KOMP> <diff> DET M P @>N O
+holocaustos	 [holocausto] <occ> N M P @PRED> O
+que	 [que] <clb> <clb-fs> KS @SUB O
+não	 [não] ADV @ADVL> O
+criticou	 [criticar] <vH> <mv> V PS 3S IND VFIN @FS-<ACC O
+$: O
+Guantanamo	 [Guantanamo] <hum> PROP M S @SUBJ> O
+$, O
+o	 [o] <artd> DET M S @>N O
+muro	 [muro] <part-build> <np-close> N M S @APP O
+internacional	 [internacional] <nh> <np-close> ADJ M S @N< O
+em	 [em] <sam-> <np-long> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+México	 [México] <civ> PROP M S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+ataque	 [ataque] <act> <event> N M S @SUBJ> O
+a	 [o] <artd> DET F S @>N O
+administração	 [administração] <HH> <activity> N F S @SUBJ> O
+Bush	 [Bush] <org> <np-close> PROP F S @N< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+ainda	 [ainda] ADV @>A O
+não	 [não] ADV @ADVL> O
+assinou	 [assinar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< O 
+o	 [o] <artd> DET M S @>N O
+Protocolo=de=Quioto	 [Protocolo=de=Quioto] <tit> PROP M S @<ACC O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+ataque	 [atacar] <vH> <mv> <np-close> V PR 3S SUBJ VFIN @FS-N< O 
+um	 [um] <arti> DET M S @>N O
+país	 [país] <Lciv> N M S @<ACC O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+mantem	 [manter] <vH> <mv> <np-close> V IMP 2S VFIN @FS-N< O 
+a	 [o] <artd> DET F S @>N O
+pena	 [pena] <sit> <ac> <tool> N F S @SUBJ> O
+de=morte	 [de=morte] <pp> ADJ @N< O
+$, O
+que	 [que] <clb> <clb-fs> KS @SUB O
+ataque	 [atacar] <vH> <mv> <np-close> V PR 3S SUBJ VFIN @FS-N< O 
+um	 [um] <arti> DET M S @>N O
+país	 [país] <Lciv> N M S @<ACC O
+onde	 [onde] <clb> <clb-fs> <ks> <rel> ADV @ADVL> O
+é	 [ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N< O
+constitucional	 [constitucional] <nh> ADJ M S @<SC O
+o	 [o] <artd> DET M S @>N O
+uso	 [uso] <act> <ac> N M S @<SUBJ O
+de	 [de] <np-close> PRP @N< O
+armas	 [arma] <anzo> <pict> <tool> N F P @P< O
+$... O
+</s>

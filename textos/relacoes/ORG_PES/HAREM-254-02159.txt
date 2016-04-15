@@ -1,0 +1,191 @@
+$S-2
+Fernando=Rodríguez=González	 [Fernando=Rodríguez=González] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+assessor	 [assessor] <Hprof> <np-close> N M S @APP B-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+deputado	 [deputado] <Hprof> N M S @P< I-REL
+Manuel=Muoz=Rocha	 [Manuel=Muoz=Rocha] <hum> <*> <np-close> PROP M S @N< I-REL
+$, I-REL
+de	 [de] <sam-> <np-close> PRP @N<PRED I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+$, O
+teria	 [ter] <fmc> <aux> V COND 3S VFIN @FS-STA  O
+hospedado	 [hospedar] <vH> <mv> V PCP @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N  O
+assassino	 [assassino] <H> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+capital	 [capital] <Lciv> <ac-sign> N F S @P<  O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+crime	 [crime] <act-d> N M S @SUBJ>  O
+era	 [ser] <vK> <mv> <np-close> V IMPF 3S IND VFIN @FS-<ADVL @FS-N<  O
+preparado	 [preparar] <jh> <vH> V PCP M S @<SC  O
+$. O
+</s>
+
+$S-22
+Fernando=Rodríguez=González	 [Fernando=Rodríguez=González] <hum> <*> PROP M S @SUBJ>  O
+$, O
+assessor	 [assessor] <Hprof> <np-close> N M S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+deputado	 [deputado] <Hprof> N M S @P<  O
+Manuel=Muoz=Rocha	 [Manuel=Muoz=Rocha] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+$, O
+teria	 [ter] <fmc> <aux> V COND 3S VFIN @FS-STA  O
+hospedado	 [hospedar] <vH> <mv> V PCP @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N  O
+assassino	 [assassino] <H> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+capital	 [capital] <Lciv> <ac-sign> N F S @P<  O
+enquanto	 [enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+o	 [o] <artd> DET M S @>N  O
+crime	 [crime] <act-d> N M S @SUBJ>  O
+era	 [ser] <vK> <mv> <np-close> V IMPF 3S IND VFIN @FS-<ADVL @FS-N<  O
+preparado	 [preparar] <jh> <vH> V PCP M S @<SC  O
+$. O
+</s>
+
+$S-10
+Pesquisa	 [pesquisa] <*> <occ> <act-d> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+opinião	 [opinião] <sem-c> N F S @P<  O
+publicada	 [publicar] <vH> <mv> <np-close> V PCP F S @ICL-N<  O
+ontem	 [ontem] ADV @<ADVL  O
+por	 [por] <sam-> PRP @<PASS  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+jornais	 [jornal] <sem-r> N M P @P<  O
+$" O
+Reforma	 [reforma] <prop> <*> <*1> <*2> <act-d> <activity> <np-close> N F S @N<  O
+$" O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+capital	 [capital] <Lciv> <ac-sign> N F S @P<  O
+$, O
+e	 [e] KC @NPHR  O
+$" O
+El=Norte	 [El=Norte] <tit> <*> <*1> <*2> PROP M/F S @SUBJ>  O
+$" O
+$, O
+de	 [de] <np-close> PRP @N<PRED  O
+Monterrey	 [Monterrey] <hum> <*> PROP M/F S @P<  O
+$, O
+diz	 [dizer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+29	 [29] <card> NUM M P @>N  O
+$%	 [%] N M P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+entrevistados	 [entrevistar] <n> <vH> <jh> V PCP M P @P<  O
+acreditam	 [acreditar] <vH> <mv> V PR 3P IND VFIN @FS-<ACC  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+Ruiz	 [Ruiz] <hum> <*> PROP M S @SUBJ> PES O
+foi	 [ser] <aux> V PS 3S IND VFIN @FS-<ACC B-REL
+morto	 [matar] <mv> V PCP M S @ICL-AUX< I-REL
+por=ordem=de	 [por=ordem=de] <sam-> PRP @<ADVL I-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+$" I-REL
+velha	 [velho] <*1> <jh> ADJ F S @>N I-REL
+guarda	 [guarda] <*2> <HH> <part-build> N F S @P< I-REL
+$" I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+$( O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+poder	 [poder] <am> <ac> <Labs> N M S @P<  O
+desde	 [desde] PRP @<ADVL  O
+1929	 [1929] <card> <date> <year> NUM M/F S @P<  O
+$) O
+$. O
+</s>
+
+$S-11
+Para	 [para] <*> PRP @ADVL>  O
+72	 [72] <card> NUM M P @>N  O
+$%	 [%] N M P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+crime	 [crime] <act-d> N M S @SUBJ>  O
+está	 [estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+relacionado	 [relacionado] <nh> ADJ M S @<SC  O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+assassinato	 [assassinato] <act> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Luis=Donaldo=Colosio	 [Luis=Donaldo=Colosio] <hum> <*> PROP M S @P< PES O
+$, O
+candidato	 [candidato] <Hprof> <np-close> N M S @N<PRED B-REL
+presidencial	 [presidencial] <nh> <np-close> ADJ M S @N< I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+$, O
+em	 [em] PRP @<ADVL  O
+23	 [23] <card> NUM M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+março	 [março] N M S @P<  O
+$. O
+</s>
+
+$S-14
+Os	 [o] <*> <artd> DET M P @>N  O
+299	 [299] <card> NUM M P @>N  O
+deputados	 [deputado] <Hprof> N M P @SUBJ>  O
+eleitos	 [eleger] <vH> <mv> <np-close> V PCP M P @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+para	 [para] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+próxima	 [próximo] <jh> ADJ F S @>N  O
+legislatura	 [legislatura] <HH> N F S @P<  O
+escolheram	 [escolher] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+ontem	 [ontem] ADV @<ADVL  O
+Humberto=Roque=Villanueva	 [Humberto=Roque=Villanueva] <hum> <*> PROP M S @<ACC PES O
+para	 [para] PRP @<ADVL  O
+substituir	 [substituir] <vH> <mv> V INF @ICL-P<  O
+Ruiz	 [Ruiz] <hum> <*> PROP M S @<ACC  O
+como	 [como] <prd> <adv-rel> PRP @<SC @SC>  O
+líder	 [líder] <asarg> <Htit> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+bancada	 [bancada] <Lh> N F S @P<  O
+$. O
+</s>
+
+$S-15
+Os	 [o] <*> <artd> DET M P @>N  O
+299	 [299] <card> NUM M P @>N  O
+deputados	 [deputado] <Hprof> N M P @SUBJ>  O
+eleitos	 [eleger] <vH> <mv> <np-close> V PCP M P @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PRI	 [PRI] <party> <*> PROP M S @P< ORG O
+para	 [para] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+próxima	 [próximo] <jh> ADJ F S @>N  O
+legislatura	 [legislatura] <HH> N F S @P<  O
+escolheram	 [escolher] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+ontem	 [ontem] ADV @<ADVL  O
+Humberto=Roque=Villanueva	 [Humberto=Roque=Villanueva] <hum> <*> PROP M S @<ACC  O
+para	 [para] PRP @<ADVL  O
+substituir	 [substituir] <vH> <mv> V INF @ICL-P<  O
+Ruiz	 [Ruiz] <hum> <*> PROP M S @<ACC PES O
+como	 [como] <prd> <adv-rel> PRP @<SC @SC>  O
+líder	 [líder] <asarg> <Htit> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+bancada	 [bancada] <Lh> N F S @P<  O
+$. O
+</s>

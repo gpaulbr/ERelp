@@ -1,0 +1,27 @@
+$S-13
+Os 	[o]   <artd> DET M P @>N  
+estudos 	[estudo] <sem-r> <per> <sem-l> <activity> N M P @SUBJ>  
+são 	[ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+bancados 	[bancar] <vH> <mv> V PCP M P @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Fapesp 	[Fapesp] <org>   PROP F S @P<  ORG
+$( 
+Fundação=de=Amparo 	[Fundação=de=Amparo] <org>   <np-close> PROP F S @N<PRED  
+a 	[a] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Pesquisa=do=Estado 	[Pesquisa=do=Estado] <org>   PROP F S @P<  
+de 	[de] <np-close> PRP @N<  
+São=Paulo 	[São=Paulo] <hum>   <newlex> PROP M S @P<  LOCAL
+$) 
+e 	[e] <cjt-head> KC @NPHR  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+CNPq 	[CNPq] <org>   PROP M S @P<  
+$( 
+Conselho=Nacional=de=Desenvolvimento=Científico 	[Conselho=Nacional=de=Desenvolvimento=Científico] <org>   <np-close> PROP M S @N<PRED  
+e 	[e] <cjt> KC @NPHR  
+Tecnológico 	[Tecnológico] <hum>   <np-close> PROP M/F S @APP  
+$) 
+$.
+</s>

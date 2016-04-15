@@ -1,0 +1,156 @@
+
+    
+      A desforra de
+      <EM ID="aa66435-42" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO"  >Granada</EM>
+    
+    
+      <EM ID="aa66435-43" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="aa66435-42 aa66435-42" TIPOREL="PESSOA**ident**aa66435-42**PESSOA ORGANIZACAO**ident**aa66435-42**ORGANIZACAO">Granada</EM>
+      não enfrentou os
+      <EM ID="aa66435-44" CATEG="PESSOA" TIPO="GRUPOCARGO"  >Reis Católicos</EM>
+      por razões de fé ou de religião. Pelo contrário, na corte de
+      <EM ID="aa66435-46" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa66435-43" TIPOREL="PESSOA**vinculo_inst**aa66435-43**ORGANIZACAO">Boabdil</EM>
+      conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia. Mas
+      <EM ID="aa66435-47" CATEG="LOCAL" TIPO="HUMANO" COREL="aa66435-42 aa66435-42" TIPOREL="LOCAL**sede_de**aa66435-42**ORGANIZACAO LOCAL**local_nascimento_de**aa66435-42**POVO">Granada</EM>
+      foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do
+      <EM ID="aa66435-48" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE" COREL="aa66435-47 aa66435-47" TIPOREL="LOCAL**incluido**aa66435-47**LOCAL OBRA**localizado_em**aa66435-47**LOCAL">Alhambra</EM>
+      . Quando
+      <EM ID="aa66435-49" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa66435-42" TIPOREL="ORGANIZACAO**ident**aa66435-42**ORGANIZACAO">Granada</EM>
+      caiu e a reconquista cristã se impôs então a toda a
+      <EM ID="aa66435-50" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa66435-47" TIPOREL="inclui">Península</EM>
+      , os dois reinos católicos,
+      <EM ID="aa66435-51" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOIND|ADMINISTRACAO"  >Portugal</EM>
+      e
+      <EM ID="aa66435-52" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOIND|ADMINISTRACAO" COREL="aa66435-44" TIPOREL="ORGANIZACAO**vinculo_inst**aa66435-44**PESSOA">Espanha</EM>
+      , partiram à conquista do mundo e tornaram-se
+       <EM ID="aa66435-53" CATEG="OUTRO"  COREL="aa66435-51 aa66435-52" TIPOREL="outrarel outrarel">Impérios</EM> 
+      marítimos; do
+      <EM ID="aa66435-54" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Novo Mundo</EM>
+      e
+      <EM ID="aa66435-55" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >África</EM>
+      ao extremo da
+      <EM ID="aa66435-56" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Ásia</EM>
+      . Inversamente, quando os vencidos de
+      <EM ID="aa66435-57" CATEG="ACONTECIMENTO|LOCAL" TIPO="EFEMERIDE|HUMANO" COREL="aa66435-47 aa66435-47" TIPOREL="ACONTECIMENTO**ocorre_em**aa66435-47**LOCAL LOCAL**ident**aa66435-47**LOCAL">Granada</EM>
+      se retiraram para lá do
+      <EM ID="aa66435-58" CATEG="LOCAL" TIPO="FISICO"  >Estreito</EM>
+      , de onde tinham vindo
+      <EM ID="aa66435-59" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >séculos antes</EM>
+      , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança. Por isso é que
+      <EM ID="aa66435-61" CATEG="TEMPO" TIPO="GENERICO"  >o ano de 1492</EM>
+      (também o da descoberta da
+      <EM ID="aa66435-62" CATEG="LOCAL" TIPO="FISICO" COREL="aa66435-54" TIPOREL="incluido">América</EM>
+      , por
+      <EM ID="aa66435-63" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Colombo</EM>
+      ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos.
+    
+    
+      Por mais inverosímil que nos possa parecer,
+      <EM ID="aa66435-122" CATEG="TEMPO" TIPO="DURACAO"  >mais de cinco séculos passados</EM>
+     e
+      <EM ID="aa66435-123" CATEG="TEMPO" TIPO="DURACAO"  >quase quarenta anos depois</EM>  do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações. Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso <EM ID="aa66435-125" CATEG="TEMPO" TIPO="GENERICO"  >para os tempos</EM> que correm. Estamos perante uma espécie de
+      <EM ID="aa66435-66" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Cruzadas</EM>
+      ao contrário, que o
+      <EM ID="aa66435-67" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA"  >Islão</EM>
+      lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus. As
+      <EM ID="aa66435-68" CATEG="ACONTECIMENTO|LOCAL" TIPO="EVENTO|HUMANO"  >Twin Towers</EM>
+      , o metro de
+        <EM ID="aa66435-74" CATEG="LOCAL" TIPO="HUMANO"  >Londres</EM>
+      , a estação de
+        <EM ID="aa66435-80" CATEG="LOCAL" TIPO="HUMANO"  >Atocha</EM>
+        em
+        <EM ID="aa66435-81" CATEG="LOCAL" TIPO="HUMANO" COREL="aa66435-80" TIPOREL="inclui">Madrid</EM>
+      ou a histeria lançada contra os cartonistas dinamarqueses e contra a
+      <EM ID="aa66435-82" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO"  >Dinamarca</EM>
+      , são formas modernas de cruzadas travadas em nome de
+      <EM ID="aa66435-83" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alá</EM>
+      (o
+      <EM ID="aa66435-84" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa66435-83" TIPOREL="ident">Misericordioso</EM>
+      ...) contra os valores em que nós, no
+      <EM ID="aa66435-85" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa66435-74 aa66435-81 aa66435-82" TIPOREL="inclui inclui inclui">Ocidente</EM>
+      , acreditamos.
+      <EM ID="aa66435-86" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Cinco séculos passados</EM>, o
+      <EM ID="aa66435-87" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="aa66435-67 aa66435-67" TIPOREL="ABSTRACCAO**ident**aa66435-67**ABSTRACCAO ORGANIZACAO**ident**aa66435-67**ORGANIZACAO">Islão</EM>
+      tira a sua desforra de
+      <EM ID="aa66435-88" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="aa66435-57" TIPOREL="ACONTECIMENTO**ident**aa66435-57**ACONTECIMENTO">Granada</EM>
+      , através das suas duas únicas e demolidoras armas: o petróleo e o terror.
+    
+    
+      Sim, eu sei: não é --- julga-se --- todo o
+      <EM ID="aa66435-89" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa66435-87" TIPOREL="PESSOA**praticante_de**aa66435-87**ABSTRACCAO">Islão</EM>
+      . Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear. Em todo o mundo muçulmano houve apenas um jornal, na
+      <EM ID="aa66435-90" CATEG="LOCAL" TIPO="HUMANO"  >Jordânia</EM>
+      , que ousou escrever que pior que as caricaturas «blasfemas» para o
+      <EM ID="aa66435-91" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="aa66435-67" TIPOREL="DISCIPLINA**ident**aa66435-67**DISCIPLINA">Islão</EM>
+      eram os terroristas blasfemos. Mas
+      <EM ID="aa66435-92" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia seguinte</EM>
+      o jornal pediu desculpas pelo que escrevera e o director foi despedido. É verdade também que a rua é incendiada a mando da
+      <EM ID="aa66435-93" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|GRUPOIND"  >Síria</EM>
+      , do
+      <EM ID="aa66435-94" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|GRUPOIND"  >Irão</EM>
+      ou da
+      <EM ID="aa66435-95" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Al-Qaeda</EM>
+      , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar
+      <EM ID="aa66435-96" CATEG="LOCAL" TIPO="HUMANO"  >Embaixadas</EM>
+      e bandeiras e ameaçar de morte todos os ocidentais a vista. É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do
+      <EM ID="aa66435-97" CATEG="OBRA" TIPO="REPRODUZIDA"  >Corão</EM>
+      e que não se reveja na intolerância nem no terror em nome de
+      <EM ID="aa66435-98" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Deus</EM>
+      que o clero radical ensina nas escolas corânicas e prega nas mesquitas. Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades.
+    
+    O medo é a outra face de uma moeda chamada liberdade. Onde não há liberdade, há medo; onde há medo, não há liberdade.
+    
+      É justamente isso que
+      <EM ID="aa66435-100" CATEG="TEMPO" TIPO="GENERICO"  >hoje</EM>
+      nos distingue do
+      <EM ID="aa66435-99" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="aa66435-87 aa66435-87" TIPOREL="ABSTRACCAO**ident**aa66435-87**ABSTRACCAO ORGANIZACAO**ident**aa66435-87**ORGANIZACAO">Islão</EM>
+      : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis».
+    
+    [...]
+    
+      E é pelo medo, também, que eles esperam ganhar esta batalha contra o
+      <EM ID="aa66435-101" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="aa66435-85" TIPOREL="ORGANIZACAO**ocorre_em**aa66435-85**LOCAL PESSOA**natural_de**aa66435-85**LOCAL">Ocidente</EM>
+      , destruindo o nosso amor à liberdade. Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância. Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e
+      <EM ID="aa66435-102" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Guantanamo</EM>
+      , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias.
+    
+    
+      É preciso ser muito forte, e preciso perceber, como
+      <EM ID="aa66435-103" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1939</EM>
+      , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir. Mas é essencial resistir, porque a alternativa é o regresso
+      à <EM ID="aa66435-104" CATEG="OUTRO"   >Idade Media</EM>
+      e a barbárie. É por isso que o gesto dos
+      <EM ID="aa66435-105" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Comuns</EM>
+      , rejeitando a legislação de segurança interna proposta por
+      <EM ID="aa66435-106" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Tony Blair</EM>
+      , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha.
+    
+    
+      Infelizmente, não foi o nosso caso. Pela mão do
+      <EM ID="aa66435-107" CATEG="PESSOA" TIPO="INDIVIDUAL"  >ministro Freitas do Amaral</EM>
+      , e sem necessidade alguma,
+      <EM ID="aa66435-108" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="aa66435-51 aa66435-51 aa66435-107" TIPOREL="ORGANIZACAO**ident**aa66435-51**ORGANIZACAO PESSOA**ident**aa66435-51**PESSOA ORGANIZACAO**vinculo_inst**aa66435-107**PESSOA">Portugal</EM>
+      foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu. Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada
+       <EM ID="aa66435-109" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos 25 anos</EM> 
+
+      que não rastejar perante os poderosos, em cada cena e em cada tempo:
+      <EM ID="aa66435-110" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa66435-55" TIPOREL="ocorre_em">Angola</EM>
+      ,
+      <EM ID="aa66435-111" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa66435-56" TIPOREL="ocorre_em">Indonésia</EM>
+      (com a notável excepção de
+      <EM ID="aa66435-112" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Guterres</EM>
+      e
+      <EM ID="aa66435-113" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sampaio</EM>
+      ),
+      <EM ID="aa66435-114" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estados Unidos</EM>
+      e, agora, perante os países islâmicos. [...]
+    
+    
+      <EM ID="aa66435-116" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Miguel Sousa Tavares</EM>
+      - 
+      
+        <EM ID="aa66435-22" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Jornal "Expresso"</EM>
+        
+      -
+      <EM ID="aa66435-118" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >11.02.2006</EM> 
+    
+  

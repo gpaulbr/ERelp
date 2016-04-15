@@ -1,0 +1,394 @@
+$S-1
+O 	[o] <*> <artd> DET M S @>N  
+presidente 	[presidente] <Hprof> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Comissão=Nacional=de=Ética 	[Comissão=Nacional=de=Ética] <org> <*> PROP F S @P<  
+em 	[em] <np-close> PRP @N<  
+Pesquisa 	[pesquisa] <prop> <*> <occ> <act-d> N F S @P<  
+$, 
+William=Saad=Hossne 	[William=Saad=Hossne] <hum> <*> <np-close> PROP M S @APP  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+ontem 	[ontem] ADV @<ADVL  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+52ª 	[52ª] <NUM-ord> ADJ F S @>N  
+Reunião=Anual=da=Sociedade=Brasileira 	[Reunião=Anual=da=Sociedade=Brasileira] <occ> <*> PROP F S @P<  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Progresso=da=Ciência 	[Progresso=da=Ciência] <inst> <*> PROP M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+comunidade 	[comunidade] <HH> <am> N F S @SUBJ>  
+científica 	[científico] <nh> <np-close> ADJ F S @N<  
+internacional 	[internacional] <nh> <np-long> ADJ F S @N<  
+pode 	[poder] <aux> V PR 3S IND VFIN @FS-<ACC  
+alterar 	[alterar] <mv> V INF @ICL-AUX<  
+a 	[o] <artd> DET F S @>N  
+Declaração=de=Helsinque 	[Declaração=de=Helsinque] <tit> <*> PROP F S @<ACC  
+$, 
+sobre 	[sobre] PRP @<PIV @<ADVL  
+ética 	[ética] <domain> N F S @P<  
+em 	[em] PRP @<ADVL  
+pesquisas 	[pesquisa] <occ> <act-d> N F P @P<  
+com 	[com] <np-close> PRP @N< @<ADVL  
+humanos 	[humano] <jh> ADJ M P @P<  
+$. 
+</s>
+
+$S-2
+Em 	[em] <*> PRP @ADVL>  
+estudos 	[estudo] <sem-r> <per> <sem-l> <activity> N M P @P<  
+em 	[em] <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+Terceiro=Mundo 	[Terceiro=Mundo] <civ> <*> PROP M S @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @SUBJ>  
+se 	[se] <obj> PERS M/F 3P ACC @ACC>  
+desobrigariam 	[desobrigar] <vH> <fmc> <mv> V COND 3P VFIN @FS-STA  
+de 	[de] PRP @<PIV  
+fornecer 	[fornecer] <vH> <mv> V INF @ICL-P<  
+a 	[a] <sam-> PRP @<ADVL  
+os 	[o] <-sam> <artd> DET M P @>N  
+doentes 	[doente] <n> <jh> ADJ M P @P<  
+o 	[o] <artd> DET M S @>N  
+melhor 	[bom] <KOMP> <SUP> ADJ M S @>N  
+tratamento 	[tratamento] <therapy> <f-c> <activity> N M S @<ACC  
+médico 	[médico] <nh> <np-close> ADJ M S @N<  
+conhecido 	[conhecido] <np-long> ADJ M S @N<  
+$. 
+</s>
+
+$S-3
+A 	[o] <clb> <*> <artd> DET F S @>N  
+proposta 	[proposta] <act-s> N F S @SUBJ>  
+$, 
+a 	[a] PRP @ADVL>  
+ser 	[ser] <vK> <mv> V INF @ICL-P<  
+discutida 	[discutido] <nh> ADJ F S @<SC  
+$, 
+dá 	[dar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<PIV  
+os 	[o] <-sam> <artd> DET M P @>N  
+pesquisados 	[pesquisar] <n> <vH> V PCP M P @P<  
+o 	[o] <artd> DET M S @>N  
+direito 	[direito] <domain> <f-right> <amount> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+receber 	[receber] <vH> <mv> V INF @ICL-P<  
+terapia 	[terapia] <activity> N F S @<ACC  
+dada 	[dado] <jh> <np-close> ADJ F S @N<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+seu 	[seu] <poss 3S> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$_  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+pode 	[poder] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  
+nenhuma 	[nenhum] <quant> DET F S @<SC  
+$. 
+</s>
+
+$S-4
+O 	[o] <*> <artd> DET M S @>N  
+debate 	[debate] <talk> N M S @SUBJ>  
+surgiu 	[surgir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+após 	[após] PRP @<ADVL  
+estudos 	[estudo] <sem-r> <per> <sem-l> <activity> N M P @P<  
+em 	[em] PRP @<ADVL  
+Ruanda 	[Ruanda] <civ> <*> PROP F S @P<  
+e 	[e] KC @NPHR  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Tailândia 	[Tailândia] <civ> <*> PROP F S @P<  
+em 	[em] <clb> PRP @ADVL>  
+que 	[que] <clb-fs> <rel> SPEC M S @P<  
+cientistas 	[cientista] <Hprof> N M/F P @SUBJ>  
+deram 	[dar] <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  
+a 	[a] PRP @<PIV  
+grávidas 	[grávido] <n> <jh> ADJ F P @P<  
+com 	[com] <np-close> PRP @N< @<ADVL  
+HIV 	[HIV] <disease> <*> PROP M/F S @P<  
+um 	[um] <arti> DET M S @>N  
+regime 	[regime] <cjt-head> <HH> <ac> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+AZT 	[aZT] <prop> <*> <cm-rem> N M S @P<  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+breve 	[breve] <nh> <np-close> ADJ M/F S @N<  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+o 	[o] <artd> DET M S @>N  
+recomendado 	[recomendar] <cjt> <n> <vH> V PCP M S @<ACC  
+$. 
+</s>
+
+$S-5
+Queriam 	[querer] <*> <vH> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+saber 	[saber] <mv> V INF @ICL-<ACC  
+se 	[se] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+regime 	[regime] <HH> <ac> N M S @SUBJ>  
+curto 	[curto] <nh> <np-close> ADJ M S @N<  
+era 	[ser] <mv> V IMPF 3S IND VFIN @FS-<ACC  
+melhor 	[melhor] <KOMP> <SUP> ADV @<ADVL  
+que 	[que] <com> KS @AS-KOMP<  
+nada 	[nada] <quant> SPEC M S @<SUBJ  
+para 	[para] PRP @<ADVL  
+impedir 	[impedir] <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+contaminação 	[contaminação] <state> <event> N F S @<ACC  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+feto 	[feto] <H> N M S @P<  
+$. 
+</s>
+
+$S-6
+Para 	[para] <*> PRP @ADVL>  
+isso 	[isso] <dem> SPEC M S @P<  
+$, 
+outro 	[outro] <diff> <KOMP> DET M S @>N  
+grupo 	[grupo] <HH> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+grávidas 	[grávido] <n> <jh> ADJ F P @P<  
+com 	[com] <np-close> PRP @N<  
+HIV 	[HIV] <disease> <*> PROP M/F S @P<  
+não 	[não] ADV @ADVL>  
+recebeu 	[receber] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+remédio 	[remédio] <cm-rem> N M S @<ACC  
+algum 	[algum] <quant> <np-close> DET M S @N<  
+$. 
+</s>
+
+$S-7
+Comprovou- 	[comprovar] <*> <hyfen> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+se 	[se] PERS M/F 3S/P ACC @<SUBJ  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+regime 	[regime] <HH> <ac> N M S @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+breve 	[breve] <nh> <np-close> ADJ M/F S @N<  
+basta 	[bastar] <mv> V PR 3S IND VFIN @FS-<ACC  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+maioria 	[maioria] <HH> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+casos 	[caso] <event> <ac-cat> <sem> N M P @P<  
+$, 
+para 	[para] PRP @<ADVL  
+impedir 	[impedir] <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+contaminação 	[contaminação] <state> <event> N F S @<ACC  
+$. 
+</s>
+
+$S-8
+Os 	[o] <*> <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <Hprof> N M P @SUBJ>  
+argumentaram 	[argumentar] <cjt-head> <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+as 	[o] <artd> DET F P @>N  
+mulheres 	[mulher] <Hattr> N F P @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+não 	[não] ADV @ADVL>  
+receberam 	[receber] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  
+AZT 	[aZT] <prop> <*> <cm-rem> N M S @<ACC  
+não 	[não] ADV @ADVL>  
+o 	[ele] PERS M 3S ACC @ACC>  
+teriam 	[ter] <aux> V COND 3P VFIN @FS-<ACC  
+recebido 	[receber] <vH> <mv> V PCP @ICL-AUX<  
+$, 
+de=qualquer=forma 	[de=qualquer=forma] <pp> ADV @<ADVL  
+$, 
+e 	[e] KC @NPHR  
+que 	[que] <clb> <rel> SPEC M S @SUBJ>  
+seria 	[ser] <cjt> <vK> <fmc> <mv> V COND 3S VFIN @FS-STA  
+impossível 	[impossível] <nh> ADJ M S @<SC  
+obter 	[obter] <vH> <mv> V INF @ICL-UTT  
+resultados 	[resultado] <ac> N M P @<ACC  
+precisos 	[preciso] <nh> <np-close> ADJ M P @N<  
+sem 	[sem] PRP @<ADVL  
+esse 	[esse] <dem> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+$. 
+</s>
+
+$S-9
+Além=disso 	[além=disso] <*> ADV @ADVL>  
+$, 
+o 	[o] <artd> DET M S @>N  
+resultado 	[resultado] <ac> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+beneficia 	[beneficiar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+países 	[país] <Lciv> N M P @<ADVL  
+pobres 	[pobre] <np-close> ADJ M P @N<  
+$, 
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+o 	[o] <artd> DET M S @>N  
+regime 	[regime] <HH> <ac> N M S @SUBJ>  
+curto 	[curto] <nh> <np-close> ADJ M S @N<  
+é 	[ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+único 	[único] <n> <jh> ADJ M S @<SC  
+acessível 	[acessível] <nh> <np-close> ADJ M/F S @N<  
+$. 
+</s>
+
+$S-10
+Contra 	[contra] <*> PRP @ADVL>  
+esse 	[esse] <dem> DET M S @>N  
+ponto=de=vista 	[ponto=de=vista] <sem-c> N M S @P<  
+$, 
+Hossne 	[Hossne] <hum> <*> PROP M/F S @SUBJ>  
+defende 	[defender] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+norma 	[norma] <conv> N F S @<ACC  
+atual 	[atual] <nh> <np-close> ADJ F S @N<  
+$:  
+
+em 	[em] PRP @ADVL>  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+tratamentos 	[tratamento] <therapy> <f-c> <activity> N M P @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+doentes 	[doente] <n> <jh> ADJ M P @SUBJ>  
+devem 	[dever] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+receber 	[receber] <vH> <mv> V INF @ICL-AUX<  
+ao=menos 	[ao=menos] ADV @>N  
+o 	[o] <artd> DET M S @>N  
+remédio 	[remédio] <cm-rem> N M S @<ACC  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+eficiente 	[eficiente] <np-close> ADJ M/F S @N<  
+já 	[já] ADV @>A  
+descoberto 	[descoberto] <np-close> ADJ M S @N<  
+para 	[para] PRP @<ADVL  
+sua 	[seu] <si> <poss 3S> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+$. 
+</s>
+
+$S-11
+Hossne 	[Hossne] <hum> <*> PROP M/F S @SUBJ>  
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+Tuskegee 	[Tuskegee] <hum> <*> PROP M/F S @P< LOCAL
+$( 
+Eua 	[Eua] <top> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+$, 
+em 	[em] <clb> PRP @ADVL>  
+que 	[que] <clb-fs> <rel> SPEC M S @P<  
+negros 	[negro] <Htit> N M P @SUBJ>  
+com 	[com] <np-close> PRP @N<  
+sífilis 	[sífilis] <sick> N F S/P @P<  
+não 	[não] ADV @ADVL>  
+foram 	[ser] <aux> <np-close> V PS/MQP 3P IND VFIN @FS-N<  
+tratados 	[tratar] <mv> V PCP M P @ICL-AUX<  
+por 	[por] PRP @<ADVL  
+40 	[40] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+para 	[para] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+evolução 	[evolução] <process> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+fosse 	[ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-P<  
+estudada 	[estudado] <nh> ADJ F S @<SC  
+$. 
+</s>
+
+$S-12
+Os 	[o] <*> <artd> DET M P @>N  
+Eua 	[Eua] <org> <*> PROP M P @SUBJ>>  
+$, 
+disse 	[dizer] <cjt-head> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+ele 	[ele] PERS M 3S NOM @<SUBJ  
+$, 
+foram 	[ser] <cjt> <vK> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+um 	[um] <card> NUM M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+últimos 	[último] <NUM-ord> ADJ M P @>N  
+países 	[país] <Lciv> N M P @P<  
+a 	[a] <np-close> PRP @N<  
+assinar 	[assinar] <vH> <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+Declaração=de=Helsinque 	[Declaração=de=Helsinque] <tit> <*> PROP F S @<ACC  
+$. 
+</s>
+
+$S-13
+O 	[o] <*> <artd> DET M S @>N  
+texto 	[texto] <sem-r> N M S @SUBJ>  
+$, 
+de 	[de] PRP @ADVL>  
+89 	[89] <card> NUM M/F P @P<  
+$, 
+traça 	[traçar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+diretrizes 	[diretriz] <Hprof> N F P @<ACC 	[diretriz] <ac> N F P @<ACC  
+para 	[para] PRP @<ADVL  
+ética 	[ética] <domain> N F S @P<  
+em 	[em] PRP @<ADVL  
+pesquisas 	[pesquisa] <occ> <act-d> N F P @P<  
+$. 
+</s>
+
+$S-14
+Seus 	[seu] <*> <poss 3S> DET M P @>N  
+termos 	[termo] <ac-cat> <Labs> <temp> <act-s> N M P @SUBJ>  
+são 	[ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+endossados 	[endossar] <vH> <mv> V PCP M P @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+OMS 	[OMS] <org> <*> PROP F S @P<  
+$( 
+Organização=Mundial=da=Saúde 	[Organização=Mundial=da=Saúde] <org> <*> <np-close> PROP F S @N<PRED  
+$) 
+$. 
+</s>
+
+$S-15
+A 	[o] <*> <artd> DET F S @>N  
+proposta 	[proposta] <act-s> N F S @SUBJ>  
+já 	[já] ADV @ADVL>  
+faz 	[fazer] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+parte 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+outras 	[outro] <diff> <KOMP> DET F P @>N  
+declarações 	[declaração] <act-s> <act> N F P @P<  
+$, 
+como 	[como] <com> <adv-rel> PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+Declaração=de=Consenso=de=Atlanta 	[Declaração=de=Consenso=de=Atlanta] <tit> <asarg> <*> PROP F S @P<  
+$, 
+de 	[de] <np-close> PRP @N<PRED  
+99 	[99] <card> NUM M/F P @P<  
+$, 
+assinadas 	[assinar] <vH> <mv> V PCP F P @ICL-N<PRED  
+por 	[por] PRP @<PASS  
+menos 	[pouco] <quant> <KOMP> DET M/F P @>N  
+cientistas 	[cientista] <Hprof> N M/F P @P<  
+e 	[e] KC @NPHR  
+sem 	[sem] PRP @<PRED @<ADVL  
+endosso 	[endosso] <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+OMS 	[OMS] <org> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-16

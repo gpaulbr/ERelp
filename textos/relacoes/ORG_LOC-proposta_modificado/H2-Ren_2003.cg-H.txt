@@ -1,0 +1,29 @@
+$S-1
+ASI	 [ASI] <org> PROP F S @<ACC ORG O
+agência	 [agência] <HH> <np-close> N F S @N<PRED O
+espacial	 [espacial] <nh> <np-close> ADJ M/F S @N<PRED O 
+italiana	 [italiana] <Hnat> <ling> <np-close> N F S @N<PRED O 
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+fim	 [fim] <event> <temp> <sem-c> N M S @P< O
+de	 [de] <sam-> PRP @<PIV O
+a	 [o] <artd> <-sam> DET F S @>N O
+noite	 [noite] <per> <temp> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+ontem	 [ontem] ADV @P< O
+por	 [por] PRP @<ADVL O
+telefone	 [telefone] <tool> N M S @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+impacto	 [impacto] <event> N M S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+destroços	 [destroço] <event> N M P @P< O
+teria	 [ter] <fmc> <aux> V COND 3S VFIN @FS-STA O
+ocorrido	 [ocorrer] <vN> <mv> V PCP @ICL-AUX< O
+a	 [a] <sam-> PRP @<PIV O
+as	 [o] <-sam> <artd> DET F P @>N O
+18h06	 [18h06] <temp> N F P @P< O
+horário	 [horário] <cc-r> <np-close> N M S @N<PRED O 
+de	 [de] <np-close> PRP @N< O
+Brasília	 [Brasília] <civ> PROP F S @P< LOCAL O

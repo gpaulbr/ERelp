@@ -1,0 +1,38 @@
+$S-27
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Norte	 [norte] <prop> <*> <dir> N M S @P<  O
+$, O
+uma	 [um] <arti> DET F S @>N  O
+força	 [força] <am> <HH> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+CICA=1	 [CICA=1] <brand> <*> PROP M S @P< ORG O
+liderada	 [liderar] <vH> <mv> <np-long> V PCP F S @ICL-N< REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Tenente-Coronel=Carlos=Azeredo	 [Tenente-Coronel=Carlos=Azeredo] <hum> <*> PROP M S @P< PES O
+toma	 [tomar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+Quartel=General	 [Quartel=General] <inst> <*> PROP M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Região=Militar=do=Porto	 [Região=Militar=do=Porto] <civ> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-33
+As	 [o] <*> <artd> DET F P @>N  O
+forças	 [força] <am> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Escola=Prática=de=Cavalaria	 [Escola=Prática=de=Cavalaria] <inst> <*> PROP F S @P< ORG O
+eram	 [ser] <vK> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  O
+comandadas	 [comandar] <vH> V PCP F P @<SC REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <-sam> <artd> DET M S @>N O
+então	 [então] <jh> ADJ M S @>N  O
+comandante	 [comandante] <Hprof> N M S @P< O
+Salgueiro=Maia	 [Salgueiro=Maia] <hum> <*> <np-close> PROP M S @N< PES O
+$. O
+</s>

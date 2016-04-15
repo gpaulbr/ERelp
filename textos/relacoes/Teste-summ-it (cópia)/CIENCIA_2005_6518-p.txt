@@ -1,0 +1,25 @@
+$S-3
+Seis 	[seis]   <card> NUM M/F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+nove 	[nove] <card> NUM F P @>N  
+aranhas 	[aranha] <Azo> N F P @P<  
+descobertas 	[descoberto] <np-close> ADJ F P @N<  
+por 	[por] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Butantan 	[Butantan] <inst>   PROP M S @P<  PES
+e 	[e] KC @NPHR  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Goeldi 	[Goeldi] <inst>   PROP M S @P<  ORG
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<SC  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+folgadas 	[folgado] <jh> ADJ F P @P<  
+$. 
+</s>

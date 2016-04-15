@@ -1,0 +1,32 @@
+$S-1
+Money	 [Money] <hum> <*> PROP M/F S @SUBJ>  O
+1	 [1] <card> <np-close> NUM M/F S @N<  O
+O	 [o] <*> <artd> DET M S @>N  O
+escritor	 [escritor] <Hprof> N M S @SUBJ>  O
+Clive=Cussler	 [Clive=Cussler] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+autor	 [autor] <Hprof> <np-close> N M S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+aventuras	 [aventura] <occ> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Dirk=Pitt	 [Dirk=Pitt] <hum> <*> PROP M S @P<  O
+$, O
+assinou	 [assinar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+um	 [um] <arti> DET M S @>N REL
+contrato	 [contrato] <sem-r> N M S @<ACC REL
+de	 [de] <np-close> PRP @N< REL
+US$	 [US$] <top> <*> PROP M/F S @P< REL
+14	 [14] <card> <np-close> NUM M/F P @N< REL
+$milhões REL
+com	 [com] PRP @<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+Simon=&=Schuster	 [Simon=&=Schuster] <hum> <*> PROP M S @P< ORG O
+para	 [para] <np-long> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+publicação	 [publicação] <act> <sem-r> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+dois	 [dois] <card> NUM M P @>N  O
+livros	 [livro] <cc-r> N M P @P<  O
+$. O
+</s>

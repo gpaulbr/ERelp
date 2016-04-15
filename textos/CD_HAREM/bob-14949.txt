@@ -1,0 +1,151 @@
+
+    
+      "
+      <EM ID="bob-14949-578" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pequena Notável</EM>
+      " ou a "
+      <EM ID="bob-14949-579" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-578" TIPOREL="ident">Brazilian Bombshell</EM>
+      "
+    
+    
+      Depois de ser exibida no
+      <EM ID="bob-14949-580" CATEG="LOCAL" TIPO="HUMANO"  >Rio</EM>
+      , chega a
+      <EM ID="bob-14949-581" CATEG="LOCAL" TIPO="HUMANO"  >São Paulo</EM>
+      a mostra 
+      <EM ID="bob-14949-582" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Carmen Miranda para sempre</EM> 
+      , que será inaugurada
+      <EM ID="bob-14949-583" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      para convidados e
+      <EM ID="bob-14949-584" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >amanhã</EM>
+      para o público no
+      <EM ID="bob-14949-585" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-581" TIPOREL="incluido">Memorial da América Latina</EM> 
+      . Fotos, roupas (algumas são releituras contemporâneas de seu estilo), objetos, são 
+      <EM ID="bob-14949-586" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 700</EM>
+      peças reunidas (além de filmes e músicas) para contar a história da "
+      <EM ID="bob-14949-587" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-578" TIPOREL="ident">Pequena Notável</EM>
+      " ou a "
+      <EM ID="bob-14949-588" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-579" TIPOREL="ident">Brazilian Bombshell</EM>
+      " - não há no mundo quem não conheça essa genial estrela que conquistou o
+      <EM ID="bob-14949-589" CATEG="PESSOA" TIPO="POVO"  >Brasil</EM>
+      , a
+      <EM ID="bob-14949-590" CATEG="PESSOA" TIPO="POVO"  >Broadway</EM>
+      e
+      <EM ID="bob-14949-591" CATEG="PESSOA" TIPO="POVO"  >Hollywood</EM>
+      .
+    
+    
+      A imagem recorrente que vem à cabeça é a da baiana com badulaques na cabeça sempre sorridente - ela se apresentava com nada menos que
+      <EM ID="bob-14949-592" CATEG="VALOR" TIPO="QUANTIDADE"  >20 quilos</EM>
+      sobre o corpo, entre roupas e acessórios, e uma plataforma de
+      <EM ID="bob-14949-593" CATEG="VALOR" TIPO="QUANTIDADE"  >15 cm</EM>
+      de altura.
+      <EM ID="bob-14949-594" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-588" TIPOREL="ident">Carmen Miranda</EM>
+      (
+      <EM ID="bob-14949-595" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-594" TIPOREL="periodo_vida">1909-1955</EM>
+      ) "nasceu personagem, era uma artista" , como diz o jornalista e escritor
+      <EM ID="bob-14949-596" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ruy Castro</EM>
+      , que há pouco lançou uma biografia sobre a estrela. Apesar do enorme sucesso conquistado
+      <EM ID="bob-14949-598" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-595" TIPOREL="incluido">a partir do fim da década de 1930</EM>
+      nos
+      <EM ID="bob-14949-599" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-590" TIPOREL="local_nascimento_de">EUA</EM>
+      , para
+      <EM ID="bob-14949-600" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-596" TIPOREL="ident">Ruy Castro</EM>
+      a fase da artista no
+      <EM ID="bob-14949-601" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-580 bob-14949-581 bob-14949-589" TIPOREL="inclui inclui local_nascimento_de">Brasil</EM>
+      é a que precisa ser "urgentemente conhecida pelo público brasileiro". Ele, que fez consultoria dos textos presentes na mostra, vai realizar uma palestra gratuita
+      <EM ID="bob-14949-602" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na sexta-feira</EM>, ,
+<EM ID="bob-14949-603" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 19h30</EM>
+      , sobre a vida e a obra da artista na
+      <EM ID="bob-14949-604" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-585 bob-14949-585-aa" TIPOREL="incluido incluido">Biblioteca Victor Civita</EM>
+      , no
+      <EM ID="bob-14949-605" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-604 bob-14949-585 bob-14949-585-aa" TIPOREL="inclui ident ident">Memorial</EM>
+      .
+    
+    
+      <EM ID="bob-14949-606" CATEG="ACONTECIMENTO|OBRA" TIPO="EVENTO|PLANO"  >Carmen Miranda para sempre</EM> 
+      é um projeto que vem sendo realizado
+      <EM ID="bob-14949-607" CATEG="TEMPO" TIPO="DURACAO"  >há mais de dois anos</EM>
+      . Com curadoria de
+      <EM ID="bob-14949-608" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fabiano Canosa</EM>
+      , a mostra feita com peças da própria coleção de
+      <EM ID="bob-14949-609" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-608" TIPOREL="ident">Canosa</EM>
+      , do
+      <EM ID="bob-14949-610" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="bob-14949-580" TIPOREL="ocorre_em">Museu Carmen Miranda</EM>
+      (inaugurado
+      <EM ID="bob-14949-611" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-610" TIPOREL="data_de">em 1976</EM>
+      ) e da família da artista, tem percurso cronológico e está dividida em núcleos. Inicia com o nascimento em
+      <EM ID="bob-14949-612" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-594" TIPOREL="local_nascimento_de">Portugal</EM>
+      e inclui imagens de sua família. Depois, vem a fase brasileira, "quando ela era a rainha do disco, do rádio, do cineteatro e fez filmes que estão quase todos destruídos, uma tragédia". Um dos únicos que restaram é
+      <EM ID="bob-14949-613" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="bob-14949-594" TIPOREL="ter_participacao_de">Alô, Alô Carnaval</EM>
+      ,
+      <EM ID="bob-14949-614" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-613 bob-14949-598" TIPOREL="data_de incluido">de 1936</EM>
+      , que
+      <EM ID="bob-14949-615" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-594 bob-14949-613 bob-14949-612" TIPOREL="ident participante_em natural_de">Carmen</EM>
+      fez ao lado de sua irmã
+      <EM ID="bob-14949-616" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-615" TIPOREL="relacao_familiar">Aurora</EM>
+      , morta
+      <EM ID="bob-14949-617" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-616" TIPOREL="data_morte">em dezembro</EM>
+      - como conta o curador. Não era ainda a
+      <EM ID="bob-14949-618" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-615" TIPOREL="ident">Carmen Miranda</EM>
+      dos badulaques. Era uma "mulher art déco
+      <EM ID="bob-14949-619" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-614" TIPOREL="inclui">dos anos 30</EM>
+      ", como diz
+      <EM ID="bob-14949-620" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-609" TIPOREL="ident">Canosa</EM>
+      , que usava calças, ternos e vestidos belos - em particular, há uma sala especial com retratos da artista feitos
+      <EM ID="bob-14949-621" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-619" TIPOREL="incluido">em 1931</EM>
+      , em
+      <EM ID="bob-14949-622" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-24" TIPOREL="incluido">Buenos Aires</EM>
+      , pela alemã
+      <EM ID="bob-14949-623" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Annemarie Heinrich</EM>
+      .
+    
+    
+      E foi durante uma de suas apresentações no
+      <EM ID="bob-14949-624" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-580" TIPOREL="incluido">Cassino da Urca</EM> 
+
+      , no
+      <EM ID="bob-14949-625" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-580 bob-14949-624 bob-14949-624-aaa bob-14949-601" TIPOREL="ident inclui inclui incluido">Rio</EM>
+      ,
+      <EM ID="bob-14949-626" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-619" TIPOREL="incluido">em 1939</EM>
+      , que o produtor americano
+      <EM ID="bob-14949-627" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-599" TIPOREL="natural_de">Lee Shubert</EM>
+      viu
+      <EM ID="bob-14949-628" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="bob-14949-618" TIPOREL="ident">Carmen</EM>
+      e se encantou. Levou-a para a
+      <EM ID="bob-14949-629" CATEG="ORGANIZACAO|LOCAL" TIPO="EMPRESA|HUMANO" COREL="bob-14949-599 bob-14949-599 bob-14949-590" TIPOREL="ORGANIZACAO**ocorre_em**bob-14949-599**LOCAL LOCAL**incluido**bob-14949-599**LOCAL LOCAL**local_nascimento_de**bob-14949-590**PESSOA">Broadway</EM>
+      e o sucesso foi inevitável. Ela, com o
+      <EM ID="bob-14949-630" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="bob-14949-628" TIPOREL="relacao_profissional">Bando da Lua</EM>
+      , ficou consagrada já no início com o espetáculo
+      <EM ID="bob-14949-631" CATEG="OBRA|ACONTECIMENTO" TIPO="REPRODUZIDA|EVENTO" COREL="bob-14949-628 bob-14949-628 bob-14949-630 bob-14949-630" TIPOREL="OBRA**ter_participacao_de**bob-14949-628**PESSOA ACONTECIMENTO**ter_participacao_de**bob-14949-628**PESSOA OBRA**ter_participacao_de**bob-14949-630**PESSOA ACONTECIMENTO**ter_participacao_de**bob-14949-630**PESSOA">The Streets of Paris</EM>
+      .
+      Daí em diante, tornou-se uma das maiores celebridades que o mundo já conheceu.
+    
+    Serviço
+    
+      <EM ID="bob-14949-633" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Carmen Miranda para sempre</EM> 
+      .
+      <EM ID="bob-14949-634" CATEG="LOCAL" TIPO="HUMANO"  >Galeria Marta Traba</EM>
+      .
+      <EM ID="bob-14949-635" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-634 bob-14949-605" TIPOREL="inclui ident">Memorial da América Latina</EM> 
+      .
+      <EM ID="bob-14949-636" CATEG="LOCAL" TIPO="HUMANO" COREL="bob-14949-635 bob-14949-635-aa" TIPOREL="inclui inclui">Av. Auro Soares de Moura Andrade</EM>
+      , 664, 3823-4741.
+      <EM ID="bob-14949-637" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >9h/18h</EM>
+      (fecha
+      <EM ID="bob-14949-638" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2.ª</EM>
+      ). Grátis.
+      <EM ID="bob-14949-639" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Até 16/4</EM>
+      . Abertura
+      <EM ID="bob-14949-640" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-583" TIPOREL="ident">hoje</EM>
+      ,
+      <EM ID="bob-14949-641" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="bob-14949-603" TIPOREL="ident">19h30</EM>
+      , para convidados.
+      <EM ID="bob-14949-642" CATEG="TEMPO" TIPO="FREQUENCIA"  >Diariamente</EM>
+      ,
+      <EM ID="bob-14949-643" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 10h30</EM>
+      e
+      <EM ID="bob-14949-644" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 15h</EM>
+      , exibição do documentário
+      <EM ID="bob-14949-646" CATEG="OBRA" TIPO="REPRODUZIDA"  >Bananas Is My Business</EM>
+    
+  

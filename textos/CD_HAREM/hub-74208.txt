@@ -1,0 +1,17 @@
+
+
+A fama do <EM ID="hub-74208-355" CATEG="COISA" TIPO="CLASSE"  >Prius</EM>
+
+<EM ID="hub-74208-357" CATEG="TEMPO|TEMPO" TIPO="DURACAO|TEMPO_CALEND"  >Durante o ano passado</EM> o nome <EM ID="hub-74208-356" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-74208-355" TIPOREL="nome_de_ident">Toyota Prius</EM> esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
+
+Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome <EM ID="hub-74208-358" CATEG="ABSTRACCAO" TIPO="NOME" COREL="hub-74208-356" TIPOREL="ident">Prius</EM> tornou-se um sinónimo de híbrido Nos <EM ID="hub-74208-359" CATEG="LOCAL" TIPO="HUMANO"  >Estados Unidos da America</EM> foram vendidos <EM ID="hub-74208-360" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2004</EM> <EM ID="hub-74208-361" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 50 mil</EM> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de <EM ID="hub-74208-362" CATEG="COISA|COISA" TIPO="CLASSE|MEMBROCLASSE" COREL="hub-74208-355" TIPOREL="ident">Prius</EM> a serem vendidos em segunda mão ao mesmo preço que um novo.
+
+Um habitáculo simples, confortável e espaçoso.
+
+Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <EM ID="hub-74208-363" CATEG="LOCAL" TIPO="HUMANO"  >Hollywood</EM>. <EM ID="hub-74208-364" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cameron Diaz</EM>, <EM ID="hub-74208-365" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Leonardo DiCaprio</EM> ou <EM ID="hub-74208-366" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Will Ferrell</EM> são três dos muitos nomes famosos que possuem um <EM ID="hub-74208-367" CATEG="COISA|COISA" TIPO="CLASSE|MEMBROCLASSE" COREL="hub-74208-355" TIPOREL="ident">Toyota Prius</EM>.
+
+Economia e performance
+
+Em cidade o <EM ID="hub-74208-368" CATEG="COISA" TIPO="CLASSE" COREL="hub-74208-355" TIPOREL="ident">Prius</EM> consome apenas <EM ID="hub-74208-369" CATEG="VALOR" TIPO="QUANTIDADE"  >4,3 litros</EM> a cada <EM ID="hub-74208-370" CATEG="VALOR" TIPO="QUANTIDADE"  >100km</EM>, tornando-o num dos automóveis mais económicos do mercado. Estamos claro a falar dum motor <EM ID="hub-74208-371" CATEG="COISA" TIPO="CLASSE"  >1.5 VVT-i </EM> com apenas <EM ID="hub-74208-372" CATEG="VALOR" TIPO="QUANTIDADE"  >78cv</EM>, que aliado ao sistema <EM ID="hub-74208-373" CATEG="COISA" TIPO="CLASSE"  >HSD</EM> (<EM ID="hub-74208-374" CATEG="COISA" TIPO="CLASSE" COREL="hub-74208-373" TIPOREL="ident">Hybrid Synergy Drive</EM>) aumenta a sua potência para <EM ID="hub-74208-375" CATEG="VALOR" TIPO="QUANTIDADE"  >110cv</EM>. <EM ID="hub-74208-376" CATEG="VALOR" TIPO="QUANTIDADE"  >Dos 0 aos 100km/h</EM> o <EM ID="hub-74208-378" CATEG="COISA" TIPO="CLASSE" COREL="hub-74208-355" TIPOREL="ident">Prius</EM> demora <EM ID="hub-74208-377" CATEG="TEMPO|VALOR" TIPO="DURACAO|QUANTIDADE"  >cerca de 11 segundos</EM>.
+
+A <EM ID="hub-74208-379" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-74208-355" TIPOREL="proprietario_de">Toyota</EM> afirma que, apesar destas prestações conseguiram reduzir em <EM ID="hub-74208-380" CATEG="VALOR" TIPO="QUANTIDADE"  >89%</EM> as emissões libertadas, comparando a um veículo novo a gasolina. 

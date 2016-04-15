@@ -1,0 +1,176 @@
+$S-7
+Em	 [em] <*> <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+documento	 [documento] <cc-r> N M S @P<  O
+enviado	 [enviar] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+a	 [a] <sam-> PRP @<ADVS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+empresa	 [empresa] <HH> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+gás	 [gás] <cm-gas> N M S @P<  O
+natural	 [natural] <np-close> ADJ M S @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> <np-close> N M S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+autarquia	 [autarquia] <f-h> <HH> N F S @P<  O
+$, O
+Agostinho=Fernandes	 [Agostinho=Fernandes] <hum> <*> <np-close> PROP M S @APP  O
+$( O
+cuja	 [cujo] <clb> <clb-fs> <rel> DET F S @>N  O
+secretária	 [secretária] <furn> <Hprof> N F S @SUBJ>  O
+$, O
+ontem	 [ontem] ADV @<ADVL  O
+$, O
+tinha	 [ter] <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+indicações	 [indicação] <ac> N F P @<ACC  O
+para	 [para] <np-close> PRP @N<  O
+remeter	 [remeter] <vH> <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+Público	 [Público] <media> <*> PROP M S @<ACC ORG O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+chefe	 [chefe] <Htit> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Departamento=de=Urbanismo	 [Departamento=de=Urbanismo] <genre> <*> PROP M S @P< O
+$, O
+José=Duarte	 [José=Duarte] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+$, O
+por=sua=vez	 [por=sua=vez] <pp> ADV @ADVL>  O
+$, O
+não	 [não] ADV @ADVL>  O
+esteve	 [estar] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+disponível	 [disponível] <nh> ADJ M S @<SC  O
+em	 [em] PRP @<ADVL  O
+tempo	 [tempo] <am> <temp> <per> <ac-cat> <wea> N M S @<ADVL  O
+útil	 [útil] <nh> <np-close> ADJ M S @N<  O
+$) O
+$, O
+justificou	 [justificar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+pedido	 [pedido] <act-s> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+alteração	 [alteração] <act-d> <f-psych> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+traçado	 [traçado] <pict> N M S @P<  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+facto	 [facto] <ac> <cloH> <AAdom> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+o	 [o] <clb> <artd> DET M S @>N  O
+primeiro	 [primeiro] <clb> <NUM-ord> <jh> ADJ M S @>N  O
+projecto	 [projecto] <sem-c> N M S @SUBJ>  O
+oferecer	 [oferecer] <vH> <mv> V INF 3S @ICL-P<  O
+$" O
+condicionantes	 [condicionante] <*1> <*2> <ac> N M P @<ACC  O
+$" O
+$, O
+uma	 [uma] <card> NUM F S @<ACC  O
+de	 [de] <clb> <sam-> PRP @ADVL>  O
+as=quais	 [o=qual] <clb-fs> <rel> <-sam> SPEC F P @P<  O
+implicaria	 [implicar] <mv> <np-close> V COND 3S VFIN @FS-N<  O
+$" O
+a	 [o] <*1> <artd> DET F S @>N  O
+redução	 [redução] <act> N F S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+espaço	 [espaço] <Labs> <Ltop> N M S @P<  O
+industrial	 [industrial] <nh> <np-close> ADJ M S @N<  O
+$, O
+assim=como	 [assim=como] <advl> <rel> ADV @AS-<ADVL  O
+de	 [de] <sam-> PRP @AS<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+espaço	 [espaço] <Labs> <Ltop> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+aglomerado	 [aglomerado] <coll-cc> <Lciv> <cm> N M S @P<  O
+adjacente	 [adjacente] <nh> <np-close> ADJ M S @N<  O
+$, O
+junto	 [junto] ADV @<ADVL  O
+a	 [a] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+nó	 [nó] <ac> <an> <unit> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Cabeçudos	 [Cabeçudos] <hum> <*> PROP M/F S @P<  O
+$, O
+devido=a	 [devido=a] <sam-> PRP @<ADVL  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+afastamento	 [afastamento] <act> N M S @P<  O
+necessário	 [necessário] <nh> <np-close> ADJ M S @N<  O
+para	 [para] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+faixa	 [faixa] <cord> <cloH> <Labs> <Lpath> <sem-l> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+protecção	 [protecção] <am> <sit> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+gasoduto	 [gasoduto] <*2> <tube> N M S @P<  O
+$" O
+$. O
+</s>
+
+$S-12
+$" O
+Nada	 [nada] <*> <*1> <quant> <det> ADV @ADVL>  O
+nos	 [nós] PERS M/F 1P ACC @ACC>  O
+move	 [mover] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+contra	 [contra] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Transgás	 [Transgás] <org> <*> <*2> PROP F S @P< ORG O
+$" O
+$, O
+emendou	 [emendar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+dirigente	 [dirigente] <H> N M S @<SUBJ  O
+agrícola	 [agrícola] <jh> <np-close> ADJ M S @N<  O
+Orlando=Gonçalves	 [Orlando=Gonçalves] <hum> <*> <np-close> PROP M S @N< PES O
+$. O
+</s>
+
+$S-24
+Por	 [por] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mesmo	 [mesmo] <diff> <KOMP> DET M S @>N  O
+diapasão	 [diapasão] <f-h> <ac-cat> N F S @P<  O
+alinhou	 [alinhar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+delegado	 [delegado] <Hprof> N M S @<ACC  O
+em	 [em] PRP @<ADVL  O
+Lagoa	 [Lagoa] <hum> <*> PROP M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Associação=de=Agricultores=de=Famalicão	 [Associação=de=Agricultores=de=Famalicão] <org> <*> PROP F S @P<  O
+$, O
+António=Ribeiro	 [António=Ribeiro] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+em	 [em] PRP @<ADVL REL
+declarações	 [declaração] <act-s> <act> N F P @P< REL
+a	 [a] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Público	 [Público] <media> <*> PROP M S @P< ORG O
+$: O
+$" O
+A	 [o] <*> <*1> <artd> DET F S @>N  O
+Câmara	 [câmara] <prop> <*> <Lh> <HH> N F S @SUBJ>  O
+nunca	 [nunca] ADV @ADVL>  O
+falou	 [falar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+com	 [com] <sam-> PRP @<PIV  O
+nós	 [nós] <-sam> PERS M/F 1P PIV @P<  O
+$, O
+fizeram	 [fazer] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  O
+tudo	 [tudo] <quant> SPEC M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+costas	 [costa] <Ltop> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+pessoas	 [pessoa] <*2> <H> N F P @P<  O
+$" O
+$. O
+</s>

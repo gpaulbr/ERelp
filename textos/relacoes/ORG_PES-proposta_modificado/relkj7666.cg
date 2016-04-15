@@ -1,0 +1,53 @@
+$S-1
+Magistrado	 [magistrado] <Hprof> N M S @PRED> O
+e	 [e] <co-pred> KC @CO O
+político	 [político] <Hprof> N M S @PRED> O
+brasileiro	 [brasileiro] <nat> <jh> <np-close> ADJ M S @N< O 
+$, O
+nascido	 [nascer] <jh> <mv> V PCP M S @ICL-<PRED O
+em	 [em] PRP @<ADVL O
+Angola	 [Angola] <civ> PROP F S @P< O
+em	 [em] PRP @ADVL> O
+1812	 [1812] <card> <year> <date> NUM M/F S @P< O
+$, O
+Eusébio=de=Queirós=Coutinho=Matoso=da=Câmara	 [Eusébio=de=Queirós=Coutinho=Matoso=da=Câmar] <hum> PROP M S @SUBJ> PES O
+exerceu	 [exercer] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+cargo	 [cargo] <ac> N M S @<ACC REL
+de	 [de] <np-close> PRP @N< REL
+Ministro=da=Justiça	 [Ministro=da=Justiça] <hum> PROP M S @P<  REL
+de	 [de] <np-close> PRP @N< REL 
+1848	[1848] NUM M/F P @P< O
+a	[a] PRP @N< O
+1852	[1852] NUM M/F P @P< O
+$, O
+destacando-	 [destacar] <clb> <hyfen> <mv> V GER @ICL-<ADVL O
+se	 [se] <refl> PERS M 3S ACC @<ACC O
+como	 [como] <prd> <adv-rel> PRP @<SC O
+autor	 [autor] <asarg> <Hprof> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+duas	 [dois] <card> NUM F P @>N O
+importantes	 [importante] <jh> ADJ F P @>N O
+leis	 [lei] <conv> <percep-f> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Império	 [império] <prop> <Lciv> N M S @P< ORG O
+$: O
+</s>
+
+$S-2
+Museóloga	 [Museóloga] <hum> PROP M/F S @SUBJ> O
+e	 [e] <co-subj> KC @CO O
+desenhista	 [desenhista] <Hprof> N M/F S @SUBJ> O
+$, O
+Sophia=Jobim	 [Sophia=Jobim] <hum> PROP F S @SUBJ> PES O
+lecionava	 [lecionar] <fmc> <vH> <mv> V IMPF 3S IND VFIN @FS-STA REL
+em	 [em] <sam-> PRP @<ADVL REL
+a	 [o] <artd> <-sam> DET F S @>N REL
+Escola=Nacional=de=Belas=Artes	 [Escola=Nacional=de=Belas=Artes] <inst> PROP F S @P< ORG O
+a	 [o] <artd> DET F S @>N O
+disciplina	 [disciplina] <am> <domain> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+Indumentária=Histórica	 [Indumentária=Histórica] <hum> PROP F S @P< O
+$. O
+</s>

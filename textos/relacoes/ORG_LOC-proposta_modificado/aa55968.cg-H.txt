@@ -1,0 +1,14 @@
+$S-1
+Nova=Iorque	 [Nova=Iorque] <civ> PROP F S @P< LOCAL O
+$, O
+Michael=Bloomberg	 [Michael=Bloomberg] <hum> <np-close> PROP M S @APP O
+$, O
+decidiu	 [decidir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+entregar	 [entregar] <vH> <mv> V INF @ICL-<ACC O
+o	 [o] <artd> DET M S @>N O
+cartão	 [cartão] <cm> <cc-r> N M S @<ACC O
+de	 [de] <np-close> PRP @N< O
+militante	 [militante] <H> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Partido=Conservador	 [Partido=Conservador] <party> PROP M S @P< ORG O

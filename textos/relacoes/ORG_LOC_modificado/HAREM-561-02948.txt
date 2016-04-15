@@ -1,0 +1,53 @@
+$S-2
+Situada	 [situado] <*> <nh> ADJ F S @PRED>  O
+dentro=de	 [dentro=de] <np-close> PRP @N<  O
+um	 [um] <arti> DET M S @>N  O
+parqued	 [parqued] N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+6	 [6] <card> NUM M P @>N  O
+acres	 [acre] <unit> N M P @P<  O
+e	 [e] KC @NPHR  O
+somente	 [somente] ADV @>P  O
+a	 [a] PRP @ADVL  O
+alguns	 [algum] <quant> DET M P @>N  O
+minutos	 [minuto] <dur> <unit> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+aeroporto	 [aeroporto] <Lh> N M S @P<  O
+internacional	 [internacional] <nh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> <np-close> PRP @ADVL @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cidade	 [cidade] <Lciv> N F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Estância=de=Cinco=Estrelas=Martino	 [Estância=de=Cinco=Estrelas=Martino] <org> <*> PROP F S @NPHR ORG O
+éo	 [éo] N M/F S @NPHR  O
+lugar	 [lugar] <L> <Lciv> <Labs> N M S @NPHR  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+conveniente	 [conveniente] <nh> <np-close> ADJ M/F S @N<  O
+para	 [para] PRP @ADVL> @ADVL  O
+se	 [se] <clb> PERS M/F 3S/P ACC @SUBJ>  O
+ficar	 [ficar] <mv> V INF 3S @ICL-P<  O
+em	 [em] <sam-> PRP @<SA REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Costa=Rica	 [Costa=Rica] <top> <*> PROP M S @P< LOCAL O
+para	 [para] PRP @<ADVL  O
+umas	 [um] <quant> DET F P @>N  O
+férias	 [féria] <per> <mon> <temp> N F P @P<  O
+agradáveis	 [agradável] <nh> <np-close> ADJ F P @N<  O
+$, O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+lugar	 [lugar] <L> <Lciv> <Labs> N M S @P<  O
+ideal	 [ideal] <jh> <np-close> ADJ M S @N<  O
+a=partir=de	 [a=partir=de] <clb> <sam-> PRP @ADVL>  O
+o=qual	 [o=qual] <clb-fs> <-sam> <rel> SPEC M S @P<  O
+você	 [você] PERS M/F 3S NOM @SUBJ>  O
+pode	 [poder] <aux> <np-close> V PR 3S IND VFIN @FS-N<  O
+viajar	 [viajar] <vH> <mv> V INF @ICL-AUX<  O
+por	 [por] PRP @<PIV  O
+todo=o	 [todo=o] <quant> DET M S @>N  O
+País	 [país] <prop> <*> <Lciv> N M S @P<  O
+$. O
+</s>

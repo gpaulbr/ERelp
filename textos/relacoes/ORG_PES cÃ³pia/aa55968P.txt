@@ -1,0 +1,318 @@
+$S-1
+New=York	 [New=York] <civ> <*> PROP M/F S @SUBJ>  O
+$, O
+New=York	 [New=York] <civ> <*> <np-close> PROP M/F S @APP  O
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+mês	 [mês] <dur> <per> <unit> N M S @P<  O
+passado	 [passado] <np-close> ADJ M S @N<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> <np-close> N M S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Câmara	 [câmara] <prop> <*> <Lh> <HH> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Nova=Iorque	 [Nova=Iorque] <civ> <*> PROP F S @P< O
+$, O
+Michael=Bloomberg	 [Michael=Bloomberg] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+decidiu	 [decidir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA B-REL
+entregar	 [entregar] <vH> <mv> V INF @ICL-<ACC I-REL
+o	 [o] <artd> DET M S @>N I-REL
+cartão	 [cartão] <cm> <cc-r> N M S @<ACC I-REL
+de	 [de] <np-close> PRP @N< I-REL
+militante	 [militante] <H> N M S @P< I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Partido=Conservador	 [Partido=Conservador] <party> <*> PROP M S @P< ORG O
+$. O
+</s>
+
+$S-3
+E	 [e] <*> KC @NPHR  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+ele	 [ele] PERS M 3S NOM @SUBJ>  O
+avançar	 [avançar] <vH> <mv> V FUT 3S SUBJ VFIN @FS-ADVL>  O
+$, O
+as	 [o] <artd> DET F P @>N  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+recentes	 [recente] <nh> ADJ F P @>N  O
+sondagens	 [sondagem] <act-d> <occ> N F P @SUBJ>  O
+indicam	 [indicar] <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+boletim	 [boletim] <cc-r> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+voto	 [voto] <act-s> <sem-s> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+eleições	 [eleição] <occ> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+2008	 [2008] <card> <date> <year> NUM M/F P @P<  O
+podem	 [poder] <aux> V PR 3P IND VFIN @FS-<ACC  O
+ter	 [ter] <mv> V INF @ICL-AUX<  O
+três	 [três] <card> NUM M P @>N  O
+rostos	 [rosto] <an> <Labs> N M P @<ACC  O
+ligados	 [ligar] <mv> <np-close> V PCP M P @ICL-N<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+$" O
+Big=Apple	 [Big=Apple] <org> <*> PROP F S @P<  O
+$" O
+$: O
+Hillary=Clinton	 [Hillary=Clinton] <hum> <*> PROP F S @SUBJ>  O
+$, O
+senadora	 [senadora] <Hprof> <np-close> N F S @APP  O
+por	 [por] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+estado	 [estado] <Lciv> <state> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Nova=Iorque	 [Nova=Iorque] <civ> <*> PROP F S @P<  O
+$, O
+Rudy=Giuliani	 [Rudy=Giuliani] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+o	 [o] <artd> DET M S @>N B-REL
+republicano	 [republicano] <H> <np-close> N M S @APP I-REL
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> I-REL
+já	 [já] ADV @ADVL> I-REL
+foi	 [ser] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N< I-REL
+presidente	 [presidente] <Hprof> N M S @<SC I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Câmara	 [câmara] <prop> <*> <Lh> <HH> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cidade	 [cidade] <Lciv> N F S @P<  O
+$, O
+e	 [e] KC @NPHR  O
+Michael=Bloomberg	 [Michael=Bloomberg] <hum> <*> PROP M S @<SC  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+homem	 [homem] <Hattr> <np-close> N M S @APP  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+sucedeu	 [suceder] <vN> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+a	 [a] PRP @<PIV  O
+Giuliani	 [Giuliani] <hum> <*> PROP M/F S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+cargo	 [cargo] <ac> N M S @P<  O
+$. O
+</s>
+
+$S-6
+Como	 [como] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  O
+recordava	 [recordar] <vH> <mv> V IMPF 1/3S IND VFIN @FS-ADVL>  O
+um	 [um] <arti> DET M S @>N  O
+artigo	 [artigo] <sem-r> N M S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+um	 [um] <-sam> <arti> DET M S @>N  O
+recente	 [recente] <nh> ADJ M S @>N  O
+número	 [número] <ac> <ac-sign> <sem> <ac-cat> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+revista	 [revista] <act> <sem-r> <occ> N F S @P<  O
+New=Yorker	 [New=Yorker] <media> <*> <np-close> PROP F S @N<  O
+$, O
+Nova=Iorque	 [Nova=Iorque] <civ> <*> <newlex> PROP F S @SUBJ>  O
+já=não	 [já=não] ADV @ADVL>  O
+via	 [ver] <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+coisa	 [coisa] <cc> <ac> N F S @<ACC  O
+assim	 [assim] <kc> ADV @<ADVL  O
+desde	 [desde] PRP @<ADVL  O
+1951	 [1951] <card> <date> <year> NUM M/F S @P<  O
+$, O
+quando	 [quando] <clb> <clb-fs> <interr> ADV @ADVL>  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+campeonato	 [campeonato] <occ> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+basebol	 [basebol] N M S @P<  O
+$, O
+as	 [o] <artd> DET F P @>N  O
+equipas	 [equipa] <HH> N F P @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Brooklin=Dodgers	 [Brooklin=Dodgers] <hum> <*> PROP M/F S @P< ORG O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<ADVL  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+New=York=Giants	 [New=York=Giants] <org> <*> PROP M P @P<  O
+disputaram	 [disputar] <vH> <mv> V PS/MQP 3P IND VFIN @FS-<ACC  O
+o	 [o] <artd> DET M S @>N  O
+play	 [play] <act-d> <newlex> N M S @<ACC  O
+off	 [off] <newlex> N M S @<ACC  O
+$" O
+para	 [para] PRP @<ADVL  O
+decidir	 [decidir] <vH> <mv> V INF @ICL-P<  O
+quem	 [quem] <clb> <clb-fs> <interr> SPEC M/F S @SUBJ>  O
+iria	 [ir] <mv> V COND 3S VFIN @FS-<ACC  O
+a	 [a] <sam-> PRP @<SA  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+final	 [final] <occ> N F S @P<  O
+com	 [com] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+New=York=Yankees	 [New=York=Yankees] <org> <*> PROP M P @P< PES O
+$( O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+acabaram	 [acabar] <vK> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+vencedores	 [vencedor] <H> N M P @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+$" O
+World=Séries	 [World=Séries] <org> <*> PROP F S @P<  O
+$" O
+$) O
+$. O
+</s>
+
+$S-10
+E	 [e] <*> KC @NPHR  O
+este	 [este] <dem> DET M S @>N  O
+dado	 [dado] <cc> <ac> N M S @SUBJ>  O
+torna	 [tornar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+estatuto	 [estatuto] <cc-r> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+independente	 [independente] <jh> ADJ M/F S @P<  O
+muito	 [muito] <quant> ADV @>A  O
+atraente	 [atraente] <np-close> ADJ M/F S @N<  O
+$-- O
+um	 [um] <arti> DET M S @>N  O
+fenómeno	 [fenómeno] <ac> N M S @S<  O
+semelhante	 [semelhante] <nh> <np-close> ADJ M S @N<  O
+a	 [a] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+verificado	 [verificar] <n> V PCP M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+candidatura	 [candidatura] <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Manuel=Alegre	 [Manuel=Alegre] <hum> <*> PROP M S @P< PES O
+$, O
+em	 [em] <sam-> PRP @A<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+últimas	 [último] <n> <NUM-ord> <jh> ADJ F P @P<  O
+presidenciais	 [presidencial] <nh> <np-close> ADJ M/F P @N<  O
+portuguesas	 [português] <nat> <np-long> ADJ F P @N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+com	 [com] <np-close> PRP @N<PRED  O
+aquilo	 [aquilo] <dem> SPEC M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+esperam	 [esperar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+conseguir	 [conseguir] <vH> <mv> V INF @ICL-<ACC  O
+Helena=Roseta	 [Helena=Roseta] <hum> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+Carmona=Rodrigues	 [Carmona=Rodrigues] <hum> <*> PROP F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+próximas	 [próximo] <jh> ADJ F P @>N  O
+eleições	 [eleição] <occ> N F P @P<  O
+intercalares	 [intercalar] <nh> <np-close> ADJ F P @N<  O
+para	 [para] <np-long> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+Câmara=de=Lisboa	 [Câmara=de=Lisboa] <inst> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-11
+E	 [e] <*> KC @NPHR  O
+este	 [este] <dem> DET M S @>N  O
+dado	 [dado] <cc> <ac> N M S @SUBJ>  O
+torna	 [tornar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+estatuto	 [estatuto] <cc-r> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+independente	 [independente] <jh> ADJ M/F S @P<  O
+muito	 [muito] <quant> ADV @>A  O
+atraente	 [atraente] <np-close> ADJ M/F S @N<  O
+$-- O
+um	 [um] <arti> DET M S @>N  O
+fenómeno	 [fenómeno] <ac> N M S @S<  O
+semelhante	 [semelhante] <nh> <np-close> ADJ M S @N<  O
+a	 [a] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+verificado	 [verificar] <n> V PCP M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+candidatura	 [candidatura] <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Manuel=Alegre	 [Manuel=Alegre] <hum> <*> PROP M S @P< O
+$, O
+em	 [em] <sam-> PRP @A<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+últimas	 [último] <n> <NUM-ord> <jh> ADJ F P @P<  O
+presidenciais	 [presidencial] <nh> <np-close> ADJ M/F P @N<  O
+portuguesas	 [português] <nat> <np-long> ADJ F P @N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+com	 [com] <np-close> PRP @N<PRED  O
+aquilo	 [aquilo] <dem> SPEC M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+esperam	 [esperar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+conseguir	 [conseguir] <vH> <mv> V INF @ICL-<ACC  O
+Helena=Roseta	 [Helena=Roseta] <hum> <*> PROP F S @<ACC PES O
+e	 [e] KC @NPHR  O
+Carmona=Rodrigues	 [Carmona=Rodrigues] <hum> <*> PROP F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL O
+as	 [o] <-sam> <artd> DET F P @>N O
+próximas	 [próximo] <jh> ADJ F P @>N O
+eleições	 [eleição] <occ> N F P @P< B-REL
+intercalares	 [intercalar] <nh> <np-close> ADJ F P @N< I-REL
+para	 [para] <np-long> PRP @N< I-REL
+a	 [o] <artd> DET F S @>N I-REL
+Câmara=de=Lisboa	 [Câmara=de=Lisboa] <inst> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-12
+E	 [e] <*> KC @NPHR  O
+este	 [este] <dem> DET M S @>N  O
+dado	 [dado] <cc> <ac> N M S @SUBJ>  O
+torna	 [tornar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+estatuto	 [estatuto] <cc-r> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+independente	 [independente] <jh> ADJ M/F S @P<  O
+muito	 [muito] <quant> ADV @>A  O
+atraente	 [atraente] <np-close> ADJ M/F S @N<  O
+$-- O
+um	 [um] <arti> DET M S @>N  O
+fenómeno	 [fenómeno] <ac> N M S @S<  O
+semelhante	 [semelhante] <nh> <np-close> ADJ M S @N<  O
+a	 [a] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+verificado	 [verificar] <n> V PCP M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+candidatura	 [candidatura] <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Manuel=Alegre	 [Manuel=Alegre] <hum> <*> PROP M S @P<  O
+$, O
+em	 [em] <sam-> PRP @A<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+últimas	 [último] <n> <NUM-ord> <jh> ADJ F P @P<  O
+presidenciais	 [presidencial] <nh> <np-close> ADJ M/F P @N<  O
+portuguesas	 [português] <nat> <np-long> ADJ F P @N<  O
+$, O
+ou	 [ou] KC @NPHR  O
+com	 [com] <np-close> PRP @N<PRED  O
+aquilo	 [aquilo] <dem> SPEC M S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+esperam	 [esperar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+conseguir	 [conseguir] <vH> <mv> V INF @ICL-<ACC  O
+Helena=Roseta	 [Helena=Roseta] <hum> <*> PROP F S @<ACC  O
+e	 [e] KC @NPHR  O
+Carmona=Rodrigues	 [Carmona=Rodrigues] <hum> <*> PROP F S @<ACC PES O
+em	 [em] <sam-> PRP @<ADVL O
+as	 [o] <-sam> <artd> DET F P @>N O
+próximas	 [próximo] <jh> ADJ F P @>N O
+eleições	 [eleição] <occ> N F P @P< B-REL
+intercalares	 [intercalar] <nh> <np-close> ADJ F P @N< I-REL
+para	 [para] <np-long> PRP @N< I-REL
+a	 [o] <artd> DET F S @>N I-REL
+Câmara=de=Lisboa	 [Câmara=de=Lisboa] <inst> <*> PROP F S @P< ORG O
+$. O
+</s>

@@ -1,0 +1,8 @@
+$S-1
+Secretaria=de=Desenvolvimento=Sustentável	 [Secretaria=de=Desenvolvimento=Sustentável] <inst> PROP F S @P< O
+de	 [de] <sam-> <np-long> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Governo	 [Governo] <inst> PROP F S @P< ORG O
+de	 [de] <sam-> <np-long> PRP @N< B-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Estado=do=Amazonas	 [Estado=do=Amazonas] <top> PROP M S @P< LOCAL O

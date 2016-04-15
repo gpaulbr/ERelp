@@ -1,0 +1,797 @@
+!%f90 -*- f90 -*-
+!
+! Signatures for f2py wrappers of ATLAS LAPACK functions.
+!
+!  gesv
+!  getrf
+!  getrs
+!  getri
+!  posv
+!  potrf
+!  potrs
+!  potri
+!  lauum
+!  trtri
+!
+
+python module clapack
+  interface
+   
+   function sgesv(n,nrhs,a,piv,b,info,rowmajor)
+
+   ! lu,piv,x,info = gesv(a,b,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A * P = L * U
+   ! U is unit upper diagonal triangular, L is lower triangular,
+   ! piv pivots columns.
+
+     fortranname  clapack_sgesv
+     integer intent(c,hide) ::  sgesv
+     callstatement sgesv_return_value = info = (*f2py_func)(102-rowmajor,n,nrhs,a,n,piv,b,n)
+     callprotoargument const int,const int,const int,float*,const int,int*,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     real dimension(n,n),check(shape(a,0)==shape(a,1)) :: a
+     integer dimension(n),depend(n),intent(out) :: piv
+     real dimension(n,nrhs),check(shape(a,0)==shape(b,0)),depend(n) :: b
+     integer intent(out)::info
+     intent(in,out,copy,out=x) b
+     intent(c,in,out,copy,out=lu) a
+
+   end function sgesv
+
+   
+   function dgesv(n,nrhs,a,piv,b,info,rowmajor)
+
+   ! lu,piv,x,info = gesv(a,b,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A * P = L * U
+   ! U is unit upper diagonal triangular, L is lower triangular,
+   ! piv pivots columns.
+
+     fortranname  clapack_dgesv
+     integer intent(c,hide) ::  dgesv
+     callstatement dgesv_return_value = info = (*f2py_func)(102-rowmajor,n,nrhs,a,n,piv,b,n)
+     callprotoargument const int,const int,const int,double*,const int,int*,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double precision dimension(n,n),check(shape(a,0)==shape(a,1)) :: a
+     integer dimension(n),depend(n),intent(out) :: piv
+     double precision dimension(n,nrhs),check(shape(a,0)==shape(b,0)),depend(n) :: b
+     integer intent(out)::info
+     intent(in,out,copy,out=x) b
+     intent(c,in,out,copy,out=lu) a
+
+   end function dgesv
+
+   
+   function cgesv(n,nrhs,a,piv,b,info,rowmajor)
+
+   ! lu,piv,x,info = gesv(a,b,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A * P = L * U
+   ! U is unit upper diagonal triangular, L is lower triangular,
+   ! piv pivots columns.
+
+     fortranname  clapack_cgesv
+     integer intent(c,hide) ::  cgesv
+     callstatement cgesv_return_value = info = (*f2py_func)(102-rowmajor,n,nrhs,a,n,piv,b,n)
+     callprotoargument const int,const int,const int,complex_float*,const int,int*,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     complex dimension(n,n),check(shape(a,0)==shape(a,1)) :: a
+     integer dimension(n),depend(n),intent(out) :: piv
+     complex dimension(n,nrhs),check(shape(a,0)==shape(b,0)),depend(n) :: b
+     integer intent(out)::info
+     intent(in,out,copy,out=x) b
+     intent(c,in,out,copy,out=lu) a
+
+   end function cgesv
+
+   
+   function zgesv(n,nrhs,a,piv,b,info,rowmajor)
+
+   ! lu,piv,x,info = gesv(a,b,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A * P = L * U
+   ! U is unit upper diagonal triangular, L is lower triangular,
+   ! piv pivots columns.
+
+     fortranname  clapack_zgesv
+     integer intent(c,hide) ::  zgesv
+     callstatement zgesv_return_value = info = (*f2py_func)(102-rowmajor,n,nrhs,a,n,piv,b,n)
+     callprotoargument const int,const int,const int,complex_double*,const int,int*,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double complex dimension(n,n),check(shape(a,0)==shape(a,1)) :: a
+     integer dimension(n),depend(n),intent(out) :: piv
+     double complex dimension(n,nrhs),check(shape(a,0)==shape(b,0)),depend(n) :: b
+     integer intent(out)::info
+     intent(in,out,copy,out=x) b
+     intent(c,in,out,copy,out=lu) a
+
+   end function zgesv
+
+
+
+   function sposv(n,nrhs,a,b,info,lower,rowmajor)
+
+   ! c,x,info = posv(a,b,lower=0,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_sposv
+     integer intent(c,hide) ::  sposv
+     callstatement sposv_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,a,n,b,n)
+     callprotoargument const int,const int,const int,const int,float*,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     real dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     real dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(a,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function sposv
+
+
+   function dposv(n,nrhs,a,b,info,lower,rowmajor)
+
+   ! c,x,info = posv(a,b,lower=0,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_dposv
+     integer intent(c,hide) ::  dposv
+     callstatement dposv_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,a,n,b,n)
+     callprotoargument const int,const int,const int,const int,double*,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double precision dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     double precision dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(a,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function dposv
+
+
+   function cposv(n,nrhs,a,b,info,lower,rowmajor)
+
+   ! c,x,info = posv(a,b,lower=0,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_cposv
+     integer intent(c,hide) ::  cposv
+     callstatement cposv_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,a,n,b,n)
+     callprotoargument const int,const int,const int,const int,complex_float*,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     complex dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     complex dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(a,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function cposv
+
+
+   function zposv(n,nrhs,a,b,info,lower,rowmajor)
+
+   ! c,x,info = posv(a,b,lower=0,rowmajor=1,overwrite_a=0,overwrite_b=0)
+   ! Solve A * X = B.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_zposv
+     integer intent(c,hide) ::  zposv
+     callstatement zposv_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,a,n,b,n)
+     callprotoargument const int,const int,const int,const int,complex_double*,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double complex dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     double complex dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(a,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function zposv
+
+
+
+   function spotrf(n,a,info,lower,clean,rowmajor)
+   
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^H * U, C = U if lower = 0
+     ! A = L * L^H, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     fortranname  clapack_spotrf
+     integer intent(c,hide) ::  spotrf
+     ! *(a+i*n+j)=0.0;
+     ! *(a+j*n+i)=0.0;
+     callstatement spotrf_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,a,n); if(clean){int i,j;if(lower){for(i=0;i<n;++i) for(j=i+1;j<n;++j) {*(a+i*n+j)=0.0;}} else {for(i=0;i<n;++i) for(j=i+1;j<n;++j) {*(a+j*n+i)=0.0;}}}
+     callprotoargument const int,const int,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(clean==0||clean==1) :: clean = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     real dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     integer intent(out) :: info
+     
+   end function spotrf
+
+
+   function dpotrf(n,a,info,lower,clean,rowmajor)
+   
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^H * U, C = U if lower = 0
+     ! A = L * L^H, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     fortranname  clapack_dpotrf
+     integer intent(c,hide) ::  dpotrf
+     ! *(a+i*n+j)=0.0;
+     ! *(a+j*n+i)=0.0;
+     callstatement dpotrf_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,a,n); if(clean){int i,j;if(lower){for(i=0;i<n;++i) for(j=i+1;j<n;++j) {*(a+i*n+j)=0.0;}} else {for(i=0;i<n;++i) for(j=i+1;j<n;++j) {*(a+j*n+i)=0.0;}}}
+     callprotoargument const int,const int,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(clean==0||clean==1) :: clean = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     double precision dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     integer intent(out) :: info
+     
+   end function dpotrf
+
+
+   function cpotrf(n,a,info,lower,clean,rowmajor)
+   
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^H * U, C = U if lower = 0
+     ! A = L * L^H, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     fortranname  clapack_cpotrf
+     integer intent(c,hide) ::  cpotrf
+     ! k=i*n+j;(a+k)->r=(a+k)->i=0.0;
+     ! k=j*n+i;(a+k)->r=(a+k)->i=0.0;
+     callstatement cpotrf_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,a,n); if(clean){int i,j,k;if(lower){for(i=0;i<n;++i) for(j=i+1;j<n;++j) {k=i*n+j;(a+k)->r=(a+k)->i=0.0;}} else {for(i=0;i<n;++i) for(j=i+1;j<n;++j) {k=j*n+i;(a+k)->r=(a+k)->i=0.0;}}}
+     callprotoargument const int,const int,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(clean==0||clean==1) :: clean = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     complex dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     integer intent(out) :: info
+     
+   end function cpotrf
+
+
+   function zpotrf(n,a,info,lower,clean,rowmajor)
+   
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     ! c,info = potrf(a,lower=0,clean=1,rowmajor=1,overwrite_a=0)
+     ! Compute Cholesky decomposition of symmetric positive defined matrix:
+     ! A = U^H * U, C = U if lower = 0
+     ! A = L * L^H, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+     ! clean==1 zeros strictly lower or upper parts of U or L, respectively
+
+     fortranname  clapack_zpotrf
+     integer intent(c,hide) ::  zpotrf
+     ! k=i*n+j;(a+k)->r=(a+k)->i=0.0;
+     ! k=j*n+i;(a+k)->r=(a+k)->i=0.0;
+     callstatement zpotrf_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,a,n); if(clean){int i,j,k;if(lower){for(i=0;i<n;++i) for(j=i+1;j<n;++j) {k=i*n+j;(a+k)->r=(a+k)->i=0.0;}} else {for(i=0;i<n;++i) for(j=i+1;j<n;++j) {k=j*n+i;(a+k)->r=(a+k)->i=0.0;}}}
+     callprotoargument const int,const int,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(clean==0||clean==1) :: clean = 1
+
+     integer depend(a),intent(hide):: n = shape(a,0)
+     double complex dimension(n,n),intent(c,in,out,copy,out=c) :: a
+     check(shape(a,0)==shape(a,1)) :: a
+     integer intent(out) :: info
+     
+   end function zpotrf
+
+
+
+   function spotrs(n,nrhs,c,b,info,lower,rowmajor)
+
+   ! x,info = potrs(c,b,lower=0,rowmajor=1,overwrite_b=0)
+   ! Solve A * X = b.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_spotrs
+     integer intent(c,hide) ::  spotrs
+     callstatement spotrs_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,c,n,b,n)
+     callprotoargument const int,const int,const int,const int,float*,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(c),intent(hide):: n = shape(c,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     real dimension(n,n),intent(c,in) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     real dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(c,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function spotrs
+
+
+   function dpotrs(n,nrhs,c,b,info,lower,rowmajor)
+
+   ! x,info = potrs(c,b,lower=0,rowmajor=1,overwrite_b=0)
+   ! Solve A * X = b.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_dpotrs
+     integer intent(c,hide) ::  dpotrs
+     callstatement dpotrs_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,c,n,b,n)
+     callprotoargument const int,const int,const int,const int,double*,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(c),intent(hide):: n = shape(c,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double precision dimension(n,n),intent(c,in) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     double precision dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(c,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function dpotrs
+
+
+   function cpotrs(n,nrhs,c,b,info,lower,rowmajor)
+
+   ! x,info = potrs(c,b,lower=0,rowmajor=1,overwrite_b=0)
+   ! Solve A * X = b.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_cpotrs
+     integer intent(c,hide) ::  cpotrs
+     callstatement cpotrs_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,c,n,b,n)
+     callprotoargument const int,const int,const int,const int,complex_float*,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(c),intent(hide):: n = shape(c,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     complex dimension(n,n),intent(c,in) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     complex dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(c,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function cpotrs
+
+
+   function zpotrs(n,nrhs,c,b,info,lower,rowmajor)
+
+   ! x,info = potrs(c,b,lower=0,rowmajor=1,overwrite_b=0)
+   ! Solve A * X = b.
+   ! A is symmetric positive defined
+   ! A = U^T * U, C = U if lower = 0
+   ! A = L * L^T, C = L if lower = 1
+   ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_zpotrs
+     integer intent(c,hide) ::  zpotrs
+     callstatement zpotrs_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,nrhs,c,n,b,n)
+     callprotoargument const int,const int,const int,const int,complex_double*,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+
+     integer depend(c),intent(hide):: n = shape(c,0)
+     integer depend(b),intent(hide):: nrhs = shape(b,1)
+     double complex dimension(n,n),intent(c,in) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     double complex dimension(n,nrhs),intent(in,out,copy,out=x),depend(n):: b
+     check(shape(c,0)==shape(b,0)) :: b
+     integer intent(out) :: info
+
+   end function zpotrs
+
+
+
+   function spotri(n,c,info,lower,rowmajor)
+   
+     ! inv_a,info = potri(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute A inverse A^-1.
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_spotri
+     integer intent(c,hide) ::  spotri
+     callstatement spotri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     real dimension(n,n),intent(c,in,out,copy,out=inv_a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function spotri
+
+
+   function dpotri(n,c,info,lower,rowmajor)
+   
+     ! inv_a,info = potri(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute A inverse A^-1.
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_dpotri
+     integer intent(c,hide) ::  dpotri
+     callstatement dpotri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double precision dimension(n,n),intent(c,in,out,copy,out=inv_a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function dpotri
+
+
+   function cpotri(n,c,info,lower,rowmajor)
+   
+     ! inv_a,info = potri(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute A inverse A^-1.
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_cpotri
+     integer intent(c,hide) ::  cpotri
+     callstatement cpotri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     complex dimension(n,n),intent(c,in,out,copy,out=inv_a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function cpotri
+
+
+   function zpotri(n,c,info,lower,rowmajor)
+   
+     ! inv_a,info = potri(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute A inverse A^-1.
+     ! A = U^T * U, C = U if lower = 0
+     ! A = L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_zpotri
+     integer intent(c,hide) ::  zpotri
+     callstatement zpotri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double complex dimension(n,n),intent(c,in,out,copy,out=inv_a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function zpotri
+
+
+
+   function slauum(n,c,info,lower,rowmajor)
+   
+     ! a,info = lauum(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute product
+     ! U^T * U, C = U if lower = 0
+     ! L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_slauum
+     integer intent(c,hide) ::  slauum
+     callstatement slauum_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     real dimension(n,n),intent(c,in,out,copy,out=a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function slauum
+
+
+   function dlauum(n,c,info,lower,rowmajor)
+   
+     ! a,info = lauum(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute product
+     ! U^T * U, C = U if lower = 0
+     ! L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_dlauum
+     integer intent(c,hide) ::  dlauum
+     callstatement dlauum_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double precision dimension(n,n),intent(c,in,out,copy,out=a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function dlauum
+
+
+   function clauum(n,c,info,lower,rowmajor)
+   
+     ! a,info = lauum(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute product
+     ! U^T * U, C = U if lower = 0
+     ! L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_clauum
+     integer intent(c,hide) ::  clauum
+     callstatement clauum_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     complex dimension(n,n),intent(c,in,out,copy,out=a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function clauum
+
+
+   function zlauum(n,c,info,lower,rowmajor)
+   
+     ! a,info = lauum(c,lower=0,rowmajor=1,overwrite_c=0)
+     ! Compute product
+     ! U^T * U, C = U if lower = 0
+     ! L * L^T, C = L if lower = 1
+     ! C is triangular matrix of the corresponding Cholesky decomposition.
+
+     fortranname  clapack_zlauum
+     integer intent(c,hide) ::  zlauum
+     callstatement zlauum_return_value = info = (*f2py_func)(102-rowmajor,121+lower,n,c,n)
+     callprotoargument const int,const int,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double complex dimension(n,n),intent(c,in,out,copy,out=a) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function zlauum
+
+
+
+   function strtri(n,c,info,lower,unitdiag,rowmajor)
+   
+     ! inv_c,info = trtri(c,lower=0,unitdiag=0,rowmajor=1,overwrite_c=0)
+     ! Compute C inverse C^-1 where
+     ! C = U if lower = 0
+     ! C = L if lower = 1
+     ! C is non-unit triangular matrix if unitdiag = 0
+     ! C is unit triangular matrix if unitdiag = 1
+
+     fortranname  clapack_strtri
+     integer intent(c,hide) ::  strtri
+     callstatement strtri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,131+unitdiag,n,c,n)
+     callprotoargument const int,const int,const int,const int,float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(unitdiag==0||unitdiag==1) :: unitdiag = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     real dimension(n,n),intent(c,in,out,copy,out=inv_c) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function strtri
+
+
+   function dtrtri(n,c,info,lower,unitdiag,rowmajor)
+   
+     ! inv_c,info = trtri(c,lower=0,unitdiag=0,rowmajor=1,overwrite_c=0)
+     ! Compute C inverse C^-1 where
+     ! C = U if lower = 0
+     ! C = L if lower = 1
+     ! C is non-unit triangular matrix if unitdiag = 0
+     ! C is unit triangular matrix if unitdiag = 1
+
+     fortranname  clapack_dtrtri
+     integer intent(c,hide) ::  dtrtri
+     callstatement dtrtri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,131+unitdiag,n,c,n)
+     callprotoargument const int,const int,const int,const int,double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(unitdiag==0||unitdiag==1) :: unitdiag = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double precision dimension(n,n),intent(c,in,out,copy,out=inv_c) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function dtrtri
+
+
+   function ctrtri(n,c,info,lower,unitdiag,rowmajor)
+   
+     ! inv_c,info = trtri(c,lower=0,unitdiag=0,rowmajor=1,overwrite_c=0)
+     ! Compute C inverse C^-1 where
+     ! C = U if lower = 0
+     ! C = L if lower = 1
+     ! C is non-unit triangular matrix if unitdiag = 0
+     ! C is unit triangular matrix if unitdiag = 1
+
+     fortranname  clapack_ctrtri
+     integer intent(c,hide) ::  ctrtri
+     callstatement ctrtri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,131+unitdiag,n,c,n)
+     callprotoargument const int,const int,const int,const int,complex_float*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(unitdiag==0||unitdiag==1) :: unitdiag = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     complex dimension(n,n),intent(c,in,out,copy,out=inv_c) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function ctrtri
+
+
+   function ztrtri(n,c,info,lower,unitdiag,rowmajor)
+   
+     ! inv_c,info = trtri(c,lower=0,unitdiag=0,rowmajor=1,overwrite_c=0)
+     ! Compute C inverse C^-1 where
+     ! C = U if lower = 0
+     ! C = L if lower = 1
+     ! C is non-unit triangular matrix if unitdiag = 0
+     ! C is unit triangular matrix if unitdiag = 1
+
+     fortranname  clapack_ztrtri
+     integer intent(c,hide) ::  ztrtri
+     callstatement ztrtri_return_value = info = (*f2py_func)(102-rowmajor,121+lower,131+unitdiag,n,c,n)
+     callprotoargument const int,const int,const int,const int,complex_double*,const int
+
+     integer optional,intent(in),check(rowmajor==1||rowmajor==0) :: rowmajor = 1
+     integer optional,intent(in),check(lower==0||lower==1) :: lower = 0
+     integer optional,intent(in),check(unitdiag==0||unitdiag==1) :: unitdiag = 0
+     
+     integer depend(c),intent(hide):: n = shape(c,0)
+     double complex dimension(n,n),intent(c,in,out,copy,out=inv_c) :: c
+     check(shape(c,0)==shape(c,1)) :: c
+     integer intent(out) :: info
+     
+   end function ztrtri
+
+
+
+
+  end interface
+end python module clapack

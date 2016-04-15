@@ -1,0 +1,35 @@
+$S-2
+O	 [o] <*> <artd> DET M S @>N  O
+fogo	 [fogo] <cc-fire> <process> <L> <act-d> <activity> N M S @SUBJ>  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+se	 [se] PERS M/F 3S ACC @ACC>-PASS  O
+iniciou	 [iniciar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+cerca=de	 [cerca=de] <sam-> PRP @<ADVL  O
+as	 [o] <artd> <-sam> DET F P @>N  O
+02h30	 [02h30] <temp> N F P @P<  O
+horas	 [hora] <dur> <temp> <unit> N F P @PRED>  O
+e	 [e] KC @NPHR  O
+só	 [só] ADV @ADVL>  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+dado	 [dar] <mv> V PCP M S @ICL-AUX<  O
+como	 [como] <prd> <adv-rel> PRP @<SC  O
+extinto	 [extinguir] <asarg> <jh> V PCP M S @P<  O
+a	 [a] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+05h20	 [05h20] <temp> N F P @P<  O
+$, O
+ocorreu	 [ocorrer] <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+restaurante	 [restaurante] <inst> N M S @P<  O
+$" O
+Porto=Fino	 [Porto=Fino] <inst> <*> <*1> <*2> <np-close> PROP M S @N< ORG O
+$" O
+$, O
+em	 [em] <sam-> PRP @<ADVL REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+rua	 [rua] <Lpath> N F S @P< REL
+Padrão	 [padrão] <prop> <*> <ac> <np-close> N M S @N< LOCAL O
+$. O
+</s>

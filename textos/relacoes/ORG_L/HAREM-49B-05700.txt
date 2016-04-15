@@ -1,0 +1,9 @@
+$S-29
+O	 [o] <*> <artd> DET M S @>N  O
+Goa=Tourism=Development=Corporation=Office	 [Goa=Tourism=Development=Corporation=Office] <org> <*> PROP M S @SUBJ> ORG O
+organiza	 [organizar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA B-REL
+excursões	 [excursão] <occ> N F P @<ACC I-REL
+a	 [a] PRP @<ADVL I-REL
+Goa	 [Goa] <civ> <*> PROP M/F S @P< LOCAL O
+$. O
+</s>

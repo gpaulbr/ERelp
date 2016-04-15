@@ -1,0 +1,325 @@
+$S-1
+Foi 	[ser] <*> <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+dado 	[dar] <mv> V PCP M S @ICL-AUX<  
+o 	[o] <artd> DET M S @>N  
+primeiro 	[primeiro] <NUM-ord> <jh> ADJ M S @>N  
+passo 	[passo] <act-d> <activity> <Ltop> <Lwater> <cc-r> <event> <f-q> N M S @<SUBJ  
+para 	[para] PRP @<PIV  
+a 	[o] <artd> DET F S @>N  
+diminuição 	[diminuição] <event> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+filas 	[fila] <coll-cc> <HH> <act> N F P @P<  
+de 	[de] <np-close> PRP @N<  
+espera 	[espera] <activity> <per> N F S @P<  
+para 	[para] PRP @<ADVL  
+transplante 	[transplante] <cc> <act> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+fígado 	[fígado] <anorg> N M S @P<  
+$. 
+</s>
+
+$S-2
+Cientistas 	[cientista] <*> <Hprof> N M/F P @SUBJ>  
+britânicos 	[britânico] <nat> <jh> <np-close> ADJ M P @N<  
+detectaram 	[detectar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+$, 
+em 	[em] PRP @<ADVL  
+adultos 	[adulto] <Hbio> N M P @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<  
+a=partir=de 	[a=partir=de] <np-long> PRP @N<  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+medula=óssea 	[medula=óssea] <anorg> N F S @P<  
+$. 
+</s>
+
+$S-3
+Células-tronco 	[célula-tronco] <*> <Acell> <Lh> <HH> N F P @SUBJ>  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+células 	[célula] <Acell> <Lh> <HH> N F P @<SC  
+não-especializadas 	[não-especializado] <jh> <np-close> ADJ F P @N<  
+$, 
+capazes 	[capaz] <jh> <np-close> ADJ M/F P @N<PRED  
+de 	[de] PRP @A<  
+dar 	[dar] <mv> V INF @ICL-P<  
+origem 	[origem] <Labs> <f-h> N F S @<ACC  
+a 	[a] PRP @<PIV  
+qualquer 	[qualquer] <quant> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+tecido 	[tecido] <mat-cloth> <an> <cc-rag> N M S @P<  
+$. 
+</s>
+
+$S-4
+As 	[o] <*> <dem> DET F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+medula=óssea 	[medula=óssea] <anorg> N F S @P<  
+dão 	[dar] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+origem 	[origem] <Labs> <f-h> N F S @<ACC  
+a 	[a] PRP @<PIV  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+sanguíneas 	[sanguíneo] <jh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-5
+O 	[o] <*> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>  
+$, 
+feito 	[feito] <act> <np-close> N M S @N<PRED  
+por 	[por] PRP @ADVL>  
+pesquisadores 	[pesquisador] <Hprof> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Imperial=College 	[Imperial=College] <inst> <*> PROP M S @P< ORG
+$, 
+em 	[em] PRP @ADVL>  
+Londres 	[Londres] <civ> <*> PROP F S @P< LOCAL
+$, 
+mostra 	[mostrar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+$, 
+além=disso 	[além=disso] ADV @ADVL>  
+$, 
+elas 	[elas] PERS F 3P NOM @SUBJ>  
+são 	[ser] <vK> <mv> V PR 3P IND VFIN @FS-<ACC  
+capazes 	[capaz] <jh> ADJ F P @<SC  
+de 	[de] PRP @A<  
+originar 	[originar] <mv> V INF @ICL-P<  
+outro 	[outro] <diff> <KOMP> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+célula 	[célula] <Acell> <Lh> <HH> N F S @P<  
+$_  
+células 	[célula] <Acell> <Lh> <HH> N F P @<SUBJ  
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<  
+$_  
+dentro=de 	[dentro=de] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+organismo 	[organismo] <A> <inst> N M S @P<  
+humano 	[humano] <jh> <np-close> ADJ M S @N<  
+$. 
+</s>
+
+$S-6
+A 	[o] <*> <artd> DET F S @>N  
+descoberta 	[descoberta] <event> N F S @SUBJ>  
+possibilitará 	[possibilitar] <fmc> <mv> V FUT 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+pessoas 	[pessoa] <H> N F P @SUBJ>  
+com 	[com] <np-close> PRP @N<  
+dano 	[dano] <am> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+fígado 	[fígado] <anorg> N M S @P<  
+usem 	[usar] <vH> <mv> V PR 3P SUBJ VFIN @FS-<ACC  
+as 	[o] <artd> DET F P @>N  
+próprias 	[próprio] <ident> DET F P @>N  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @<ACC  
+para 	[para] PRP @<ADVL  
+produzir 	[produzir] <mv> V INF @ICL-P<  
+células 	[célula] <Acell> <Lh> <HH> N F P @<ACC  
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-7
+$"  
+Em 	[em] <*> <*1> <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+futuro 	[futuro] <per> N M S @P<  
+$, 
+quando 	[quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+a 	[o] <artd> DET F S @>N  
+produção 	[produção] <act> <am> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+tecido 	[tecido] <mat-cloth> <an> <cc-rag> N M S @P<  
+hepático 	[hepático] <nh> <np-close> ADJ M S @N<  
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  
+tornar 	[tornar] <mv> <np-close> V FUT 3S SUBJ VFIN @FS-N<  
+uma 	[um] <arti> DET F S @>N  
+realidade 	[realidade] <sit> <percep-f> N F S @<OC  
+$, 
+o 	[o] <artd> DET M S @>N  
+número 	[número] <ac> <ac-sign> <sem> <ac-cat> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+transplantes 	[transplante] <cc> <act> N M P @P<  
+poderá 	[poder] <predco> <cjt-head> <fmc> <aux> V FUT 3S IND VFIN @FS-STA  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+minimizado 	[minimizar] <*2> <vH> <mv> V PCP M S @ICL-AUX<  
+$"  
+$, 
+disse 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+Folha 	[Folha] <media> <*> PROP F S @P<  
+por 	[por] PRP @<ADVL  
+e-mail 	[e-mail] <sem-r> N M S @P< 	[e-mail] <newlex> N M S @P<  
+Joe=Jackson 	[Joe=Jackson] <tit> <*> <np-close> PROP M S @N<  
+$, 
+um 	[um] <card> NUM M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+autores 	[autor] <Hprof> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+sai 	[sair] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+hoje 	[hoje] ADV @<ADVL  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+$"  
+Nature 	[Nature] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$. 
+</s>
+
+$S-8
+Masculino 	[masculino] <cjt-head> <*> <ac-cat> N M S @SUBJ>  
+e 	[e] KC @NPHR  
+feminino 	[feminino] <jh> ADJ M S @>N  
+Pesquisas 	[pesquisa] <cjt> <prop> <*> <occ> <act-d> N F P @SUBJ>  
+em 	[em] <np-close> PRP @N<  
+camundongos 	[camundongo] <Azo> N M P @P<  
+haviam 	[haver] <fmc> <aux> V IMPF 3P IND VFIN @FS-STA  
+mostrado 	[mostrar] <mv> V PCP M S @ICL-AUX<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+medula=óssea 	[medula=óssea] <anorg> N F S @P<  
+poderiam 	[poder] <aux> V COND 3P VFIN @FS-<ACC  
+originar 	[originar] <mv> V INF @ICL-AUX<  
+células 	[célula] <Acell> <Lh> <HH> N F P @<ACC  
+hepáticas 	[hepático] <nh> <np-close> ADJ F P @N<  
+$, 
+além=de 	[além=de] <sam-> PRP @<ADVL  
+as 	[o] <artd> <-sam> DET F P @>N  
+sanguíneas 	[sanguíneo] <n> <jh> ADJ F P @P<  
+$. 
+</s>
+
+$S-9
+Para 	[para] <*> PRP @ADVL> @ADVL  
+descobrir 	[descobrir] <vH> <mv> V INF @ICL-P<  
+se 	[se] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+mesmo 	[mesmo] <diff> <KOMP> DET M S @SUBJ>  
+acontecia 	[acontecer] <vN> <mv> V IMPF 3S IND VFIN @FS-<ACC  
+em 	[em] PRP @<ADVL  
+seres=humanos 	[ser=humano] <H> N M P @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <Hprof> N M P @<ACC  
+analisaram 	[analisar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+células 	[célula] <Acell> <Lh> <HH> N F P @<SUBJ  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+fígado 	[fígado] <anorg> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+mulheres 	[mulher] <Hattr> N F P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+haviam 	[haver] <aux> <np-close> V IMPF 3P IND VFIN @FS-N<  
+sofrido 	[sofrer] <vH> <mv> V PCP M S @ICL-AUX<  
+um 	[um] <arti> DET M S @>N  
+transplante 	[transplante] <cc> <act> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+medula=óssea 	[medula=óssea] <anorg> N F S @P<  
+$, 
+cujo 	[cujo] <clb> <clb-fs> <rel> DET M S @>N  
+doador 	[doador] <H> N M S @SUBJ>  
+havia 	[haver] <aux> <np-close> V IMPF 3S IND VFIN @FS-N<  
+sido 	[ser] <vK> <mv> V PCP M S @ICL-AUX<  
+um 	[um] <arti> DET M S @>N  
+homem 	[homem] <Hattr> N M S @<SC  
+$. 
+</s>
+
+$S-10
+A 	[o] <*> <artd> DET F S @>N  
+análise 	[análise] <act-c> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+DNA 	[dNA] <prop> <*> <cm-chem> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+essas 	[esse] <-sam> <dem> DET F P @>N  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+mostrou 	[mostrar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+elas 	[elas] PERS F 3P NOM @SUBJ>  
+continham 	[conter] <mv> V IMPF 3P IND VFIN @FS-<ACC  
+o 	[o] <artd> DET M S @>N  
+cromossomo 	[cromossomo] <cc> N M S @<ACC  
+Y 	[Y] <mat> <*> <np-close> PROP M S @N<  
+$, 
+encontrado 	[encontrado] <nh> <np-close> ADJ M S @N<PRED  
+apenas 	[apenas] ADV @>P  
+em 	[em] PRP @<ADVL  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+masculinas 	[masculino] <jh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-11
+Isso 	[isso] <*> <dem> SPEC M S @SUBJ>  
+indica 	[indicar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+$, 
+de 	[de] PRP @ADVL>  
+alguma 	[algum] <quant> DET F S @>N  
+forma 	[forma] <percep-f> <con> N F S @P<  
+$, 
+as 	[o] <artd> DET F P @>N  
+células-tronco 	[célula-tronco] <Acell> <Lh> <HH> N F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+medula=óssea 	[medula=óssea] <anorg> N F S @P<  
+haviam 	[haver] <aux> V IMPF 3P IND VFIN @FS-<SUBJ  
+sido 	[ser] <vK> <mv> V PCP M S @ICL-AUX<  
+capazes 	[capaz] <jh> ADJ F P @<SC  
+de 	[de] PRP @A<  
+$"  
+colonizar 	[colonizar] <*1> <*2> <vH> <mv> V INF @ICL-P<  
+$"  
+o 	[o] <artd> DET M S @>N  
+fígado 	[fígado] <anorg> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+mulheres 	[mulher] <Hattr> N F P @P<  
+transplantadas 	[transplantar] <vH> <np-close> V PCP F P @N<  
+$. 
+</s>
+
+$S-12
+O 	[o] <*> <artd> DET M S @>N  
+resultado 	[resultado] <ac> N M S @SUBJ>  
+deverá 	[dever] <clb-fs> <aux> <quote> V FUT 3S IND VFIN @FS-ACC>>  
+contribuir 	[contribuir] <vH> <mv> V INF @ICL-AUX<  
+para 	[para] PRP @<PIV  
+o 	[o] <artd> DET M S @>N  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+tecidos 	[tecido] <mat-cloth> <an> <cc-rag> N M P @P<  
+humanos 	[humano] <np-close> ADJ M P @N<  
+para 	[para] <np-long> PRP @N<  
+uso 	[uso] <act> <ac> N M S @P<  
+terapêutico 	[terapêutico] <nh> <np-close> ADJ M S @N<  
+$, 
+dizem 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3P IND VFIN @FS-STA  
+os 	[o] <artd> DET M P @>N  
+autores 	[autor] <Hprof> N M P @<SUBJ  
+$. 
+</s>
+
+$S-13

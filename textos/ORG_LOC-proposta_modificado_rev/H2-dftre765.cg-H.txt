@@ -1,0 +1,33 @@
+$S-1
+Igreja=Católica	 [Igreja=Católica] <inst> PROP F S @P< ORG O
+foram	 [ser] <fmc> <vK> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+igualmente	 [igualmente] <quant> ADV @>A O
+determinantes	 [determinante] <nh> ADJ F P @<SC O
+para	 [para] PRP @<ADVL O
+evitar	 [evitar] <vH> <mv> V INF @ICL-P< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+as	 [o] <artd> DET F P @>N O
+ideias	 [ideia] <sem-c> N F P @SUBJ> O
+reformadoras	 [reformadora] <H> N F P @PRED> O
+encontrassem	 [encontrar] <vH> <mv> V IMPF 3P SUBJ VFIN @FS-<ACC O
+divulgação	 [divulgação] <activity> N F S @<ACC O
+em	 [em] PRP @<ADVL O
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+
+$S-2
+Igreja=da=Inglaterra	 [Igreja=da=Inglaterra] <inst> PROP F S @SUBJ> ORG O
+sempre	 [sempre] ADV @ADVL> O
+se	 [se] <obj> PERS F 3S ACC @ACC> O
+viu	 [ver] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL> O
+a	 [o] <artd> DET F S @>N O
+eclesia	 [eclesia] N F S @SUBJ> O
+anglicanae	 [anglicanaar] <mv> V PR 3S SUBJ VFIN @FS-<ADVL O
+$, O
+ou=seja	 [ou=seja] <kc> ADV @<ADVL O
+$, O
+A=Igreja	 [A=Igreja] <tit> PROP F S @<SUBJ O
+cristã	 [cristão] <np-close> ADJ F S @N< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Inglaterra	 [Inglaterra] <civ> PROP F S @P< LOCAL O

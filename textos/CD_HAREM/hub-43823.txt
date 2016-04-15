@@ -1,0 +1,185 @@
+
+    
+      ONDE ESTÁ O
+      <EM ID="hub-43823-384" CATEG="ABSTRACCAO|ORGANIZACAO|PESSOA" TIPO="DISCIPLINA|INSTITUICAO|GRUPOMEMBRO"  >PSD</EM>
+      ?
+    
+    
+      É só uma questão de tempo até os jornais começarem a perguntar onde está o
+      <EM ID="hub-43823-385" CATEG="ORGANIZACAO|ABSTRACCAO|PESSOA" TIPO="INSTITUICAO|DISCIPLINA|GRUPOMEMBRO" COREL="hub-43823-384 hub-43823-384 hub-43823-384" TIPOREL="ORGANIZACAO**ident**hub-43823-384**ORGANIZACAO ABSTRACCAO**ident**hub-43823-384**ABSTRACCAO PESSOA**ident**hub-43823-384**PESSOA">PSD</EM>
+      , onde está
+      <EM ID="hub-43823-386" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-384 hub-43823-384" TIPOREL="PESSOA**vinculo_inst**hub-43823-384**ORGANIZACAO PESSOA**incluido**hub-43823-384**PESSOA">Menezes</EM>
+      , onde está a oposição vinda do partido que é suposto "liderá-la", que não se vê em parte nenhuma. O
+      <EM ID="hub-43823-387" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PP</EM>
+      , o
+      <EM ID="hub-43823-388" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PCP</EM>
+      e o
+      <EM ID="hub-43823-389" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >BE</EM>
+      , nalguns casos mesmo alguns raros dissidentes do
+      <EM ID="hub-43823-390" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >PS</EM>
+      socrático, têm criticado o
+      <EM ID="hub-43823-391" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Governo</EM>
+      , enquanto o
+      <EM ID="hub-43823-392" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-384" TIPOREL="ORGANIZACAO**ident**hub-43823-384**ORGANIZACAO">PSD</EM>
+      passa entre as sombras, ou ficando pura e simplesmente silencioso, ou murmurando umas críticas de circunstância que ninguém ouve, ou, em muitos casos, concordando com o
+      <EM ID="hub-43823-393" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-391" TIPOREL="ident">Governo</EM>
+      e o
+      <EM ID="hub-43823-394" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PS</EM>
+      . O único "não" sonoro que se ouviu foi a recusa do empréstimo à
+      <EM ID="hub-43823-5" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Câmara de Lisboa</EM> 
+      , acompanhado por uma condução política que primou pela completa inépcia. Esse é daqueles que mais valia não se ter ouvido, sem com isso dizer que
+      <EM ID="hub-43823-396" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Costa</EM>
+      tinha razão, que não a tinha.
+    
+    
+      A pergunta do "onde está" é tradicional na comunicação social e nalguns casos foi feita com estragos consideráveis, como aconteceu com
+      <EM ID="hub-43823-397" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Vítor Constâncio</EM>
+      à frente do
+      <EM ID="hub-43823-398" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-397 hub-43823-394" TIPOREL="vinculo_inst ident">PS</EM>
+      . A pergunta em si é pouco relevante, porque o que a comunicação social quer é festa e, quando acha que não a tem, clama por actores no palco. Admito que os tempos agora não estarão como estavam <EM ID="hub-43823-8" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no tempo</EM> de <EM ID="hub-43823-7" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-397" TIPOREL="ident">Constâncio</EM>
+      , nem a dedicação carinhosa da comunicação social ao
+      <EM ID="hub-43823-401" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-392" TIPOREL="ident">PSD</EM>
+      é idêntica à que
+      na época 
+      prodigalizava ao
+      <EM ID="hub-43823-403" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-394" TIPOREL="ident">PS</EM>
+      , cujo estado a preocupava. Mas, quando vier a pergunta, será mais para a coreografia do que para a substância, porque esta está há muito respondida:
+      <EM ID="hub-43823-405" CATEG="TEMPO" TIPO="DURACAO"  >de há uns tempos a esta parte</EM>
+      , o
+      <EM ID="hub-43823-406" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOMEMBRO|INSTITUICAO" COREL="hub-43823-401" TIPOREL="ORGANIZACAO**ident**hub-43823-401**ORGANIZACAO">PSD</EM>
+      está onde está o
+      <EM ID="hub-43823-407" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOMEMBRO|INSTITUICAO" COREL="ident" TIPOREL="ORGANIZACAO**ident**hub-43823-403**ORGANIZACAO">PS</EM>
+      .
+    
+    
+      A razão pela qual o
+      <EM ID="hub-43823-408" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-43823-401 hub-43823-406" TIPOREL="vinculo_inst PESSOA**ident**hub-43823-406**PESSOA">PSD</EM>
+      se ausentou para parte incerta foi explicada na pouco noticiada conferência de imprensa "oferecedora de pactos", antecedendo o debate parlamentar de "primeira oportunidade" entre
+      <EM ID="hub-43823-409" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-391 hub-43823-394" TIPOREL="vinculo_inst vinculo_inst">Sócrates</EM>
+      e
+      <EM ID="hub-43823-410" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Santana Lopes</EM>
+      .
+      Desde aí que se conhecem as razões de substância para este já longo silêncio: o
+      <EM ID="hub-43823-412" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-410 hub-43823-401" TIPOREL="vinculo_inst ident">PSD</EM>
+      aproximou-se politicamente do
+      <EM ID="hub-43823-413" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-394" TIPOREL="ident">PS</EM>
+      como nunca esteve <EM ID="hub-43823-4130" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes</EM>, ao ponto de se oferecer para co-governar em praticamente todas as áreas. Na conferência e em declarações avulsas - da política externa à política europeia, passando pela defesa, segurança interna e legislação eleitoral, e acabando no célebre "pacto das obras públicas", a que se soma o "pacto da justiça" vindo <EM ID="hub-43823-10" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do tempo</EM> de <EM ID="hub-43823-9" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-412" TIPOREL="vinculo_inst">Marques Mendes</EM>
+      -, o
+      <EM ID="hub-43823-415" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-412" TIPOREL="ident">PSD</EM>
+      faz uma abdicação da diferença, da alteridade, da oposição.
+    
+    
+      O que nos é dito é que
+      <EM ID="hub-43823-416" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Janeiro</EM>
+      tudo vai mudar, aparecerão propostas e tomadas de posição, vai começar a oposição "a sério", quando estiverem gabinetes e assessores a funcionar. É um pouco bizarro que se anuncie um tempo de adiamento da oposição, uma paragem para uma retoma anunciada, quando
+      <EM ID="hub-43823-417" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes</EM>
+      tudo era tempo urgente.
+      <EM ID="hub-43823-418" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-386 hub-43823-386" TIPOREL="ident ident">Menezes</EM>
+      criticava
+      <EM ID="hub-43823-419" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-9" TIPOREL="ident">Marques Mendes</EM>
+      por não fazer oposição
+      <EM ID="hub-43823-420" CATEG="TEMPO" TIPO="FREQUENCIA"  >dia a dia</EM>
+      ,
+      <EM ID="hub-43823-421" CATEG="TEMPO" TIPO="FREQUENCIA"  >minuto a minuto</EM>
+      , fogosa, ardente, caso a caso, para o que, dizia, não faltavam temas nem razões e que "com ele" isso iria mudar radicalmente. Já não me refiro às idas às fábricas que encerraram - entretanto já encerraram várias -, mas a um estilo prometido de pathos oposicionista, comunhão com o povo e de entusiasmo militante, que, de todo, não se vê. Não é que o estilo prometido fosse bom, mas foi o que foi prometido, antes deste enorme esforço de respeitabilidade fabricado por agências de comunicação. Estas flutuações matam o flutuante, mas, infelizmente, são o que é normal, quando se actua para uma sociedade do espectáculo.
+    
+    
+      Permitam-me por isso que duvide da ofensiva putativa
+      <EM ID="hub-43823-422" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-43823-416" TIPOREL="ident">de Janeiro</EM>
+      , porque a diferença não se faz com mais ou menos "estudos", "porta-vozes" ou "governos-sombra". Faz-se em primeiro lugar com políticas e não faltaram ocasiões
+      <EM ID="hub-43823-423" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos meses</EM>
+      para se ser firme e duro com a política de um governo que está a empobrecer-nos a todos em nome de um modelo "social" que não tem futuro. Isto, na hipótese de o
+      <EM ID="hub-43823-424" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-412" TIPOREL="ident">PSD</EM>
+      ter um modelo diferente, que só pode ser mais liberal, mesmo que só moderadamente liberal, o que já não era mau.
+    
+    
+      Quando dois partidos se colam tanto que pouco se diferenciam, o que sobra para a luta política tende a ser incidental, conjuntural: esta nomeação, aquela opção por
+      <EM ID="hub-43823-425" CATEG="LOCAL" TIPO="HUMANO"  >Ferreira de Cima</EM>
+      em vez de ser por
+      <EM ID="hub-43823-426" CATEG="LOCAL" TIPO="HUMANO"  >Ferreira de Baixo</EM>
+      e várias variantes de questões "fracturantes", que em muitos casos são distracções dos problemas centrais de poder político e remetem para agendas em que nem sequer é líquido que o
+      <EM ID="hub-43823-427" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estado</EM>
+      e o poder político devam entrar.
+    
+    
+      Este "bloco central" político esteve sempre dentro do
+      <EM ID="hub-43823-428" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="hub-43823-401" TIPOREL="ORGANIZACAO**ident**hub-43823-401**ORGANIZACAO">PSD</EM>
+      , como esteve e está no
+      <EM ID="hub-43823-429" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="hub-43823-394 hub-43823-390" TIPOREL="ORGANIZACAO**ident**hub-43823-394**ORGANIZACAO ABSTRACCAO**ident**hub-43823-390**ABSTRACCAO">PS</EM>
+      e é uma sobrevivência de laços de interesses profundos representados nos dois partidos e que, depois, encontra expressão no rastro salazarista antidemocrático dos consensos.
+      <EM ID="hub-43823-430" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nos primeiros anos</EM>
+      da democracia, este "bloco central" concentrava-se em exercer o poder através da economia nacionalizada
+      <EM ID="hub-43823-431" CATEG="TEMPO" TIPO="GENERICO"  >pós-1975</EM>
+      , daí poder ser representado simbolicamente na cena real de responsáveis dos dois partidos reunidos a distribuir os lugares de gestores públicos nas empresas: estes dois são para mim, este fica para ti, este vai para a
+      <EM ID="hub-43823-432" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >TAP</EM>
+      e dou-te dois na
+      <EM ID="hub-43823-433" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >CP</EM>
+      , mas este da
+      <EM ID="hub-43823-434" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >EDP</EM>
+      não pode ser comparado como este na
+      <EM ID="hub-43823-435" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Imprensa Nacional</EM>
+      , etc., etc. Este tipo de partilhas que durou
+      <EM ID="hub-43823-436" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até há muito pouco tempo</EM>
+      e em muitas áreas, a começar nas autarquias e nas empresas municipalizadas, ainda está longe de ter acabado.
+    
+    
+      Mas o "bloco central de interesses" evoluiu com a economia, e adaptou-se às privatizações, deslocou-se para fora do
+      <EM ID="hub-43823-437" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-43823-427" TIPOREL="ident">Estado</EM>
+      e foi para os grupos económicos, para os bancos, as seguradoras, as empresas de construção civil, etc., etc. Quase que se pode formular uma regra simples: quanto mais depender um grupo económico de decisões do governo para conduzir a sua actividade empresarial, tanto maior é a presença deste "bloco central de interesses" no seu seio. A deslocação do
+      <EM ID="hub-43823-438" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-43823-427" TIPOREL="ident">Estado</EM>
+      para o privado significa que os mecanismos de influência tendem a deslocar-se de fora para dentro, a centrar-se na mediação de negócios, assentes em empresas de consultadoria e em grandes escritórios de advogados, que todos sabem serem as portas certas para chegar ao governo, este e os anteriores. Quando um partido político, ainda por cima na oposição, se demarca deste jogo de interesses instalado, as suas lideranças são sujeitas a um processo que começa pela descredibilização e acaba na tentativa de expulsar os incontroláveis.
+      <EM ID="hub-43823-439" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marcelo Rebelo de Sousa</EM>
+      , <EM ID="hub-43823-11" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >num momento</EM> da sua liderança, quando contestou alguns grandes negócios, foi sujeito a essa campanha.
+    
+    
+      É verdade que no
+      <EM ID="hub-43823-440" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-412" TIPOREL="ident">PSD</EM>
+      há a presença deste "bloco central", mas há também uma tradição de ruptura que,
+      no passado, tornou o partido na principal força reformista em
+      <EM ID="hub-43823-442" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-43823-387 hub-43823-388 hub-43823-389 hub-43823-391 hub-43823-392 hub-43823-394 hub-43823-5 hub-43823-5-aa hub-43823-6 hub-43823-432 hub-43823-433 hub-43823-434" TIPOREL="sede_de sede_de sede_de sede_de sede_de praticante_de sede_de sede_de inclui sede_de sede_de sede_de">Portugal</EM>
+      . O
+      <EM ID="hub-43823-443" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-394" TIPOREL="ident">PS</EM>
+      foi crucial na defesa da democracia política
+      <EM ID="hub-43823-444" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1975</EM>
+      , o
+      <EM ID="hub-43823-445" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-412" TIPOREL="ident">PSD</EM>
+      foi crucial na normalização democrática. Sem o
+      <EM ID="hub-43823-446" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-412" TIPOREL="ident">PSD</EM>
+      , na fórmula da
+      <EM ID="hub-43823-447" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >AD</EM>
+      de
+      <EM ID="hub-43823-448" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-447" TIPOREL="vinculo_inst">Sá Carneiro</EM>
+      , não se iria tão longe e tão cedo no fim da presença militar na tutela da democracia. Sem
+      <EM ID="hub-43823-449" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cavaco Silva</EM>
+      não haveria uma cultura de "bom governo", o fim da
+      <EM ID="hub-43823-450" CATEG="OBRA" TIPO="PLANO"  >Constituição</EM>
+      socializante na economia, o retorno à economia de mercado, o boom de infra-estruturas, a democratização do ensino, uma modernização imperfeita mas real do país. Ambos associaram um programa de reformas à alteração das condições políticas dominantes em momentos desejados e sentidos como de ruptura:
+      <EM ID="hub-43823-451" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-448" TIPOREL="ident">Sá Carneiro</EM>
+      e
+      <EM ID="hub-43823-452" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Freitas do Amaral</EM>
+      mostraram que outros partidos podiam governar
+      <EM ID="hub-43823-453" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO" COREL="hub-43823-442" TIPOREL="LOCAL**ident**hub-43823-442**LOCAL">Portugal</EM>
+      que não apenas o
+      <EM ID="hub-43823-454" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-394" TIPOREL="ident">PS</EM>
+      , e
+      <EM ID="hub-43823-455" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-449" TIPOREL="ident">Cavaco</EM>
+      abriu caminho para as maiorias absolutas como condição de governabilidade.
+    
+    
+      Se estamos no caminho do bonnet blanc, blanc bonnet, como dizem os franceses, esta é a melhor receita para matar o lado reformista do
+      <EM ID="hub-43823-456" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="ADMINISTRACAO|DISCIPLINA" COREL="hub-43823-385 hub-43823-385" TIPOREL="ORGANIZACAO**ident**hub-43823-385**ORGANIZACAO ABSTRACCAO**ident**hub-43823-385**ABSTRACCAO">PSD</EM>
+      , o de
+      <EM ID="hub-43823-457" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-448" TIPOREL="ident">Sá Carneiro</EM>
+      e
+      <EM ID="hub-43823-458" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-43823-449" TIPOREL="ident">Cavaco Silva</EM>
+      . Sem esse lado reformista, o
+      <EM ID="hub-43823-459" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="hub-43823-456 hub-43823-456" TIPOREL="ORGANIZACAO**ident**hub-43823-456**ORGANIZACAO ABSTRACCAO**ident**hub-43823-456**ABSTRACCAO">PSD</EM>
+      ficará tão próximo do
+      <EM ID="hub-43823-460" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-43823-391" TIPOREL="ident">Governo</EM>
+      e do
+      <EM ID="hub-43823-461" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-43823-394" TIPOREL="ident">PS</EM>
+      que, à luz de um, não se vê a sombra do outro. E nem de holofote a laser, banhado no mais forte néon,
+      <EM ID="hub-43823-462" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Diógenes</EM>
+      encontrará qualquer homem na cidade.
+    
+  

@@ -1,0 +1,71 @@
+$S-15
+Em 	[em]   <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+ano 	[ano] <dur> <temp> <per> <unit> N M S @P<  
+passado 	[passado] <np-close> ADJ M S @N<  
+$, 
+existiam 	[existir] <predco> <cjt-head> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+352,2mil 	[352,2mil] <cjt-head> <card> NUM M/F P @<SUBJ  
+robôs 	[robô] <cjt> <Hmyth> N M P @<SUBJ  
+industriais 	[industrial] <nh> <np-close> ADJ M P @N<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Japão 	[Japão] <civ>   PROP M S @P<  LOCAL
+$, 
+contra 	[contra] PRP @<ADVL  
+121,3mil 	[121,3mil] <card> NUM M/F P @P<  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+Eua 	[Eua] <org>   PROP M P @P<  
+e 	[e] KC @NPHR  
+266,1mil 	[266,1mil] <cjt> <card> NUM M/F P @<SUBJ   
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+países 	[país] <Lciv> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+União=Européia 	[União=Européia] <civ>   PROP F S @P<  ORG
+$, 
+o 	[ele] PERS M 3S ACC @ACC>  
+chega 	[chegar] <nosubj> <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[a] PRP @<ADVL  
+um 	[um] <arti> DET M S @>N  
+total 	[total] <ac-cat> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+quase 	[quase] <quant> ADV @>A  
+1milhão	[1milhão] <card> NUM M/F S @P<  
+em 	[em] PRP @<ADVL  
+todo 	[todo] <cjt-head> <quant> DET M S @P<  
+os 	[o] <artd> DET M P @>N  
+países 	[país] <cjt> <Lciv> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$. 
+</s>
+
+$S-32
+O 	[o]   <artd> DET M S @>N  
+trabalho 	[trabalho] <act-d> <am> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+Someya 	[Someya] <hum>   PROP M/F S @P<  LOCAL
+e 	[e] KC @NPHR  
+seus 	[seu] <poss 3S> DET M P @>N  
+colegas 	[colega] <Hfam> N M P @PRED>  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+publicado 	[publicar] <vH> <mv> V PCP M S @ICL-<SC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+última 	[último] <NUM-ord> <jh> ADJ F S @>N  
+edição 	[edição] <act> <cc-r> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Academia=de=Ciências=dos=Eua 	[Academia=de=Ciências=dos=Eua] <inst>   PROP F S @P<  ORG
+$, 
+a 	[o] <artd> DET F S @>N   
+PNAS 	[PNAS] <inst> <np-close> PROP F S @APP   
+$. 
+</s>

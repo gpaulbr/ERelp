@@ -1,0 +1,40 @@
+$S-3
+Os 	[o]   <artd> DET M P @>N   O
+resultados 	[resultado] <ac> N M P @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+trabalho 	[trabalho] <act-d> <am> N M S @P<   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>   O
+tem 	[ter] <mv> <np-close> V PR 3S IND VFIN @FS-N<   O
+como 	[como] <advl> <adv-rel> PRP @<ADVL   O
+autores 	[autor] <cjt-head> <asarg> <Hprof> N M P @P<   O
+pesquisadores 	[pesquisador] <Hprof> <np-close> N M P @N<   O
+franceses 	[francês] <nat> <jh> <np-long> ADJ M P @N<   O
+e 	[e] <cjt-head> KC @NPHR   O
+argentinos 	[argentino] <nat> <jh> <np-close> ADJ M P @N<   O
+e 	[e] <cjt> KC @NPHR   O
+o 	[o] <artd> DET M S @>N   O
+astrofísico 	[astrofísico] <cjt> <asarg> <Hprof> N M S @P<   O
+brasileiro 	[brasileiro] <nat> <jh> <np-close> ADJ M S @N<   O
+Irapuan=Rodrigues 	[Irapuan=Rodrigues] <hum>   <np-close> PROP M S @N<  PES O
+$, 
+haviam 	[haver] <fmc> <aux> V IMPF 3P IND VFIN @FS-STA   O
+sido 	[ser] <aux> V PCP M S @ICL-AUX<   O
+noticiados 	[noticiar] <vH> <mv> V PCP M P @ICL-AUX<   O
+por 	[por] <sam-> PRP @<PASS   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Folha 	[Folha] <media>   PROP F S @P<  ORG O
+em 	[em] PRP @<ADVL   O
+março 	[março] N M S @P<   O
+$, 
+antes 	[antes] ADV @<ADVL   O
+de 	[de] PRP @A<   O
+o 	[o] <clb> <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>   O
+ser 	[ser] <aux> V INF 3S @ICL-P<   O
+selecionado 	[selecionar] <vH> <mv> V PCP M S @ICL-AUX<   O
+para 	[para] PRP @<ADVL   O
+publicação 	[publicação] <act> <sem-r> N F S @P<   O
+$. 
+</s>

@@ -1,0 +1,35 @@
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+RCM	 [RCM] <org> <*> PROP F S @SUBJ> ORG O
+gostaria	 [gostar] <vH> <fmc> <mv> V COND 3S VFIN @FS-STA B-REL
+de	 [de] PRP @<PIV I-REL
+ouvir	 [ouvir] <vH> <mv> V INF @ICL-P< I-REL
+o	 [o] <artd> DET M S @>N I-REL
+Concelho=de=Mafra	 [Concelho=de=Mafra] <inst> <*> PROP M S @<ACC PES O
+sobre	 [sobre] PRP @<PIV @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+assunto	 [assunto] <sem-c> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+vital	 [vital] <nh> ADJ F S @>N  O
+importância	 [importância] <am> N F S @P<  O
+para	 [para] <np-close> PRP @N<  O
+toda=a	 [todo=o] <quant> DET F S @>N  O
+comunidade	 [comunidade] <HH> <am> N F S @P<  O
+internacional	 [internacional] <nh> <np-close> ADJ F S @N<  O
+$; O
+consulte	 [consultar] <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+página	 [página] <cc-r> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Opinião	 [Opinião] <hum> <*> PROP M/F S @P<  O
+e	 [e] KC @NPHR  O
+diga-	 [dizer] <hyfen> <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA  O
+nos	 [nós] <refl> PERS M/F 1P DAT @<DAT  O
+o	 [o] <dem> DET M S @<ACC  O
+que	 [que] <rel> SPECM S @NPHR  O
+pensa	 [penso] <nh> ADJ F S @PRED>  O
+sobre	 [sobre] <np-close> PRP @N<  O
+este	 [este] <dem> DET M S @>N  O
+conflito	 [conflito] <fight> <event> N M S @P<  O
+$. O
+</s>

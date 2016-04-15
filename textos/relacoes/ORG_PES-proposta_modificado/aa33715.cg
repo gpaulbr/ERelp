@@ -1,0 +1,250 @@
+$S-1
+O	 [o] <artd> DET M S @>N O
+Pai=Natal	 [Pai=Natal] <hum> PROP M S @SUBJ> O
+$, O
+Artur=Jorge	 [Artur=Jorge] <hum> PROP M/F S @SUBJ> PES O
+e	 [e] <co-subj> KC @CO O
+o	 [o] <artd> DET M S @>N O
+BCP	 [BCP] <org> PROP M S @SUBJ> ORG O
+O	 [o] <artd> DET M S @>N O
+Governo	 [governo] <prop> <HH> N M S @SUBJ> O
+russo	 [russo] <nat> <jh> <np-close> ADJ M S @N< O
+proibiu	 [proibir] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+uma	 [um] <arti> DET F S @>N O
+campanha	 [campanha] <activity> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+cadeia	 [cadeia] <inst> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+distribuição	 [distribuição] <act> N F S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+tinha	 [ter] <mv> <np-close> V IMPF 3S IND VFIN @FS-N< O
+por	 [por] PRP @<ADVL O
+lema	 [lema] <ac> N M S @P< O
+$" O
+O=Pai=Natal	 [O=Pai=Natal] <genre> PROP M S @<ACC O
+não	 [não] ADV @ADVL> O
+existe	 [existir] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+$" O
+$. O
+</s>
+
+$S-2
+o	 [o] <artd> DET M S @>N O
+Governo	 [governo] <prop> <HH> N M S @SUBJ> ORG O
+russo	 [russo] <nat> <jh> <np-close> ADJ M S @N< O
+acredita	 [acreditar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+em	 [em] <sam-> PRP @<PIV O
+o	 [o] <artd> <-sam> DET M S @>N O
+Pai=Natal	 [Pai=Natal] <hum> PROP M S @P< PES O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+quer	 [querer] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+que	 [que] <clb> <clb-fs> KS @SUB O
+as	 [o] <artd> DET F P @>N O
+criancinhas	 [criancinha] <H> N F P @SUBJ> O
+também	 [também] ADV @ADVL> O
+acreditem	 [acreditar] <vH> <mv> V PR 3P SUBJ VFIN @FS-<ACC O
+$. O
+</s>
+
+$S-3
+Tendo	 [ter] <clb> <mv> V GER @ICL-ADVL O
+em	 [em] PRP @<ADVL O
+atenção	 [atenção] <am> N F S @P< O
+o	 [o] <dem> DET M S @<ACC O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+se	 [se] PERS M/F 3S/P ACC @SUBJ> O
+tem	 [ter] <aux> <np-close> V PR 3S IND VFIN @FS-N< O
+passado	 [passar] <mv> V PCP @ICL-AUX< O
+em	 [em] <sam-> PRP @<PIV O
+os	 [o] <artd> <-sam> DET M P @>N O
+últimos	 [último] <NUM-ord> ADJ M P @>N O
+anos	 [ano] <per> <temp> <dur> <unit> N M P @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+carreira	 [carreira] <Lpath> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+ex-treinador	 [ex-treinador] <Hprof> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+FC=Porto	 [FC=Porto] <inst> PROP M S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+nunca	 [nunca] ADV @ADVL> O
+termina	 [terminar] <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+os	 [o] <artd> DET M P @>N O
+contratos	 [contrato] <sem-r> N M P @<ACC O
+e	 [e] <co-fin> KC @CO O
+acaba	 [acabar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+sempre	 [sempre] ADV @<ADVL O
+despedido	 [despedir] <n> <vH> V PCP M S @<SC O
+com	 [com] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+choruda	 [chorudo] <jh> ADJ F S @>N O
+indemnização	 [indemnização] <act> <mon> N F S @P< O
+$, O
+bem	 [bem] <quant> ADV @ADVL> O
+se	 [se] PERS M/F 3S/P ACC @SUBJ> O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+dizer	 [dizer] <vH> <mv> V INF @ICL-AUX< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+a	 [o] <artd> DET F S @>N O
+Federação=Iraniana=de=Futebol	 [Federação=Iraniana=de=Futebol] <org> PROP F S @SUBJ> ORG O
+acredita	 [acreditar] <vH> <mv> V PR 3S IND VFIN @FS-<ACC O
+em	 [em] <sam-> PRP @<PIV O
+o	 [o] <artd> <-sam> DET M S @>N O
+Pai=Natal	 [Pai=Natal] <hum> PROP M S @P< PES O
+$. O
+</s>
+
+$S-4
+Por=outro=lado	 [por=outro=lado] <pp> ADV @ADVL> O
+$, O
+a	 [o] <clb> <artd> DET F S @>N O
+escolha	 [escolha] <HH> <act> N F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+presidente	 [presidente] <Hprof> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Caixa=Geral=de=Depósitos	 [Caixa=Geral=de=Depósitos] <org> PROP F S @P< O
+para	 [para] PRP @ADVL> O
+presidir	 [presidir] <vH> <mv> V INF @ICL-P< O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+BCP	 [BCP] <inst> PROP M S @P< ORG O
+só	 [só] ADV @ADVL> O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+igualmente	 [igualmente] <quant> ADV @ADVL> O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX< O
+obra	 [obra] <Lh> <sem-c> <activity> N F S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Pai=Natal	 [Pai=Natal] <hum> PROP M S @P< PES O
+$. O
+</s>
+
+$S-5
+Carlos=Santos=Ferreira	 [Carlos=Santos=Ferreira] <hum> PROP M S @SUBJ> PES O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+visto	 [ver] <vH> <mv> V PCP M S @ICL-AUX< O
+como	 [como] <prd> <adv-rel> PRP @<SC O
+o	 [o] <artd> DET M S @>N O
+homem	 [homem] <asarg> <Hattr> N M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+vai	 [ir] <aux> <np-close> V PR 3S IND VFIN @FS-N< O 
+trazer	 [trazer] <mv> V INF @ICL-AUX< O
+a	 [o] <artd> DET F S @>N O
+concórdia	 [concórdia] <am> N F S @<ACC O
+para	 [para] PRP @<ADVL O
+um	 [um] <arti> DET M S @>N O
+banco	 [banco] <inst> <furn> <Ltop> N M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+não	 [não] ADV @ADVL> O
+vive	 [viver] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+em	 [em] PRP @<SA O
+paz	 [paz] <sit> N F S @P< O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+muito	 [muito] <quant> ADV @<ADVL O
+$-- O
+mesmo=que	 [mesmo=que] <clb> <clb-fs> KS @SUB O
+o	 [ele] PERS M 3S ACC @ACC> O
+vá	 [ir] <aux> V PR 3S SUBJ VFIN @FS-<ADVL O
+fazer	 [fazer] <mv> V INF @ICL-AUX< O
+à=custa=de	 [à=custa=de] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+banco	 [banco] <inst> <furn> <Ltop> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Estado	 [estado] <prop> <Lciv> <state> N M S @P< ORG O
+$. O
+</s>
+
+$S-6
+Não	 [não] ADV @ADVL> O
+lhe	 [ele] PERS M/F 3S DAT @DAT> O
+passa	 [passar] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+por	 [por] <sam-> PRP @<PIV O
+a	 [o] <artd> <-sam> DET F S @>N O
+cabeça	 [cabeça] <pos-soc> <cc> <cc-r> <anmov> <Azo> N F S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+Santos=Ferreira	 [Santos=Ferreira] <hum> PROP M/F S @SUBJ> PES O
+$, O
+com	 [com] <np-close> PRP @N<PRED O
+o	 [o] <dem> DET M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+sabe	 [saber] <mv> <np-close> V PR 3S IND VFIN @FS-N< O 
+de	 [de] <sam-> PRP @<PIV O
+a	 [o] <artd> <-sam> DET F S @>N O
+Caixa	 [caixa] <prop> <con> <cc-r> N F S @P< ORG O
+$, O
+fique	 [ficar] <mv> <np-close> V PR 3S SUBJ VFIN @FS-N< O
+em	 [em] PRP @<SA O
+excelente	 [excelente] <jh> ADJ F S @>N O
+posição	 [posição] <pos-an> <act> N F S @P< O
+para	 [para] PRP @<ADVL O
+ganhar	 [ganhar] <vH> <mv> V INF @ICL-P< O
+quota	 [quota] <amount> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+mercado	 [mercado] <inst> N M S @P< O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+banco	 [banco] <inst> <furn> <Ltop> N M S @P< O
+público	 [público] <jh> <np-close> ADJ M S @N< O
+$, O
+que	 [que] <clb> <clb-fs> KS @SUB O
+vai	 [ir] <aux> V PR 3S IND VFIN @FS-P< O
+este	 [este] <dem> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @<ADVL O
+dar	 [dar] <mv> V INF @ICL-AUX< O
+mais=de	 [mais=de] <quant> ADV @>A O
+800	 [800] <card> NUM M P @>N O
+milhões	 [milhão] <amount> N M P @<ACC O
+de	 [de] <np-close> PRP @N< O
+lucros	 [lucro] <mon> <ac> N M P @P< O
+$, O
+de	 [de] <sam-> PRP @SA> O
+os=quais	 [o=qual] <clb-fs> <rel> <-sam> SPEC M P @P< O
+400	 [400] <card> NUM M P @>N O
+milhões	 [milhão] <amount> N M P @SUBJ> O
+vão	 [ir] <mv> <np-close> V PR 3P IND VFIN @FS-N< O 
+direitinhos	 [direitinho] <DERS> ADJ M P @<PRED O
+para	 [para] PRP @<SA O
+os	 [o] <artd> DET M P @>N O
+cofres	 [cofre] <furn> <con> N M P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Estado	 [estado] <prop> <Lciv> <state> N M S @P< O
+a=título=de	 [a=título=de] PRP @<ADVL O
+IRC	 [IRC] <org> PROP M/F S @P< O
+$. O
+</s>
+
+$S-7
+Se	 [se] <clb> <clb-fs> KS @SUB O
+Santos=Ferreira	 [Santos=Ferreira] <hum> PROP M/F S @SUBJ> PES O
+tiver	 [ter] <mv> V FUT 3S SUBJ VFIN @FS-ADVL> O
+sucesso	 [sucesso] <am> <ac> N M S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+BCP	 [BCP] <inst> PROP M S @P< ORG O
+$, O
+quem	 [quem] <clb> <rel> SPEC F S @SUBJ> O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+sofrer	 [sofrer] <vH> <mv> V INF @ICL-AUX< O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+Caixa	 [caixa] <prop> <con> <cc-r> N F S @<SC O
+$-- O
+e	 [e] <co-sc> KC @CO O
+$, O
+por=tabela	 [por=tabela] <pp> ADV @<ADVL O
+$, O
+todos	 [todo] <quant> DET M P @>N O
+nós	 [nós] PERS M/F 1P NOM/PIV @P< O
+$, O
+contribuintes	 [contribuinte] <jh> ADJ F P @<SC O
+$. O
+</s>

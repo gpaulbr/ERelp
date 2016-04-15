@@ -1,0 +1,123 @@
+
+    Uma foto para lá da verdade
+    
+      A fotografia mais famosa de guerra, o instante em que
+      <EM ID="aa94781-174" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Federico Borrell</EM>
+      , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade.
+      <EM ID="aa94781-176" CATEG="TEMPO" TIPO="DURACAO"  >Há anos</EM>
+      que se discute se a fotografia da autoria do famoso fotojornalista
+      <EM ID="aa94781-177" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Robert Capa</EM>
+      é ou não encenada. Agora um documentário, "
+      <EM ID="aa94781-179" CATEG="OBRA" TIPO="REPRODUZIDA"  >A Sombra do Iceberg</EM>
+      ", premiado com o prémio
+      <EM ID="aa94781-180" CATEG="OUTRO"   >Melhor documentário</EM> ibero-americano
+      , no
+      <EM ID="aa94781-181" CATEG="LOCAL" TIPO="HUMANO"  >México</EM>
+      , vem outra vez questionar a autenticidade da cena ocorrida em
+      <EM ID="aa94781-182" CATEG="LOCAL" TIPO="HUMANO"  >Cerro Muriano</EM>
+      , povoação dos arredores de
+      <EM ID="aa94781-183" CATEG="LOCAL" TIPO="HUMANO"  >Córdoba</EM>
+      , e feita
+      <EM ID="aa94781-184" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1936</EM>
+      ,
+      <EM ID="aa94781-185" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 5 de Setembro</EM>
+      .
+    
+    
+      As dúvidas levantadas prendem-se com factos investigados.
+      <EM ID="aa94781-186" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Hugo Doménech</EM>
+      ,  professor da <EM ID="aa94781-228" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa94781-186" TIPOREL="vinculo_inst">Universidade Jaume de Castellón</EM>
+      e do jornalista
+      <EM ID="aa94781-188" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Raul Riebenbaueur</EM>
+      reuniram um especialista forense, um militar geodésico e um astrofísico e recolheram depoimentos locais. No filme prevalece a ideia de que o miliciano não foi morto
+      <EM ID="aa94781-189" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às nove</EM>
+      mas
+      <EM ID="aa94781-190" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >à uma da tarde</EM>
+      , que há um relato local que diz
+      <EM ID="aa94781-191" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-174" TIPOREL="ident">Borrel</EM>
+      ter sido morto atrás de uma árvore, que não existe na foto, e que o miliciano fotografado não é o que foi morto
+      <EM ID="aa94781-192" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >naquele dia</EM>
+      .
+    
+    
+      O facto de
+      <EM ID="aa94781-193" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Capa</EM>
+      viajar então com a namorada
+      <EM ID="aa94781-194" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Gerda Taro</EM>
+      (morta <EM ID="aa94781-1940" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >pouco depois</EM>) e de enviar para
+      <EM ID="aa94781-196" CATEG="LOCAL" TIPO="HUMANO"  >Paris</EM>
+      os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história. Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas
+      <EM ID="aa94781-197" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >antes</EM>
+      e
+      <EM ID="aa94781-198" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >depois</EM>
+      . Apesar de se conhecer uma sequência de fotos feitas no mesmo local.
+    
+    
+      O biógrafo de
+      <EM ID="aa94781-199" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Capa</EM>
+      ,
+      <EM ID="aa94781-200" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Richard Whelan</EM>
+      - falecido há pouco - recusou depor para o documentário e
+      <EM ID="aa94781-202" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="relacao_familiar">Cornell Capa</EM>
+      , o irmão de
+      <EM ID="aa94781-203" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Robert</EM>
+      , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de
+      <EM ID="aa94781-204" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Robert Capa</EM>
+      .
+    
+    
+      A fotografia foi publicada pela primeira vez,
+      <EM ID="aa94781-205" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1936</EM>
+      , na revista
+      <EM ID="aa94781-206" CATEG="LOCAL|COISA" TIPO="VIRTUAL|CLASSE"  >VU</EM>
+      - pioneira do fotojornalismo moderno e inspiradora de
+      <EM ID="aa94781-207" CATEG="COISA" TIPO="CLASSE"  >LIFE</EM>
+      - e
+      <EM ID="aa94781-208" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dois anos mais tarde</EM>
+      (como andava devagar então a informação!) na
+      <EM ID="aa94781-209" CATEG="LOCAL" TIPO="VIRTUAL"  >LIFE</EM>
+      .
+    
+    
+      Na edição da
+      <EM ID="aa94781-210" CATEG="LOCAL" TIPO="VIRTUAL" COREL="aa94781-206" TIPOREL="ident">VU</EM>
+      <EM ID="aa94781-211" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Robert Capa</EM>
+      era apresentado como o melhor fotógrafo de guerra do
+       <EM ID="aa94781-212" CATEG="LOCAL" TIPO="HUMANO"  >Mundo</EM> 
+      e a paginação da reportagem era feito num estilo então vanguardista de fotohistória.
+    
+    Esta polémica acaba por ser um pouco redundante.
+    
+      <EM ID="aa94781-213" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-177" TIPOREL="ident">Capa</EM>
+      era de uma coragem à prova de bala a trabalhar no cenário de guerra.
+    
+    
+      Fotografou por dentro a
+      <EM ID="aa94781-214" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Guerra Civil</EM>
+      espanhola, sempre pelo lado republicano, estava  no <EM ID="aa94781-230" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Dia D</EM>
+      na
+      <EM ID="aa94781-216" CATEG="LOCAL" TIPO="HUMANO" COREL="aa94781-230" TIPOREL="sede_de">Normandia</EM>
+      e acabou por morrer ao pisar uma mina na
+      <EM ID="aa94781-217" CATEG="LOCAL" TIPO="HUMANO" COREL="aa94781-177" TIPOREL="local_morte">Indochina</EM>
+      <EM ID="aa94781-218" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa94781-177" TIPOREL="data_morte">a 25 de Maio de 1954</EM>
+      . Como curiosidade passou por
+      <EM ID="aa94781-219" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      e foi visto no
+      <EM ID="aa94781-220" CATEG="LOCAL" TIPO="HUMANO"  >Café Palladium</EM>
+      dos
+      <EM ID="aa94781-221" CATEG="LOCAL" TIPO="HUMANO" COREL="aa94781-220 aa94781-219" TIPOREL="inclui incluido">Restauradores</EM>
+      pelo jornalista de
+      <EM ID="aa94781-222" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >O Século</EM>
+      ,
+      <EM ID="aa94781-223" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa94781-222" TIPOREL="vinculo_inst">Francisco Mata</EM>
+      , já falecido, e que o contou numa crónica do antigo
+      <EM ID="aa94781-224" CATEG="OBRA" TIPO="REPRODUZIDA"  >Sete</EM>
+      .
+    
+    [...]
+    
+      <EM ID="aa94781-225" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luiz Carvalho</EM>
+      , fotojornalista do
+      <EM ID="aa94781-226" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa94781-225" TIPOREL="vinculo_inst">Expresso</EM>
+    
+  

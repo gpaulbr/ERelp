@@ -1,0 +1,107 @@
+$S-16
+A	 [o] <*> <artd> DET F S @>N  O
+nossa	 [nosso] <poss 1P> DET F S @>N  O
+Escola=de=Pilotagem	 [Escola=de=Pilotagem] <inst> <*> PROP F S @SUBJ> ORG O
+ajudou	 [ajudar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+a	 [a] PRP @<ADVL  O
+formar	 [formar] <vH> <mv> V INF @ICL-P<  O
+dezenas=de	 [dezenas=de] <quant> DET M P @>N  O
+pilotos	 [piloto] <Hprof> <Aich> N M P @<ACC  O
+particulares	 [particular] <nh> <np-close> ADJ M P @N<  O
+e	 [e] KC @NPHR  O
+profissionais	 [profissional] <jh> <np-close> ADJ M/F P @N<  O
+$, O
+sendo	 [ser] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+actualmente	 [actualmente] <nh> ADV @<ADVL  O
+dirigida	 [dirigido] <jh> ADJ F S @<SC B-REL
+por	 [por] <sam-> PRP @<ADVL I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Cmdt.João=Filhó	 [Cmdt.João=Filhó] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+um	 [um] <arti> DET M S @>N  O
+profissional	 [profissional] <Hprof> <np-close> N M S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+aviação	 [aviação] <domain> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+trabalha	 [trabalhar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Portugália	 [Portugália] <org> <*> PROP F S @P<  O
+$, O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+é	 [ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+um	 [um] <quant> DET M S @<SC  O
+entre	 [entre] <np-close> PRP @N<  O
+as	 [o] <artd> DET F P @>N  O
+dezenas=de	 [dezenas=de] <quant> DET M/F P @>N  O
+profissionais	 [profissional] <n> <jh> ADJ F P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+iniciaram	 [iniciar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+ou	 [ou] KC @NPHR  O
+reforçaram	 [reforçar] <fmc> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+actividade	 [actividade] <act-d> <activity> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+pilotos	 [piloto] <Hprof> <Aich> N M P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+ACTV	 [ACTV] <inst> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-17
+A	 [o] <*> <artd> DET F S @>N  O
+nossa	 [nosso] <poss 1P> DET F S @>N  O
+Escola=de=Pilotagem	 [Escola=de=Pilotagem] <inst> <*> PROP F S @SUBJ>  O
+ajudou	 [ajudar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+a	 [a] PRP @<ADVL  O
+formar	 [formar] <vH> <mv> V INF @ICL-P<  O
+dezenas=de	 [dezenas=de] <quant> DET M P @>N  O
+pilotos	 [piloto] <Hprof> <Aich> N M P @<ACC  O
+particulares	 [particular] <nh> <np-close> ADJ M P @N<  O
+e	 [e] KC @NPHR  O
+profissionais	 [profissional] <jh> <np-close> ADJ M/F P @N<  O
+$, O
+sendo	 [ser] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+actualmente	 [actualmente] <nh> ADV @<ADVL  O
+dirigida	 [dirigido] <jh> ADJ F S @<SC  O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Cmdt.João=Filhó	 [Cmdt.João=Filhó] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+um	 [um] <arti> DET M S @>N  O
+profissional	 [profissional] <Hprof> <np-close> N M S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+aviação	 [aviação] <domain> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+trabalha	 [trabalhar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< B-REL
+em	 [em] <sam-> PRP @<PIV I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Portugália	 [Portugália] <org> <*> PROP F S @P< ORG O
+$, O
+e	 [e] KC @NPHR  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+é	 [ser] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+um	 [um] <quant> DET M S @<SC  O
+entre	 [entre] <np-close> PRP @N<  O
+as	 [o] <artd> DET F P @>N  O
+dezenas=de	 [dezenas=de] <quant> DET M/F P @>N  O
+profissionais	 [profissional] <n> <jh> ADJ F P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+iniciaram	 [iniciar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+ou	 [ou] KC @NPHR  O
+reforçaram	 [reforçar] <fmc> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+sua	 [seu] <si> <poss 3S> DET F S @>N  O
+actividade	 [actividade] <act-d> <activity> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+pilotos	 [piloto] <Hprof> <Aich> N M P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+ACTV	 [ACTV] <inst> <*> PROP M S @P<  O
+$. O
+</s>

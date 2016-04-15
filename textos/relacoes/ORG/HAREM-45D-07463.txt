@@ -1,0 +1,99 @@
+$S-4
+O	 [o] <*> <artd> DET M S @>N  O
+Sr.=José=Lins	 [Sr.=José=Lins] <top> <*> PROP M S @SUBJ>  O
+$- O
+o=que	 [o=que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+houve	 [haver] <mv> V PS 3S IND VFIN @FS-SUBJ>  O
+de	 [de] PRP @<ADVL  O
+distorção	 [distorção] <act-d> N F S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+comentário	 [comentário] <sem-r> N M S @P<  O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+$, O
+exatamente	 [exatamente] ADV @<ADVL  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+notícia	 [notícia] <sem-r> <sem-s> N F S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M/F S/P @SUB  O
+o	 [o] <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> PROP M S @SUBJ> ORG O
+teria	 [ter] <aux> V COND 3S VFIN @FS-P< B-REL
+incumbido	 [incumbir] <vH> <mv> V PCP @ICL-AUX< I-REL
+o	 [o] <artd> DET M S @>N I-REL
+Sni	 [Sni] <inst> <*> PROP M S @<ACC ORG O
+de	 [de] PRP @<ADVL  O
+interferir	 [interferir] <vH> <mv> V INF @ICL-P<  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+gestão	 [gestão] <act-d> <domain> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+estaduais	 [estadual] <n> <nh> ADJ F P @P<  O
+$. O
+</s>
+
+$S-14
+V.Exa.	 [V.Exa.] <hum> <*> PROP M/F S @NPHR  O
+sabe	 [saber] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+só	 [só] ADV @>N  O
+o	 [o] <artd> DET M S @>N  O
+orçamento	 [orçamento] <mon> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Previdência=Social	 [Previdência=Social] <org> <*> PROP F S @P< ORG O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC O
+quase	 [quase] <quant> ADV @>A O
+igual	 [igual] ADJ M S @<SC O
+a	 [a] <sam-> PRP @A< O
+o	 [o] <-sam> <dem> DET M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+União	 [união] <prop> <*> <HH> N F S @P< ORG O
+$. O
+</s>
+
+$S-26
+E	 [e] <*> KC @NPHR  O
+quando	 [quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+aqui	 [aqui] ADV @ADVL>  O
+reclamamos	 [reclamar] <vH> <mv> V PR 1P IND VFIN @FS-ADVL>  O
+e	 [e] KC @NPHR  O
+quando	 [quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+censuramos	 [censurar] <vH> <mv> V PR 1P IND VFIN @FS-ADVL>  O
+as	 [o] <artd> DET F P @>N  O
+atividades	 [atividade] <act-d> <activity> N F P @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> PROP M S @P< ORG O
+$, O
+através	 [através] ADV @<ADVL B-REL
+de	 [de] PRP @A< I-REL
+determinados	 [determinado] <jh> ADJ M P @>N I-REL
+Ministérios	 [ministério] <prop> <*> <inst> PROP M P @P< ORG O
+$, O
+o	 [ele] PERS M 3S ACC @ACC>  O
+fazemos	 [fazer] <fmc> <mv> V PR 1P IND VFIN @FS-STA  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+melhor	 [bom] <n> <KOMP> <SUP> <jh> ADJ F S @P<  O
+de	 [de] <sam-> PRP @KOMP<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+intenções	 [intenção] <sem-c> N F P @P<  O
+$, O
+de	 [de] <np-close> PRP @N<PRED  O
+dar	 [dar] <mv> V INF @ICL-P<  O
+uma	 [um] <arti> DET F S @>N  O
+contribuição	 [contribuição] <ac> <mon> N F S @<ACC  O
+crítica	 [crítico] <np-close> ADJ F S @N<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+obra	 [obra] <sem-c> <Lh> <activity> N F S @P<  O
+administrativa	 [administrativo] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> N M S @P<  O
+$. O
+</s>

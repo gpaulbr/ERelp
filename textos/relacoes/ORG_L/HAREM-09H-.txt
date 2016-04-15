@@ -1,0 +1,19 @@
+$S-5
+A	 [o] <*> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <org> <*> PROP F S @SUBJ> ORG O
+ocupa	 [ocupar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA B-REL
+$, I-REL
+hoje	 [hoje] ADV @<ADVL I-REL
+$, I-REL
+o	 [o] <artd> DET M S @>N I-REL
+4.º	 [4.º] <NUM-ord> <jh> ADJ M S @>N I-REL
+lugar	 [lugar] <L> <Lciv> <Labs> N M S @<ACC I-REL
+entre	 [entre] <np-close> PRP @N< @<ADVL I-REL
+as	 [o] <artd> DET F P @>N I-REL
+organizações	 [organização] <HH> N F P @P< I-REL
+inscritas	 [inscrito] <jh> <np-close> ADJ F P @N< I-REL
+em	 [em] <sam-> <np-long> PRP @N< I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Organização=Mundial=das=Nações=Unidas	 [Organização=Mundial=das=Nações=Unidas] <org> <*> PROP F S @P< ORG O
+$. O
+</s>

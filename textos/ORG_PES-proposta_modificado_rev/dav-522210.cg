@@ -1,0 +1,36 @@
+$S-1
+Que	 [que] <clb> <interr> DET M/F S @>N O
+presidente	 [presidente] <Hprof> N M/F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+Estados=Unidos	 [Estados=Unidos] <civ> PROP M P @P< ORG O
+é=que	 [é=que] <v-ks> ADV @<FOC	 [é=que] <foc> ADV @<FOC O
+Francisco=Durán	 [Francisco=Durán] <hum> PROP M S @SUBJ> PES O
+tentou	 [tentar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-QUE O
+matar	 [matar] <mv> V INF @ICL-<ACC O
+$? O
+</s>
+
+$S-2
+Que	 [que] <clb> <interr> DET M S @>N O
+político	 [político] <Hprof> N M S @SUBJ> O
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-QUE O
+chanceler	 [chanceler] <Hprof> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Alemanha	 [Alemanha] <civ> PROP F S @P< ORG O
+antes	 [antes] ADV @<ADVL REL
+de	 [de] PRP @A< REL
+Helmut=Kohl	 [Helmut=Kohl] <hum> PROP M/F S @P< PES O
+$? O
+</s>
+
+$S-3
+Quando	 [quando] <clb> <interr> ADV @>A O
+é=que	 [é=que] <foc> ADV @<FOC O
+Goethe	 [Goethe] <hum> PROP M/F S @SUBJ> PES O
+fundou	 [fundar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-QUE REL
+a	 [o] <artd> DET F S @>N O
+Sociedade=das=Sextas	 [Sociedade=das=Sextas] <org> PROP F S @<ACC ORG O
+$? O
+</s>

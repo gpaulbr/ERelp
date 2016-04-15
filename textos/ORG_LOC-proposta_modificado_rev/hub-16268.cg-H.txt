@@ -1,0 +1,42 @@
+$S-1
+Sonae=Distribuição	 [Sonae=Distribuição] <org> PROP F S @SUBJ> ORG O
+comprometeu-	 [comprometer] <hyfen> <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS F 3S ACC @<ACC O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+desafectação	 [desafectação] <am> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+áreas	 [área] <L> <Lh> N F P @P< O
+de	 [de] <np-close> PRP @N< O
+vendas	 [venda] <cloH> <inst> <act> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+retalho	 [retalho] <cc-rag> N M S @P< O
+alimentar	 [alimentar] <nh> <np-close> ADJ M S @N< O
+em	 [em] <np-long> PRP @N< O
+Paços=de=Ferreira	 [Paços=de=Ferreira] <top> PROP M S @P< LOCAL O
+
+$S-2
+Sonae=Distribuição	 [Sonae=Distribuição] <org> PROP F S @P< ORG O
+$, O
+conta-	 [contar] <hyfen> <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] PERS M/F 3S/P ACC @<SUBJ O
+ainda	 [ainda] ADV @>N O
+o	 [o] <dem> DET M S @<ACC O
+de	 [de] <np-close> PRP @N< O
+não	 [não] ADV @ADVL> O
+apresentar	 [apresentar] <vH> <mv> V INF @ICL-P< O
+pedidos	 [pedido] <act-s> N M P @<ACC O
+de	 [de] <np-close> PRP @N< O
+novas	 [novo] <jh> ADJ F P @>N O
+licenças	 [licença] <per> <f-right> N F P @P< O
+para	 [para] <np-close> PRP @N< O
+retalho	 [retalho] <cc-rag> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+base	 [base] <Labs> N F S @P< O
+alimentar	 [alimentar] <nh> <np-close> ADJ F S @N< O 
+em	 [em] <sam-> <np-long> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+mercados	 [mercado] <inst> N M P @P< O
+relevantes	 [relevante] <jh> <np-close> ADJ M P @N< O
+Montijo	 [Montijo] <civ> <np-close> PROP M/F S/P @N< LOCAL O

@@ -1,0 +1,26 @@
+$S-4
+Stuart=Lipton 	[Stuart=Lipton] <hum>   PROP M S @SUBJ>  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Instituto=Burnham 	[Instituto=Burnham] <inst>   PROP M S @P<  ORG
+$, 
+Califórnia 	[Califórnia] <civ>   <np-close> PROP M/F S @N<  
+$, 
+não 	[não] ADV @ADVL>  
+duvida 	[duvidar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$:  
+Esse 	[esse]   <dem> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @ADVL>  
+tem 	[ter] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC  
+lugar 	[lugar] <L> <Lciv> <Labs> N M S @<ACC  
+garantido 	[garantir] <vH> <mv> <np-close> V PCP M S @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+manuais 	[manual] <sem-r> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+fisiologia 	[fisiologia] <domain> N F S @P<  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+$. 
+</s>

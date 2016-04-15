@@ -1,0 +1,20 @@
+$S-24
+O	 [o] <*> <artd> DET M S @>N  O
+Conselho=de=Ministros	 [Conselho=de=Ministros] <org> <*> PROP M S @SUBJ> PES O
+aprovou	 [aprovar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA B-REL
+o	 [o] <artd> DET M S @>N I-REL
+projecto	 [projecto] <sem-c> N M S @<ACC I-REL
+de=lei	 [de=lei] <pp> ADJ @N< I-REL
+sobre	 [sobre] <np-long> PRP @N< I-REL
+o	 [o] <artd> DET M S @>N  I-REL
+Provedor=de=Justiça	 [Provedor=de=Justiça] <inst> <*> PROP M S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+está	 [estar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<SA  O
+este	 [este] <-sam> <dem> DET M S @>N  O
+momento	 [momento] <dur> <f-q> N M S @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Parlamento=Nacional	 [Parlamento=Nacional] <inst> <*> PROP M S @P<  O
+$. O
+</s>

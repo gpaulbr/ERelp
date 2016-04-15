@@ -1,0 +1,15 @@
+$S-6
+É 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+caso 	[caso] <event> <ac-cat> <sem> N M S @<SC  
+de 	[de] <np-close> PRP @N<  
+Schuyler=Korban 	[Schuyler=Korban] <hum> PROP M/F S @P<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Illinois 	[Universidade=de=Illinois] <inst> PROP F S @P<  ORG
+$( 
+Eua 	[Eua] <civ> <np-close> PROP M/F S @N<PRED  
+$) 
+$. 
+</s>

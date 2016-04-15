@@ -1,0 +1,171 @@
+
+Em que escola estuda o <EM ID="dav-52390-145" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Harry Potter</EM>? Qual a divisa da escola? Em quantas casas está dividida? Quem é o director da escola? 
+Como são os peixes-espada? Qual é o recorde da <EM ID="dav-52390-55" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >IGFA</EM> para este tipo de peixe? 
+Quando nasceu <EM ID="dav-52390-146" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Amintore Fanfani</EM>? E aonde nasceu? 
+Quem foi <EM ID="dav-52390-51" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Le Corbusier</EM>? Qual era o seu verdadeiro nome? 
+Quem era <EM ID="dav-52390-52" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Flaubert</EM>? Em que ano publicou «<EM ID="dav-52390-53" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="dav-52390-52" TIPOREL="obra_de">Bouvard e Pécuchet</EM>»? Lista todas as suas obras. 
+O que foi a <EM ID="dav-52390-64" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Revolução de Veludo</EM>? 
+O que foi a <EM ID="dav-52390-65" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Revolução dos Cravos</EM>? 
+Quem foi <EM ID="dav-52390-147" CATEG="PESSOA" TIPO="INDIVIDUAL"  >António de Oliveira Salazar</EM>? 
+Quem compôs a canção "<EM ID="dav-52390-148" CATEG="OBRA" TIPO="REPRODUZIDA"  >Grândola, Vila Morena</EM>"? 
+Onde foi fabricado <EM ID="dav-52390-149" CATEG="COISA" TIPO="OBJECTO"  >Bender Bending Rodriguez</EM>? 
+Quem é <EM ID="dav-52390-59" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Philip J. Fry</EM>? 
+Quem foi <EM ID="dav-52390-60" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Hermann Emil Fischer</EM>? Quem prémio é que ele recebeu <EM ID="dav-52390-150" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1902</EM>? Quem recebeu o <EM ID="dav-52390-151" CATEG="OUTRO"   >Prémio Nobel da Literatura</EM> <EM ID="dav-52390-152" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nesse ano</EM>? 
+Quem era <EM ID="dav-52390-61" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bertha von Suttner</EM>? 
+Quem foi <EM ID="dav-52390-62" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marco Pantani</EM>? Qual era a sua alcunha? 
+Quem foi <EM ID="dav-52390-63" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Juan Manuel Fangio</EM>? 
+O que é a obsidiana? 
+O que é uma "macana"? 
+O que é um buraco negro? 
+O que é a realidade virtual? 
+O que é o pasodoble? 
+O que é a tarantela? 
+O que á a <EM ID="dav-52390-154"    >Arca de Noé</EM>? 
+O que é um tacógrafo? 
+O que é um odómetro? 
+O que é um kinnor? 
+O que é o <EM ID="dav-52390-66" CATEG="ORGANIZACAO|ACONTECIMENTO"   >INTASAT</EM> 
+O que é que era o <EM ID="dav-52390-156" CATEG="COISA" TIPO="OBJECTO"  >Rainbow Warrior</EM>? Quem é que o afundou <EM ID="dav-52390-155" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1985</EM>? 
+Para que serve um draga-minas? 
+O que é a <EM ID="dav-52390-68" CATEG="ORGANIZACAO|ACONTECIMENTO"   >INTELSAT</EM>? 
+O que é uma <EM ID="dav-52390-69" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="IDEIA|INSTITUICAO"  >Organização Não-Governamental</EM>? 
+O que era a <EM ID="dav-52390-159" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA"  >Gestapo</EM>? Quantos membros tinha durante a <EM ID="dav-52390-158" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Segunda Grande Guerra</EM>? 
+O que é a <EM ID="dav-52390-71" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Organização Internacional da Normalização</EM>? 
+O que era a <EM ID="dav-52390-72" CATEG="ABSTRACCAO|COISA|ORGANIZACAO|PESSOA|OUTRO" TIPO="|||GRUPOMEMBRO|"  >Mão Negra</EM>? 
+Qual a função da <EM ID="dav-52390-160" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Organização Meteorológica Mundial</EM>? 
+Qual é a responsabilidade da <EM ID="dav-52390-161" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >ONUDI</EM>? 
+A que se dedica a <EM ID="dav-52390-162" CATEG="ORGANIZACAO|PESSOA" TIPO="|GRUPOMEMBRO"  >Industrial Light and Magic</EM>? 
+Em que país fica <EM ID="dav-52390-164" CATEG="LOCAL"   >Çatal Hüyük</EM>? 
+Em que mar desagua o rio <EM ID="dav-52390-165" CATEG="LOCAL" TIPO="FISICO"  >Orentes</EM>? 
+Em que país fica a <EM ID="dav-52390-166" CATEG="LOCAL" TIPO="HUMANO"  >Muralha de Adriano</EM>? 
+Onde é que trabalha o <EM ID="dav-52390-167" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Homer Simpson</EM>? 
+Em que país fica <EM ID="dav-52390-168" CATEG="LOCAL"   >Minas Gerais</EM>? 
+De onde é típica a ensaimada? 
+Em que cidade nasceu <EM ID="dav-52390-169" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Natalie Hershlag</EM>? Quem é o prefeito dessa cidade? 
+Quem desenhou o processador <EM ID="dav-52390-200" CATEG="COISA" TIPO="CLASSE"  >Zilog Z80</EM>? De quantos bits era este processador? 
+Como se chamam os pais de <EM ID="dav-52390-170" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luke Skywalker</EM>? 
+Que paises entraram na <EM ID="dav-52390-201" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >União Europeia</EM> <EM ID="dav-52390-202" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 1 de Janeiro de 1995</EM>? 
+Quem é a  rainha da <EM ID="dav-52390-204" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Austrália</EM>? 
+Quem era o papa quando se realizou o <EM ID="dav-52390-33" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Concílio de Clermont</EM>? 
+Que actor faz de <EM ID="dav-52390-206" CATEG="PESSOA|COISA" TIPO="INDIVIDUAL|OBJECTO"  >Chewbacca</EM>? 
+Como se chama o deus grego da <EM ID="dav-52390-207" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Medicina</EM>? 
+Quem foi o realizador de <EM ID="dav-52390-208" CATEG="OBRA" TIPO="REPRODUZIDA"  >Nosferatu</EM>? E quem era o actor principal? 
+Quem é o secretário-geral da <EM ID="dav-52390-209" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >UGT</EM> ? 
+Quando é que foi o atentado terrorista contra a <EM ID="dav-52390-210" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >AMIA</EM>? Quantas pessoas morreram nesse ataque? 
+Quando é que morreu <EM ID="dav-52390-171" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Federica Montseny</EM>? 
+Em que dia se realizou o assalto ao rancho do davidianos em <EM ID="dav-52390-211" CATEG="LOCAL" TIPO="HUMANO"  >Waco</EM>? 
+Em que ano é que o <EM ID="dav-52390-212" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Real Zaragoza</EM> ganhou a <EM ID="dav-52390-213" CATEG="ACONTECIMENTO|OUTRO" TIPO="ORGANIZADO|" COREL="dav-52390-212" TIPOREL="ACONTECIMENTO**ter_participacao_de**dav-52390-212**PESSOA">Taça das Taças</EM>? 
+Em que ano foi inaugurado o <EM ID="dav-52390-214" CATEG="COISA|LOCAL" TIPO="OBJECTO|HUMANO"  >AVE Madrid-Sevilha</EM>? 
+Em que data é que o <EM ID="dav-52390-215" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Corte Inglês</EM> comprou as <EM ID="dav-52390-216" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-52390-215" TIPOREL="incluido">Galerias Preciados</EM>? 
+Em que dia foi assassinado <EM ID="dav-52390-172" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rajiv Gandhi</EM>? 
+Que quatro deuses podem ser representados num vaso canopo? 
+Quem produz o <EM ID="dav-52390-217" CATEG="COISA" TIPO="CLASSE"  >Windows 95</EM>? 
+<EM ID="dav-52390-173" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Steve Jobs</EM> é o presidente de que empresa? 
+Como se chamava o serviço secreto da <EM ID="dav-52390-218" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >RDA</EM>? 
+<EM ID="dav-52390-174" CATEG="PESSOA" TIPO="INDIVIDUAL"  >David Stern</EM> é o comissário de que organização? 
+Que rádio emite o programa de <EM ID="dav-52390-175" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Howard Stern</EM>? 
+Que escola foi fundada por <EM ID="dav-52390-176" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Walter Groupis</EM>? 
+A que ordem pertencia <EM ID="dav-52390-177" CATEG="PESSOA" TIPO="INDIVIDUAL"  >São Tomás de Aquino</EM>? 
+Que ordem foi fundada por <EM ID="dav-52390-178" CATEG="PESSOA" TIPO="INDIVIDUAL"  >São Francisco de Assis</EM>? 
+Que exército era comandado por <EM ID="dav-52390-179" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rommel</EM>? 
+O <EM ID="dav-52390-219" CATEG="COISA" TIPO="OBJECTO"  >Bibendum</EM> é a mascote de que empresa? 
+Como se chamava o barco de <EM ID="dav-52390-180" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Costeau</EM>? 
+Que tipo de leite se usa para fazer mozzarella? 
+Como se chamava a espada do <EM ID="dav-52390-181" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rei Artur</EM>? 
+As bolotas são o fruto de que árvore? 
+De que planta se obtêm a juncinha? 
+De que material é feito um <EM ID="dav-52390-220" CATEG="COISA" TIPO="CLASSE"  >Moai</EM>? 
+Que come um quebra-ossos? 
+Como se chamava a bomba atómica largada em <EM ID="dav-52390-221" CATEG="LOCAL" TIPO="HUMANO"  >Nagasaqui</EM>? 
+Qual foi o primeiro libro impresso por <EM ID="dav-52390-182" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Gutenberg</EM>? 
+Que forma tem a entrada do <EM ID="dav-52390-35" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE"  >Museu do Louvre</EM> ? 
+Que animais puxam o carro de <EM ID="dav-52390-183" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cíbele</EM>? 
+O que é que mede a <EM ID="dav-52390-223" CATEG="COISA" TIPO="CLASSE"  >escala de Mohs</EM> ? 
+Que licor se faz com abrunheiro? 
+Em que museu estão «<EM ID="dav-52390-224" CATEG="OBRA" TIPO="ARTE"  >As Meninas</EM>» de <EM ID="dav-52390-225" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="dav-52390-224" TIPOREL="autor_de">Velasques</EM>? 
+Que escândalo provocou a demissão de <EM ID="dav-52390-184" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nixon</EM>? 
+Que fabrica a <EM ID="dav-52390-226" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Leica</EM>? 
+Que lado de um barco é bombordo? 
+Como se chamam as bolas usadas no <EM ID="dav-52390-227" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Quidditch</EM>? 
+Quantas pessoas morreram no afundamento do <EM ID="dav-52390-228" CATEG="COISA" TIPO="OBJECTO"  >USS Maine</EM>? 
+Quantos atletas participaram nos <EM ID="dav-52390-229" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de Barcelona</EM> ? 
+Quantos habitantes tem a <EM ID="dav-52390-232" CATEG="LOCAL" TIPO="HUMANO"  >Lituânia</EM>? 
+Quantos lugares o parlamento da <EM ID="dav-52390-233" CATEG="LOCAL" TIPO="HUMANO"  >Islândia</EM>? 
+Quantos anos durarão as reservas mundiais de petróleo? 
+Quantas vezes é que <EM ID="dav-52390-185" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alain Prost</EM> foi campeão do  <EM ID="dav-52390-1" CATEG="LOCAL" TIPO="HUMANO"  >Mundo</EM>? 
+Quantos cavalos tem as turbinas do <EM ID="dav-52390-235" CATEG="COISA" TIPO="OBJECTO"  >USS Nimitz</EM>? 
+Quantos golos se marcaram ao todo no <EM ID="dav-52390-236" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Mundial de 1982</EM> ? 
+Quantas caves tem a <EM ID="dav-52390-239" CATEG="COISA|LOCAL" TIPO="OBJECTO|HUMANO"  >Torre Picasso</EM>? 
+Quantos prémios <EM ID="dav-52390-241" CATEG="OUTRO"   >Goya</EM> ganhou "<EM ID="dav-52390-240" CATEG="OBRA" TIPO="REPRODUZIDA"  >Torrente: El brazo tonto de la ley</EM>"? 
+Que idade tem o <EM ID="dav-52390-242" CATEG="COISA" TIPO="OBJECTO"  >Sol</EM>? 
+Qual a duração do filme «<EM ID="dav-52390-243" CATEG="OBRA" TIPO="REPRODUZIDA"  >A Nona Porta</EM>»? 
+Com que idade morreu <EM ID="dav-52390-187" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alfred Hitchcock</EM>? 
+Qual a envergadura do <EM ID="dav-52390-244" CATEG="COISA" TIPO="CLASSE"  >Airbus 380</EM>? Quantos passageiros transportou <EM ID="dav-52390-245" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 4 de Setembro de 2006</EM>? Quanto custa cada unidade? 
+Qual a capacidade de carga do <EM ID="dav-52390-246" CATEG="COISA" TIPO="CLASSE"  >Antonov An-124</EM>? 
+Quais são os membros fundadores da <EM ID="dav-52390-247" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Star Alliance</EM>? 
+Em que país se fala náhuatl? 
+Quantas curvas tem o <EM ID="dav-52390-248" CATEG="LOCAL|COISA" TIPO="HUMANO|OBJECTO"  >Circuito do Mónaco</EM> ? 
+Quem foi a primeira mulher a viajar no espaço? 
+Quem realizou «<EM ID="dav-52390-249" CATEG="OBRA" TIPO="REPRODUZIDA"  >O Dia da Besta</EM>»? 
+Quem inaugurou o <EM ID="dav-52390-250" CATEG="OBRA|LOCAL" TIPO="ARTE|HUMANO"  >Templo de Debod</EM> em <EM ID="dav-52390-251" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-52390-250 dav-52390-250" TIPOREL="LOCAL**localizacao_de**dav-52390-250**OBRA LOCAL**inclui**dav-52390-250**LOCAL">Madrid</EM>? 
+Em que ano é que <EM ID="dav-52390-252" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Torquemada</EM> foi nomeado <EM ID="dav-52390-253" CATEG="PESSOA" TIPO="CARGO" COREL="dav-52390-252" TIPOREL="ident">Inquisidor Geral</EM>? 
+Em que ano foi publicada a <EM ID="dav-52390-254" CATEG="OBRA" TIPO="REPRODUZIDA"  >Gramática de Nebrija</EM> ? 
+Onde é que <EM ID="dav-52390-188" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Rachel Weisz</EM> estudou literatura? 
+Em que cidade fica a <EM ID="dav-52390-1000" CATEG="OBRA" TIPO="ARTE"  >Sagrada Família de Gaudí</EM> ? 
+Qual a altura do <EM ID="dav-52390-259" CATEG="COISA|LOCAL" TIPO="OBJECTO|FISICO"  >Vesúvio</EM>? 
+A quantos quilómetros de <EM ID="dav-52390-260" CATEG="LOCAL" TIPO="HUMANO"  >Huesca</EM> fica o <EM ID="dav-52390-2" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE"  >Castelo de Loarre</EM> ? 
+Qual a massa molécular do metanol? 
+Qual a altura da <EM ID="dav-52390-262-aa" CATEG="OBRA|COISA" TIPO="ARTE|OBJECTO"  >Pirámede do Sol de Teotihuacan</EM> ? 
+Quantos saltos formam as <EM ID="dav-52390-264" CATEG="LOCAL" TIPO="FISICO"  >Cataratas do Iguaçú</EM>? 
+Quantos degraus tem a <EM ID="dav-52390-4" CATEG="LOCAL|OBRA" TIPO="HUMANO|ARTE"  >Torre de Pisa</EM>  ? 
+Quais são os ingredientes da sangria? 
+Quem é responsável pela segurança da <EM ID="dav-52390-6" CATEG="LOCAL" TIPO="HUMANO"  >Cidade do Vaticano</EM>? 
+Quem atribui a <EM ID="dav-52390-7" CATEG="OUTRO"   >Medalha Fields</EM>? 
+Para quem trabalha <EM ID="dav-52390-189" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jack Bauer</EM>? 
+O que é que foi usado como desfolhante na <EM ID="dav-52390-8" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Guerra do Vietname</EM>? 
+Qual foi o nome de código do <EM ID="dav-52390-10" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Desembarque da Normândia</EM>? 
+De que fungo se obtêm a penicilina? 
+De que molusco é que os fenícios extraíam a tinta púrpura? 
+O que é que <EM ID="dav-52390-268" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Manuel Campello Esclápez</EM> descobriu? 
+De que é que <EM ID="dav-52390-269" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jasão</EM> e os <EM ID="dav-52390-270" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Argonautas</EM> andavam à procura? 
+Quem era  presidente dos <EM ID="dav-52390-13" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Estados Unidos</EM> durante o ataque a <EM ID="dav-52390-272" CATEG="LOCAL" TIPO="HUMANO" COREL="dav-52390-13" TIPOREL="LOCAL**incluido**dav-52390-13**LOCAL">Pearl Harbour</EM>? 
+O que é que a <EM ID="dav-52390-273" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Norsk Hydro</EM> produzia durante a <EM ID="dav-52390-275" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Segunda Guerra Mundial</EM>? 
+Qual o tíulo da obra que ganhou o <EM ID="dav-52390-276" CATEG="OUTRO"   >Prémio Nadal</EM> <EM ID="dav-52390-277" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1994</EM>? 
+Quantos reservistas tinha a <EM ID="dav-52390-278" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Haganah</EM> <EM ID="dav-52390-279" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1936</EM>? 
+Que idade tinha <EM ID="dav-52390-190" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Miguel Induraín</EM> durante a <EM ID="dav-52390-14" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-190" TIPOREL="ter_participacao_de">Volta a Espanha de 1985</EM> ? Em que ano é que ele ganhou a <EM ID="dav-52390-17" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-190" TIPOREL="ter_participacao_de">Volta à Espanha</EM> ? Quantas etapas da <EM ID="dav-52390-19" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-190" TIPOREL="ter_participacao_de">Volta à França do Futuro de 1986</EM>  é que ele ganhou? Que prémio é que ele recebeu <EM ID="dav-52390-285" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1992</EM>? 
+Que actores são os protagonistas de «<EM ID="dav-52390-287" CATEG="OBRA" TIPO="REPRODUZIDA"  >O Bom, o Mau e o Vilão</EM>"? 
+Quantas pessoas morreram na <EM ID="dav-52390-288" CATEG="LOCAL" TIPO="HUMANO"  >Europa</EM> durante a epidemia de peste <EM ID="dav-52390-22" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do século XIV</EM>? 
+Em que país teve origem a epidemia de gripe <EM ID="dav-52390-290" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1918</EM>? 
+Como se chamavam os <EM ID="dav-52390-291" CATEG="PESSOA" TIPO="GRUPOCARGO"  >Reis Católicos</EM>? 
+Como se chamava o  presidente do <EM ID="dav-52390-286" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Burundi</EM> que morreu <EM ID="dav-52390-293" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-52390-258" TIPOREL="data_morte">em 1994</EM>? 
+Em que dia foi promulgada a constituição espanhola <EM ID="dav-52390-294" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1812</EM>? 
+Quem foi o capitão do <EM ID="dav-52390-306" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Real Sociedad</EM> <EM ID="dav-52390-296" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre 1974 e 1989</EM>? 
+Em que cidade se disputou a final da <EM ID="dav-52390-23" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Taça da Europa de Basquete de 1996</EM> ? 
+Que grupo terrorista cometeu um atentado durante os <EM ID="dav-52390-299" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de Munique</EM> ? 
+Que partido político governou a <EM ID="dav-52390-304" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Espanha</EM> <EM ID="dav-52390-303" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 28 de Outubro de 1982 a 3 de Março de 1996</EM>? 
+Que farda tinha vestida o <EM ID="dav-52390-191" CATEG="PESSOA" TIPO="CARGO"  >Rei</EM> quando apareceu na televisão após o golpe de estado de <EM ID="dav-52390-305" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Tejero</EM>? 
+O que é que <EM ID="dav-52390-192" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Leonardo da Vinci</EM> desenhou <EM ID="dav-52390-307" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1492</EM>? 
+O que é que <EM ID="dav-52390-193" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Antonio Rebollo</EM> usou para acender a <EM ID="dav-52390-308" CATEG="COISA" TIPO="OBJECTO"  >Chama Olímpica</EM> nos <EM ID="dav-52390-309" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de Barcelona</EM> ? 
+Que programa de televisão apresentou <EM ID="dav-52390-312" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Takeshi Kitano</EM> <EM ID="dav-52390-313" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1986 a 1989</EM>? 
+Que presente é que <EM ID="dav-52390-314" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO"  >Nova Iorque</EM> recebeu para comemorar o centenário da indepêndencia dos <EM ID="dav-52390-315" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="dav-52390-314" TIPOREL="LOCAL**inclui**dav-52390-314**LOCAL">Estados Unidos</EM>? 
+Qual foi a distribuidora do filme «<EM ID="dav-52390-316" CATEG="OBRA" TIPO="REPRODUZIDA"  >O Planeta dos Macacos</EM>» que estreou <EM ID="dav-52390-317" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="dav-52390-316" TIPOREL="data_de">em 1968</EM>? 
+Que velocidade atingiu <EM ID="dav-52390-194" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Louis Blériot</EM> <EM ID="dav-52390-318" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 25 de Julho de 1909</EM>? 
+Quantos quilos de anchova apanhou a frota do <EM ID="dav-52390-327" CATEG="LOCAL|LOCAL" TIPO="FISICO|FISICO"  >Cantábrico</EM> <EM ID="dav-52390-319" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1994</EM>? 
+Quais são as ilhas cuja posse a <EM ID="dav-52390-328" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Argentina</EM> disputou ao <EM ID="dav-52390-329" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Reino Unido</EM> <EM ID="dav-52390-330" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2 de Abril a 14 de Junho de 1982</EM>? 
+Onde se disputaram os <EM ID="dav-52390-26" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Mediterrânicos de 1997</EM> ? 
+Que navio é que <EM ID="dav-52390-195" CATEG="PESSOA" TIPO="INDIVIDUAL"  >James Cook</EM> comandou <EM ID="dav-52390-333" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1768 a 1769</EM>? 
+Quem é o actor principal do filme «<EM ID="dav-52390-334" CATEG="OBRA" TIPO="REPRODUZIDA"  >Tarzan, o Homem-Macaco</EM>»? Quanto recordes mundiais é que ele bateu? 
+Quem ganhou o <EM ID="dav-52390-335" CATEG="OUTRO"   >Óscar Honorário</EM> <EM ID="dav-52390-320" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2007</EM>? 
+Quem roubou as jóias de <EM ID="dav-52390-196" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bianca Castafiore</EM>? 
+Em que país fica o <EM ID="dav-52390-336" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Lago dos Cisnes</EM>? 
+Em que ano morreu o <EM ID="dav-52390-197" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Capitão América</EM>? 
+Qual é a capital da <EM ID="dav-52390-337" CATEG="LOCAL" TIPO="HUMANO"  >Terra do Nunca</EM>? 
+Como se chama a mulher de <EM ID="dav-52390-198" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bill Gates</EM>? Em que universidade é que ele estudava quando criou a <EM ID="dav-52390-338" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="dav-52390-198" TIPOREL="vinculo_inst">Microsoft</EM>? Qual o orçamento dessa universidade <EM ID="dav-52390-323" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para 2005</EM>? Em que ano foi fundada? 
+Que avião supersónico teve os seus últimos voos comerciais <EM ID="dav-52390-324" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Maio de 2003</EM>? Quantos passageiros conseguia transportar esse modelo de avião? 
+Qual a capacidade do <EM ID="dav-52390-28" CATEG="LOCAL" TIPO="HUMANO"  >Estádio Santiago Bernabéu</EM> <EM ID="dav-52390-340" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos anos 80</EM>? Quem é o dono do estádio? Quanto dinheiro foi gasto na sua ampliação <EM ID="dav-52390-341" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre 2001 e 2006</EM>? 
+Quantas bombas foram lançadas sobre <EM ID="dav-52390-342" CATEG="LOCAL" TIPO="HUMANO"  >Dresda</EM> <EM ID="dav-52390-321" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 14 de Fevereiro de 1945</EM>? Quanto pesavam as bombas largadas sobre esta cidade <EM ID="dav-52390-322" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 7 de Outubro de 1944</EM>? 
+Que organismo dirigiu <EM ID="dav-52390-199" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alan Turing</EM> durante a <EM ID="dav-52390-344" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Segunda Guerra Mundial</EM>? 
+Quem era o  czar da <EM ID="dav-52390-355" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Rússia</EM>  durante a <EM ID="dav-52390-348" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Segunda Grande Guerra</EM>? 
+Quantos pontos marcou a <EM ID="dav-52390-349" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Jugoslávia</EM> na final do <EM ID="dav-52390-29" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-349" TIPOREL="ter_participacao_de">Mundial de Basquetebol de 1990</EM> ? 
+Contra que país é que a <EM ID="dav-52390-351" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Espanha</EM> jogou a final de basquete das <EM ID="dav-52390-31" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-351" TIPOREL="ter_participacao_de">Olímpiadas de 1984</EM> ? 
+Em que ano é que <EM ID="dav-52390-354" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Espanha</EM> ganhou o <EM ID="dav-52390-353" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="dav-52390-354" TIPOREL="ter_participacao_de">Mundial de Futebol</EM>?

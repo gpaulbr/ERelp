@@ -1,0 +1,58 @@
+$S-2
+Mas 	[mas]   KC @NPHR   O
+não 	[não] ADV @ADVL>   O
+demorou 	[demorar] <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+muito 	[muito] <cjt-head> <quant> DET M S @<ACC   O
+até 	[até] PRP @<ADVL   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+Nasa 	[Nasa] <org> <newlex>   PROP F S @SUBJ>  ORG O
+divulgasse 	[divulgar] <vH> <mv> V IMPF 3S SUBJ VFIN @FS-P<   O
+o 	[o] <artd> DET M S @>N   O
+parecer 	[parecer] <cjt> <sem-c> <sem-r> N M S @<ACC   O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>   O
+todos 	[todo] <quant> DET M P @SUBJ>   O
+queriam 	[querer] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<   O
+ouvir 	[ouvir] <vH> <mv> V INF @ICL-<ACC   O
+$:  
+finalmente 	[finalmente] ADV @ADVL>   O
+$, 
+após 	[após] PRP @ADVL>   O
+dias 	[dia] <temp> <dur> <per> N M P @P<   O
+de 	[de] <np-close> PRP @N<   O
+apreensão 	[apreensão] <act> <sem-c> N F S @P<   O
+com 	[com] <np-close> PRP @N<   O
+problemas 	[problema] <ac> N M P @P<   O
+em 	[em] <sam-> PRP @ADVL>   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+veículo 	[veículo] <V> N M S @P<   O
+e 	[e] KC @NPHR   O
+uma 	[um] <arti> DET F S @>N   O
+histórica 	[histórico] <jh> ADJ F S @>N   O
+caminhada 	[caminhada] <cjt-head> <activity> N F S @SUBJ>   O
+espacial 	[espacial] <nh> <np-close> ADJ F S @N<   O
+de 	[de] <np-close> PRP @N<   O
+reparos 	[reparo] <percep-w> N M P @P<   O
+$, 
+a 	[o] <artd> DET F S @>N   O
+agência 	[agência] <cjt> <HH> N F S @SUBJ>   O
+espacial 	[espacial] <nh> <np-close> ADJ F S @N<   O
+americana 	[americana] <Hnat> <np-long> N F S @N<   O
+autorizou 	[autorizar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+ônibus 	[ônibus] <V> N M S @<ACC   O
+espacial 	[espacial] <nh> <np-close> ADJ M S @N<   O
+Discovery 	[Discovery] <V>   <np-long> PROP M/F S @N<  LOCAL O
+a 	[a] PRP @<ADVL   O
+enfrentar 	[enfrentar] <vH> <mv> V INF @ICL-P<   O
+a 	[o] <artd> DET F S @>N   O
+turbulenta 	[turbulento] <jh> ADJ F S @>N   O
+jornada 	[jornada] <event> <act-d> N F S @<ACC   O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+o 	[ele] PERS M 3S ACC @ACC>   O
+separa 	[separar] <mv> <np-close> V PR 3S IND VFIN @FS-N<   O
+de 	[de] <sam-> PRP @<PIV   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+terra=firme 	[terra=firme] <Ltop> N F S @P<   O
+$. 
+</s>

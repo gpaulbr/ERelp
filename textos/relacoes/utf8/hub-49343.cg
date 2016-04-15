@@ -1,0 +1,36 @@
+$S-1
+Em	 [em] PRP @ADVL> O
+1510	 [1510] <card> <year> <date> NUM M/F S @P< O
+toma	 [tomar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+Goa	 [Goa] <hum> PROP M/F S @<ACC ORG O
+a	 [a] <sam-> PRP @<ADVL B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+turco	 [turco] <Hnat> <ling> N M S @P< I-REL
+Hidalcão	 [Hidalcão] <hum> <np-close> PROP M S @N< PES O
+e	 [e] <co-advl> KC @CO O
+em	 [em] PRP @<ADVL O
+1511	 [1511] <card> <year> <date> NUM M/F S @P< O
+toma	 [tomar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+Malaca	 [Malaca] <civ> PROP F S @<ACC O
+$, O
+abrindo	 [abrir] <clb> <vH> <mv> V GER @ICL-<ADVL O
+a	 [a] <sam-> PRP @<ACC O
+os	 [o] <-sam> <artd> DET M P @>N O
+portugueses	 [português] <Hnat> <ling> N M P @P< O
+o	 [o] <artd> DET M S @>N O
+acesso	 [acesso] <Lpath> <event> <f-right> N M S @<SUBJ O
+a	 [a] <sam-> <np-close> PRP @N< O
+as	 [o] <-sam> <artd> DET F P @>N O
+especiarias	 [especiaria] <food-h> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <artd> <-sam> DET F P @>N O
+Molucas	 [Molucas] <top> PROP F P @P< O
+e	 [e] <co-postnom> KC @CO O
+a	 [a] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+comércio	 [comércio] <activity> N M S @P< O
+com	 [com] <np-close> PRP @N< O
+a	 [o] <artd> DET F S @>N O
+China	 [China] <civ> PROP F S @P< O
+$. O
+</s>

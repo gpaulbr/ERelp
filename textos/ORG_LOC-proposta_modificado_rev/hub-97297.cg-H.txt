@@ -1,0 +1,8 @@
+$S-1
+México	 [México] <civ> PROP M S @P< LOCAL O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+ataque	 [ataque] <act> <event> N M S @SUBJ> O
+a	 [o] <artd> DET F S @>N O
+administração	 [administração] <HH> <activity> N F S @SUBJ> O
+Bush	 [Bush] <org> <np-close> PROP F S @N< ORG O

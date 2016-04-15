@@ -1,0 +1,149 @@
+$S-2
+Se	 [se] <clb> <clb-fs> <*> KS @SUB  O
+isto	 [isto] <dem> SPEC M S @SC>  O
+estivesse	 [estar] <aux> V IMPF 3S SUBJ VFIN @FS-ADVL>  O
+em=vias=de	 [em=vias=de] PRP @<ADVL  O
+acontecer	 [acontecer] <vN> <mv> V INF @ICL-P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+bibliófilo	 [bibliófilo] <Hideo> N M S @<SUBJ @SUBJ>  O
+José=Mindlin	 [José=Mindlin] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+90	 [90] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> <np-close> N M P @N<PRED  O
+$, O
+dono	 [dono] <H> <np-close> N M S @N<PRED @<SUBJ  O
+de	 [de] <np-close> PRP @N<  O
+uma	 [uma] <card> NUM F S @P<  O
+de	 [de] <sam-> <np-long> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+importantes	 [importante] <jh> ADJ F P @>N  O
+bibliotecas	 [biblioteca] <inst> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+símbolo	 [símbolo] <ac-sign> N M S @P<  O
+nacional	 [nacional] <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+culto	 [culto] <occ> N M S @P<  O
+a	 [a] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+livro	 [livro] <cc-r> N M S @P<  O
+$, O
+não	 [não] ADV @ADVL>  O
+teria	 [ter] <fmc> <aux> V COND 3S VFIN @FS-STA  O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>  O
+encontrado	 [encontrar] <vH> <mv> V PCP @ICL-AUX<  O
+esta	 [este] <dem> DET F S @>N  O
+semana	 [semana] <dur> N F S @<ADVL  O
+com	 [com] PRP @<ADVL  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+colega	 [colega] <Hfam> N M S @P<  O
+americano	 [americano] <nat> <jh> <np-close> ADJ M S @N<  O
+$, O
+Matthew=Battles	 [Matthew=Battles] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+35	 [35] <card> <np-close> NUM M/F P @N<PRED  O
+$, O
+editor	 [editor] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+boletim	 [boletim] <cc-r> N M S @P< O
+de	 [de] <sam-> <np-long> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+Biblioteca=Houghton	 [Biblioteca=Houghton] <org> <*> PROP F S @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+guarda	 [guardar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+as	 [o] <artd> DET F P @>N  O
+obras	 [obra] <sem-c> <Lh> <activity> N F P @<ACC  O
+raras	 [raro] <jh> <np-close> ADJ F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+Harvard	 [Harvard] <inst> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-11
+Matthew	 [Matthew] <hum> <*> PROP M S @<SUBJ PES O
+$, O
+que	 [que] <clb> <clb-fs> <interr> SPEC M S @ACC>  O
+lançou	 [lançar] <vH> <mv> V PS 3S IND VFIN @FS-<ACC  O
+em	 [em] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+ano	 [ano] <dur> <temp> <per> <unit> N M S @P<  O
+passado	 [passado] <np-close> ADJ M S @N<  O
+o	 [o] <artd> DET M S @>N  O
+livro	 [livro] <cc-r> N M S @<ACC  O
+$" O
+A=conturbada=história=das=bibliotecas	 [A=conturbada=história=das=bibliotecas] <tit> <*> <*1> <*2> <np-close> PROP M S @N<  O
+$" O
+$( O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+$, O
+editado	 [editar] <vH> <mv> V PCP M S @ICL-N<PRED  O
+por	 [por] <sam-> PRP @<PASS  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Planeta	 [planeta] <prop> <*> <Lstar> N M S @P< ORG O
+$) O
+$, O
+ironiza	 [ironizar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+$: O
+$-- O
+Já	 [já] <*> ADV @ADVL>  O
+deve	 [dever] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+ter	 [ter] <mv> V INF @ICL-AUX<  O
+alguém	 [alguém] SPEC M S @<ACC  O
+trabalhando	 [trabalhar] <vH> <mv> V GER @IMV  O
+em	 [em] <sam-> PRP @<PIV  O
+esta	 [este] <-sam> <dem> DET F S @>N  O
+pílula	 [pílula] <food-c-h> N F S @P<  O
+$... O
+provavelmente	 [provavelmente] ADV @<ADVL  O
+$, O
+Bill=Gates	 [Bill=Gates] <tit> <*> <np-close> PROP M S @APP  O
+$! O
+</s>
+
+$S-21
+Presente	 [presente] <*> ADJ M/F S @PRED>  O
+a	 [a] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+conversa	 [conversa] <talk> N F S @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+se	 [se] <refl> PERS M 3S ACC @ACC>  O
+deu	 [dar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Biblioteca=Nacional	 [Biblioteca=Nacional] <org> <*> PROP F S @P< ORG O
+$, O
+o	 [o] <artd> DET M S @>N O
+presidente	 [presidente] <Hprof> <np-close> N M S @APP REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+instituição	 [instituição] <inst> <act> N F S @P<  O
+$, O
+Pedro=Corrêa=do=Lago	 [Pedro=Corrêa=do=Lago] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+ilustra	 [ilustrar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+paradoxo	 [paradoxo] <ac-cat> N M S @<SUBJ  O
+$: O
+$-- O
+Imaginem	 [imaginar] <*> <vH> <fmc> <mv> V PR 3P SUBJ VFIN @FS-STA  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+Shakespeare	 [Shakespeare] <hum> <*> PROP M S @SUBJ>  O
+tivesse	 [ter] <mv> V IMPF 3S SUBJ VFIN @FS-<ACC  O
+um	 [um] <arti> DET M S @>N  O
+blog	 [blog] N M S @<ACC  O
+e	 [e] KC @NPHR  O
+este	 [este] <dem> DET M S @<ACC  O
+fosse	 [ser] <fmc> <aux> V IMPF 3S SUBJ VFIN @FS-STA  O
+deletado	 [deletar] <DERP> <DERS> <mv> V PCP M S @ICL-AUX<  O
+$. O
+</s>

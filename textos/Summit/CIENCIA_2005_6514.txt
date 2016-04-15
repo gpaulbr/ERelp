@@ -1,0 +1,286 @@
+$S-1
+A 	[o] <*> <artd> DET F S @>N  
+inundação 	[inundação] <event> N F S @SUBJ>  
+permanente 	[permanente] <nh> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+baixo 	[baixo] ADJ M S @>N  
+Taquari 	[taquari] <prop> <*> <tool> <cc-stick> N M S @P<  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+conseqüência 	[conseqüência] <ac> <am> N F S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+obstrução 	[obstrução] <sick> <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+fluxo 	[fluxo] <process> <state> <sick> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+planície 	[planície] <Ltop> N F S @P<  
+$, 
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+seu 	[seu] <poss 3S> DET M S @>N  
+leito 	[leito] <furn> <Labs> <state-h> N M S @SUBJ>  
+foi 	[ser] <aux> <np-close> V PS 3S IND VFIN @FS-N<  
+reduzido 	[reduzir] <mv> V PCP M S @ICL-AUX<  
+devido=a 	[devido=a] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+acúmulo 	[acúmulo] <event> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+sedimentos 	[sedimento] <cm> N M P @P<  
+$. 
+</s>
+
+$S-2
+O 	[o] <*> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Embrapa 	[Embrapa] <org> <*> PROP F S @P<  
+verificou 	[verificar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+esse 	[esse] <dem> DET M S @>N  
+processo 	[processo] <occ> <process> <activity> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+assoreamento 	[assoreamento] <process> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @P<  
+foi 	[ser] <aux> V PS 3S IND VFIN @FS-<ACC  
+acelerado 	[acelerar] <mv> V PCP M S @ICL-AUX<  
+a=partir=de 	[a=partir=de] <sam-> PRP @<ADVL  
+a 	[o] <artd> <-sam> DET F S @>N  
+década 	[década] <dur> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+1970 	[1970] <card> <date> <year> NUM M/F P @P<  
+$. 
+</s>
+
+$S-3
+Em 	[em] <*> <sam-> PRP @ADVL>  
+aquela 	[aquele] <-sam> <dem> DET F S @>N  
+época 	[época] <per> N F S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @SUBJ>  
+militar 	[militar] <jh> <np-close> ADJ M S @N<  
+incentivou 	[incentivar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+povoamento 	[povoamento] <HH> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+áreas 	[área] <L> <Lh> N F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+planalto 	[planalto] <Ltop> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+entorno 	[entornar] V PR 1S IND VFIN @P<  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Pantanal 	[pantanal] <prop> <*> <Ltop> N M S @P<  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+desenvolvimento 	[desenvolvimento] <process> <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+agricultura 	[agricultura] <cjt-head> <domain> N F S @P<  
+e 	[e] KC @NPHR  
+pecuária 	[pecuária] <cjt> <domain> N F S @P<  
+$. 
+</s>
+
+$S-4
+$"  
+Aquela 	[aquele] <*> <*1> <dem> DET F S @>N  
+área 	[área] <L> <Lh> N F S @SUBJ>  
+toda 	[todo] <quant> <np-close> DET F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+alto 	[alto] ADJ M S @>N  
+Taquari 	[taquari] <prop> <*> <tool> <cc-stick> N M S @P<  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$, 
+na=sua=maior=parte 	[na=sua=maior=parte] ADV @<ADVL  
+$, 
+arenosa 	[arenoso] <nh> ADJ F S @<SC  
+$. 
+</s>
+
+$S-5
+Se 	[se] <clb> <clb-fs> <*> KS @SUB  
+você 	[você] PERS M/F 3S NOM @SUBJ>  
+tirar 	[tirar] <vH> <mv> V FUT 3S SUBJ VFIN @FS-ADVL>  
+a 	[o] <artd> DET F S @>N  
+cobertura 	[cobertura] <cm> <Lcover> <am> <part-build> N F S @<ACC  
+vegetal 	[vegetal] <nh> <np-close> ADJ F S @N<  
+para 	[para] PRP @<ADVL  
+colocar 	[colocar] <vH> <mv> V INF @ICL-P<  
+pasto 	[pasto] <cjt-head> <Lh> <cm> N M S @<ACC  
+ou 	[ou] KC @NPHR  
+agricultura 	[agricultura] <cjt> <domain> N F S @<ACC  
+$, 
+a 	[o] <artd> DET F S @>N  
+primeira 	[primeiro] <NUM-ord> ADJ F S @>N  
+chuva 	[chuva] <wea-rain> N F S @SUBJ>  
+arrasta 	[arrastar] <clb-fs> <vH> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+uma 	[um] <arti> DET F S @>N  
+enormidade 	[enormidade] <percep-f> N F S @<PRED @<ACC  
+de 	[de] <np-close> PRP @N<  
+areia 	[areia] <mat> N F S @P<  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+rio 	[rio] <*2> <Lwater> N M S @P<  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Emiko=de=Resende 	[Emiko=de=Resende] <hum> <*> PROP M S @<SUBJ  
+$. 
+</s>
+
+$S-6
+A 	[o] <*> <artd> DET F S @>N  
+destruição 	[destruição] <act> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+trechos 	[trecho] <part> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+vegetação 	[vegetação] <act> N F S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+acompanha 	[acompanhar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+curso 	[curso] <occ> <per> <dir> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @P<  
+$( 
+chamada 	[chamada] <act-s> <np-close> N F S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+mata=ciliar 	[mata=ciliar] <BB> N F S @P<  
+$) 
+também 	[também] ADV @ADVL>  
+contribuiu 	[contribuir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+para 	[para] PRP @<PIV  
+o 	[o] <artd> DET M S @>N  
+problema 	[problema] <ac> N M S @P<  
+$. 
+</s>
+
+$S-7
+Os 	[o] <*> <artd> DET M P @>N  
+sedimentos 	[sedimento] <cm> N M P @SUBJ>  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+arrastados 	[arrastado] <nh> ADJ M P @<SC  
+para 	[para] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+parte 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @P<  
+baixa 	[baixo] <jh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @P<  
+$. 
+</s>
+
+$S-8
+Como 	[como] <clb> <clb-fs> <*> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+correnteza 	[correnteza] <Lwater> N F S @SUBJ>  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+planície 	[planície] <Ltop> N F S @P<  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-ADVL>  
+muito 	[muito] <quant> ADV @>A  
+fraca 	[fraco] ADJ F S @<SC  
+$, 
+há 	[haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+acúmulo 	[acúmulo] <event> N M S @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Taquari 	[taquari] <prop> <*> <tool> <cc-stick> N M S @P<  
+$. 
+</s>
+
+$S-9
+$"  
+O 	[o] <*> <*1> <artd> DET M S @>N  
+leito 	[leito] <furn> <Labs> <state-h> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @P<  
+ficou 	[ficar] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+tão 	[tão] <dem> <quant> <KOMP> ADV @>A  
+alto 	[alto] ADJ M S @<SC  
+que 	[que] <clb> <clb-fs> KS @SUB  
+está 	[estar] <mv> V PR 3S IND VFIN @FS-KOMP<  
+acima=de 	[acima=de] <sam-> PRP @<SA  
+as 	[o] <artd> <-sam> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @P<  
+laterais 	[lateral] <nh> <np-close> ADJ F P @N<  
+$, 
+as 	[o] <artd> DET F P @>N  
+planícies 	[planície] <Ltop> <np-close> N F P @APP  
+$. 
+</s>
+
+$S-10
+Quando 	[quando] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  
+o 	[o] <artd> DET M S @>N  
+rio 	[rio] <Lwater> N M S @SUBJ>  
+arromba 	[arrombar] <vH> <mv> V PR 3S IND VFIN @FS-ADVL>  
+$[  
+abre 	[abrir] <clb-fs> <vH> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+um 	[um] <arti> DET M S @>N  
+canal 	[canal] <Lwater> <sem> <HH> N M S @<ACC  
+e 	[e] KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+água 	[água] <cm-liq> <drink> <f-q> N F S @SUBJ>  
+invade 	[invadir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+planície 	[planície] <Ltop> N F S @<ACC  
+$]  
+$, 
+não 	[não] ADV @>N  
+volta 	[volta] <act-d> <unit> N F S @PRED>  
+mais 	[mais] ADV @ADVL>  
+para 	[para] PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+leito 	[leito] <furn> <Labs> <state-h> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+época 	[época] <per> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+seca 	[seca] <event> <talk> <per> N F S @P<  
+$, 
+porque 	[porque] <clb> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+leito 	[leito] <furn> <Labs> <state-h> N M S @SUBJ>  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+mais 	[mais] ADV @<ADVL  
+alto 	[alto] ADJ M S @<SC  
+que 	[que] <clb> <rel> SPECM S @NPHR  
+o 	[o] <artd> DET M S @>N  
+campo 	[campo] <*2> <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @PRED>  
+$"  
+$, 
+explica 	[explicar] <vH> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+$. 
+$( 
+</s>
+
+$S-11
+EO 	[EO] <cjt-head> <brand> <*> PROP M/F S @NPHR  
+e 	[e] <cjt> KC @NPHR  
+HC 	[HC] <cjt> <org> <*> PROP M/F S @NPHR  
+$) 
+</s>
+
+$S-12

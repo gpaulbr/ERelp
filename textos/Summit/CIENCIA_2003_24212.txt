@@ -1,0 +1,664 @@
+$S-1
+Biotecnólogos 	[Biotecnólogos] <cjt-head> <hum> <*> PROP M/F S @SUBJ>  
+e 	[e] KC @NPHR  
+ambientalistas 	[ambientalista] <cjt> <Hprof> N M/F P @SUBJ>  
+travaram 	[travar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+rara 	[raro] <jh> ADJ F S @>N  
+aliança 	[aliança] <HH> <sit> N F S @<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+semana 	[semana] <dur> N F S @P<  
+passada 	[passado] <np-close> ADJ F S @N<  
+para 	[para] PRP @<ADVL  
+comemorar 	[comemorar] <vH> <mv> V INF @ICL-P<  
+um 	[um] <arti> DET M S @>N  
+episódio 	[episódio] <event> N M S @<ACC  
+singular 	[singular] <np-close> ADJ M S @N<  
+$:  
+
+duas 	[dois] <card> NUM F P @>N  
+vacas 	[vaca] <Adom> <food> N F P @SUBJ>  
+deram 	[dar] <predco> <cjt-head> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+cria 	[crer] <nosubj> <cjt> <vH> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+em 	[em] PRP @<PIV  
+Iowa 	[Iowa] <hum> <*> PROP M/F S @P< LOCAL
+$, 
+Eua 	[Eua] <hum> <*> <np-close> PROP M/F S @APP  
+$. 
+</s>
+
+$S-2
+Os 	[o] <*> <artd> DET M P @>N  
+filhotes 	[filhote] <H> N M P @SUBJ>  
+não 	[não] ADV @ADVL>  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+de 	[de] <cjt-head> <sam-> PRP @<SC  
+elas 	[elas] <-sam> PERS F 3P NOM/PIV @P<  
+$, 
+mas 	[mas] KC @NPHR  
+clones 	[clone] <cjt> <A> <H> N M P @<SC  
+de 	[de] <np-close> PRP @N<  
+outra 	[outro] <diff> <KOMP> DET F S @>N  
+espécie 	[espécie] <meta> <A> N F S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+banteng 	[banteng] <cjt> <np-close> N M S @<SC @APP  
+$, 
+um 	[um] <arti> DET M S @>N  
+tipo 	[tipo] <cjt> <meta> <H> <ac-sign> <np-close> N M S @<SC @N<PRED  
+de 	[de] <np-close> PRP @N<  
+gado 	[gado] <AAdom> N M S @P<  
+ameaçado 	[ameaçar] <vH> <np-close> V PCP M S @N<  
+de 	[de] <np-close> PRP @N<  
+extinção 	[extinção] <act> <event> N F S @P<  
+$. 
+</s>
+
+$S-3
+A 	[o] <*> <artd> DET F S @>N  
+realização 	[realização] <act> N F S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+fruto 	[fruto] <fruit> <ac> N M S @<SC  
+de 	[de] <np-close> PRP @N<  
+uma 	[um] <arti> DET F S @>N  
+parceria 	[parceria] <HH> <com> N F S @P<  
+entre 	[entre] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+companhia 	[companhia] <HH> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+biotecnologia 	[biotecnologia] <domain> N F S @P<  
+Advanced=Cell=Technology 	[Advanced=Cell=Technology] <org> <*> <np-close> PROP F S @N<  
+$, 
+de 	[de] <np-close> PRP @N<PRED  
+Massachusetts 	[Massachusetts] <civ> <*> PROP M/F S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+Centro=Sioux 	[Centro=Sioux] <inst> <*> <np-close> PROP M S @APP  
+$, 
+de 	[de] PRP @<ADVL  
+Iowa 	[Iowa] <cjt-head> <hum> <*> PROP M/F S @P<  
+$, 
+e 	[e] KC @NPHR  
+o 	[o] <artd> DET M S @>N  
+Centro 	[Centro] <cjt> <inst> <newlex> <*> PROP M S @P<  
+para 	[para] PRP @<ADVL  
+Reprodução=de=Espécies=Ameaçadas 	[Reprodução=de=Espécies=Ameaçadas] <top> <*> PROP F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Sociedade=Zoológica 	[Sociedade=Zoológica] <org> <*> PROP F S @P<  
+de 	[de] <np-close> PRP @N<  
+San=Diego 	[San=Diego] <hum> <*> PROP M S @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Califórnia 	[Califórnia] <civ> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-4
+Os 	[o] <*> <artd> DET M P @>N  
+dois 	[dois] <card> NUM M P @>N  
+nascimentos 	[nascimento] <event> N M P @SUBJ>  
+$, 
+ocorridos 	[ocorrer] <vN> <mv> V PCP M P @ICL-N<PRED  
+em 	[em] PRP @<ADVL  
+1º 	[1º] <NUM-ord> <jh> ADJ M S @P<  
+e 	[e] <cjt-head> KC @NPHR  
+3 	[3] <card> NUM M/F P @ADVL>  
+de 	[de] <np-close> PRP @N<  
+abril 	[abril] N M S @P<  
+$, 
+marcam 	[marcar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+início 	[início] <temp> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+uma 	[um] <arti> DET F S @>N  
+nova 	[novo] ADJ F S @>N  
+fase 	[fase] <per> N F S @P<  
+para 	[para] PRP @<ADVL  
+um 	[um] <arti> DET M S @>N  
+projeto 	[projeto] <sem-c> N M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+já 	[já] ADV @<ADVL  
+atraía 	[atrair] <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  
+interesse 	[interesse] <am> N M S @<ACC  
+$_  
+o 	[o] <artd> DET M S @>N  
+Frozen=Zoo 	[Frozen=Zoo] <inst> <*> PROP M S @<SUBJ  
+$( 
+ou 	[ou] <cjt> KC @NPHR  
+Zoológico=Congelado 	[Zoológico=Congelado] <hum> <*> <np-close> PROP M S @APP  
+$, 
+em 	[em] <sam-> PRP @A<  
+a 	[o] <-sam> <artd> DET F S @>N  
+tradução 	[tradução] <sem-c> <act> N F S @P<  
+para 	[para] <np-close> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+português 	[português] <Hnat> <ling> N M S @P<  
+$) 
+$. 
+</s>
+
+$S-5
+A 	[o] <*> <artd> DET F S @>N  
+idéia 	[idéia] <sem-c> N F S @SUBJ>  
+$, 
+iniciada 	[iniciado] <jh> <np-close> ADJ F S @N<PRED  
+em 	[em] PRP @ADVL>  
+1976 	[1976] <card> <date> <year> NUM M/F S @P<  
+$, 
+era 	[ser] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+coletar 	[coletar] <cjt-head> <vH> <mv> V INF @ICL-<SC  
+e 	[e] <cjt-head> KC @NPHR  
+preservar 	[preservar] <cjt> <vH> <mv> V INF @ICL-<SC  
+criogenicamente 	[criogenicamente] <DERS> ADV @<ADVL  
+$( 
+em 	[em] PRP @<ADVL  
+baixas 	[baixo] ADJ F P @>N  
+temperaturas 	[temperatura] <f-q> N F P @P<  
+$) 
+amostras 	[amostra] <cc> N F P @<ACC  
+celulares 	[celular] <nh> <np-close> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+animais 	[animal] <Azo> N M P @P<  
+ameaçados 	[ameaçar] <vH> <np-close> V PCP M P @N<  
+de 	[de] <np-close> PRP @N<  
+extinção 	[extinção] <act> <event> N F S @P<  
+$, 
+com 	[com] <np-close> PRP @N<PRED  
+a 	[o] <artd> DET F S @>N  
+esperança 	[esperança] <am> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+estudar- 	[estudar] <hyfen> <vH> <mv> V INF @ICL-P<  
+los 	[eles] PERS M 3P ACC @<ACC  
+e 	[e] <cjt> KC @NPHR  
+$, 
+quem 	[quem] <clb> <clb-fs> <rel> SPEC M/F S @SUBJ>  
+sabe 	[saber] <mv> V PR 3S IND VFIN @FS-<ACC  
+$, 
+ressuscitar- 	[ressuscitar] <hyfen> <vH> <mv> V INF @ICL-UTT  
+los 	[eles] PERS M 3P ACC @<ACC  
+quando 	[quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+a 	[o] <artd> DET F S @>N  
+tecnologia 	[tecnologia] <domain> N F S @SUBJ>  
+assim 	[assim] <kc> ADV @ADVL>  
+o 	[ele] PERS M 3S ACC @ACC>  
+permitisse 	[permitir] <vH> <mv> V IMPF 3S SUBJ VFIN @FS-<ADVL  
+$. 
+</s>
+
+$S-6
+Hoje 	[hoje] <*> ADV @ADVL>  
+$, 
+a 	[o] <artd> DET F S @>N  
+coleção 	[coleção] <coll-cc> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Frozen=Zoo 	[Frozen=Zoo] <inst> <*> PROP M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+é 	[ser] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+coordenado 	[coordenar] <vH> <mv> V PCP M S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+geneticista 	[geneticista] <Hprof> N M S @P<  
+Oliver=Ryder 	[Oliver=Ryder] <hum> <*> <np-close> PROP M S @N<  
+$, 
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+maior 	[grande] <n> <KOMP> <jh> ADJ F S @<SC  
+de 	[de] <sam-> PRP @KOMP<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+$. 
+</s>
+
+$S-7
+São 	[ser] <*> <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+cerca=de 	[cerca=de] ADV @>A  
+1.800 	[1.800] <card> NUM F P @>N  
+amostras 	[amostra] <cjt-head> <cc> N F P @<SC  
+e 	[e] KC @NPHR  
+335 	[335] <card> NUM F P @>N  
+espécies 	[espécie] <cjt> <meta> <A> N F P @<SC  
+diferentes 	[diferente] <nh> <np-close> ADJ F P @N<  
+com 	[com] <np-long> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+material 	[material] <mat> <mat-cloth> <cc-r> <cm> N M S @P<  
+genético 	[genético] <nh> <np-close> ADJ M S @N<  
+preservado 	[preservar] <vH> <np-close> V PCP M S @N<PRED  
+$. 
+</s>
+
+$S-8
+O 	[o] <*> <artd> DET M S @>N  
+material 	[material] <mat> <mat-cloth> <cc-r> <cm> N M S @SUBJ>  
+vai 	[ir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+desde 	[desde] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+notórios 	[notório] <cjt-head> <n> <jh> ADJ M P @P<  
+pandas 	[pando] <cjt> <jh> ADJ F P @P<  
+e 	[e] KC @NPHR  
+condores 	[condor] <cjt> <Aorn> N M P @P<  
+até 	[até] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+menos 	[menos] <quant> <KOMP> ADV @>A  
+conhecidos 	[conhecido] ADJ M P @>N  
+bantengs 	[banteng] N M P @P<  
+$_  
+parentes 	[parente] ADJ M/F P @>N  
+asiáticos 	[asiático] <nat> ADJ M P @<PRED  
+raros 	[raro] ADJ M P @<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+gado 	[gado] <AAdom> N M S @P<  
+comum 	[comum] <np-close> ADJ M S @N<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+estão 	[estar] <vK> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+à=beira=de 	[à=beira=de] <sam-> PRP @<SC  
+o 	[o] <artd> <-sam> DET M S @>N  
+esquecimento 	[esquecimento] <event> N M S @P<  
+$. 
+</s>
+
+$S-9
+Hoje 	[hoje] <*> ADV @ADVL>  
+há 	[haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+menos=de 	[menos=de] <quant> ADV @<ADVL  
+10 	[10] <cjt-head> <card> NUM M/F P @<ACC  
+$mil  
+exemplares 	[exemplár] <cjt> <cc-r> N M P @<ACC 	[exemplar] <cc> N M P @<ACC  
+remanescentes 	[remanescente] <nh> <np-close> ADJ M P @N<  
+$. 
+</s>
+
+$S-10
+A 	[o] <clb> <*> <artd> DET F S @>N  
+primeira 	[primeiro] <clb> <NUM-ord> <jh> ADJ F S @>N  
+tentativa 	[tentativa] <act-d> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+trazer 	[trazer] <mv> V INF 3S @ICL-P<  
+um 	[um] <arti> DET M S @>N  
+membro 	[membro] <an> <H> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Frozen=Zoo 	[Frozen=Zoo] <org> <*> PROP M S @P<  
+de=volta 	[de=volta] <pp> ADV @<ADVL  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+animais 	[animal] <Azo> N M P @P<  
+perdidos 	[perdido] <np-close> ADJ M P @N<  
+foi 	[ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+com 	[com] <cjt-head> PRP @<SC  
+um 	[um] <arti> DET M S @>N  
+gauro 	[gauro] <Adom> N M S @P<  
+$, 
+outra 	[outro] <diff> <KOMP> DET F S @>N  
+espécie 	[espécie] <cjt> <meta> <A> N F S @<SC  
+rara 	[raro] <np-close> ADJ F S @N<  
+de 	[de] <np-close> PRP @N<  
+gado 	[gado] <AAdom> N M S @P<  
+$. 
+</s>
+
+$S-11
+Uma 	[um] <*> <arti> DET F S @>N  
+gravidez 	[gravidez] <state-h> <per> N F S @SUBJ>  
+acabou 	[acabar] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+levando 	[levar] <clb> <mv> V GER @ICL-AUX<  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+nascimento 	[nascimento] <event> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+animal 	[animal] <Azo> N M S @P<  
+$, 
+em 	[em] PRP @<ADVL  
+2001 	[2001] <card> <date> <year> NUM M/F S @P<  
+$. 
+</s>
+
+$S-12
+O 	[o] <*> <artd> DET M S @>N  
+clone 	[clone] <A> <H> N M S @SUBJ>  
+morreu 	[morrer] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+dois 	[dois] <card> NUM M P @>N  
+dias 	[dia] <temp> <dur> <per> N M P @>A  
+depois 	[depois] <np-close> ADV @N< @<ADVL  
+$. 
+</s>
+
+$S-13
+Os 	[o] <*> <artd> DET M P @>N  
+dois 	[dois] <card> NUM M P @>N  
+bantengs 	[banteng] N M P @SUBJ>  
+produzidos 	[produzir] <mv> <np-close> V PCP M P @ICL-N<  
+em 	[em] PRP @<ADVL  
+Iowa 	[Iowa] <hum> <*> PROP M S @P<  
+já 	[já] ADV @ADVL>  
+viveram 	[viver] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+mais 	[mais] ADV @<ADVL  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+isso 	[isso] <dem> SPEC M S @<ACC  
+$. 
+</s>
+
+$S-14
+Um 	[um] <*> <card> NUM M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+eles 	[eles] <-sam> PERS M 3P NOM/PIV @P<  
+$, 
+nascido 	[nascer] <jh> <mv> V PCP M S @ICL-N<PRED  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+dia 	[dia] <temp> <dur> <per> N M S @P<  
+1º 	[1º] <NUM-ord> <np-close> ADJ M S @N<  
+$, 
+está 	[estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+em 	[em] PRP @<SA  
+boa 	[bom] ADJ F S @>N  
+saúde 	[saúde] <state-h> N F S @P<  
+$. 
+</s>
+
+$S-15
+O 	[o] <*> <artd> DET M S @>N  
+segundo 	[segundo] <n> <NUM-ord> <jh> ADJ M S @SUBJ>  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+mais 	[mais] ADV @<ADVL  
+debilitado 	[debilitar] V PCP M S @<SC  
+$. 
+</s>
+
+$S-16
+Mas 	[mas] <*> KC @NPHR  
+Ryder 	[Ryder] <hum> <*> PROP M S @SUBJ>  
+não 	[não] ADV @ADVL>  
+arrisca 	[arriscar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+palpite 	[palpite] <event> N M S @<ACC  
+sobre 	[sobre] <clb> PRP @ADVL>  
+qual 	[qual] <clb-fs> <rel> DET M/F S @P<  
+de 	[de] <sam-> PRP @ADVL>  
+eles 	[eles] <-sam> PERS M 3P NOM/PIV @P<  
+pode 	[poder] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+sobreviver 	[sobreviver] <vH> <mv> V INF @ICL-AUX<  
+$. 
+</s>
+
+$S-17
+$"  
+Até=mesmo 	[até=mesmo] <*1> <*> ADV @ADVL>  
+o 	[o] <dem> DET M S @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+está 	[estar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+bem 	[bem] <quant> ADV @<SA  
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC>>  
+mudar 	[mudar] <mv> V INF @ICL-AUX<  
+de 	[de] PRP @<PIV  
+condição 	[condição] <sem-c> <sit> <state> N F S @P<  
+de 	[de] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+noite 	[noite] <per> <temp> N F S @P<  
+para 	[para] <np-close> PRP @N< @<ADVL  
+o 	[o] <artd> DET M S @>N  
+dia 	[dia] <*2> <temp> <dur> <per> N M S @P<  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+$. 
+</s>
+
+$S-18
+A 	[o] <*> <artd> DET F S @>N  
+fase 	[fase] <per> N F S @NPHR  
+crítica 	[crítico] <np-close> ADJ F S @N<  
+para 	[para] PRP @ADVL>  
+os 	[o] <artd> DET M P @>N  
+dois 	[dois] <card> NUM M P @>N  
+animais 	[animal] <nh> ADJ M P @>N  
+é 	[é] <newlex> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+duas	[duas] NUM F P @P<  
+a	[a] PRP @N<  
+três	[três] NUM F P @>N  
+semanas 	[semana] <dur> N F P @P<  
+$. 
+</s>
+
+$S-19
+Depois 	[depois] <*> ADV @ADVL>  
+de 	[de] <sam-> PRP @A<  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+período 	[período] <per> N M S @P<  
+$, 
+quem 	[quem] <clb> <rel> SPEC M/F S @SUBJ>  
+sobreviver 	[sobreviver] <predco> <cjt-head> <vH> <fmc> <mv> V FUT 3S SUBJ VFIN @FS-STA  
+será 	[ser] <nosubj> <cjt> <fmc> <aux> V FUT 3S IND VFIN @FS-STA  
+levado 	[levar] <mv> V PCP M S @ICL-AUX<  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+Zôo=de=San=Diego 	[Zôo=de=San=Diego] <inst> <*> PROP M S @P<  
+$, 
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+viverá 	[viver] <vH> <mv> <np-close> V FUT 3S IND VFIN @FS-N<  
+com 	[com] PRP @<PIV  
+seus 	[seu] <si> <poss 3S> DET M P @>N  
+colegas 	[colega] <Hfam> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+espécie 	[espécie] <meta> <A> N F S @P<  
+$. 
+</s>
+
+$S-20
+A 	[o] <*> <artd> DET F S @>N  
+equipe 	[equipe] <HH> N F S @SUBJ>  
+não 	[não] ADV @ADVL>  
+tem 	[ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+planos 	[plano] <sem-c> <Labs> N M P @<ACC  
+futuros 	[futuro] <jh> <np-close> ADJ M P @N<  
+de 	[de] <np-close> PRP @N<  
+clonagem 	[clonagem] <act> N F S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+momento 	[momento] <dur> <f-q> N M S @P<  
+$. 
+</s>
+
+$S-21
+$"  
+Agora 	[agora] <*> <*1> <kc> ADV @ADVL>  
+queremos 	[querer] <clb-fs> <vH> <mv> <quote> V PR 1P IND VFIN @FS-ACC>>  
+ver 	[ver] <vH> <mv> V INF @ICL-<ACC  
+como 	[como] <clb> <clb-fs> <interr> ADV @ADVL>  
+esses 	[esse] <dem> DET M P @>N  
+animais 	[animal] <Azo> N M P @SUBJ>  
+se 	[se] <refl> PERS M 3P ACC @ACC>  
+comportam 	[comportar] <mv> V PR 3P IND VFIN @FS-<ACC  
+e 	[e] KC @NPHR  
+como 	[como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+se 	[se] <refl> PERS M 3P ACC @ACC>  
+reproduzem 	[reproduzir] <*2> <vH> <mv> V PR 3P IND VFIN @FS-ADVL>  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Ryder 	[Ryder] <hum> <*> PROP M S @<SUBJ  
+$. 
+</s>
+
+$S-22
+$"  
+Esse 	[esse] <*> <*1> <dem> DET M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+projeto 	[projeto] <sem-c> N M S @<SC  
+para 	[para] <np-close> PRP @N<  
+os 	[o] <artd> DET M P @>N  
+próximos 	[próximo] ADJ M P @>N  
+cinco 	[cinco] <card> NUM M P @>N  
+ou 	[ou] KC @NPHR  
+seis 	[seis] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$. 
+$"  
+</s>
+
+$S-23
+Os 	[o] <*> <artd> DET M P @>N  
+dois 	[dois] <card> NUM M P @>N  
+filhotes 	[filhote] <H> N M P @SUBJ>  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+ainda 	[ainda] ADV @>A  
+não 	[não] ADV @ADVL>  
+têm 	[ter] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+nome 	[nome] <percep-f> <ac-cat> N M S @<ACC  
+$, 
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+cópias 	[cópia] <cc-r> N F P @<SC  
+genéticas 	[genético] <nh> <np-close> ADJ F P @N<  
+idênticas 	[idêntico] <np-long> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+banteng 	[banteng] N M S @P<  
+macho 	[macho] <np-close> ADJ M S @N<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+morreu 	[morrer] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Parque=Selvagem=Animal 	[Parque=Selvagem=Animal] <top> <*> PROP M S @P<  
+de 	[de] <np-close> PRP @N<  
+San=Diego 	[San=Diego] <hum> <*> PROP M S @P<  
+em 	[em] PRP @<ADVL  
+1980 	[1980] <card> <date> <year> NUM M/F S @P<  
+$. 
+</s>
+
+$S-24
+Em 	[em] <*> <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+início 	[início] <temp> N M S @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+ACT 	[ACT] <org> <*> PROP F S @SUBJ>  
+preparou 	[preparar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+30 	[30] <card> NUM M P @>N  
+óvulos 	[ovo] <anorg> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+vaca 	[vaca] <Adom> <food> N F S @P<  
+$, 
+extraindo- 	[extrair] <hyfen> <vH> <mv> V GER @ICL-<ADVL  
+lhes 	[eles] PERS M/F 3P DAT @<DAT  
+o 	[o] <artd> DET M S @>N  
+núcleo 	[núcleo] <Labs> N M S @<ACC @SUBJ>  
+e 	[e] KC @NPHR  
+fundindo- 	[fundir] <clb> <hyfen> <mv> V GER @ICL-<ADVL  
+os 	[eles] PERS M 3P ACC @<ACC  
+com 	[com] PRP @<ADVL  
+células 	[célula] <Acell> <Lh> <HH> N F P @P<  
+adultas 	[adulto] <jh> <np-close> ADJ F P @N<  
+preservadas 	[preservar] <vH> <np-long> V PCP F P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+banteng 	[banteng] N M S @P<  
+de 	[de] <np-close> PRP @N<  
+San=Diego 	[San=Diego] <hum> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-25
+A 	[o] <*> <artd> DET F S @>N  
+fusão 	[fusão] <cm-liq> <act> <event> <occ> N F S @SUBJ>  
+$, 
+feita 	[feita] <act> <temp> <np-close> N F S @N<PRED  
+com 	[com] <np-close> PRP @ADVL> @N<PRED  
+ajuda 	[ajuda] <am> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+choque 	[choque] <event> <sick> N M S @P<  
+elétrico 	[elétrico] <nh> <np-close> ADJ M S @N<  
+$, 
+faz 	[fazer] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+com 	[com] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+óvulo 	[óvulo] <anorg> N M S @SUBJ>  
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  
+comporte 	[comportar] <mv> V PR 3S SUBJ VFIN @FS-P<  
+como=se 	[como=se] <clb> <clb-fs> KS @SUB  
+tivesse 	[ter] <aux> V IMPF 3S SUBJ VFIN @FS-<ADVL  
+sido 	[ser] <aux> V PCP @ICL-AUX<  
+fertilizado 	[fertilizar] <vH> <mv> V PCP M S @ICL-AUX<  
+$, 
+iniciando 	[iniciar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+o 	[o] <artd> DET M S @>N  
+processo 	[processo] <occ> <process> <activity> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+divisão 	[divisão] <act-d> <HH> <ac> N F S @P<  
+celular 	[celular] <nh> <np-close> ADJ F S @N<  
+e 	[e] KC @NPHR  
+criando 	[criar] <clb> <mv> V GER @ICL-<ADVL  
+um 	[um] <arti> DET M S @>N  
+embrião 	[embrião] <Hbio> N M S @<ACC  
+$. 
+</s>
+
+$S-26
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+é 	[ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+então 	[então] <kc> ADV @ADVL>  
+implantado 	[implantar] <vH> <mv> V PCP M S @ICL-AUX<  
+em 	[em] <sam-> PRP @<ADVL  
+uma 	[um] <-sam> <arti> DET F S @>N  
+vaca 	[vaca] <Adom> <food> N F S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  
+serve 	[servir] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+como 	[como] <prd> <adv-rel> PRP @<SC  
+barriga 	[barriga] <asarg> <an> <con> <sem-r> N F S @P<  
+de=aluguel 	[de=aluguel] <pp> ADJ @N<  
+$. 
+</s>
+
+$S-27
+Clonar 	[clonar] <*> <mv> V INF @ICL-UTT  
+animais 	[animal] <Azo> N M P @SUBJ>  
+continua 	[continuar] <vH> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+sendo 	[ser] <clb> <vK> <mv> V GER @ICL-AUX<  
+uma 	[um] <arti> DET F S @>N  
+tarefa 	[tarefa] <ac> N F S @<SC  
+difícil 	[difícil] <nh> <np-close> ADJ F S @N<  
+$. 
+</s>
+
+$S-28
+De 	[de] <*> <sam-> PRP @ADVL>  
+os 	[o] <-sam> <artd> DET M P @>N  
+30 	[30] <card> NUM M P @>N  
+embriões 	[embrião] <Hbio> N M P @P<  
+originais 	[original] <jh> <np-close> ADJ M P @N<  
+$, 
+11 	[11] <card> NUM M/F P @SUBJ>  
+resultaram 	[resultar] <vN> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+em 	[em] PRP @<PIV  
+gravidez 	[gravidez] <state-h> <per> N F S @P<  
+$. 
+</s>
+
+$S-29
+De 	[de] <sam-> <*> PRP @ADVL>  
+esses 	[esse] <dem> <-sam> DET M P @P<  
+$, 
+só 	[só] ADV @>N  
+dois 	[dois] <card> NUM M/F P @SUBJ>  
+chegaram 	[chegar] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+nascimento 	[nascimento] <event> N M S @P<  
+$. 
+</s>
+
+$S-30

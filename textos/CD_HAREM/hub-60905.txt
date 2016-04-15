@@ -1,0 +1,15 @@
+
+
+Distribuição de jornais gratuitos quase duplicou <EM ID="hub-60905-61" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >este ano</EM>
+
+O número de jornais gratuitos nacionais distribuídos <EM ID="hub-60905-60" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos nove primeiros meses deste ano</EM> quase duplicou em relação <EM ID="hub-60905-51" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao mesmo período de 2006</EM>, ultrapassando os <EM ID="hub-60905-52" CATEG="VALOR" TIPO="QUANTIDADE"  >600 mil</EM> exemplares, de acordo com dados <EM ID="hub-60905-100" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM> divulgados pela <EM ID="hub-60905-62" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >APCT</EM>. 
+
+A subida deveu-se sobretudo ao lançamento de dois novos títulos - o <EM ID="hub-60905-63" CATEG="COISA" TIPO="CLASSE"  >Global Notícias</EM> e o <EM ID="hub-60905-64" CATEG="COISA" TIPO="CLASSE"  >Meia-Hora</EM> que, em conjunto, representam <EM ID="hub-60905-53" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 235 mil</EM> exemplares - mas também a um crescimento das tiragens dos principais jornais gratuitos que já existiam.
+
+Entre os mais antigos, o maior crescimento foi registado pelo <EM ID="hub-60905-65" CATEG="COISA" TIPO="CLASSE"  >Metro</EM> que passou a distribuir <EM ID="hub-60905-54" CATEG="VALOR" TIPO="QUANTIDADE"  >mais 22.600</EM> exemplares do que fazia <EM ID="hub-60905-66" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano passado</EM>, atingindo <EM ID="hub-60905-67" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >este ano</EM> os <EM ID="hub-60905-55" CATEG="VALOR" TIPO="QUANTIDADE"  >180 mil</EM>.
+
+Com este aumento, o <EM ID="hub-60905-69" CATEG="COISA" TIPO="CLASSE" COREL="hub-60905-65" TIPOREL="ident">Metro</EM> passou a ser o maior jornal gratuito, à frente do <EM ID="hub-60905-70" CATEG="COISA" TIPO="CLASSE"  >Destak</EM> que registou, <EM ID="hub-60905-123" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >este ano</EM>, uma circulação de <EM ID="hub-60905-56" CATEG="VALOR" TIPO="QUANTIDADE"  >173 mil</EM> exemplares (melhorando <EM ID="hub-60905-57" CATEG="VALOR" TIPO="QUANTIDADE"  >5,3 por cento</EM>).
+
+A maior subida em termos relativos foi, no entanto, protagonizada pelo económico gratuito <EM ID="hub-60905-71" CATEG="COISA" TIPO="CLASSE"  >Oje</EM> que aumentou a sua circulação em <EM ID="hub-60905-58" CATEG="VALOR" TIPO="QUANTIDADE"  >quase 56 por cento</EM>, passando para os <EM ID="hub-60905-59" CATEG="VALOR" TIPO="QUANTIDADE"  >22 mil</EM> exemplares.
+
+Refira-se que os dados <EM ID="hub-60905-101" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM> divulgados pela <EM ID="hub-60905-75" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-60905-62" TIPOREL="ident">APCT</EM> não contabilizam ainda o jornal lançado pelo <EM ID="hub-60905-73" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Público</EM> e <EM ID="hub-60905-74" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >A Bola</EM>, o <EM ID="hub-60905-72" CATEG="COISA" TIPO="CLASSE"  >Sexta-feira</EM>.

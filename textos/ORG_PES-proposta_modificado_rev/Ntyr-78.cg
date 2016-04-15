@@ -1,0 +1,58 @@
+$S-1
+Em	 [em] <sam-> PRP @ADVL> O
+este	 [este] <dem> <-sam> DET M S @>N O
+arco	 [arco] <Labs> N M S @P< O
+temporal	 [temporal] <nh> <np-close> ADJ M S @N< O
+de	 [de] <np-close> PRP @N< O 
+15	 [15] <card> NUM M P @>N O
+anos	 [ano] <per> <temp> <dur> <unit> N M P @P< O
+$, O
+o	 [o] <artd> DET M S @>N O
+CCB	 [CCB] <org> PROP M S @SUBJ> ORG O
+apresentou	 [apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+público	 [público] <HH> N M S @P< O
+de	 [de] <np-close> PRP @N< O 
+Lisboa	 [Lisboa] <civ> PROP F S @P< O
+artistas	 [artista] <Hprof> N M/F P @<ACC O
+tão	 [tão] <KOMP> <quant> ADV @<ADVL O
+diversos	 [diversos] <quant> DET M P @<OC O
+como	 [como] <com> <adv-rel> PRP @KOMP< O
+Sviatoslav=Richter	 [Sviatoslav=Richter] <hum> <asarg> PROP M/F S @P< PES O
+e	 [e] <co-acc> KC @CO O
+Cecilia=Bartoli	 [Cecilia=Bartoli] <org> <asarg> PROP F S @P< O
+$, O
+Pina=Bausch=et=Pippo=Delbono	 [Pina=Bausch=et=Pippo=Delbono] <org> PROP F S @<ACC O
+$, O
+Peter=Brook	 [Peter=Brook] <hum> PROP M/F S @<ACC O
+e	 [e] <co-acc> KC @CO O
+Jordi=Savall	 [Jordi=Savall] <hum> PROP M/F S @<ACC O
+$, O
+Philip=Glass=et=Keith=Jarrett	 [Philip=Glass=et=Keith=Jarrett] <org> PROP M/F S @<ACC	 [Philip=Glass=et=Keith=Jarrett] PROP F S @<ACC O
+$, O
+a	 [o] <artd> DET F S @>N O
+Royal=Shakespeare=Company	 [Royal=Shakespeare=Company] <org> <np-close> PROP F S @APP O 
+e	 [e] <co-acc> KC @CO O
+o	 [o] <artd> DET M S @>N O
+Piccolo=Teatro=di=Milano	 [Piccolo=Teatro=di=Milano] <hum> <np-close> PROP M S @APP O 
+$, O
+Robert=Lepage	 [Robert=Lepage] <hum> PROP M/F S @<ACC O
+e	 [e] KC @CO O
+a	 [o] <artd> DET F S @>N O
+companhia	 [companhia] <asarg> <HH> N F S @P< O
+Cheek	 [Cheek] <org> <np-close> PROP F S @N< O 
+by	 [by] <np-long> PRP @N< O
+Jowl	 [Jowl] <hum> PROP M/F S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+companhia	 [companhia] <asarg> <HH> N F S @P< @P< O
+de	 [de] <np-close> PRP @N< O
+ópera	 [ópera] <sem-l> <inst> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Teatro=Mariinski=de=S.=Petersburgo	 [Teatro=Mariinski=de=S.=Petersburgo] <inst> PROP M S @P< O
+e	 [e] <co-prparg> KC @CO O
+The=Wooster=Group	 [The=Wooster=Group] <org> PROP M/F S @P< O
+$. O
+</s>

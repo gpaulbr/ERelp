@@ -1,0 +1,65 @@
+$S-4
+Orientado 	[orientar]   <vH> <mv> V PCP M S @ICL-PRED>   O
+por 	[por] PRP @<PASS   O
+Ricardo=Diaz 	[Ricardo=Diaz] <hum>   PROP M S @P<   O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Universidade=Federal 	[Universidade=Federal] <inst>   PROP F S @P<   O
+de 	[de] <np-close> PRP @N<   O
+São=Paulo 	[São=Paulo] <civ>   PROP M S @P< 	[São=Paulo]   <newlex> PROP M S @P<  LOCAL O
+$, 
+Matos 	[Matos] <hum>   PROP M S @SUBJ>  ORG O
+fez 	[fazer] <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+de 	[de] <sam-> PRP @<ADVL   O
+essa 	[esse] <-sam> <dem> DET F S @>N   O
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<   O
+seu 	[seu] <si> <poss 3S> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+doutorado 	[doutorado] <pos-soc> N M S @P<   O
+$. 
+</s>
+$S-12
+O 	[o]   <artd> DET M S @>N   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>   O
+brasileiro 	[brasileiro] <nat> <jh> <np-close> ADJ M S @N<   O
+$, 
+junto=com 	[junto=com] PRP @ADVL>   O
+outros 	[outro] <diff> <KOMP> DET M P @>N   O
+dois 	[dois] <card> NUM M P @P<   O
+$, 
+feitos 	[feito] <act> <np-close> N M P @N<PRED   O
+em 	[em] <sam-> PRP @ADVL>   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Alemanha 	[Alemanha] <civ>   PROP F S @P<  LOCAL O
+e 	[e] KC @NPHR   O
+em 	[em] <sam-> PRP @ADVL>   O
+os 	[o] <artd> <-sam> DET M P @>N   O
+Eua 	[Eua] <org>   PROP M P @P<  ORG O
+$, 
+coloca 	[colocar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+a 	[o] <artd> DET F S @>N   O
+questão 	[questão] <act-s> <ac> N F S @<ACC   O
+sob 	[sob] PRP @<OA   O
+um 	[um] <arti> DET M S @>N   O
+prisma 	[prisma] <tool> <sem-c> N M S @P<   O
+realista 	[realista] <jh> <np-close> ADJ M S @N<   O
+$. 
+</s>
+$S-19 
+Imagine 	[imaginar]   <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+temos 	[ter] <mv> V PR 1P IND VFIN @FS-<ACC   O
+a 	[o] <artd> DET F S @>N   O
+torcida 	[torcida] <cjt-head> <cord> <cc-light> N F S @<ACC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Flamengo 	[flamengo] <prop>   <Aorn> N M S @P<  ORG O
+e 	[e] KC @NPHR   O
+a 	[o] <cjt> <dem> DET F S @<ACC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+América 	[América] <top>   PROP F S @P<  LOCAL O
+$. 
+</s>

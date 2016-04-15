@@ -1,0 +1,171 @@
+
+    
+      Biografia de
+      <EM ID="gtpppp-61" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Fitacola</EM>
+    
+    
+      Os
+      <EM ID="gtpppp-62" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtpppp-61" TIPOREL="ident">Fitacola</EM>
+      são um grupo de amigos, que
+      <EM ID="gtpppp-120" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >um dia</EM>
+      ,
+      <EM ID="gtpppp-121" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2003</EM>
+      em
+      <EM ID="gtpppp-65" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-61" TIPOREL="natural_de">Coimbra</EM>
+      , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam. O projecto foi continuando nesta toada de brincadeira e divertimento
+      <EM ID="gtpppp-67" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até 2005</EM>
+      , altura em que a banda fixou a formação actual.
+    
+    
+      Desde então, aquilo que começou por ser uma brincadeira de amigos, saiu para fora da garagem. Começaram a surgir concertos e reacções, bastante positivas, ao seu desempenho.
+    
+    
+      Os
+      <EM ID="gtpppp-69" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtpppp-61" TIPOREL="ident">Fitacola</EM>
+      caracterizam-se por um som jovem. Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco. As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos
+      <EM ID="gtpppp-70" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtpppp-61" TIPOREL="ident">Fitacola</EM>
+      para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal.
+    
+    Esta característica de humildade e carisma da banda explica a grande popularidade que a banda atinge entre as camadas mais jovens e faixas etárias estudantes pré-universitárias. A banda é tida como um modelo e exemplo de atitude saudável e activa perante a vida por parte de um número cada vez maior de fãs da banda, que nela se revê e nas suas letras, músicas e atitude.
+    Concertos de maior destaque:
+    
+      <EM ID="gtpppp-71" CATEG="TEMPO" TIPO="DURACAO"  >Em dois anos</EM>
+      a banda já superou a marca dos
+      <EM ID="gtpppp-72" CATEG="VALOR" TIPO="QUANTIDADE"  >75</EM>
+      concertos, entre os quais se destacam:
+    
+    
+        <EM ID="gtpppp-759" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Cercal Rock 9ª edição</EM>.
+    
+    
+      <EM ID="gtpppp-736" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Festival Acção Directa 2005</EM>
+       (
+      <EM ID="gtpppp-75" CATEG="LOCAL" TIPO="HUMANO"  >Açores</EM>
+      <EM ID="gtpppp-76" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-75 gtpppp-736" TIPOREL="incluido sede_de">Ilha Terceira</EM>
+      )
+    
+    
+   <EM ID="gtpppp-740" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Recepção ao Caloiro 2005</EM> (<EM ID="gtpppp-78" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-740" TIPOREL="sede_de">Covilhã</EM>)  com
+      <EM ID="gtpppp-79" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Squeeze theeze pleeze</EM>
+      e
+      <EM ID="gtpppp-80" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Fonzie</EM>
+    
+    
+        <EM ID="gtpppp-743" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="gtpppp-65" TIPOREL="ocorre_em">Queima das Fitas de Coimbra 2006</EM>
+      com
+      <EM ID="gtpppp-82" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Hands on Approach</EM>
+      e
+      <EM ID="gtpppp-83" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Boss AC</EM>
+    
+    
+      <EM ID="gtpppp-15" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Semana Académica da Universidade de Aveiro</EM>  
+      (
+     <EM ID="gtpppp-85" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="gtpppp-15" TIPOREL="data_de">2006</EM>
+      )  com
+      <EM ID="gtpppp-86" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Pluto</EM>
+      e
+      <EM ID="gtpppp-87" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Expensive Soul</EM>
+    
+    
+       <EM ID="gtpppp-88" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Semana Académica 2006</EM>
+   (
+      <EM ID="gtpppp-91" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-88" TIPOREL="sede_de">Castelo Branco</EM>
+      )  com
+      <EM ID="gtpppp-92" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Tara Perdida</EM>
+    
+    
+      <EM ID="gtpppp-93" CATEG="LOCAL" TIPO="HUMANO"  >Hardclub</EM>
+      (
+      <EM ID="gtpppp-95" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-93" TIPOREL="inclui">V.N. Gaia</EM>
+      .) - com
+      <EM ID="gtpppp-96" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Twenty Toon</EM>
+    
+    
+   <EM ID="gtpppp-747" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="gtpppp-740" TIPOREL="outra_edicao">Recepção ao Caloiro 2006</EM>
+  (
+      <EM ID="gtpppp-750" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-747" TIPOREL="sede_de">IPC</EM>
+      )
+      <EM ID="gtpppp-751" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-65 gtpppp-750" TIPOREL="ident inclui">Coimbra</EM>
+      com
+      <EM ID="gtpppp-753" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Peste &amp; Sida</EM>
+      e
+      <EM ID="gtpppp-754" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Asher Lane</EM>
+      (
+      <EM ID="gtpppp-755" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-754" TIPOREL="natural_de">Alemanha</EM>
+      )
+    
+    
+        <EM ID="gtpppp-4" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >RockOff 2006 VI edição</EM> 
+     (
+      <EM ID="gtpppp-762" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-4" TIPOREL="sede_de">Cantanhede</EM>
+      )
+    
+    
+<EM ID="gtpppp-763" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Março Jovem 2006</EM>
+      (<EM ID="gtpppp-14" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-763" TIPOREL="sede_de">C.M. Seixal</EM>)  com
+      <EM ID="gtpppp-767" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Triplet</EM>
+    
+    
+        <EM ID="gtpppp-768" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Vans/Eastpak Club Tour 2007</EM>
+     (
+      <EM ID="gtpppp-769" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-768" TIPOREL="sede_de">Almada</EM>
+      )  com
+      <EM ID="gtpppp-770" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >SK6</EM>
+      ,
+      <EM ID="gtpppp-771" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Humble</EM>
+      ,
+      <EM ID="gtpppp-772" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Devil in Me</EM>
+      ,
+      <EM ID="gtpppp-773" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Tara Perdida</EM>
+      e
+      <EM ID="gtpppp-774" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Strike Anywhere</EM>
+    
+    
+  <EM ID="gtpppp-776" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Sesimbra Xtream Beach Fest 2007</EM>
+      (
+      <EM ID="gtpppp-780" CATEG="LOCAL" TIPO="HUMANO" COREL="gtpppp-776" TIPOREL="sede_de">Sesimbra</EM>
+      )
+    
+    Discografia:
+    
+      Os
+      <EM ID="gtpppp-781" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtpppp-61" TIPOREL="ident">Fitacola</EM>
+      contam para já, apenas com um
+      <EM ID="gtpppp-782" CATEG="COISA" TIPO="CLASSE" COREL="gtpppp-781" TIPOREL="produzido_por">EP</EM>
+      , edição de autor, com
+      <EM ID="gtpppp-783" CATEG="VALOR" TIPO="QUANTIDADE"  >6</EM>
+      musicas, intitulado «
+      <EM ID="gtpppp-784" CATEG="ABSTRACCAO" TIPO="NOME" COREL="gtpppp-782" TIPOREL="nome_de_ident">Rebobina e Pensa</EM>
+      ».
+    
+    Notícias recentes/projectos:
+    
+      <EM ID="gtpppp-785" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Neste nomento</EM>
+      os
+      <EM ID="gtpppp-786" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtpppp-61" TIPOREL="ident">Fitacola</EM>
+      estiveram
+      <EM ID="gtpppp-787" CATEG="TEMPO" TIPO="DURACAO"  >três semanas</EM>
+      em estúdio a gravar aquele que será o seu primeiro álbum. Será composto por
+      <EM ID="gtpppp-788" CATEG="VALOR" TIPO="QUANTIDADE"  >12</EM>
+      temas e o seu lançamento está previsto
+      <EM ID="gtpppp-789" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para os primeiros meses de 2008</EM>
+      .
+    
+    Elementos:
+    
+      <EM ID="gtpppp-790" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtpppp-61" TIPOREL="incluido">Diogo</EM>
+      Guitarra
+    
+    
+      <EM ID="gtpppp-791" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtpppp-61" TIPOREL="incluido">Libelinha</EM>
+      Baixo/coros
+    
+    
+      <EM ID="gtpppp-792" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtpppp-61" TIPOREL="incluido">Besugo</EM>
+      Guitarra
+    
+    
+      <EM ID="gtpppp-793" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtpppp-61" TIPOREL="incluido">Xico</EM>
+      Bateria/coros
+    
+  

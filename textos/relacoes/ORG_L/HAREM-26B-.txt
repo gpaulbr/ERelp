@@ -1,0 +1,22 @@
+$S-9
+Este	 [este] <*> <dem> DET M S @>N  O
+mesmo	 [mesmo] <diff> <KOMP> DET M S @>N  O
+Governo	 [governo] <prop> <*> <HH> PROP M S @SUBJ> ORG O
+preparou	 [preparar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA B-REL
+as	 [o] <artd> DET F P @>N I-REL
+eleições	 [eleição] <occ> N F P @<ACC I-REL
+para	 [para] <np-close> PRP @N< I-REL
+uma	 [um] <arti> DET F S @>N I-REL
+Assembleia=Nacional=Popular	 [Assembleia=Nacional=Popular] <V> <*> PROP F S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+em	 [em] PRP @ADVL>  O
+5	 [5] <card> NUM M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Julho	 [Julho] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1975	 [1975] <card> <date> <year> NUM M/F P @P<  O
+proclamou	 [proclamar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+a	 [o] <artd> DET F S @>N  O
+independência	 [independência] <am> N F S @<SUBJ  O
+$. O
+</s>

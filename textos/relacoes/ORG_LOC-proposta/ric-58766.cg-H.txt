@@ -1,0 +1,51 @@
+$S-1
+Azeitona=&=Cia	 [Azeitona=&=Cia] <org> PROP F S @NPHR ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Rua=Dias=Ferreira	 [Rua=Dias=Ferreira] <top> PROP F S @P< LOCAL O
+
+$S-2
+Bar=Barata=Ribeiro	 [Bar=Barata=Ribeiro] <inst> PROP M S @NPHR ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+esquina	 [esquina] <Labs> N F S @P< I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+as	 [o] <artd> <-sam> DET F P @>N I-REL
+Ruas=Barata=Ribeiro	 [Ruas=Barata=Ribeiro] <top> PROP F P @P< LOCAL O
+
+$S-3
+BotecoTaco	 [BotecoTaco] <org> PROP M/F S @NPHR ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL B-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Humaitá	 [Humaitá] <top> PROP M S @P< LOCAL O
+
+$S-4
+Aboim	 [Aboim] <org> PROP M/F S @NPHR ORG O
+$, O
+em	 [em] <sam-> PRP @ADVL B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Rua	 [rua] <prop> <Lpath> N F S @P< I-REL
+Souza=Lima	 [Souza=Lima] <top> <np-close> PROP F S @N< LOCAL O
+
+$S-5
+Carlitos	 [Carlitos] <inst> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Rua	 [rua] <prop> <Lpath> N F S @P< I-REL
+Mem=de=Sá	 [Mem=de=Sá] <top> <np-close> PROP F S @N< LOCAL O
+
+$S-6
+Belmonte	 [Belmonte] <inst> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Rua=do=Lavradio	 [Rua=do=Lavradi] <top> PROP F S @P< LOCAL O
+
+$S-7
+Bar=do=Adão=	 [CBar=do=Adão=] <inst> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Rua	 [rua] <prop> <Lpath> N F S @P< I-REL
+Dona=Mariana	 [Dona=Mariana] <top> <np-close> PROP F S @N< LOCAL O

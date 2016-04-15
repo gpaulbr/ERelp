@@ -1,0 +1,132 @@
+
+    
+      <EM ID="hub-16268-1" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >AdC</EM>
+      dá aprovação à compra da
+      <EM ID="hub-16268-2" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Carrefour Portugal</EM>
+      pela
+      <EM ID="hub-16268-3" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Sonae</EM>
+    
+    
+      A
+      <EM ID="hub-16268-4" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-16268-1" TIPOREL="ident">Autoridade da Concorrência</EM>
+      formalizou
+      <EM ID="hub-16268-5" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      a decisão de não oposição à compra da
+      <EM ID="hub-16268-6" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-2" TIPOREL="ident">Carrefour Portugal</EM>
+      pela
+      <EM ID="hub-16268-7" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae Distribuição</EM>
+      , que fica obrigada à alienação, de pelo menos, dois supermercados
+      <EM ID="hub-16268-8" CATEG="COISA" TIPO="CLASSE"  >Modelo</EM>
+      .
+    
+    
+      Além da alienação das lojas
+      <EM ID="hub-16268-9" CATEG="COISA" TIPO="CLASSE" COREL="hub-16268-8" TIPOREL="ident">Modelo</EM>
+      de
+      <EM ID="hub-16268-10" CATEG="LOCAL" TIPO="HUMANO"  >Eiras</EM>
+      , no distrito de
+      <EM ID="hub-16268-11" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-10" TIPOREL="inclui">Coimbra</EM>
+      e de
+      <EM ID="hub-16268-12" CATEG="LOCAL" TIPO="HUMANO"  >Lagoa</EM>
+      , no concelho de
+      <EM ID="hub-16268-13" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-12" TIPOREL="inclui">Portimão</EM>
+      , a
+      <EM ID="hub-16268-14" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae Distribuição</EM>
+      comprometeu-se à desafectação de áreas de vendas do retalho alimentar em
+      <EM ID="hub-16268-15" CATEG="LOCAL" TIPO="HUMANO"  >Paços de Ferreira</EM>
+      ,
+      <EM ID="hub-16268-16" CATEG="LOCAL" TIPO="HUMANO"  >Penafiel</EM>
+      e de
+      <EM ID="hub-16268-17" CATEG="LOCAL" TIPO="HUMANO"  >Valongo</EM>
+      ,
+      <EM ID="hub-16268-18" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-15 hub-16268-16 hub-16268-17" TIPOREL="inclui inclui inclui">Porto</EM>
+      , de acordo com o comunicado
+      <EM ID="hub-16268-20" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      divulgado no site da
+      <EM ID="hub-16268-21" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-16268-1" TIPOREL="ident">Autoridade da Concorrência</EM>
+      .
+    
+    
+      A entidade liderada por
+      <EM ID="hub-16268-22" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-16268-1" TIPOREL="vinculo_inst">Abel Mateus</EM>
+      tinha já comunicado,
+      <EM ID="hub-16268-23" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 10 de Dezembro</EM>
+      , à
+      <EM ID="hub-16268-24" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae Distribuição</EM>
+      , a «decisão provável de não oposição», que se tornou agora efectiva.
+    
+    
+      A
+      <EM ID="hub-16268-26" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae Distribuição</EM>
+      comprometeu-se a cumprir algumas condições para manter uma concorrência efectiva em todos os mercados relevantes analisados pela
+      <EM ID="hub-16268-27" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-16268-1" TIPOREL="ident">Autoridade da Concorrência</EM>
+      , nomeadamente,
+      <EM ID="hub-16268-28" CATEG="LOCAL" TIPO="HUMANO"  >Montijo</EM>
+      ,
+      <EM ID="hub-16268-29" CATEG="LOCAL" TIPO="HUMANO"  >Seixal</EM>
+      ,
+      <EM ID="hub-16268-30" CATEG="LOCAL" TIPO="HUMANO"  >Barreiro</EM>
+      ,
+      <EM ID="hub-16268-31" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-15" TIPOREL="ident">Paços de Ferreira</EM>
+      ,
+      <EM ID="hub-16268-32" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-16" TIPOREL="ident">Penafiel</EM>
+      ,
+      <EM ID="hub-16268-33" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-18" TIPOREL="inclui">Grande Porto</EM>
+      ,
+      <EM ID="hub-16268-34" CATEG="LOCAL" TIPO="HUMANO"  >Viana do Castelo</EM>
+      ,
+      <EM ID="hub-16268-35" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-11" TIPOREL="ident">Coimbra</EM>
+      e
+      <EM ID="hub-16268-36" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-13" TIPOREL="ident">Portimão</EM>
+      .
+    
+    
+      Entre os compromissos assumidos pela
+      <EM ID="hub-16268-37" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae Distribuição</EM>
+      , conta-se ainda o de não apresentar pedidos de novas licenças para retalho de base alimentar nos mercados relevantes
+      <EM ID="hub-16268-38" CATEG="LOCAL" TIPO="HUMANO"  >Montijo</EM>
+      ,
+      <EM ID="hub-16268-39" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-28" TIPOREL="ident">Seixal</EM>
+      ,
+      <EM ID="hub-16268-40" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-30" TIPOREL="ident">Barreiro</EM>
+      ,
+      <EM ID="hub-16268-41" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-15" TIPOREL="ident">Paços de Ferreira</EM>
+      ,
+      <EM ID="hub-16268-42" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-16" TIPOREL="ident">Penafiel</EM>
+      ,
+      <EM ID="hub-16268-43" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-34" TIPOREL="ident">Viana do Castelo</EM>
+      , coimbra e
+      <EM ID="hub-16268-44" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-13" TIPOREL="ident">Portimão</EM>
+      .
+    
+    
+      No mercado relevante de
+      <EM ID="hub-16268-45" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-34" TIPOREL="ident">Viana do Castelo</EM>
+      , a
+      <EM ID="hub-16268-46" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae</EM>
+      terá que alienar o projecto da loja
+      <EM ID="hub-16268-47" CATEG="COISA" TIPO="CLASSE"  >Carrefour</EM>
+      e, se não existir comprador para o projecto, não poderá utilizar a licença num prazo <EM ID="hub-16268-25" CATEG="TEMPO" TIPO="DURACAO"  >de
+      cinco anos</EM>
+      a contar da decisão da
+      <EM ID="hub-16268-49" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-16268-1" TIPOREL="ident">Autoridade</EM>
+      , salvo se, entretanto, tiver aberto ao público algum hipermercado concorrente na região, segundo o comunicado da
+      <EM ID="hub-16268-51" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-16268-1" TIPOREL="ident">AdC</EM>
+      .
+    
+    
+      No
+      <EM ID="hub-16268-52" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-16268-18" TIPOREL="ident">Grande Porto</EM>
+      , a
+      <EM ID="hub-16268-53" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-16268-3" TIPOREL="ident">Sonae</EM>
+      terá que converter o projecto
+      <EM ID="hub-16268-54" CATEG="OBRA" TIPO="PLANO"  >Carrefour</EM>
+      para o
+      <EM ID="hub-16268-55" CATEG="LOCAL" TIPO="HUMANO"  >Campo 24 de Agosto</EM>
+      em supermercado
+      <EM ID="hub-16268-56" CATEG="COISA" TIPO="CLASSE" COREL="hub-16268-8" TIPOREL="ident">Modelo</EM>
+      , o que equivale a uma redução da área afecta à actividade de base alimentar em, pelo menos,
+      <EM ID="hub-16268-57" CATEG="VALOR" TIPO="QUANTIDADE"  >1.500 metros quadrados</EM>
+      .
+    
+  

@@ -1,0 +1,43 @@
+$S-1
+Jogador	 [jogador] <Hprof> N M S @SUBJ> O
+se	 [se] <refl> PERS M/F 3S ACC @ACC> O
+recupera	 [recuperar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+de	 [de] PRP @<ADVL O
+lesão	 [lesão] <f-an> N F S @P< O
+De	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <artd> <-sam> DET F P @>N O
+agências=de=notícias	 [agência=de=notícias] <HH> N F P @P< O
+Dubai	 [Dubai] <org> <np-close> PROP F S @N< O
+$,  O
+Emirados=Árabes=Depois	 [Emirados=Árabes=Depois] <org> <clb> PROP M/F S @SUBJ> O
+de	 [de] PRP @<PRED O
+ser	 [ser] <aux> V INF @ICL-P< O
+cotado	 [cotar] <vH> <mv> V PCP M S @ICL-AUX< O
+para	 [para] PRP @<ADVL O
+vestir	 [vestir] <vH> <mv> V INF @ICL-P< O
+a	 [o] <artd> DET F S @>N O
+camisa	 [camisa] <cloH> N F S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Flamengo	 [flamengo] <prop> <Aorn> N M S @P< ORG O
+$, O
+o	 [o] <artd> DET M S @>N O
+Fenômeno	 [fenômeno] <prop> <ac> N M S @SUBJ> PES O
+parece	 [parecer] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+$, O
+se	 [se] <sub> KS @AS-N< O 
+não	 [não] ADV @>A O
+satisfeito	 [satisfazer] <vH> V PCP M S @>N O
+$, O
+pelo=menos	 [pelo=menos] <quant> ADV @>A O
+conformado	 [conformar] <n> <np-close> V PCP M S @N< O 
+em	 [em] <np-long> PRP @N< O
+retornar	 [retornar] <vH> <mv> V INF @ICL-P< O
+a	 [a] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+grupo	 [grupo] <HH> N M S @P< O
+de	 [de] <sam-> PRP @<SC O
+o	 [o] <artd> <-sam> DET M S @>N O
+Milan	 [Milan] <inst> PROP M S @P< O
+$. O
+</s>

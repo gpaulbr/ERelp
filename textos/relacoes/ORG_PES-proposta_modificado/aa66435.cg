@@ -1,0 +1,9 @@
+$S-1
+Miguel=Sousa=Tavares	 [Miguel=Sousa=Tavares] <hum> PROP M S @NPHR PES O
+Jornal	 [Jornal] ADJ M S @>N O
+$" O
+Expresso	 [expresso] <prop> <V> N M S @NPHR ORG O
+$" O
+$-- O
+11.02.2006	 [11.02.2006] <<< <<< <card> <<< NUM M/F P @NPHR <<< O
+</s>

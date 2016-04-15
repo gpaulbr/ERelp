@@ -1,0 +1,124 @@
+$S-7
+Sol	 [sol] <*> <Lstar> <ac-sign> N M S <unit> <cm> <cur> @SUBJ>  O
+para	 [para] <np-close> PRP @N<  O
+Todos=Haverá	 [Todos=Haverá] <hum> <*> PROP M/F S @P<  O
+observação	 [observação] <act> <activity> <cc-r> <act-s> N F S @SUBJ>  O
+nocturna	 [noturno] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+céu	 [céu] <Ltop> N M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+telescópios	 [telescópio] <tool> N M P @P<  O
+e	 [e] KC @NPHR  O
+será	 [ser] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+ainda	 [ainda] ADV @ADVL>  O
+apresentado	 [apresentar] <vH> <mv> V PCP M S @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Observatório=Astronómico	 [Observatório=Astronómico] <inst> <*> PROP M S @P< ORG  O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Universidade=de=Coimbra	 [Universidade=de=Coimbra] <inst> <*> PROP F S @P< ORG  O
+$" O
+Sol	 [sol] <*> <Lstar> <ac-sign> <np-close> N M S <unit> <cm> <cur> @N<  O
+para	 [para] PRP @<ADVL  O
+Todos	 [todo] <*> <quant> DET M P @>N  O
+$" O
+$. O
+</s>
+
+$S-10
+A=Nossa=Galáxia	 [A=Nossa=Galáxia] <tit> <*> PROP F S @SUBJ>  O
+O	 [o] <*> <artd> DET M S @>N  O
+NUCLIO	 [NUCLIO] <inst> <*> PROP M S @SUBJ> ORG O
+vai	 [ir] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+por	 [por] PRP @<PIV O
+isso	 [isso] <clb> <dem> SPEC M S @SUBJ> O
+assinar	 [assinar] <vH> <mv> V INF 3S @ICL-P< REL
+sábado	 [sábado] <temp> N M S @<ADVL REL
+um	 [um] <arti> DET M S @>N REL
+protocolo	 [protocolo] <sem-r> N M S @<ACC REL
+com	 [com] PRP @<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+Câmara=Municipal	 [Câmara=Municipal] <inst> <*> PROP F S @P< ORG O
+de	 [de] <np-close> PRP @N<  O
+Cascais	 [Cascais] <civ> <*> PROP M/F S @P<  O
+para	 [para] PRP @<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+Centro=de=Interpretação=Ambiental	 [Centro=de=Interpretação=Ambiental] <inst> <*> PROP M S @SUBJ>  O
+seja	 [ser] <aux> V PR 3S SUBJ VFIN @FS-P<  O
+disponibilizado	 [disponibilizar] <vH> <mv> V PCP M S @ICL-AUX<  O
+para	 [para] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+suas	 [seu] <poss 3S> DET F P @>N  O
+actividades	 [actividade] <act-d> <activity> N F P @P<  O
+junto	 [junto] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+comunidade	 [comunidade] <HH> <am> N F S @P<  O
+escolar	 [escolar] <nh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-13
+Ainda	 [ainda] <*> ADV @>P  O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+sábado	 [sábado] <temp> N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+investigadora	 [investigadora] <Hprof> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Centro=de=Astronomia	 [Centro=de=Astronomia] <inst> <*> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Universidade=do=Porto=Catarina=Lobo	 [Universidade=do=Porto=Catarina=Lobo] <inst> <*> PROP F S @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+estuda	 [estudar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+enxames	 [enxame] <AA> <Aent> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+galáxias	 [galáxia] <Lstar> N F P @P<  O
+$, O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+explicar	 [explicar] <vH> <mv> V INF @ICL-AUX<  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+público	 [público] <HH> N M S @P<  O
+em=geral	 [em=geral] <pp> ADV @<ADVL  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+tipo	 [tipo] <meta> <H> <ac-sign> N M S @SC>  O
+de	 [de] <np-close> PRP @N<  O
+galáxia	 [galáxia] <Lstar> N F S @P<  O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  O
+a	 [o] <artd> DET F S @>N  O
+nossa	 [nosso] <poss 1P> DET F S @<SUBJ  O
+$, O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+se	 [se] <refl> PERS M/F 3P ACC @ACC>  O
+formam	 [formar] <vH> <mv> V PR 3P IND VFIN @FS-<ADVL  O
+e	 [e] KC @NPHR  O
+como	 [como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  O
+evoluem	 [evoluir] <mv> V PR 3P IND VFIN @FS-<ADVL  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+palestra	 [palestra] <talk> <sem-s> N F S @P<  O
+$" O
+A	 [o] <*> <artd> DET F S @>N  O
+nossa	 [nosso] <poss 1P> DET F S @>N  O
+Galáxia	 [galáxia] <prop> <*> <Lstar> N F S @<SUBJ  O
+e	 [e] KC @NPHR  O
+as	 [o] <artd> DET F P @>N  O
+outras	 [outro] <diff> <KOMP> DET F P @<SUBJ  O
+$: O
+Ilhas	 [ilha] <*> <Ltop> N F P @NPHR  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Universo	 [universo] <prop> <*> <Ltop> N M S @P<  O
+$" O
+$. O
+</s>

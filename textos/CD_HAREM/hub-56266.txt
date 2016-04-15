@@ -1,0 +1,108 @@
+
+    
+      Novidades na
+     <EM ID="hub-56266-21" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Macworld 2007</EM>
+     
+    
+      <EM ID="hub-56266-94" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-56266-21" TIPOREL="produtor_de">Apple</EM>
+      lançou o
+      <EM ID="hub-56266-95" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-94" TIPOREL="produzido_por">iPhone</EM>
+      , o telemóvel mais esperado
+      <EM ID="hub-56266-96" CATEG="TEMPO" TIPO="GENERICO"  >dos últimos tempos</EM>
+    
+    
+      Sempre é o
+      <EM ID="hub-56266-97" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-95" TIPOREL="ident">iPhone</EM>
+      , dirão os que acompanharam as especulações e palpites
+      <EM ID="hub-56266-98" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dos últimos meses</EM>
+      . A
+      <EM ID="hub-56266-99" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-56266-94" TIPOREL="ident">Apple</EM>
+      , empresa de tecnologias que tem nos leitores multimédia
+      <EM ID="hub-56266-100" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-94" TIPOREL="produzido_por">iPod</EM>
+      e nos computadores
+      <EM ID="hub-56266-101" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-94" TIPOREL="produzido_por">Macintosh</EM>
+      a sua bandeira, acaba de entrar na área das telecomunicações.
+    
+    
+      O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil. Funciona com o sistema operativo
+      <EM ID="hub-56266-102" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-94" TIPOREL="produzido_por">MacOS X</EM>
+      , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
+    
+    
+      O anúncio foi feito
+      <EM ID="hub-56266-103" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ontem</EM>
+      , em
+      <EM ID="hub-56266-104" CATEG="LOCAL" TIPO="HUMANO"  >São Francisco</EM>
+      , nos
+      <EM ID="hub-56266-105" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-56266-105" TIPOREL="inclui">EUA</EM>
+      , onde decorre a
+      <EM ID="hub-56266-106" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-56266-21 hub-56266-104" TIPOREL="inclui ocorre_em">Macworld</EM>
+      , feira que a
+      <EM ID="hub-56266-107" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-56266-94 hub-56266-106" TIPOREL="ident produtor_de">Apple</EM>
+      organiza
+      <EM ID="hub-56266-108" CATEG="TEMPO" TIPO="FREQUENCIA"  >todos os anos</EM>
+      para apresentar as suas novidades. Como de costume, a conferência de
+      <EM ID="hub-56266-109" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-56266-94 hub-56266-21" TIPOREL="vinculo_inst participante_em">Steve Jobs</EM>
+      , o director-geral da empresa, foi o ponto alto para os fãs da
+      <EM ID="hub-56266-110" CATEG="COISA|ORGANIZACAO" TIPO="CLASSE|EMPRESA" COREL="hub-56266-94" TIPOREL="ORGANIZACAO**ident**hub-56266-94**ORGANIZACAO">Apple</EM>
+      .
+    
+    
+      "
+      <EM ID="hub-56266-111" CATEG="TEMPO" TIPO="FREQUENCIA"  >De vez em quando</EM>
+      chega um produto revolucionário que muda tudo. É sorte se pudermos trabalhar num ao longo da carreira... e a
+      <EM ID="hub-56266-112" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-56266-94" TIPOREL="ident">Apple</EM>
+      é sortuda por já ter lançado vários", disse
+      <EM ID="hub-56266-113" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-56266-109" TIPOREL="ident">Steve Jobs</EM>
+      .
+    
+    
+      O novo telefone vai estar disponível
+      <EM ID="hub-56266-114" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Junho</EM>
+      , nos
+      <EM ID="hub-56266-115" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-56266-105" TIPOREL="ident">EUA</EM>
+      , em duas versões: uma com
+      <EM ID="hub-56266-116" CATEG="VALOR" TIPO="QUANTIDADE" COREL="hub-56266-95" TIPOREL="outrarel">8 gigabytes (GB)</EM>
+      de capacidade de armazenamento, que custará
+      <EM ID="hub-56266-117" CATEG="VALOR" TIPO="MOEDA" COREL="hub-56266-95" TIPOREL="outrarel">600 dólares</EM>
+      , e outra com
+      <EM ID="hub-56266-118" CATEG="VALOR" TIPO="QUANTIDADE" COREL="hub-56266-95" TIPOREL="outrarel">4 GB</EM>
+      , a
+      <EM ID="hub-56266-119" CATEG="VALOR" TIPO="MOEDA" COREL="hub-56266-95" TIPOREL="outrarel">cerca de 500 dólares</EM>
+      . À
+      <EM ID="hub-56266-120" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Europa</EM>
+      chegará
+      <EM ID="hub-56266-122" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no final do ano</EM>
+      , e na
+      <EM ID="hub-56266-123" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Ásia</EM>
+      só
+      <EM ID="hub-56266-124" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2008</EM>
+      . Tem uma câmara fotográfica com
+      <EM ID="hub-56266-125" CATEG="VALOR" TIPO="QUANTIDADE"  >2 megapixels</EM>
+      de resolução e um ecrã táctil com
+      <EM ID="hub-56266-126" CATEG="VALOR" TIPO="QUANTIDADE"  >8,8 centímetros</EM>
+      de diagonal.
+    
+    
+      Nos
+      <EM ID="hub-56266-127" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-56266-105" TIPOREL="ident">EUA</EM>
+      , o telemóvel da
+      <EM ID="hub-56266-128" CATEG="ORGANIZACAO|COISA" TIPO="EMPRESA|CLASSE" COREL="hub-56266-110 hub-56266-110" TIPOREL="ORGANIZACAO**ident**hub-56266-110**ORGANIZACAO COISA**ident**hub-56266-110**COISA">Apple</EM>
+      funcionará na rede
+      <EM ID="hub-56266-130" CATEG="COISA" TIPO="CLASSE"  >Cingular Wireless</EM>
+      . O seu desenvolvimento levou ao registo de
+      <EM ID="hub-56266-131" CATEG="VALOR" TIPO="QUANTIDADE"  >mais de 200</EM>
+      patentes, o que o torna numa das maiores inovações da empresa.
+    
+    
+      O facto de ter o sistema operativo
+      <EM ID="hub-56266-132" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-102" TIPOREL="inclui">OS X</EM>
+      - usado nos computadores da
+      <EM ID="hub-56266-133" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-94" TIPOREL="ident">Apple</EM>
+      - significa que o
+      <EM ID="hub-56266-134" CATEG="COISA" TIPO="CLASSE" COREL="hub-56266-95" TIPOREL="ident">iPhone</EM>
+      terá muitas das funções habituais naquelas máquinas. Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do
+      <EM ID="hub-56266-135" CATEG="ORGANIZACAO|LOCAL" TIPO="EMPRESA|VIRTUAL"  >Google</EM>
+      .
+    
+  

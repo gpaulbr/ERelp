@@ -1,0 +1,252 @@
+$S-1
+Estabilizar 	[estabilizar] <*> <vH> <mv> V INF @ICL-UTT  
+os 	[o] <artd> DET M P @>N  
+níveis 	[nível] <Labs> <tool> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+dióxido 	[dióxido] <cm-chem> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+carbono 	[carbono] <cm-chem> N M S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @P<  
+e 	[e] KC @NPHR  
+evitar 	[evitar] <vH> <mv> V INF @ICL-UTT  
+as 	[o] <artd> DET F P @>N  
+versões 	[versão] <meta> <sem-r> N F P @<ACC  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+assustadoras 	[assustador] <nh> <np-close> ADJ F P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+aquecimento 	[aquecimento] <act> N M S @P<  
+global 	[global] <nh> <np-close> ADJ M S @N<  
+causado 	[causar] <mv> <np-close> V PCP M S @ICL-N<  
+por 	[por] PRP @<PASS  
+esse 	[esse] <dem> DET M S @>N  
+gás 	[gás] <cm-gas> N M S @P<  
+podem 	[poder] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+custar 	[custar] <vN> <mv> V INF @ICL-AUX<  
+1 	[1] <card> NUM M S @>N  
+$% 	[%] N M P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+riqueza 	[riqueza] <am> N F S @P<  
+produzida 	[produzir] <mv> <np-close> V PCP F S @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Terra 	[Terra] <org> <newlex> <*> PROP F S @P<  
+por 	[por] PRP @<ADVL  
+ano 	[ano] <dur> <temp> <per> <unit> N M S @P<  
+$, 
+de=acordo 	[de=acordo] <pp> ADV @<ADVL  
+com 	[com] PRP @A<  
+um 	[um] <arti> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+pesquisadores 	[pesquisador] <Hprof> N M P @P<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+Reino=Unido 	[Reino=Unido] <civ> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-2
+A 	[o] <*> <artd> DET F S @>N  
+estimativa 	[estimativa] <act> N F S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+apresentada 	[apresentar] <vH> <mv> V PCP F S @ICL-AUX<  
+por 	[por] PRP @<PASS  
+John=Schellnhuber 	[John=Schellnhuber] <hum> <*> PROP M S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Centro=Tyndall 	[Centro=Tyndall] <inst> <*> PROP M S @P<  
+em 	[em] <np-close> PRP @N<  
+Norwich 	[Norwich] <civ> <*> PROP M S @P< LOCAL
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+uma 	[um] <-sam> <arti> DET F S @>N  
+conferência 	[conferência] <occ> N F S @P<  
+sobre 	[sobre] <np-close> PRP @N<  
+os 	[o] <artd> DET M P @>N  
+efeitos 	[efeito] <ac> <cc-r> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+mudança 	[mudança] <event> N F S @P<  
+climática 	[climático] <nh> <np-close> ADJ F S @N<  
+durante 	[durante] <np-long> PRP @N<  
+a 	[o] <artd> DET F S @>N  
+reunião 	[reunião] <occ> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+AAAS 	['S] <org> <*> PROP F S @P< ORG
+$. 
+</s>
+
+$S-3
+Capitaneados 	[capitanear] <*> <vH> <mv> V PCP M P @ICL-PRED>  
+por 	[por] PRP @<PASS  
+sir 	[sir] <Htit> N M S @P<  
+David=King 	[David=King] <hum> <*> <np-close> PROP M S @N<  
+$, 
+o 	[o] <artd> DET M S @>N  
+principal 	[principal] <SUP> <jh> ADJ M S @>N  
+assessor 	[assessor] <Hprof> <np-close> N M S @APP  
+científico 	[científico] <nh> <np-close> ADJ M S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @P<  
+britânico 	[britânico] <nat> <jh> <np-close> ADJ M S @N<  
+$, 
+os 	[o] <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <Hprof> N M P @SUBJ>  
+não 	[não] ADV @ADVL>  
+pouparam 	[poupar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+esforços 	[esforço] <act-d> <am> N M P @<ACC  
+para 	[para] <np-close> PRP @N<  
+demonstrar 	[demonstrar] <mv> V INF @ICL-P<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+aquecimento 	[aquecimento] <act> N M S @SUBJ>  
+global 	[global] <nh> <np-close> ADJ M S @N<  
+já 	[já] ADV @ADVL>  
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<ACC  
+pondo 	[pôr] <clb> <mv> V GER @ICL-AUX<  
+em 	[em] PRP @<PIV  
+risco 	[risco] <ac> <ac-sign> N M S @P<  
+as 	[o] <artd> DET F P @>N  
+vidas 	[vida] <cjt-head> <per> N F P @<ACC  
+e 	[e] KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+economia 	[economia] <cjt> <domain> N F S @<ACC  
+humanas 	[humano] <jh> <np-close> ADJ F P @N<  
+em 	[em] <np-long> PRP @N<  
+diversas 	[diversos] <quant> DET F P @>N  
+regiões 	[região] <L> <Ltop> N F P @P<  
+$. 
+</s>
+
+$S-4
+Sir=David 	[Sir=David] <hum> <*> PROP M S @SUBJ>  
+não 	[não] ADV @ADVL>  
+poupou 	[poupar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+críticas 	[crítica] <act-s> N F P @<ACC  
+a 	[a] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+política 	[política] <domain> <sem-c> N F S @P<  
+ambiental 	[ambiental] <nh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+presidente 	[presidente] <Hprof> N M S @P<  
+George=W.=Bush 	[George=W.=Bush] <hum> <*> <np-close> PROP M S @N<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+se 	[se] PERS M/F 3S ACC @ACC>-PASS  
+recusa 	[recusar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+a 	[a] PRP @<PIV  
+apoiar 	[apoiar] <vH> <mv> V INF @ICL-P<  
+o 	[o] <artd> DET M S @>N  
+Protocolo=de=Kyoto 	[Protocolo=de=Kyoto] <tit> <*> PROP M S @<ACC  
+$, 
+tratado 	[tratado] <sem-r> <act-s> <np-close> N M S @N<PRED  
+para 	[para] PRP @<ADVL  
+reduzir 	[reduzir] <mv> V INF @ICL-P<  
+as 	[o] <artd> DET F P @>N  
+emissões 	[emissão] <cjt-head> <ac> <sem-l> <act> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+dióxido 	[dióxido] <cm-chem> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+carbono 	[carbono] <cm-chem> N M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+intensificam 	[intensificar] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+efeito=estufa 	[efeito=estufa] <cjt> <ac> N M S @<ACC  
+$. 
+</s>
+
+$S-5
+Esse 	[esse] <*> <dem> DET M S @>N  
+mecanismo 	[mecanismo] <ac> N M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+equivalente 	[equivalente] <amount> N M S @<SC  
+geológico 	[geológico] <nh> <np-close> ADJ M S @N<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+cobertor 	[cobertor] <Lcover> N M S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+uma 	[um] <-sam> <arti> DET F S @>N  
+noite 	[noite] <per> <temp> N F S @P<  
+fria 	[frio] <np-close> ADJ F S @N<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+aquece 	[aquecer] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+a 	[o] <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Terra 	[Terra] <org> <newlex> <*> PROP F S @P<  
+retendo 	[reter] <clb> <vH> <mv> V GER @ICL-<ADVL  
+radiação 	[radiação] <act> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Sol 	[sol] <prop> <*> <Lstar> <ac-sign> N M S <unit> <cm> <cur> @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+de=outro=modo 	[de=outro=modo] <pp> ADV @ADVL>  
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  
+dissiparia 	[dissipar] <mv> <np-close> V COND 3S VFIN @FS-N<  
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+espaço 	[espaço] <Labs> <Ltop> N M S @P<  
+$. 
+</s>
+
+$S-6
+$"  
+O 	[o] <*> <*1> <artd> DET M S @>N  
+Reino=Unido 	[Reino=Unido] <org> <*> PROP M S @SUBJ>  
+se 	[se] PERS M 3S ACC @ACC>-PASS  
+propôs 	[propor] <clb-fs> <vH> <mv> <quote> V PS 3S IND VFIN @FS-ACC>>  
+a 	[a] PRP @<PIV  
+reduzir 	[reduzir] <mv> V INF @ICL-P<  
+suas 	[seu] <si> <poss 3S> DET F P @>N  
+emissões 	[emissão] <ac> <sem-l> <act> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+gás=carbônico 	[gás=carbônico] <cm-chem> N M S @P<  
+em 	[em] PRP @<ADVL  
+60 	[60] <card> NUM M P @>N  
+$% 	[%] N M P @P<  
+até 	[até] PRP @<ADVL  
+2050 	[2050] <card> <date> <year> NUM M/F P @P<  
+$, 
+e 	[e] <clb> KC @NPHR  
+gostaríamos 	[gostar] <clb-fs> <vH> <mv> <quote> V COND 1P VFIN @FS-ACC>>  
+de 	[de] PRP @<PIV  
+ver 	[ver] <vH> <mv> V INF @ICL-P<  
+os 	[o] <artd> DET M P @>N  
+Eua 	[Eua] <org> <*> PROP M P @SUBJ>  
+tomando 	[tomar] <clb> <vH> <mv> V GER @ICL-<ACC  
+medidas 	[medida] <f-q> <act-d> N F P @<ACC  
+semelhantes 	[semelhante] <nh> <np-close> ADJ F P @N<  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+não 	[não] ADV @ADVL>  
+é 	[ser] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+o 	[o] <dem> DET M S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+está 	[estar] <aux> <np-close> V PR 3S IND VFIN @FS-N<  
+acontecendo 	[acontecer] <*2> <vN> <mv> V GER @ICL-AUX<  
+$"  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+sir 	[sir] <Htit> N M S @<SUBJ  
+David 	[David] <hum> <*> <np-close> PROP M S @N<  
+$. 
+$( 
+</s>
+
+$S-7
+RJL 	[RJL] <org> <*> PROP M/F S @NPHR  
+$) 
+</s>
+
+$S-8

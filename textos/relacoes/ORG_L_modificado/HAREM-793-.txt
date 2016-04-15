@@ -1,0 +1,113 @@
+$S-4
+Finalmente	 [finalmente] <*> ADV @ADVL>  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+PSD	 [PSD] <party> <*> PROP M S @SUBJ> ORG O
+divulga	 [divulgar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+que	 [que] <clb> <clb-fs> KS @SUB REL
+uma	 [um] <arti> DET F S @>N REL
+fábrica	 [fábrica] <build> N F S @SUBJ> REL
+local	 [local] <nh> <np-close> ADJ F S @N< REL
+$, REL
+a	 [o] <artd> DET F S @>N REL
+Ferro-Têxtil	 [Ferro-Têxtil] <org> <*> <np-close> PROP F S @APP ORG O
+$, O
+está	 [estar] <aux> V PR 3S IND VFIN @FS-<ACC  O
+a	 [a] PRP @PRT-AUX<  O
+poluir	 [poluir] <mv> V INF @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N  O
+$" O
+ribeiro	 [ribeiro] <*1> <Lwater> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+peixes	 [peixe] <*2> <Aich> N M P @P<  O
+$" O
+$, O
+colocando	 [colocar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+em=causa	 [em=causa] <pp> ADV @<OA  O
+o	 [o] <artd> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+aproveitamento	 [aproveitamento] <event> N M S @<ACC  O
+para	 [para] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+regas	 [rega] <process> <wea-rain> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+terrenos	 [terreno] <L> <Ltop> N M P @P<  O
+agrícolas	 [agrícola] <np-close> ADJ M P @N<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+circundam	 [circundar] <mv> <np-close> V PR 3P IND VFIN @FS-N<  O
+aquela	 [aquele] <dem> DET F S @>N  O
+área	 [área] <L> <Lh> N F S @<ACC  O
+$. O
+</s>
+
+$S-9
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+mesma	 [mesmo] <diff> <KOMP> DET F S @>N  O
+linha	 [linha] <geom-line> <cord> <Lpath> N F S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+vereador	 [vereador] <Hprof> N M S @SUBJ>  O
+lembra	 [lembrar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+a	 [o] <artd> DET F S @>N  O
+Ferro-Têxtil	 [Ferro-Têxtil] <org> <*> PROP F S @SUBJ> ORG O
+foi	 [ser] <aux> V PS 3S IND VFIN @FS-<ACC O
+licenciada	 [licenciar] <vH> <mv> V PCP F S @ICL-AUX< REL
+por	 [por] <sam-> PRP @<PASS REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Ministério=da=Indústria	 [Ministério=da=Indústria] <inst> <*> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Governo	 [Governo] <inst> <*> PROP M S @P<  O
+cessante	 [cessante] <nh> <np-close> ADJ M S @N<  O
+$, O
+a	 [a] <clb> PRP @PIV>  O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P<  O
+deverá	 [dever] <aux> <np-close> V FUT 3S IND VFIN @FS-N<  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+imputada	 [imputar] <vH> <mv> V PCP F S @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+responsabilidade	 [responsabilidade] <am> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+eventuais	 [eventual] <nh> ADJ M P @>N  O
+problemas	 [problema] <ac> N M P @P<  O
+$. O
+</s>
+
+$S-10
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+mesma	 [mesmo] <diff> <KOMP> DET F S @>N  O
+linha	 [linha] <geom-line> <cord> <Lpath> N F S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+vereador	 [vereador] <Hprof> N M S @SUBJ>  O
+lembra	 [lembrar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+a	 [o] <artd> DET F S @>N  O
+Ferro-Têxtil	 [Ferro-Têxtil] <org> <*> PROP F S @SUBJ>  O
+foi	 [ser] <aux> V PS 3S IND VFIN @FS-<ACC  O
+licenciada	 [licenciar] <vH> <mv> V PCP F S @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Ministério=da=Indústria	 [Ministério=da=Indústria] <inst> <*> PROP M S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Governo	 [Governo] <inst> <*> PROP M S @P< ORG O
+cessante	 [cessante] <nh> <np-close> ADJ M S @N<  O
+$, O
+a	 [a] <clb> PRP @PIV>  O
+quem	 [quem] <clb-fs> <rel> SPEC M/F S/P @P<  O
+deverá	 [dever] <aux> <np-close> V FUT 3S IND VFIN @FS-N<  O
+ser	 [ser] <aux> V INF @ICL-AUX<  O
+imputada	 [imputar] <vH> <mv> V PCP F S @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+responsabilidade	 [responsabilidade] <am> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+eventuais	 [eventual] <nh> ADJ M P @>N  O
+problemas	 [problema] <ac> N M P @P<  O
+$. O
+</s>

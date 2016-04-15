@@ -1,0 +1,87 @@
+$S-2
+Segundo 	[segundo] <clb> <clb-fs>   <rel> <ks> ADV @ADVL>  
+informou 	[informar] <vH> <mv> V PS 3S IND VFIN @FS-ADVL>  
+a 	[o] <artd> DET F S @>N  
+ASI 	[ASI] <org>   PROP F S @<ACC  ORG
+$( 
+agência 	[agência] <HH> <np-close> N F S @N<PRED  
+espacial 	[espacial] <nh> <np-close> ADJ M/F S @N<PRED  
+italiana 	[italiana] <Hnat> <ling> <np-close> N F S @N<  
+$) 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+fim 	[fim] <temp> <event> <sem-c> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+noite 	[noite] <per> <temp> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+ontem 	[ontem] ADV @P<  
+por 	[por] PRP @<ADVL  
+telefone 	[telefone] <tool> N M S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+impacto 	[impacto] <event> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+destroços 	[destroço] <event> N M P @P<  
+teria 	[ter] <fmc> <aux> V COND 3S VFIN @FS-STA  
+ocorrido 	[ocorrer] <vN> <mv> V PCP @ICL-AUX<  
+a 	[a] <sam-> PRP @<PIV  
+as 	[o] <-sam> <artd> DET F P @>N  
+18h06 	[18h06] <temp> N F P @P<  
+$( 
+horário 	[horário] <cc-r> <np-close> N M S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+Brasília 	[Brasília] <civ>   PROP F S @P< 	[Brasília] <newlex>   PROP F S @P<  LOCAL
+$) 
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+uma 	[um] <-sam> <arti> DET F S @>N  
+área 	[área] <L> <Lh> N F S @P<  
+remota 	[remoto] <nh> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+oceano 	[oceano] <Lwater> N M S @P<  
+$. 
+</s>
+
+$S-11
+Como 	[como] <clb> <clb-fs>   <rel> <ks> ADV @ADVL>  
+a 	[o] <artd> DET F S @>N  
+volta 	[volta] <act-d> <unit> N F S @SUBJ>  
+a 	[a] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Terra 	[terra] <prop>   <cm> <Ltop> <BB> <Lstar> N F S @P< ORG 
+não 	[não] ADV @ADVL>  
+foi 	[ser] <aux> V PS 3S IND VFIN @FS-ADVL>  
+realizada 	[realizar] <vH> <mv> V PCP F S @ICL-AUX<  
+de 	[de] PRP @<ADVL  
+forma 	[forma] <percep-f> <con> N F S @P<  
+controlada 	[controlar] <vH> <np-close> V PCP F S @N<  
+$( 
+como 	[como] <clb> <clb-fs> <interr> ADV @ADVL>  
+aconteceu 	[acontecer] <vN> <mv> V PS 3S IND VFIN @FS-<ACC  
+com 	[com] PRP @<ADVL  
+as 	[o] <artd> DET F P @>N  
+135 	[135] <card> NUM F P @>N  
+toneladas 	[tonelada] <unit> <amount> N F P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+estação=espacial 	[estação=espacial] <Lh> N M S @P<  
+Mir 	[Mir] <V>   <np-close> PROP M S @N<  LOCAL
+$, 
+em 	[em] PRP @<ADVL  
+2001 	[2001] <card> <date> <year> NUM M/F S @P<  
+$) 
+$, 
+era 	[ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+impossível 	[impossível] <nh> ADJ M S @<SC  
+prever 	[prever] <vH> <mv> V INF @ICL-<SUBJ  
+exatamente 	[exatamente] ADV @<ADVL  
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @SA>  
+os 	[o] <artd> DET M P @>N  
+destroços 	[destroço] <event> N M P @SUBJ>  
+iriam 	[ir] <aux> V COND 3P VFIN @FS-<ADVL  
+cair 	[cair] <mv> V INF @ICL-AUX<  
+$.
+</s>

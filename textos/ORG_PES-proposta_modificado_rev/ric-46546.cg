@@ -1,0 +1,709 @@
+$S-1
+Só	 [só] ADV @>P O
+para	 [para] PRP @ADVL> O
+a	 [o] <artd> DET F S @>N O
+referência	 [referência] <sem-r> <act-s> <ac> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+importante	 [importante] ADJ F S @>N O
+contribuição	 [contribuição] <ac> <mon> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+São=Paulo	 [São=Paulo] <civ> PROP M S @P< O
+$( O
+USP	 [uSP] <inst> <np-close> N F S @N<PRED ORG O
+$-- O
+1998	 [1998] <card> <year> <date> NUM M/F P @P< O
+$) O
+$, O
+cabe	 [caber] <fmc> <vN> <mv> V PR 3S IND VFIN @FS-STA O
+menção	 [menção] <sem-r> <act-d> N F S @<SUBJ O
+a	 [o] <artd> DET F S @>N O
+recente	 [recente] <nh> ADJ F S @>N O
+tese	 [tese] <sem-r> <sem-c> N F S @PRED> REL
+de	 [de] <np-close> PRP @N< REL
+livre-docência	 [livre-docência] <pos-soc> N F S @P< REL
+de	 [de] <np-long> PRP @N< REL
+Valter=Kehdi	 [Valter=Kehdi] <top> PROP M/F S @P< PES O
+A=Morfologia	 [A=Morfologia] <hum> PROP M/F S @N< O
+e	 [e] <co-fin> KC @CO O
+a	 [a] PRP @<PIV O
+Sintaxe=Portuguesas	 [Sintaxe=Portuguesas] <hum> PROP M/F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Obra=de=J.=Mattoso=Câmara=Jr	 [Obra=de=J.=Mattoso=Câmara=Jr] <hum> PROP F S @P< O
+$. O
+</s>
+
+$S-2
+Uma	 [uma] <card> NUM F S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+elas	 [elas] <-sam> PERS F 3P NOM/PIV @P< O
+$, O
+por=exemplo	 [por=exemplo] ADV @ADVL> O
+$, O
+está	 [estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+em	 [em] <sam-> PRP @<SA O
+a	 [o] <artd> <-sam> DET F S @>N O
+opção	 [opção] <sem-c> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Houaiss	 [Houaiss] <hum> PROP M/F S @P< PES O
+de	 [de] PRP @<ADVL O
+matricular-	 [matricular] <hyfen> <vH> <mv> V INF @ICL-P< O
+se	 [se] <refl> PERS F 3S ACC @<ACC O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Faculdade=Nacional=de=Filosofia	 [Faculdade=Nacional=de=Filosofia] <org> PROP F S @P< ORG O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Curso=de=Letras=Clássicas	 [Curso=de=Letras=Clássicas] <inst> PROP M S @P< O
+$, O
+para	 [para] PRP @<ADVL O
+licenciar-	 [licenciar] <hyfen> <vH> <mv> V INF @ICL-P< O
+se	 [se] PERS F 3S ACC @<ACC-PASS O
+em	 [em] PRP @<ADVL O
+disciplinas	 [disciplina] <am> <domain> N F P @P< O
+$, O
+como	 [como] <prd> <adv-rel> PRP @<SC O
+Grego	 [grego] <asarg> <prop> <Hnat> <ling> N M S @P< O
+e	 [e] <co-fin> KC @CO O
+o	 [o] <artd> DET M S @>N O
+Latim	 [latim] <asarg> <prop> <ling> N M S @P< O
+$, O
+disciplinas	 [disciplina] <asarg> <am> <domain> N F P @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+durante	 [durante] PRP @ADVL> O
+toda=a	 [todo=o] <quant> DET F S @>N O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+vida	 [vida] <per> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+produção	 [produção] <act> <am> N F S @P< O
+científica	 [científico] <nh> <np-close> ADJ F S @N< O 
+não	 [não] ADV @ADVL> O
+ocuparam	 [ocupar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N< O
+o	 [o] <artd> DET M S @>N O
+lugar	 [lugar] <Lciv> <L> <Labs> N M S @<ACC O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+normalmente	 [normalmente] ADV @ADVL> O
+seria	 [ser] <aux> <np-close> V COND 3S VFIN @FS-N< O
+esperado	 [esperar] <vH> <mv> V PCP M S @ICL-AUX< O
+$. O
+</s>
+
+$S-3
+Um	 [um] <arti> DET M S @>N O
+interessante	 [interessante] ADJ M S @>N O
+episódio	 [episódio] <event> N M S @SUBJ> O
+de	 [de] <np-close> PRP @N<  O
+sua	 [seu] <poss 3S> DET F S @>N O
+vida	 [vida] <per> N F S @P< O
+$, O
+narrada	 [narrar] <vH> <mv> V PCP F S @ICL-N<PRED O
+por	 [por] PRP @<PASS O
+Maximiano=de=Carvalho=e=Silva	 [Maximiano=de=Carvalho=e=Silva] <hum> PROP M S @P< O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+livro	 [livro] <cc-r> N M S @P< O
+sobre	 [sobre] <np-close> PRP @N< O
+Sousa=da=Silveira	 [Sousa=da=Silveira] <hum> PROP F S @P< PES O
+$, O
+revela-	 [revelar] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+nos	 [nós] PERS M/F 1P ACC @<ACC O
+o	 [o] <artd> DET M S @>N O
+quanto	 [quanto] <clb> <quant> <interr> ADV @ADVL> O
+já	 [já] ADV @ADVL> O
+estudava	 [estudar] <fmc> <vH> <mv> V IMPF 3S IND VFIN @FS-STA O
+e	 [e] <co-fin> KC @CO O
+conhecia	 [conhecer] <fmc> <vH> <mv> V IMPF 3S IND VFIN @FS-STA O
+de	 [de] PRP @<ADVL O
+latim	 [latim] <ling> N M S @P< O
+$, O
+mesmo	 [mesmo] <quant> ADV @>A O
+antes	 [antes] ADV @<ADVL O O
+de	 [de] PRP @A< O
+ingressar	 [ingressar] <vH> <mv> V INF @ICL-P< O
+em	 [em] <sam-> PRP @<PIV O
+a	 [o] <artd> <-sam> DET F S @>N O
+Faculdade	 [faculdade] <prop> <HH> <f-c> N F S @P< ORG O
+$. O
+</s>
+
+$S-4
+Houaiss	 [Houaiss] <hum> PROP M/F S @SUBJ> O
+freqüentou	 [freqüentar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+uma	 [um] <arti> DET F S @>N O
+escola	 [escola] <inst> N F S @<ACC O
+pública	 [público] <jh> <np-close> ADJ F S @N< O 
+secundária	 [secundário] <nh> <np-long> ADJ F S @N< O 
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+tempo	 [tempo] <ac-cat> <per> <temp> <am> <wea> N M S @P< O
+em	 [em] PRP @ADVL> O
+que	 [que] <clb-fs> KS @SUB O
+ela	 [ela] PERS F 3S NOM @SUBJ> O
+atraía	 [atrair] <mv> V IMPF 3S IND VFIN @FS-<ACC O
+verdadeiros	 [verdadeiro] <jh> ADJ M P @>N O
+mestres	 [mestre] <Hattr> N M P @<ACC O
+de	 [de] <np-close> PRP @N< O
+nível	 [nível] <Labs> <tool> N M S @P< O
+universitário	 [universitário] <np-close> ADJ M S @N< O
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+Amaro=Cavalcanti	 [Amaro=Cavalcanti] <org> PROP F S @P< ORG O
+Houaiss	 [Houaiss] <hum> PROP M/F S @N< PES O
+tivera	 [ter] <fmc> <mv> V MQP 3S IND VFIN @FS-STA O
+professores	 [professor] <Hprof> N M P @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+essa	 [esse] <dem> <-sam> DET F S @>N O
+estirpe	 [estirpe] <HH> <anbo> <Labs> N F S @P< O
+$, O
+como	 [como] <com> <adv-rel> PRP @<ADVL O
+Clóvis=Monteiro	 [Clóvis=Monteiro] <hum> <asarg> PROP M S @P< O
+e	 [e] <co-fin> KC @CO O
+Mattoso=Câmara=Jr.	 [Mattoso=Câmara=Jr.] <hum> <asarg> PROP M S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+$, O
+a	 [a] PRP @ADVL> O
+prevalecer	 [prevalecer] <mv> V INF @ICL-P< O
+e	 [e] <co-fin> KC @CO O
+explicação	 [explicação] <asarg> <act-s> N F S @P< O
+por	 [por] PRP @ADVL> O
+influência	 [influência] <am> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+seus	 [seu] <poss 3S> DET M P @>N O
+mestres	 [mestre] <Hattr> N M P @P< O
+$, O
+melhor	 [melhor] <KOMP> <SUP> ADV @ADVL> O
+o	 [ele] PERS M 3S ACC @ACC> O
+iriam	 [ir] <aux> <np-close> V COND 3P VFIN @FS-N< O 
+levar	 [levar] <mv> V INF @ICL-AUX< O
+a	 [a] PRP @<PIV O
+matricular-	 [matricular] <hyfen> <vH> <mv> V INF @ICL-P< O
+se	 [se] <refl> PERS M 3S/P ACC @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Curso=de=Letras=Neolatinas	 [Curso=de=Letras=Neolatinas] <inst> PROP M S @P< O
+$. O
+</s>
+
+$S-5
+A	 [o] <artd> DET F S @>N O
+segunda	 [segundo] <NUM-ord> <jh> ADJ F S @>N O
+objeção	 [objeção] <act-s> N F S @SUBJ> O
+é	 [ser] <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+que	 [que] <clb> <clb-fs> KS @SUB O
+a	 [a] <sam-> PRP @ADVL> O
+a	 [o] <-sam> <artd> DET F S @>N O
+turma	 [turma] <HH> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Houaiss	 [Houaiss] <hum> PROP M/F S @P< PES O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+FNF	 [FNF] <org> PROP F S @P< ORG O
+pertenciam	 [pertencer] <mv> V IMPF 3P IND VFIN @FS-<SC O
+Celso=Cunha	 [Celso=Cunha] <hum> PROP M S @<SUBJ O
+e	 [e] <co-subj> KC @CO O
+Olavo=Nascentes	 [Olavo=Nascentes] <hum> PROP M S @<SUBJ O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+não	 [não] ADV @ADVL> O
+tinham	 [ter] <aux> <np-close> V IMPF 3P IND VFIN @FS-N< O 
+podido	 [poder] <aux> V PCP @ICL-AUX< O
+sofrer	 [sofrer] <vH> <mv> V INF @ICL-AUX< O
+a	 [o] <artd> DET F S @>N O
+influência	 [influência] <am> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+Ernesto=Faria	 [Ernesto=Faria] <hum> PROP M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+Escola=Amaro=Cavalcanti	 [Escola=Amaro=Cavalcanti] <inst> PROP F S @P< O
+$. O
+</s>
+
+$S-6
+Não	 [não] ADV @ADVL> O
+custa	 [custar] <fmc> <vN> <mv> V PR 3S IND VFIN @FS-STA O
+lembrar	 [lembrar] <vH> <mv> V INF @ICL-<SUBJ O
+que	 [que] <clb> <clb-fs> KS @SUB O
+$, O
+por	 [por] PRP @<ADVL O
+essa	 [esse] <dem> DET F S @>N O
+fase	 [fase] <per> N F S @P< O
+inicial	 [inicial] <nh> <np-close> ADJ F S @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <artd> <-sam> DET F S @>N O
+FNF	 [FNF] <org> PROP F S @P< O
+$, O
+e	 [e] <co-fin> KC @CO  O
+antes	 [antes] ADV @ADVL> O
+de	 [de] <sam-> PRP @A< O
+ela	 [ela] <-sam> PERS F 3S NOM/PIV @P< O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+Universidade	 [universidade] <prop> <inst> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Distrito=Federal	 [Distrito=Federal] <org> PROP M S @P< O
+$( O
+UDF	 [UDF] <org> <np-close> PROP M/F S @N<PRED ORG O
+$) O
+$, O
+brilhavam	 [brilhar] <mv> V IMPF 3P IND VFIN @FS-<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+ela	 [ela] <-sam> PERS F 3S NOM/PIV @P< O
+os	 [o] <artd> DET M P @>N O
+nomes	 [nome] <ac-cat> <percep-f> N M P @<SUBJ O
+de	 [de] <np-close> PRP @N< O
+Sousa=da=Silveira	 [Sousa=da=Silveira] <hum> PROP F S @P< PES O
+$, O
+José=Oiticica	 [José=Oiticica] <hum> PROP M S @P< O
+e	 [e] <co-prparg> KC @CO O
+Antenor=Nascentes	 [Antenor=Nascentes] <org> PROP M S @P< O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+$, O
+sem	 [sem] <np-close> PRP @N<PRED O 
+dúvida	 [dúvida] <sem-c> N F S @P< O
+$, O
+constituiriam	 [constituir] <mv> <np-close> V COND 3P VFIN @FS-N< O
+mais	 [mais] ADV @>A O
+uma	 [uma] <card> NUM F S @>N O
+razão	 [razão] <ac-cat> <am> <ac> N F S @<ACC O
+para	 [para] <np-close> PRP @N< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+Houaiss	 [Houaiss] <hum> PROP M/F S @SUBJ> O
+$, O
+Celso	 [Celso] <hum> PROP M S @SUBJ> O
+e	 [e] <co-subj> KC @CO O
+Olavo	 [Olavo] <hum> PROP M/F S @SUBJ> O
+fizessem	 [fazer] <mv> V IMPF 3P SUBJ VFIN @FS-P< O
+o	 [o] <artd> DET M S @>N O
+Curso=de=Letras=Neolatinas	 [Curso=de=Letras=Neolatinas] <inst> PROP M S @<ACC O
+$. O
+</s>
+
+$S-7
+Outra	 [outro] <KOMP> <diff> DET F S @>N O
+plausível	 [plausível] <nh> ADJ F S @>N O
+explicação	 [explicação] <act-s> N F S @SUBJ> O
+para	 [para] <np-close> PRP @N< O
+a	 [o] <artd> DET F S @>N O
+matrícula	 [matrícula] <cc-r> N F S @P< O
+em	 [em] <np-close> PRP @N< O
+Letras=Clássicas	 [Letras=Clássicas] <civ> PROP M S @P< O
+se	 [se] <refl> PERS M/F 3S ACC @ACC>-PASS O
+deve	 [dever] <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+fato	 [fato] <AAdom> <cloH> <ac> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+se	 [se] <refl> PERS M/F 3S/P ACC @ACC> O
+tratar	 [tratar] <mv> V INF @ICL-P< O
+de	 [de] PRP @<PIV O
+um	 [um] <arti> DET M S @>N O
+curso	 [curso] <dir> <per> <occ> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+largo	 [largo] <nh> ADJ M S @>N O
+e	 [e] <co-prenom> KC @CO O
+profundo	 [profundo] <nh> ADJ M S @>N O
+prestígio	 [prestígio] <am> N M S @P< O
+cultural	 [cultural] <nh> <np-close> ADJ M S @N< O 
+dentro=de	 [dentro=de] <sam-> <np-long> PRP @N< O
+as	 [o] <-sam> <artd> DET F P @>N O
+universidades	 [universidade] <inst> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+mundo	 [mundo] <L> N M S @P< O
+inteiro	 [inteiro] <np-close> ADJ M S @N< O
+e	 [e] <co-fin> KC @CO O
+por	 [por] PRP @<ADVL O
+um	 [um] <arti> DET M S @>N O
+aspecto	 [aspecto] <ac-cat> N M S @P< O
+especial	 [especial] <nh> <np-close> ADJ M S @N< O 
+de	 [de] <np-close> PRP @N< O
+em	 [em] <sam-> PRP @P< O
+ele	 [ele] <-sam> PERS M 3S NOM/PIV @P< O
+$, O
+a	 [a] <sam-> PRP @ADVL> O
+aquela	 [aquele] <dem> <-sam> DET F S @>N O
+época	 [época] <per> N F S @P< O
+inicial	 [inicial] <nh> <np-close> ADJ F S @N< O 
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+estudos	 [estudo] <sem-l> <per> <sem-r> <activity> N M P @P< O
+superiores	 [alto] <SUP> <KOMP> <jh> <np-close> ADJ M P @N< O
+em	 [em] <sam-> PRP @ADVL> O
+o	 [o] <artd> <-sam> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< O
+$, O
+contar	 [contar] <vH> <mv> V INF @ICL-P< O
+com	 [com] PRP @<PIV O
+uma	 [um] <arti> DET F S @>N O
+plêiade	 [plêiade] <HH> <Lstar> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+mestres	 [mestre] <Hattr> N M P @P< O
+europeus	 [europeu] <nat> <jh> <np-close> ADJ M P @N< O 
+$, O
+de	 [de] <np-close> PRP @N< O 
+renome	 [renome] <am> N M S @P< O
+internacional	 [internacional] <nh> <np-close> ADJ M S @N< O 
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+vieram	 [vir] <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N< O
+a	 [a] <sam-> PRP @<SA O
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> PROP M S @P< O
+$, O
+convidados	 [convidar] <vH> <mv> V PCP M P @ICL-N<PRED O
+por	 [por] PRP @<PASS O
+Afrânio=Peixoto	 [Afrânio=Peixoto] <civ> PROP M S @P< PES O
+em=nome=de	 [em=nome=de] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+nosso	 [nosso] <poss 1P> DET M S @>N O
+Governo	 [governo] <prop> <HH> N M S @P< ORG O
+$, O
+para	 [para] PRP @<ADVL O
+lançar	 [lançar] <vH> <mv> V INF @ICL-P< O
+as	 [o] <artd> DET F P @>N O
+raízes	 [raiz] <ac-cat> <anbo> <Labs> N F P @<ACC O
+em	 [em] <sam-> <np-close> PRP @N< O
+essa	 [esse] <dem> <-sam> DET F S @>N O
+área	 [área] <L> <Lh> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+estudos	 [estudo] <sem-l> <per> <sem-r> <activity> N M P @P< O
+universitários	 [universitário] <jh> <np-close> ADJ M P @N< O
+$: O
+</s>
+
+$S-8
+Foi	 [foi] <foc> ADV @FOC> O
+em	 [em] <sam-> PRP @ADVL> O
+essa	 [esse] <dem> <-sam> DET F S @>N O
+oportunidade	 [oportunidade] <event> <ac> <am> N F S @P< O
+que	 [que] <foc> ADV @<FOC O
+três	 [três] <card> NUM M P @>N O
+amigos	 [amigo] <Hfam> N M P @SUBJ> O
+seus	 [seu] <poss 3S> <np-close> DET M P @N< O 
+$[ O
+de	 [de] PRP @ADVL O
+Houaiss	 [Houaiss] <hum> PROP M/F S @P< O
+$] O
+$, O
+que	 [que] <foc> ADV @<FOC O
+também	 [também] ADV @ADVL> O
+haviam	 [haver] <fmc> <aux> V IMPF 3P IND VFIN @FS-STA O
+participado	 [participar] <vH> <mv> V PCP M S @ICL-AUX< O
+e	 [e] <co-pcv> KC @CO O
+sido	 [ser] <aux> V PCP M S @ICL-AUX< O
+aprovados	 [aprovar] <vH> <mv> V PCP M P @ICL-AUX< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+referido	 [referir] <jh> <vH> V PCP M S @>N O
+concurso	 [concurso] <occ> N M S @P< O
+$[ O
+para	 [para] <np-close> PRP @N< O
+preencher	 [preencher] <vH> <mv> V INF @ICL-P< O
+vagas	 [vaga] <pos-soc> <event> <Lh> N F P @<ACC O
+de	 [de] <np-close> PRP @N< O
+Professor	 [professor] <prop> <Hprof> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+antiga	 [antigo] <jh> ADJ F S @>N O
+Prefeitura	 [prefeitura] <prop> <inst> N F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Distrito=Federal	 [Distrito=Federal] <civ> PROP M S @P< O
+$, O
+em	 [em] PRP @<ADVL O
+1935	 [1935] <card> <year> <date> NUM M/F S @P< O
+$] O
+$, O
+Rocha=Lima	 [Rocha=Lima] <org> PROP F S @<ACC PES O
+$, O
+Matos=Peixoto	 [Matos=Peixoto] <hum> PROP M S @<ACC O
+e	 [e] <co-acc> KC @CO O
+o	 [o] <artd> DET M S @>N O
+autor	 [autor] <Hprof> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+estas	 [este] <dem> <-sam> DET F P @>N O
+linhas	 [linha] <cord> <geom-line> <Lpath> N F P @P< O
+$, O
+se	 [se] <refl> <coll> PERS M/F 3P ACC @ACC> O
+reuniram	 [reunir] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+para	 [para] PRP @<ADVL O
+alugarem	 [alugar] <vH> <mv> V INF 3P @ICL-P< O
+uma	 [um] <arti> DET F S @>N O
+sala	 [sala] <Lh> N F S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+centro	 [centro] <inst> <Labs> <Ltop> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+cidade	 [cidade] <Lciv> N F S @P< O
+$, O
+com	 [com] <np-close> PRP @N<PRED O
+o	 [o] <artd> DET M S @>N O
+fito	 [fito] <sem-c> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+atenderem	 [atender] <vH> <mv> V INF 3P @ICL-P< O
+a	 [a] PRP @<ACC O
+alunos	 [aluno] <Hprof> N M P @P< O
+particulares	 [particular] <nh> <np-close> ADJ M P @N< O 
+$( O
+$... O
+$) O
+</s>
+
+$S-9
+De	 [de] <sam-> PRP @ADVL> O
+aí	 [aí] <-sam> ADV @ADVL> O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+próprio	 [próprio] <ident> DET M S @>N O
+mestre	 [mestre] <Hattr> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Pedro=II	 [Pedro=II] <inst> PROP M S @P< ORG O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+estabelece	 [estabelecer] <vH> <mv> V PR 3S IND VFIN @FS-<SUBJ O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+este	 [este] <dem> <-sam> DET M S @>N O
+sentido	 [sentido] <dir> <ac> <am> <f-an> N M S @P< O
+$, O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+relação	 [relação] <sem-r> <ac> N F S @<ACC O
+com	 [com] <np-close> PRP @N< O
+outro	 [outro] <KOMP> <diff> DET M S @>N O
+sistematizador	 [sistematizador] <H> N M S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+esses	 [esse] <dem> <-sam> DET M P @>N O
+estudos	 [estudo] <sem-l> <per> <sem-r> <activity> N M P @P< O
+de	 [de] <np-close> PRP @N< O
+linguagem	 [linguagem] <sem-s> N F S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+foi	 [ser] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N< O
+Maximino=Maciel	 [Maximino=Maciel] <hum> PROP M S @<SC PES O
+$, O
+catedrático	 [catedrático] <Hprof> <np-close> N M S @N<PRED O
+de	 [de] <np-close> PRP @N< O
+Língua=Portuguesa=do=Colégio=Militar	 [Língua=Portuguesa=do=Colégio=Militar] <hum> PROP F S @P< O
+$, O
+autor	 [autor] <Hprof> <np-long> N M S @N<PRED O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+Gramática=Descritiva	 [Gramática=Descritiva] <hum> PROP F S @P< O
+$, O
+muito	 [muito] <quant> DET M S @<SC O
+em	 [em] PRP @<ADVL O
+voga	 [voga] <act> <sit> N F S @P< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+ensino	 [ensino] <activity> N M S @P< O
+entre	 [entre] <np-close> PRP @N< O
+1887	[1887] NUM M/F P @P< O
+a	[a] PRP @N< O
+1930	[1930] NUM M/F P @P< O
+$, O
+mais=ou=menos	 [mais=ou=menos] <quant> ADV @<ADVL O
+$, O
+depois	 [depois] ADV @<ADVL O
+caída	 [caída] <event> N F S @<SC O
+injustamente	 [injustamente] ADV @<ADVL O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+esquecimento	 [esquecimento] <event> N M S @P< O
+e	 [e] <co-advl> KC @CO O
+hoje	 [hoje] ADV @<ADVL O
+objeto	 [objeto] <cc> <ac-cat> N M S @<SC O
+de	 [de] <np-close> PRP @N< O
+teses	 [tese] <sem-r> <sem-c> N F P @P< O
+de	 [de] <np-close> PRP @N< O
+pós-graduação	 [pós-graduação] <act> N F S @P< O
+em	 [em] <np-close> PRP @N< O
+nossas	 [nosso] <poss 1P> DET F P @>N O
+universidades	 [universidade] <inst> N F P @P< O
+$, O
+por	 [por] <sam-> PRP @<ADVL O
+o	 [o] <-sam> DET M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+apresentava	 [apresentar] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N< O
+de	 [de] PRP @<ADVL O
+intuições	 [intuição] <am> N F P @P< O
+transformadas	 [transformar] <mv> <np-close> V PCP F P @ICL-N< O
+em	 [em] PRP @<ADVL O
+lições	 [lição] <per> <act-d> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+lingüística	 [lingüística] <domain> N F S @P< O
+moderna	 [moderno] <jh> <np-close> ADJ F S @N< O
+$. O
+</s>
+
+$S-10
+Em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+última	 [último] <NUM-ord> <jh> ADJ F S @>N O
+palestra	 [palestra] <sem-s> <talk> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+uma	 [um] <arti> DET F S @>N O
+série	 [série] <coll> N F S @P< O
+proferida	 [proferir] <vH> <mv> <np-close> V PCP F S @ICL-N< O 
+em	 [em] PRP @<ADVL O
+São=Paulo	 [São=Paulo] <civ> PROP M S @P< O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+Rádio=Cruzeiro=do=Sul	 [Rádio=Cruzeiro=do=Sul] <media> PROP F S @P< O
+$, O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+década	 [década] <dur> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+40	 [40] <card> NUM M/F P @P< O
+$, O
+refere-	 [referir] <hyfen> <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS M/F 3S ACC @<ACC O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+contribuição	 [contribuição] <ac> <mon> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+gramático	 [gramático] <Hprof> N M S @P< O
+sergipano	 [sergipano] <nat> <jh> <np-close> ADJ M S @N< O
+e	 [e] KC @CO O
+a	 [o] <artd> DET F S @>N O
+importância	 [importância] <am> N F S @PRED> O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+sistematização	 [sistematização] <act> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+desenvolvimento	 [desenvolvimento] <process> <act> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+os	 [o] <artd> <-sam> DET M P @>N O
+programas	 [programa] <sem-c> <cc-r> N M P @P< O
+escolares	 [escolar] <nh> <np-close> ADJ M P @N< O 
+e	 [e] <co-postnom> KC @CO O
+de	 [de] <np-close> PRP @N< O
+sua	 [seu] <poss 3S> DET F S @>N O
+aplicação	 [aplicação] <act> <sem-r> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+experiência	 [experiência] <am> <ac> N F S @P< O
+pedagógica	 [pedagógico] <nh> <np-close> ADJ F S @N< O 
+desenvolvida	 [desenvolver] <mv> <np-close> V PCP F S @ICL-N< O 
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Colégio=Latino--Americano	 [Colégio=Latino--Amerique] <media> PROP M S @P< ORG O
+de	 [de] <np-close> PRP @N< O
+propriedade	 [propriedade] <cm> <Lh> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Oiticica	 [Oiticica] <hum> PROP M/F S @P< PES O
+$, O
+entre	[entre] PRP @<ADVL O
+1905	[1905] NUM M/F P @P< O
+e	[e] <co-prparg> KC @CO O
+1908	[1908] NUM M/F P @P< O
+$. O
+</s>
+
+$S-11
+José=Oiticica	 [José=Oiticica] <hum> <clb> PROP M S @SUBJ> PES O
+$, O
+depois	 [depois] ADV @ADVL> O
+de	 [de] PRP @A< O
+trabalhar	 [trabalhar] <vH> <mv> V INF @ICL-P< O
+para	 [para] PRP @<ADVL O
+uma	 [um] <arti> DET F S @>N O
+tese	 [tese] <sem-r> <sem-c> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+concurso	 [concurso] <occ> N M S @P< O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Colégio=Pedro=II	 [Colégio=Pedro=II] <inst> PROP M S @P< ORG O
+acerca=de	 [acerca=de] <sam-> <np-close> PRP @N< O 
+a	 [o] <-sam> <artd> DET F S @>N O
+língua	 [língua] <anmov> <ling> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Camões	 [Camões] <hum> PROP M S @P< O
+$, O
+apresenta	 [apresentar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+Congregação	 [congregação] <prop> <HH> N F S @P< O
+$, O
+em	 [em] PRP @<ADVL O
+1916	 [1916] <card> <year> <date> NUM M/F S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+1.ª	 [1.ª] <NUM-ord> ADJ F S @>N O
+série	 [série] <coll> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O 
+seu	 [seu] <poss 3S> DET M S @>N O
+Estudos=de=Fonologia	 [Estudos=de=Fonologia] <tit> PROP M S @P< O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+$, O
+incontestavelmente	 [incontestável] <nh> ADV @ADVL> O
+$, O
+abre	 [abrir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N< O
+novo	 [novo] ADJ M S @>N O
+caminho	 [caminho] <Lpath> N M S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+esse	 [esse] <dem> <-sam> DET M S @>N O
+domínio	 [domínio] <Labs> <L> <f-psych> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+descrição	 [descrição] <act> <sem-r> N F S @P< O
+lingüística	 [lingüístico] <nh> <np-close> ADJ F S @N< O 
+entre	 [entre] <np-long> PRP @N< O
+nós	 [nós] PERS M/F 1P NOM/PIV @P< O
+$. O
+</s>
+
+$S-12
+As	 [o] <artd> DET F P @>N O
+seguintes	 [seguinte] <nh> ADJ F P @>N O
+palavras	 [palavra] <act-s> <ac-cat> N F P @SUBJ> O
+são	 [ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA O
+de	 [de] <sam-> PRP @<SC O
+o	 [o] <artd> <-sam> DET M S @>N O
+velho	 [velho] <jh> ADJ M S @>N O
+mestre	 [mestre] <Hattr> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Colégio=Pedro=II	 [Colégio=Pedro=II] <inst> PROP M S @P< ORG O
+$, O
+mas	 [mas] <co-fin> <co-fmc> KC @CO O
+Houaiss	 [Houaiss] <hum> PROP M/F S @SUBJ> PES O
+poderia	 [poder] <fmc> <aux> V COND 3S VFIN @FS-STA O
+subscrever-	 [subscrever] <hyfen> <vH> <mv> V INF @ICL-AUX< O
+las	 [elas] PERS F 3P ACC @<ACC O
+com=prazer	 [com=prazer] <pp> ADV @<ADVL O
+e	 [e] <co-advl> KC @CO O
+com	 [com] PRP @<ADVL O
+assentimento	 [assentimento] <act-s> N M S @P< O
+$: O
+</s>
+
+$S-13
+Eugenio=Coseriu	 [Eugenio=Coseriu] <hum> PROP M S @SUBJ> PES O
+$, O
+em=resumo	 [em=resumo] <pp> ADV @ADVL> O
+de	 [de] <np-close> PRP @N<PRED O
+uma	 [um] <arti> DET F S @>N O
+conferência	 [conferência] <occ> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+Liceu=Literário=Português	 [Liceu=Literário=Português] <inst> PROP M S @P< ORG O
+$, O
+assim	 [assim] <kc> ADV @ADVL> O
+se	 [se] <refl> PERS M/F 3S ACC @ACC> O
+manifesta	 [manifestar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+$: O
+</s>

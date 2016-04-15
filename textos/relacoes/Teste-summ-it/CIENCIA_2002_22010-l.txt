@@ -1,0 +1,31 @@
+$S-8
+A 	[o]   <artd> DET F S @>N   O
+equipe 	[equipe] <HH> N F S @SUBJ>   O
+de 	[de] <np-close> PRP @N<   O
+Peter=Savolainen 	[Peter=Savolainen] <hum>   PROP M S @P<   O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Instituto=Real=de=Tecnologia 	[Instituto=Real=de=Tecnologia] <inst>   PROP M S @P<  ORG O
+$, 
+de 	[de] <np-close> PRP @N<PRED   O
+Estocolmo 	[Estocolmo] <civ>   PROP M S @P<  LOCAL O
+$, 
+Suécia 	[Suécia] <civ>   <np-close> PROP F S @N<   O
+$, 
+constatou 	[constatar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+diversidade 	[diversidade] <am> N F S @SUBJ>   O
+genética 	[genético] <nh> <np-close> ADJ F S @N<   O
+era 	[ser] <vK> <mv> V IMPF 3S IND VFIN @FS-<ACC   O
+maior 	[grande] <KOMP> ADJ F S @<SC   O
+entre 	[entre] PRP @<ADVL   O
+os 	[o] <artd> DET M P @>N   O
+cães 	[cão] <Adom> N M P @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+leste 	[leste] <dir> N M S @P<   O
+asiático 	[asiático] <nat> <np-close> ADJ M S @N<   O
+$. 
+</s>

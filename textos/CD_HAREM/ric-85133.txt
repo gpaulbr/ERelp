@@ -1,0 +1,136 @@
+
+    
+      O jardim de caminhos que se encontram (algumas palavras sobre o conto de
+      <EM ID="ric-85133-237" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Borges</EM>
+      e o filme de
+      <EM ID="ric-85133-238" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Tom Tykwer</EM>
+      )
+    
+    
+      <EM ID="ric-85133-239" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Roberto Azoubel</EM>
+    
+    
+      (Este texto é dedicado ao professor e poeta
+      <EM ID="ric-85133-240" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jorge Wanderley</EM>
+      (em memória) que me "incomodava" com
+      <EM ID="ric-85133-241" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|INDIVIDUAL" COREL="ric-85133-237" TIPOREL="PESSOA**ident**ric-85133-237**PESSOA">Borges</EM>
+      e com a literatura.)
+    
+    
+      Uma das tarefas mais importantes da arte foi sempre a de gerar uma demanda cujo atendimento integral só poderia produzir-se
+      <EM ID="ric-85133-242" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >mais tarde</EM>
+      ."
+    
+    
+      <EM ID="ric-85133-243" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Walter Benjamim</EM>
+    
+    I1.
+    
+      Com o desenvolvimento da imprensa
+      <EM ID="ric-85133-244" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no começo do século XX</EM>
+      , o romance - forma literária intrinsecamente ligada ao objeto livro - emerge em sintonia com toda a evolução das forças produtivas da sociedade, tornando-se um gênero de grande difusão no mundo. Tal difusão levou o filósofo alemão
+      <EM ID="ric-85133-245" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-243" TIPOREL="ident">Walter Benjamim</EM>
+      a se preocupar com a morte do narrador - aquele do discurso vivo - como podemos observar no texto
+      <EM ID="ric-85133-246" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-243" TIPOREL="obra_de">O Narrador</EM>
+      , escrito
+      <EM ID="ric-85133-247" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-85133-246" TIPOREL="data_de">em 1936</EM>
+      .
+    
+    
+      O texto de
+      <EM ID="ric-85133-248" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-243" TIPOREL="ident">Benjamim</EM>
+      nos remete a uma recente discussão que seria a factível morte da literatura diante do crescimento da produção cinematográfica que se espalha pelo planeta. Proponho-me neste texto analisar justamente esta contenda, assumindo posições que ficarão nítidas no decorrer do seu corpo. Para tal empreitada, tomo como referências o conto 
+      <EM ID="ric-85133-250" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-237" TIPOREL="obra_de">O Jardim dos Caminhos que se Bifurcam</EM>  
+      , escrito
+      <EM ID="ric-85133-251" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="ric-85133-250" TIPOREL="data_de">em 1941</EM>
+      pelo argentino
+      <EM ID="ric-85133-252" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-237" TIPOREL="ident">Jorge Luis Borges</EM>
+      , e o fresquíssimo
+      <EM ID="ric-85133-253" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-238" TIPOREL="obra_de">Corra Lola, Corra</EM>
+      (
+      <EM ID="ric-85133-254" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-254" TIPOREL="ident">Lola Rennt</EM>
+      ), filme alemão realizado pelo diretor e roteirista
+      <EM ID="ric-85133-255" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-238" TIPOREL="obra_de">Tom Tykwer</EM>
+      .
+    
+    II
+    
+      Para chegarmos ao conto de
+      <EM ID="ric-85133-256" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-237" TIPOREL="ident">Borges</EM>
+      , passemos antes por
+      <EM ID="ric-85133-257" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Italo Calvino</EM>
+      . No capítulo chamado "
+      <EM ID="ric-85133-258" CATEG="ABSTRACCAO" TIPO="NOME"  >Multiplicidade</EM>
+      " do seu livro
+      <EM ID="ric-85133-259" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-257 ric-85133-258" TIPOREL="obra_de nome_de_inclui">Seis Propostas para o Próximo Milênio</EM> 
+      ,
+      <EM ID="ric-85133-260" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      destaca como uma das (boas) características da literatura contemporânea essa capacidade de estabelecer redes de conexões entre os acontecimentos, entre as pessoas, entre as coisas do mundo, em outras palavras, essa capacidade atual de a escritura poder ser múltipla.
+    
+    
+      No decorrer do capítulo, o autor italiano mostra várias formas de multiplicidades que ocorrem na literatura. No entanto, para não sairmos do foco da discussão do texto, fiquemos inicialmente com o exemplo do romancista italiano
+      <EM ID="ric-85133-261" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Carlo Emilio Gadda</EM>
+      , de quem, entre outros autores,
+      <EM ID="ric-85133-262" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      se serve como ilustração.
+    
+    
+      Segundo
+      <EM ID="ric-85133-263" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      (
+        <EM ID="ric-85133-273" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >1990</EM>
+        : 121), "
+      <EM ID="ric-85133-266" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-261" TIPOREL="ident">Gadda</EM>
+      durante toda a sua vida buscou representar o mundo como um rolo, uma embrulhada, um aranzel, sem jamais atenuar-lhe a complexidade inextricável - ou, melhor dizendo, a presença simultânea dos elementos mais heterogêneos que concorrem para a determinação de cada evento". E mais adiante, apoiado no ensaio 
+      <EM ID="ric-85133-267" CATEG="OBRA" TIPO="REPRODUZIDA"  >La disarmonia prestabilita</EM>   do crítico <EM ID="ric-85133-20" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Gian Carlo Roscioni</EM>
+      ,
+      <EM ID="ric-85133-268" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      ainda coloca que "esse conhecimento das coisas enquanto 'relações infinitas, passadas e futuras, reais e possíveis, que para elas convergem?, exige que tudo seja exatamente denominado, descrito e localizado no espaço e no tempo"(
+        <EM ID="ric-85133-186" CATEG="OBRA" TIPO="REPRODUZIDA"  >CALVINO, 1990</EM> :123). 
+    
+    
+      Outros romancistas como
+      <EM ID="ric-85133-276" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Proust</EM>
+      e
+      <EM ID="ric-85133-277" CATEG="PESSOA" TIPO="INDIVIDUAL"  >George Perec</EM>
+      , com o seu
+      <EM ID="ric-85133-278" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-277" TIPOREL="obra_de">A Vida Modos de Usar</EM>
+      , são citados no capítulo como exemplos de uma escritura que conduz à multiplicidade (de caminhos, de níveis, de pensamentos, de vozes etc.). Mas, de acordo com
+      <EM ID="ric-85133-279" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      , esse modelo de redes possíveis pode ser construído tanto em romances extensos, como pode ser concentrado nas poucas páginas de um conto de
+      <EM ID="ric-85133-280" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-237" TIPOREL="ident">Borges</EM>
+      . Chegamos assim a' 
+      <EM ID="ric-85133-281" CATEG="OBRA" TIPO="REPRODUZIDA"  >O Jardim dos Caminhos que se Bifurcam</EM>
+      .
+    
+    
+      O conto, classificado pelo autor como policial, narra o percurso do personagem principal da cama até o jardim em que comete um assassinato como estratégia de sua missão de espionagem. No entanto, no seu enredo (e aqui também me apoio na leitura que
+      <EM ID="ric-85133-282" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      faz dele)
+      <EM ID="ric-85133-283" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-237" TIPOREL="ident">Borges</EM>
+      desenvolve várias noções acerca do tempo.
+    
+    
+      No início, enquanto o protagonista está no seu quarto se preparando para realizar sua incumbência, o autor expõe um tempo preciso e no presente: "refleti que tudo aquilo que acontece com alguém, acontece agora, precisamente agora. Séculos de séculos e apenas no presente ocorrem fatos; inumeráveis homens no ar, na terra e no mar e tudo o que realmente sucede, sucede a mim..." (
+        <EM ID="ric-85133-189" CATEG="OBRA" TIPO="REPRODUZIDA"  >BORGES,1995</EM> : 94
+      ).  Em seguida,
+      <EM ID="ric-85133-290" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-257" TIPOREL="ident">Calvino</EM>
+      , ainda no seu
+      <EM ID="ric-85133-291" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="ric-85133-259" TIPOREL="ident">Seis Propostas</EM>
+      ..., relata que
+      <EM ID="ric-85133-292" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-237" TIPOREL="ident">Borges</EM>
+      mostra "uma idéia de tempo determinado pela vontade, no qual o futuro se apresenta tão irrevogável quanto o  passado"(
+        <EM ID="ric-85133-192" CATEG="OBRA" TIPO="REPRODUZIDA"  >CALVINO, 1990</EM> : N).  Por último, a idéia de um tempo múltiplo, que é a idéia central do conto e, afinal, o que nos interessa aqui. Veremos abaixo como essa idéia de um tempo múltiplo se apresenta no conto.
+    
+    
+      Ao chegar numa casa de portão alto, o protagonista é recebido por sua futura vítima,
+      <EM ID="ric-85133-297" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-250" TIPOREL="personagem_de">Stephen Albert</EM>
+      , sujeito que fora encarregado de decifrar um enigma do livro escrito por
+      <EM ID="ric-85133-298" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-250" TIPOREL="personagem_de">Ts'ui Pen</EM>
+      . Este, que era um antepassado do próprio personagem principal, tinha abandonado sua próspera vida (era governador de sua província, doutor em astronomia, em astrologia, enxadrista, calígrafo e famoso poeta) para compor um labirinto e um livro. No entanto, o enigma revelado por
+      <EM ID="ric-85133-299" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-297" TIPOREL="ident">Albert</EM>
+      é justamente que o livro e o labirinto são o mesmo objeto. A chave para a descoberta estava num fragmento de uma carta deixada por
+      <EM ID="ric-85133-300" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-85133-298" TIPOREL="ident">Ts'ui Pen</EM>
+      , no qual estava escrito: "Deixo aos vários futuros (não a todos) meu jardim de caminhos que se bifurcam" (BORGES, 1995: 94 94 | BORGES, 1995: 94).
+    
+  

@@ -1,0 +1,90 @@
+
+    
+      <EM ID="hub-44595-666" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Tour</EM>
+      : Procura-se candidato
+    
+    
+      <EM ID="hub-44595-631" CATEG="PESSOA" TIPO="INDIVIDUAL"  >PAULINHO</EM>
+      EM PROVA DESFALCADA DE VEDETAS
+    
+    
+      Pelo segundo ano consecutivo e <EM ID="hub-44595-54" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >após a era</EM> de <EM ID="hub-44595-55" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Lance Armstrong</EM>
+      , o
+      <EM ID="hub-44595-634" CATEG="PESSOA|ACONTECIMENTO" TIPO="GRUPOIND|ORGANIZADO" COREL="hub-44595-666" TIPOREL="ACONTECIMENTO**ident**hub-44595-666**ACONTECIMENTO">Tour</EM>
+      está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão
+      <EM ID="hub-44595-635" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jan Ullrich</EM>
+      e do italiano
+      <EM ID="hub-44595-636" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ivan Basso</EM>
+      , e até de outro transalpino,
+      <EM ID="hub-44595-637" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alessandro Petacchi</EM>
+      , a «
+      <EM ID="hub-44595-638" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-44595-666" TIPOREL="ident">Grand Boucle</EM>
+      » inicia-se
+      <EM ID="hub-44595-639" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >amanhã</EM>
+      em
+      <EM ID="hub-44595-640" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-44595-666" TIPOREL="sede_de">Londres</EM>
+      sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º <EM ID="hub-44595-4" CATEG="OUTRO"   >1</EM> .
+    
+    
+      Ainda está por definir quem será declarado vencedor
+      <EM ID="hub-44595-641" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-44595-666" TIPOREL="data_de">de 2006</EM>
+      , depois do caso de doping de
+      <EM ID="hub-44595-642" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Floyd Landis</EM>
+      . Daí a organização ter decidido suspender os dorsais entre o
+      <EM ID="hub-44595-196" CATEG="OUTRO"   >1</EM>  e o <EM ID="hub-44595-197" CATEG="OUTRO"   >1</EM> 
+      , começando o
+      <EM ID="hub-44595-644" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-44595-666" TIPOREL="ident">Tour</EM>
+      no
+      <EM ID="hub-44595-645" CATEG="OUTRO"   >11</EM>
+      .
+    
+    
+      Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de
+      <EM ID="hub-44595-646" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-55" TIPOREL="ident">Armstrong</EM>
+      , que se retirou após a sétima vitória
+      <EM ID="hub-44595-647" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2005</EM>
+      --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.
+    
+    
+      São eles o cazaque
+      <EM ID="hub-44595-648" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-666" TIPOREL="participante_em">Alexandre Vinokourov</EM>
+      (
+      <EM ID="hub-44595-649" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-44595-648" TIPOREL="inclui">Astana</EM>
+      ), os espanhóis
+      <EM ID="hub-44595-650" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-666" TIPOREL="participante_em">Alberto Contador</EM>
+      (
+      <EM ID="hub-44595-651" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-44595-650" TIPOREL="inclui">Discovery</EM>
+      ) e
+      <EM ID="hub-44595-652" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-666" TIPOREL="participante_em">Alejandro Valverde</EM>
+      (
+      <EM ID="hub-44595-653" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-44595-652" TIPOREL="inclui">Caisse</EM>
+      ), e o norte-americano
+      <EM ID="hub-44595-654" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-666" TIPOREL="participante_em">Levy Leipheimer</EM>
+      (
+      <EM ID="hub-44595-655" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-44595-654" TIPOREL="inclui">Discovery</EM>
+      ). Nós, portugueses, teremos em atenção a estreia de
+      <EM ID="hub-44595-656" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-44595-666" TIPOREL="participante_em">Sérgio Paulinho</EM>
+      .
+    
+    Cinco mil polícias
+    
+      <EM ID="hub-44595-657" CATEG="VALOR" TIPO="QUANTIDADE"  >Cerca de 5 mil</EM>
+      polícias foram destacados para estarem de serviço em
+      <EM ID="hub-44595-658" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-44595-640" TIPOREL="ident">Londres</EM>
+      por ocasião da passagem do
+      <EM ID="hub-44595-659" CATEG="PESSOA|ACONTECIMENTO" TIPO="GRUPOIND|ORGANIZADO" COREL="hub-44595-634 hub-44595-634" TIPOREL="PESSOA**ident**hub-44595-634**PESSOA ACONTECIMENTO**ident**hub-44595-634**ACONTECIMENTO">Tour</EM>
+      por
+      <EM ID="hub-44595-660" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-44595-640" TIPOREL="inclui">Inglaterra</EM>
+      . A segurança foi reforçada depois dos atentados terroristas verificados
+      <EM ID="hub-44595-661" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a semana passada</EM>
+      na capital inglesa e em
+      <EM ID="hub-44595-662" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-44595-660" TIPOREL="incluido">Glasgow</EM>
+      . E, para além do
+      <EM ID="hub-44595-663" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-44595-666" TIPOREL="ident">Tour</EM>
+      , há ainda o
+      <EM ID="hub-44595-56" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-44595-658" TIPOREL="ocorre_em">Torneio de Ténis de Wimbledon</EM> 
+      , e o
+      <EM ID="hub-44595-58" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-44595-660" TIPOREL="ocorre_em">GP de F1 de Silverstone</EM> 
+      .
+    
+  

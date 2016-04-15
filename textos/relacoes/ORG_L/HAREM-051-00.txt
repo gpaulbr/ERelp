@@ -1,0 +1,275 @@
+$S-4
+Têm-	 [ter] <*> <hyfen> <fmc> <aux> V PR 3P IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M/F 3S/P DAT @<DAT  O
+privilegiado	 [privilegiar] <vH> <mv> V PCP @ICL-AUX<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+constantes	 [constante] <nh> ADJ F P @>N  O
+necessidades	 [necessidade] <am> <sit> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+ajuda	 [ajuda] <am> N F S @P<  O
+$, O
+instituiçôes	 [instituiçôe] N M P @<ACC  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+as	 [o] <artd> DET F P @>N  O
+casas	 [casa] <asarg> <build> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Santa=Isabel	 [Santa=Isabel] <civ> <*> PROP F S @P< ORG O
+$( O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+acolhe	 [acolher] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+meninas	 [menina] <Hfam> N F P @<ACC  O
+desprotegidas	 [desprotegido] <jh> <np-close> ADJ F P @N<  O
+$) O
+$, O
+de	 [de] <sam-> <np-close> PRP @N< B-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Madre=Teresa=de=Calcutá	 [Madre=Teresa=de=Calcutá] <hum> <*> PROP F S @P< ORG O
+$, O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Conferência=de=São=Vicente=de=Paula	 [Conferência=de=São=Vicente=de=Paula] <occ> <asarg> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-44
+Têm-	 [ter] <*> <hyfen> <fmc> <aux> V PR 3P IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M/F 3S/P DAT @<DAT  O
+privilegiado	 [privilegiar] <vH> <mv> V PCP @ICL-AUX<  O
+$, O
+por	 [por] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+constantes	 [constante] <nh> ADJ F P @>N  O
+necessidades	 [necessidade] <am> <sit> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+ajuda	 [ajuda] <am> N F S @P<  O
+$, O
+instituiçôes	 [instituiçôe] N M P @<ACC  O
+como	 [como] <com> <adv-rel> <np-close> PRP @N<  O
+as	 [o] <artd> DET F P @>N  O
+casas	 [casa] <asarg> <build> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Santa=Isabel	 [Santa=Isabel] <civ> <*> PROP F S @P< O
+$( O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+acolhe	 [acolher] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+meninas	 [menina] <Hfam> N F P @<ACC  O
+desprotegidas	 [desprotegido] <jh> <np-close> ADJ F P @N<  O
+$) O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Madre=Teresa=de=Calcutá	 [Madre=Teresa=de=Calcutá] <hum> <*> PROP F S @P< ORG O
+$, O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Conferência=de=São=Vicente=de=Paula	 [Conferência=de=São=Vicente=de=Paula] <occ> <asarg> <*> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-5
+Em	 [em] <sam-> <*> PRP @ADVL>  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+lionísticos	 [lionístico] <DERS> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+88/89	 [88/89] <card> NUM M/F P @P<  O
+e	 [e] KC @NPHR  O
+90/91	 [90/91] <card> NUM M/F P @P<  O
+$, O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+angariados	 [angariar] <vH> <mv> V PCP M P @ICL-AUX<  O
+fundos	 [fundo] <Labs> <HH> <Lopening> <mon> N M P @<SUBJ  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Instituto=D.Francisco=Gomes	 [instituto=D.Francisco=Gomes] <prop> <*> <inst> N M S @P< ORG O
+$, O
+Casa=dos=Rapazes	 [Casa=dos=Rapazes] <inst> <*> PROP M S @SUBJ> ORG O
+e	 [e] KC @NPHR  O
+$, O
+a=partir=de	 [a=partir=de] PRP @ADVL>  O
+1991	 [1991] <card> <date> <year> NUM M/F P @P<  O
+a	 [o] <artd> DET F S @>N  O
+Associação=Portuguesa=de=Paralisia=Cerebral	 [Associação=Portuguesa=de=Paralisia=Cerebral] <org> <*> PROP M S @SUBJ>  O
+tem	 [ter] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+sido	 [ser] <vK> <mv> V PCP @ICL-AUX<  O
+alvo	 [alvo] <col> <Labs> N M S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+múltiplas	 [múltiplo] <nh> ADJ F P @>N  O
+campanhas	 [campanha] <activity> N F P @P<  O
+$, O
+tendo	 [ter] <clb> <mv> V GER @ICL-<ADVL  O
+em	 [em] PRP @<ADVL  O
+vista	 [ver] <vH> V PCP F S @P<  O
+a	 [o] <artd> DET F S @>N  O
+construção	 [construção] <act> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+sede	 [sede] <am> <Lh> N F S @P<  O
+$. O
+</s>
+
+$S-55
+Em	 [em] <sam-> <*> PRP @ADVL>  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+lionísticos	 [lionístico] <DERS> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+88/89	 [88/89] <card> NUM M/F P @P<  O
+e	 [e] KC @NPHR  O
+90/91	 [90/91] <card> NUM M/F P @P<  O
+$, O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+angariados	 [angariar] <vH> <mv> V PCP M P @ICL-AUX<  O
+fundos	 [fundo] <Labs> <HH> <Lopening> <mon> N M P @<SUBJ  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Instituto=D.Francisco=Gomes	 [instituto=D.Francisco=Gomes] <prop> <*> <inst> N M S @P<  O
+$, O
+Casa=dos=Rapazes	 [Casa=dos=Rapazes] <inst> <*> PROP M S @SUBJ> ORG O
+e	 [e] KC @NPHR  O
+$, O
+a=partir=de	 [a=partir=de] PRP @ADVL>  O
+1991	 [1991] <card> <date> <year> NUM M/F P @P<  O
+a	 [o] <artd> DET F S @>N  O
+Associação=Portuguesa=de=Paralisia=Cerebral	 [Associação=Portuguesa=de=Paralisia=Cerebral] <org> <*> PROP M S @SUBJ> ORG O
+tem	 [ter] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+sido	 [ser] <vK> <mv> V PCP @ICL-AUX<  O
+alvo	 [alvo] <col> <Labs> N M S @<SC  O
+de	 [de] <np-close> PRP @N<  O
+múltiplas	 [múltiplo] <nh> ADJ F P @>N  O
+campanhas	 [campanha] <activity> N F P @P<  O
+$, O
+tendo	 [ter] <clb> <mv> V GER @ICL-<ADVL  O
+em	 [em] PRP @<ADVL  O
+vista	 [ver] <vH> V PCP F S @P<  O
+a	 [o] <artd> DET F S @>N  O
+construção	 [construção] <act> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+sede	 [sede] <am> <Lh> N F S @P<  O
+$. O
+</s>
+
+$S-6
+Pontualmente	 [pontualmente] <*> <jh> ADV @ADVL>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+contempladas	 [contemplar] <vH> <mv> V PCP F P @ICL-AUX<  O
+instituições	 [instituição] <inst> <act> N F P @<SUBJ  O
+de=tratamento	 [de=tratamento] <pp> ADJ @N<  O
+contra	 [contra] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+droga	 [droga] <cm-rem> N F S @P<  O
+$, O
+tais	 [tal] <dem> <KOMP> <np-close> DET M/F P @N<PRED  O
+como	 [como] <com> <adv-rel> PRP @KOMP<  O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Ser	 [ser] <*> <vK> <mv> V INF @ICL-<ACC ORG O
+$, O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Gato	 [gato] <prop> <*> <Adom> <tool> <H> N M S @<SUBJ ORG O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais	 [Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais] <org> <*> PROP F S @<SC  O
+$, O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Cace	 [caçar] <*> <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA  O
+$- O
+centro	 [centro] <asarg> <Labs> <inst> <Ltop> N M S @P<  O
+artístico	 [artístico] <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+Estói	 [Estói] <hum> <*> PROP M/F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Asmal	 [Asmal] <org> <*> <np-close> PROP F S @APP  O
+$- O
+Associação=de=Saúde=Mental=do=Algarve	 [Associação=de=Saúde=Mental=do=Algarve] <org> <*> PROP F S @<SUBJ  O
+$, O
+etc	 [etc] ADV @ADVL>  O
+</s>
+
+$S-7
+Pontualmente	 [pontualmente] <*> <jh> ADV @ADVL>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+contempladas	 [contemplar] <vH> <mv> V PCP F P @ICL-AUX<  O
+instituições	 [instituição] <inst> <act> N F P @<SUBJ  O
+de=tratamento	 [de=tratamento] <pp> ADJ @N<  O
+contra	 [contra] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+droga	 [droga] <cm-rem> N F S @P<  O
+$, O
+tais	 [tal] <dem> <KOMP> <np-close> DET M/F P @N<PRED  O
+como	 [como] <com> <adv-rel> PRP @KOMP<  O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Ser	 [ser] <*> <vK> <mv> V INF @ICL-<ACC  O
+$, O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Gato	 [gato] <prop> <*> <Adom> <tool> <H> N M S @<SUBJ  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais	 [Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais] <org> <*> PROP F S @<SC ORG O
+$, O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Cace	 [caçar] <*> <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA ORG O
+$- O
+centro	 [centro] <asarg> <Labs> <inst> <Ltop> N M S @P<  O
+artístico	 [artístico] <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+Estói	 [Estói] <hum> <*> PROP M/F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Asmal	 [Asmal] <org> <*> <np-close> PROP F S @APP  O
+$- O
+Associação=de=Saúde=Mental=do=Algarve	 [Associação=de=Saúde=Mental=do=Algarve] <org> <*> PROP F S @<SUBJ  O
+$, O
+etc	 [etc] ADV @ADVL>  O
+</s>
+
+$S-8
+Pontualmente	 [pontualmente] <*> <jh> ADV @ADVL>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+contempladas	 [contemplar] <vH> <mv> V PCP F P @ICL-AUX<  O
+instituições	 [instituição] <inst> <act> N F P @<SUBJ  O
+de=tratamento	 [de=tratamento] <pp> ADJ @N<  O
+contra	 [contra] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+droga	 [droga] <cm-rem> N F S @P<  O
+$, O
+tais	 [tal] <dem> <KOMP> <np-close> DET M/F P @N<PRED  O
+como	 [como] <com> <adv-rel> PRP @KOMP<  O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Ser	 [ser] <*> <vK> <mv> V INF @ICL-<ACC  O
+$, O
+e	 [e] KC @NPHR  O
+o	 [o] <artd> DET M S @>N  O
+Gato	 [gato] <prop> <*> <Adom> <tool> <H> N M S @<SUBJ  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais	 [Associação=de=Pais=e=Amigos=das=Crianças=Diminuídas=Mentais] <org> <*> PROP F S @<SC  O
+$, O
+o	 [ele] PERS M 3S ACC @ACC>  O
+Cace	 [caçar] <*> <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA ORG O
+$-- O
+centro	 [centro] <asarg> <Labs> <inst> <Ltop> N M S @P<  O
+artístico	 [artístico] <jh> <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<  O
+de	 [de] <np-close> PRP @N<  O
+Estói	 [Estói] <hum> <*> PROP M/F S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Asmal	 [Asmal] <org> <*> <np-close> PROP F S @APP ORG O
+$- O
+Associação=de=Saúde=Mental=do=Algarve	 [Associação=de=Saúde=Mental=do=Algarve] <org> <*> PROP F S @<SUBJ  O
+$, O
+etc	 [etc] ADV @ADVL>  O
+</s>

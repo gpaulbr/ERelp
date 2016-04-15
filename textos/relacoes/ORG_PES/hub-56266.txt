@@ -1,0 +1,57 @@
+$S-6
+Como	 [como] <com> <*> <adv-rel> PRP @ADVL>  O
+de=costume	 [de=costume] <pp> ADV @ADVL>  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+conferência	 [conferência] <occ> N F S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+Steve=Jobs	 [Steve=Jobs] <hum> <*> PROP M S @P< PES O
+$, O
+o	 [o] <artd> DET M S @>N  O
+director-geral	 [director-geral] <Hprof> <np-close> N M S @APP B-REL
+de	 [de] <sam-> <np-close> PRP @N<  I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+empresa	 [empresa] <HH> N F S @P<  O
+$, O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+ponto	 [ponto] <Labs> <temp> <Lh> <sem-c> <unit> N M S @<SC  O
+alto	 [alto] <jh> <np-close> ADJ M S @N<  O
+para	 [para] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+fãs	 [fã] <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Apple	 [Apple] <org> <*> PROP F S @P< ORG O
+$. O
+$" O
+</s>
+
+$S-8
+É	 [ser] <clb-fs> <*> <vK> <mv> V PR 3S IND VFIN @FS-ACC>>  O
+sorte	 [sorte] <am> <f-psych> <event> <mon> <meta> N F S @<SC  O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+pudermos	 [poder] <aux> V FUT 1P SUBJ VFIN @FS-<SUBJ @FS-<ADVL  O
+trabalhar	 [trabalhar] <vH> <mv> V INF @ICL-AUX<  O
+em	 [em] <sam-> PRP @<PIV  O
+um	 [um] <-sam> DET M S @P<  O
+ao=longo=de	 [ao=longo=de] <sam-> <np-close> PRP @N<  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+carreira	 [carreira] <Lpath> N F S @P<  O
+$... O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+Apple	 [Apple] <org> <*> PROP F S @SUBJ> ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+sortuda	 [sortudo] ADJ F S @<SC  O
+por	 [por] PRP @<ADVL  O
+já	 [já] ADV @P<  O
+ter	 [ter] <aux> V INF @IAUX  O
+lançado	 [lançar] <vH> <mv> V PCP @ICL-AUX<  O
+vários	 [vários] <*2> <quant> DET M P @<ACC  O
+$" O
+$, O
+disse	 [dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+Steve=Jobs	 [Steve=Jobs] <hum> <*> PROP M S @<SUBJ PES O
+$. O
+</s>

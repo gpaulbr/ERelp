@@ -1,0 +1,75 @@
+
+    
+      Actualmente é de
+      <EM ID="hub-83020-496" CATEG="VALOR" TIPO="MOEDA"  >570,6 euros</EM>
+    
+    
+      <EM ID="hub-83020-497" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Espanha</EM>
+      aumenta salário mínimo para
+      <EM ID="hub-83020-498" CATEG="VALOR" TIPO="MOEDA"  >600 euros</EM>
+    
+    
+      O
+      <EM ID="hub-83020-499" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-83020-497" TIPOREL="ident">Governo</EM>
+      socialista espanhol aprovou
+      <EM ID="hub-83020-500" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      o aumento do salário mínimo em
+      <EM ID="hub-83020-501" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-83020-497" TIPOREL="sede_de">Espanha</EM>
+      , fazendo-o passar dos actuais
+      <EM ID="hub-83020-502" CATEG="VALOR" TIPO="MOEDA" COREL="hub-83020-496" TIPOREL="ident">570,6 euros</EM>
+      para
+      <EM ID="hub-83020-503" CATEG="VALOR" TIPO="MOEDA" COREL="hub-83020-498" TIPOREL="ident">600 euros</EM>
+      <EM ID="hub-83020-504" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no próximo ano</EM>
+      .
+    
+    
+      «Aprovámos o decreto que estabelece o salário mínimo interprofissional nos
+      <EM ID="hub-83020-505" CATEG="VALOR" TIPO="MOEDA" COREL="hub-83020-498" TIPOREL="ident">600 euros</EM>
+      <EM ID="hub-83020-14" CATEG="TEMPO" TIPO="FREQUENCIA"  >por mês</EM>, com efeito
+      <EM ID="hub-83020-506" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a partir de 1 de Janeiro</EM>
+      », anunciou o
+
+        <EM ID="hub-83020-507" CATEG="PESSOA" TIPO="CARGO"  >chefe do Governo</EM>      ,
+      <EM ID="hub-83020-509" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-83020-507" TIPOREL="ident">José Luís Rodriguez Zapatero</EM>
+      , numa conferência de imprensa do último
+      <EM ID="hub-83020-510" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Conselho de Ministros</EM>
+      <EM ID="hub-83020-511" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >deste ano</EM>
+      .
+    
+    
+      Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou
+      <EM ID="hub-83020-512" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-83020-509" TIPOREL="ident">Zapatero</EM>
+      , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos
+      <EM ID="hub-83020-513" CATEG="VALOR" TIPO="MOEDA"  >460 euros</EM>
+      <EM ID="hub-83020-514" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2004</EM>
+      , aquando da sua ascensão ao poder.
+    
+    
+      O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de
+      <EM ID="hub-83020-515" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >9 de Março</EM>
+      , e salienta
+      <EM ID="hub-83020-516" CATEG="TEMPO" TIPO="FREQUENCIA"  >frequentemente</EM>
+      o seu balanço económico positivo.
+    
+    
+      <EM ID="hub-83020-517" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em Outubro</EM>
+      ,
+      <EM ID="hub-83020-518" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-83020-509" TIPOREL="ident">Zapatero</EM>
+      prometeu igualmente aumentar o salário mínimo até aos
+      <EM ID="hub-83020-519" CATEG="VALOR" TIPO="MOEDA"  >800 euros</EM>
+      <EM ID="hub-83020-15" CATEG="TEMPO" TIPO="FREQUENCIA"  >por mês</EM> em caso de reeleição.
+    
+    
+      À excepção dos antigos países do bloco de leste, a
+      <EM ID="hub-83020-520" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-83020-501" TIPOREL="ident">Espanha</EM>
+      é um dos países que tem o salário mínimo mais baixo da
+      <EM ID="hub-83020-521" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-83020-520 hub-83020-522 hub-83020-523 hub-83020-524" TIPOREL="incluido inclui inclui inclui">União Europeia</EM>
+      , juntamente com
+      <EM ID="hub-83020-522" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      ,
+      <EM ID="hub-83020-523" CATEG="LOCAL" TIPO="HUMANO"  >Grécia</EM>
+      e
+      <EM ID="hub-83020-524" CATEG="LOCAL" TIPO="HUMANO"  >Malta</EM>
+      .
+    
+  

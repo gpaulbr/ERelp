@@ -1,0 +1,131 @@
+
+    
+      <EM ID="aa25258-227" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Salgado</EM>
+      , o fotógrafo da
+      <EM ID="aa25258-228" CATEG="ABSTRACCAO|LOCAL|LOCAL" TIPO="IDEIA|HUMANO|FISICO"  >África</EM>
+      perdida
+    
+    
+      "
+      <EM ID="aa25258-229" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa25258-227" TIPOREL="obra_de">África</EM>
+      " do fotojornalista
+      <EM ID="aa25258-230" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Sebastião Salgado</EM>
+      é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano. É também o carimbo que autentica a vitalidade do fotojornalismo de referência, <EM ID="aa25258-231" CATEG="TEMPO" TIPO="GENERICO"  >no tempo</EM> em que num ápice <EM ID="aa25258-276" CATEG="TEMPO" TIPO="DURACAO"  >de 5 anos</EM> 
+      a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica.
+    
+    
+      Conheci o
+      <EM ID="aa25258-233" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Sebastião Salgado</EM>
+      em
+      <EM ID="aa25258-234" CATEG="LOCAL" TIPO="HUMANO"  >Fátima</EM>
+      <EM ID="aa25258-235" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano de 1979</EM>
+      . Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa. O
+      <EM ID="aa25258-236" CATEG="PESSOA" TIPO="INDIVIDUAL"  >António Pedro Ferreira</EM>
+      , outro fotógrafo peregrino, reconheceu-o logo como sendo o
+      <EM ID="aa25258-237" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Sebastião Salgado</EM>
+      .
+      Na época ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo
+      <EM ID="aa25258-239" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1975</EM>
+      , em
+      <EM ID="aa25258-240" CATEG="LOCAL" TIPO="HUMANO" COREL="aa25258-228" TIPOREL="LOCAL**incluido**aa25258-228**LOCAL">Angola</EM>
+      , fotografando a aventura portuguesa <EM ID="aa25258-2400" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na hora</EM> da descolonização. Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao
+      <EM ID="aa25258-241" CATEG="PESSOA" TIPO="POVO"  >Mundo</EM>
+      a saga do sofrimento humano.
+    
+    
+      As suas fotos tinham sido publicadas na
+      <EM ID="aa25258-242" CATEG="LOCAL" TIPO="VIRTUAL"  >Photo</EM>
+      e no
+      <EM ID="aa25258-243" CATEG="LOCAL" TIPO="VIRTUAL"  >Paris-Match</EM>
+      , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético. Sempre me intrigou, e
+      <EM ID="aa25258-244" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      de novo ao ver o "
+      <EM ID="aa25258-245" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa25258-229" TIPOREL="ident">África</EM>
+      " onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte. Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante.
+    
+    
+      Em
+      <EM ID="aa25258-246" CATEG="LOCAL" TIPO="HUMANO" COREL="aa25258-234" TIPOREL="ident">Fátima</EM>
+      ,
+      <EM ID="aa25258-247" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia seguinte pela manhã</EM>
+      voltei a encontrá-lo, sempre com o
+      <EM ID="aa25258-248" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-236" TIPOREL="ident">António Pedro Ferreira</EM>
+      ao lado, e ele acabou por confessar (o lugar prestava-se a isso!) que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da
+      <EM ID="aa25258-249" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="aa25258-234" TIPOREL="ocorre_em">Procissão das Velas</EM>
+      . Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis. Não são.
+    
+    
+      Falar das fotografias do
+      <EM ID="aa25258-250" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Sebastião Salgado</EM>
+      é redundante. Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor.
+    
+    
+      Interessante é o método de
+      <EM ID="aa25258-251" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Salgado</EM>
+      para concretizar as suas reportagens. Trabalha com uma equipa reduzida. A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias. Depois conta com mais duas ou três pessoas num pequeno apartamento em
+      <EM ID="aa25258-252" CATEG="LOCAL" TIPO="HUMANO"  >Paris</EM>
+      . Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim.
+      <EM ID="aa25258-253" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Salgado</EM>
+      não fotografa à solta, não dispara sem objectivo. Por isso as suas fotografias demoram
+      <EM ID="aa25258-254" CATEG="TEMPO" TIPO="DURACAO"  >anos</EM>
+      a fazer, editar, imprimir, mostrar.
+    
+    
+      <EM ID="aa25258-255" CATEG="TEMPO" TIPO="DURACAO"  >Durante muitos anos</EM>
+      o fotógrafo trabalhou nas agências
+      <EM ID="aa25258-256" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa25258-227" TIPOREL="vinculo_inst">Sygma</EM>
+      e
+      <EM ID="aa25258-257" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa25258-227" TIPOREL="vinculo_inst">Gamma</EM>
+      e <EM ID="aa25258-300" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >mais tarde</EM> foi membro da
+     <EM ID="aa25258-258" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa25258-227" TIPOREL="vinculo_inst">Magnum</EM>
+      . Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no "
+      <EM ID="aa25258-259" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa25258-229" TIPOREL="ident">África</EM>
+      ", trabalhava <EM ID="aa25258-106" CATEG="TEMPO" TIPO="DURACAO"  >nove meses</EM> em
+      <EM ID="aa25258-260" CATEG="LOCAL" TIPO="HUMANO" COREL="aa25258-252" TIPOREL="ident">Paris</EM>
+      a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor,
+      <EM ID="aa25258-261" CATEG="TEMPO" TIPO="DURACAO"  >durante os restantes três meses do ano</EM>
+      .
+    
+    
+      O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a
+      <EM ID="aa25258-262" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ronald Reagen</EM>
+      . A revista
+      <EM ID="aa25258-263" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOMEMBRO|EMPRESA"  >Time</EM>
+      tinha-lhe pedido para seguir o
+      <EM ID="aa25258-264" CATEG="PESSOA" TIPO="CARGO" COREL="aa25258-262" TIPOREL="ident">Presidente</EM>
+      <EM ID="aa25258-265" CATEG="TEMPO" TIPO="DURACAO"  >durante um mês</EM>
+      , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo. Havia mais dois fotógrafos a seu lado, um deles da
+      <EM ID="aa25258-266" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Associated Press</EM>
+      que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas
+      <EM ID="aa25258-267" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Salgado</EM>
+      conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em
+      <EM ID="aa25258-268" CATEG="LOCAL" TIPO="HUMANO" COREL="aa25258-252" TIPOREL="ident">Paris</EM>
+      .
+    
+    
+      A obra de
+      <EM ID="aa25258-269" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Salgado</EM>
+      supera muito do que tem sido em geral
+      <EM ID="aa25258-270" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos 30 anos</EM> 
+      a fotografia documental. Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria.
+    
+    
+      Mas se o público enche aos milhares as suas exposições e corre a comprar os seus foto-álbuns, há uma elite da fotografia que questiona o sucesso comercial assente no testemunho da tragédia alheia, mesmo que haja no seu discurso visual e falado uma obsessão de esquerda pelo estado das coisas e pelos desígnios da
+      <EM ID="aa25258-271" CATEG="PESSOA" TIPO="POVO"  >Humanidade</EM>
+      .
+    
+    É um fotógrafo que ainda atravessa 
+ da película para o digital, que permanece um artesão, e que está angustiado porque duvida conseguir no mercado a tempo película a preto e branco para poder acabar o seu novo projecto.
+    
+      Com "
+      <EM ID="aa25258-272" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa25258-229" TIPOREL="ident">África</EM>
+      " regressamos ao tempo perdido e com
+      <EM ID="aa25258-273" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa25258-227" TIPOREL="ident">Salgado</EM>
+      revivemos o melhor que há na essência do fotojornalismo documental.
+    
+    
+      <EM ID="aa25258-274" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luiz Carvalho</EM>
+      , fotojornalista do
+      <EM ID="aa25258-275" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa25258-274" TIPOREL="vinculo_inst">Expresso</EM>
+    
+  

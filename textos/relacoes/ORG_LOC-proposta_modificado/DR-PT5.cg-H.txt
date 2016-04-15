@@ -1,0 +1,20 @@
+$S-1
+Conselho=Cinegético=Municipal	 [Conselho=Cinegético=Municipal] <inst> PROP M S @<ACC ORG O
+de	 [de] <np-close> PRP @N< REL
+Montemor-o-Novo	 [Montemor-o-Novo] <top> PROP M/F S @P< LOCAL O
+
+$S-2
+Associação=de=Caçadores=da=Ajuda	 [Associação=de=Caçadores=da=Ajuda] <org> PROP F S @P< ORG O
+$, O
+com	 [com] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+número	 [número] <sem> <ac-sign> <ac> <ac-cat> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+identificação	 [identificação] <act> N F S @P< O
+fiscal	 [fiscal] <nh> <np-close> ADJ F S @N< O
+502302569	 [502302569] <card> NUM M/F P @<SC O
+e	 [e] KC @CO O
+sede	 [sede] <am> <Lh> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Rua=de=D.=Vasco	 [Rua=de=D.=Vasco] <top> PROP F S @P< LOCAL O

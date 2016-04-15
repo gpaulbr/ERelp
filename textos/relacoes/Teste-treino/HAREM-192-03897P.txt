@@ -1,0 +1,65 @@
+$S-7
+Em	 [em] <*> PRP @ADVL>  O
+06/11/1982	 [06/11/1982] <card> <date> NUM M S @P<  O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+oficialmente	 [oficialmente] <nh> ADV @ADVL>  O
+inaugurado	 [inaugurar] <mv> V PCP M S @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N  O
+prédio	 [prédio] <build> N M S @<SUBJ  O
+principal	 [principal] <SUP> <np-close> ADJ M S @N<  O
+$, O
+tendo	 [ter] <clb> <mv> V GER @ICL-<ADVL  O
+como	 [como] <prd> <adv-rel> PRP @<OC  O
+patrono	 [patrono] <asarg> <Htit> N M S @P<  O
+o	 [o] <artd> DET M S @>N  O
+Dr.=José=Getúlio=Lima	 [Dr.=José=Getúlio=Lima] <genre> <*> PROP M S @<ACC PES O
+$( O
+advogado	 [advogado] <Hprof> <np-close> N M S @N<PRED  O
+e	 [e] KC @NPHR  O
+professor	 [professor] <Hprof> <np-close> N M S @N<PRED  O
+$, O
+pai	 [pai] <asarg> <Hfam> <np-close> N M S @P< @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Dr.=José=Carlos=de=Barros=Lima	 [Dr.=José=CarlosBarros=Lima] <hum> <*> PROP M S @P<  O
+$) O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+atuou	 [atuar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+muito	 [muito] <quant> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+área	 [área] <L> <Lh> N F S @P<  O
+educacional	 [educacional] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+região	 [região] <L> <Ltop> N F S @P<  O
+tendo	 [ter] <clb> <aux> V GER @ICL-<ADVL  O
+sido	 [ser] <vK> <mv> V PCP @ICL-AUX<  O
+o	 [o] <artd> DET M S @>N REL
+fundador	 [fundador] <H> N M S @<SC REL
+$, O
+entre	 [entre] PRP @<ADVL O
+outros	 [outro] <diff> <KOMP> DET M P @P< O
+$, O
+de	 [de] <sam-> PRP @<SC O
+o	 [o] <-sam> <artd> DET M S @>N O
+ginásio	 [ginásio] <Lh> <inst> N M S @P< O
+$" O
+Conselheiro=Lafayette	 [Conselheiro=Lafayette] <inst> <*> <*1> <*2> <np-close> PROP M S @N< ORG O
+$" O
+$( O
+1942	 [1942] <card> <date> <year> <np-close> NUM M/F P @N<PRED  O
+$) O
+posteriormente	 [posteriormente] <nh> ADV @<ADVL  O
+$" O
+Ginásio=Estadual=Anhanguera	 [Ginásio=Estadual=Anhanguera] <tit> <*> <*1> <*2> PROP M S @<SC  O
+$" O
+e	 [e] KC @NPHR  O
+atualmente	 [atualmente] ADV @<ADVL  O
+E.E.S.G.	 [E.E.S.G.] <hum> <*> PROP M/F S @<SC  O
+$" O
+Pereira=Barreto	 [Pereira=Barreto] <tit> <*> <*1> <*2> <np-close> PROP F S @N<  O
+$" O
+$. O
+</s>

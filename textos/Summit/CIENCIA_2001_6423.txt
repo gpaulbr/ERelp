@@ -1,0 +1,178 @@
+$S-1
+O 	[o] <*> <artd> DET M S @>N  
+mecanismo 	[mecanismo] <cjt-head> <ac> N M S @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+faz 	[fazer] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+as 	[o] <artd> DET F P @>N  
+pessoas 	[pessoa] <cjt> <H> N F P @SUBJ>  
+sentirem 	[sentir] <vH> <mv> V INF 3P @ICL-<ACC  
+falta 	[falta] <f-c> <sit> <event> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+ar 	[ar] <cm-gas> <f-an> <ac> N M S @P<  
+em 	[em] PRP @<ADVL  
+regiões 	[região] <L> <Ltop> N F P @P<  
+montanhosas 	[montanhoso] <nh> <np-close> ADJ F P @N<  
+ou 	[ou] KC @NPHR  
+depois 	[depois] ADV @ADVL>  
+de 	[de] PRP @A<  
+uma 	[um] <arti> DET F S @>N  
+corrida 	[corrida] <occ> <activity> <mon> N F S @P<  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+fortemente 	[fortemente] ADV @<ADVL  
+ligado 	[ligar] <mv> V PCP M S @ICL-<SC  
+a 	[a] PRP @<PIV  
+gases 	[gás] <cm-gas> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+família 	[família] <HH> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+óxido 	[óxido] <cm-chem> N M S @P<  
+nítrico 	[nítrico] <nh> <np-close> ADJ M S @N<  
+$, 
+de=acordo 	[de=acordo] <pp> ADV @<ADVL  
+com 	[com] PRP @A<  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+publicado 	[publicar] <vH> <np-close> V PCP M S @N<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+última 	[último] <NUM-ord> <jh> ADJ F S @>N  
+edição 	[edição] <act> <cc-r> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+$"  
+Nature 	[Nature] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$( 
+www.nature.com 	[www.nature.com] <np-close> N M S @N<PRED  
+$) 
+$. 
+</s>
+
+$S-2
+Cientistas 	[cientista] <*> ADJ M/F P @PRED>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=da=Virgínia 	[Universidade=da=Virgínia] <inst> <*> PROP F S @P<  
+$, 
+Eua 	[Eua] <hum> <*> <np-close> PROP M/F S @APP  
+$, 
+descobriram 	[descobrir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+esses 	[esse] <dem> DET M P @>N  
+gases 	[gás] <cjt-head> <cm-gas> N M P @SUBJ>  
+$, 
+chamados 	[chamado] ADJ M P @PRED>  
+S-nitrosotióis 	[s-nitrosotió] <cjt> <hum> <*> PROP M/F S @SUBJ>  
+$( 
+Snos 	[Snos] <top> <*> <np-close> PROP M/F S @N<PRED  
+$) 
+atuam 	[atuar] <mv> V PR 3P IND VFIN @FS-<ACC  
+em 	[em] PRP @<PIV  
+todos=os 	[todo=o] <quant> DET M P @>N  
+níveis 	[nível] <Labs> <tool> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+regulação 	[regulação] <activity> N F S @P<  
+respiratória 	[respiratório] <nh> <np-close> ADJ F S @N<  
+$, 
+fazendo 	[fazer] <clb> <mv> V GER @ICL-<ADVL  
+com 	[com] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <artd> DET M P @>N  
+vasos 	[vaso] <cjt-head> <con> <Vwater> N M P @SUBJ>  
+sanguíneos 	[sanguíneo] <np-close> ADJ M P @N<  
+e 	[e] <cjt-head> KC @NPHR  
+vias 	[via] <cjt> <Lpath> N F P @SUBJ>  
+respiratórias 	[respiratório] <nh> <np-close> ADJ F P @N<  
+dilatem 	[dilatar] <vH> <mv> V PR 3P SUBJ VFIN @FS-P<  
+$, 
+sinalizando 	[sinalizar] <clb> <mv> V GER @ICL-<ADVL  
+a 	[o] <artd> DET F S @>N  
+necessidade 	[necessidade] <am> <sit> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+oxigênio 	[oxigênio] <cm-chem> N M S @P<  
+por=parte=de 	[por=parte=de] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+tecidos 	[tecido] <mat-cloth> <an> <cc-rag> N M P @P<  
+e 	[e] <cjt> KC @NPHR  
+comunicando- 	[comunicar] <clb> <hyfen> <vH> <mv> V GER @ICL-<ADVL  
+se 	[se] PERS M/F 3S/P ACC @<SUBJ  
+com 	[com] PRP @<ADVL  
+as 	[o] <artd> DET F P @>N  
+regiões 	[região] <L> <Ltop> N F P @P<  
+cerebrais 	[cerebral] <nh> <np-close> ADJ F P @N<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+controlam 	[controlar] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+desejo 	[desejo] <sem-c> <am> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+respirar 	[respirar] <vH> <mv> V INF @ICL-P<  
+$. 
+</s>
+
+$S-3
+Segundo 	[segundo] <com> <*> <adv-rel> PRP @ADVL>  
+Benjamin=Gaston 	[Benjamin=Gaston] <hum> <asarg> <*> PROP M S @P<  
+$, 
+um 	[um] <card> NUM M S @<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @P<  
+envolvidos 	[envolvido] <jh> <np-close> ADJ M P @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+descoberta 	[descoberta] <event> N F S @SUBJ>  
+pode 	[poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+abrir 	[abrir] <vH> <mv> V INF @ICL-AUX<  
+alternativas 	[alternativa] <ac> N F P @<ACC  
+para 	[para] <np-close> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+tratamento 	[tratamento] <therapy> <f-c> <activity> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+disfunções 	[disfunção] <event> N F P @P<  
+respiratórias 	[respiratório] <nh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-4
+Stuart=Lipton 	[Stuart=Lipton] <hum> <*> PROP M S @SUBJ>  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Instituto=Burnham 	[Instituto=Burnham] <inst> <*> PROP M S @P<  
+$, 
+Califórnia 	[Califórnia] <civ> <*> <np-close> PROP M/F S @N<  
+$, 
+não 	[não] ADV @ADVL>  
+duvida 	[duvidar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$:  
+
+$"  
+Esse 	[esse] <*> <*1> <dem> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @ADVL>  
+tem 	[ter] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+lugar 	[lugar] <L> <Lciv> <Labs> N M S @<ACC  
+garantido 	[garantir] <vH> <mv> <np-close> V PCP M S @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+manuais 	[manual] <sem-r> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+fisiologia 	[fisiologia] <*2> <domain> N F S @P<  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+$. 
+$( 
+</s>
+
+$S-5
+Da=Redação 	[Da=Redação] <hum> <*> PROP F S @NPHR  
+$) 
+</s>
+
+$S-6

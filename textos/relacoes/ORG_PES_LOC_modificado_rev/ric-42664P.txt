@@ -1,0 +1,93 @@
+$S-13
+$" O
+A	 [o] <*> <*1> <artd> DET F S @>N  O
+única	 [único] ADJ F S @>N  O
+coisa	 [coisa] <cc> <ac> N F S @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+pedimos	 [pedir] <vH> <mv> <np-close> V PR 1P IND VFIN @FS-N<  O
+é	 [é] <foc> ADV @FOC>  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+cada	 [cada] <quant> DET F S @>N  O
+nova	 [novo] <jh> ADJ F S @>N  O
+versão	 [versão] <meta> <sem-r> N F S @SUBJ>  O
+seja	 [ser] <aux> V PR 3S SUBJ VFIN @FS-<ACC  O
+também	 [também] ADV @ADVL>  O
+tornada	 [tornar] <mv> V PCP F S @ICL-AUX<  O
+pública	 [público] <jh> ADJ F S @<SC  O
+em	 [em] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+site	 [site] <Lh> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Creative=Commons	 [Creative=Commons] <inst> <*> <*2> PROP M S @P< ORG O
+$" O
+$, O
+diz	 [dizer] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+Christiansen	 [Christiansen] <hum> <*> PROP M/F S @<SUBJ PES O
+$. O
+</s>
+
+$S-18
+Em	 [em] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+próximo	 [próximo] ADJ M S @>N  O
+sábado	 [sábado] <temp> N M S @P<  O
+$, O
+a	 [a] <sam-> PRP @ADVL>  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+16h	 [16h] <temp> N F P @P<  O
+$, O
+Ronaldo=Lemos	 [Ronaldo=Lemos] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+diretor	 [diretor] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Creative=Commons	 [Creative=Commons] <org> <*> PROP M S @P< ORG O
+em	 [em] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+$, O
+irá	 [ir] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+participar	 [participar] <vH> <mv> V INF @ICL-AUX<  O
+de	 [de] PRP @<PIV  O
+um	 [um] <arti> DET M S @>N  O
+debate	 [debate] <talk> N M S @P<  O
+com	 [com] <np-close> PRP @N<  O
+os	 [o] <artd> DET M P @>N  O
+membros	 [membro] <an> <H> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Superflex	 [Superflex] <org> <*> PROP M S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Vermelho	 [vermelho] <prop> <n> <*> <col> <jh> ADJ M S @P<  O
+$, O
+e	 [e] <clb> KC @NPHR  O
+logo	 [logo] <kc> ADV @ADVL>  O
+após	 [após] ADV @ADVL>  O
+será	 [ser] <fmc> <aux> V FUT 3S IND VFIN @FS-STA  O
+realizada	 [realizar] <vH> <mv> V PCP F S @ICL-AUX<  O
+uma	 [um] <arti> DET F S @>N  O
+gincana	 [gincana] <game> N F S @<SUBJ  O
+intitulada	 [intitular] <vH> <np-close> V PCP F S @N<  O
+$" O
+Free=Beer=Pub=Quiz	 [Free=Beer=Pub=Quiz] <tit> <*> <*1> <*2> <np-long> PROP F S @N< @<ACC  O
+$" O
+$, O
+em	 [em] <clb> <sam-> PRP @ADVL>  O
+a=qual	 [o=qual] <clb-fs> <rel> <-sam> SPEC F S @P<  O
+participantes	 [participante] <H> N M P @SUBJ>  O
+receberão	 [receber] <vH> <mv> <np-close> V FUT 3P IND VFIN @FS-N<  O
+prêmios	 [prêmio] <mon> N M P @<ACC  O
+a	 [a] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+responderem	 [responder] <mv> V INF 3P @ICL-P<  O
+questões	 [questão] <act-s> <ac> N F P @<ACC  O
+sobre	 [sobre] <np-close> PRP @N<  O
+propriedade	 [propriedade] <cm> <Lh> N F S @P<  O
+intelectual	 [intelectual] <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+direitos=autorais	 [direitos=autorais] <ac> N M P @<ACC  O
+$. O
+</s>

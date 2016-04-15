@@ -1,0 +1,22 @@
+$S-1
+Em	 [em] PRP @ADVL> O
+1998	 [1998] <card> <year> <date> NUM M/F S @P< O
+a	 [o] <artd> DET F S @>N O
+editora	 [editora] <HH> N F S @SUBJ> O
+$" O
+El=Tatu	 [El=Tatu] <org> <np-close> PROP F S @N< ORG O
+$" O
+de	 [de] <np-close> PRP @N< O
+Tim	 [Tim] <hum> PROP M/F S @P< PES O
+reedita	 [reeditar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+os	 [o] <artd> DET M P @>N O
+albuns	 [álbum] <cc-r> N M P @<ACC O
+$" O
+Censurados	 [censurar] <prop> <vH> <np-close> V PCP M P @N< O 
+$" O
+e	 [e] <co-acc> KC @CO O
+$" O
+Sopa	 [sopa] <prop> <food-h> N F S @<ACC O
+$" O
+$. O
+</s>

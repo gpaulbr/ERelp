@@ -1,0 +1,106 @@
+$S-3
+A	 [a] <*> <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+recuperar	 [recuperar] <vH> <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+independência	 [independência] <am> N F S @<ACC  O
+$, O
+Portugal	 [Portugal] <civ> <*> PROP M S @SUBJ> ORG O
+encontrou-	 [encontrar] <hyfen> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] PERS M 3S ACC @<ACC-PASS  O
+em	 [em] PRP @<ADVL  O
+posição	 [posição] <act> <pos-an> N F S @P<  O
+extremamente	 [extremamente] <quant> ADV @>A  O
+débil	 [débil] <jh> ADJ M/F S @<OC  O
+$, O
+pois	 [pois] <clb> KS @ADVL>  O
+a	 [o] <artd> DET F S @>N B-REL
+ameaça	 [ameaça] <act-s> <sit> N F S @SUBJ> I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Espanha	 [Espanha] <civ> <*> PROP F S @P< ORG O
+$- O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+por	 [por] PRP @ADVL>  O
+mais=de	 [mais=de] <quant> ADV @ADVL>  O
+um	 [um] <card> NUM M S @>N  O
+quarto	 [quarto] <amount> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+século	 [século] <dur> <per> N M S @P<  O
+não	 [não] ADV @ADVL>  O
+reconheceu	 [reconhecer] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+essa	 [esse] <dem> DET F S @>N  O
+independência	 [independência] <am> N F S @<ACC  O
+$- O
+pesava	 [pesar] <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  O
+permanentemente	 [permanentemente] <nh> ADV @<ADVL  O
+sobre	 [sobre] PRP @<PIV  O
+o	 [o] <artd> DET M S @>N  O
+território	 [território] <L> N M S @P<  O
+metropolitano	 [metropolitano] <np-close> ADJ M S @N<  O
+$. O
+</s>
+
+$S-9
+Igualmente	 [igualmente] <*> <quant> ADV @ADVL> @>A  O
+em	 [em] <sam-> PRP @ADVL>  O
+essa	 [esse] <-sam> <dem> DET F S @>N  O
+conferência	 [conferência] <occ> N F S @P<  O
+$, O
+Portugal	 [Portugal] <civ> <newlex> <*> PROP M S @SUBJ> ORG O
+conseguiu	 [conseguir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA B-REL
+de	 [de] <sam-> PRP @<ADVL I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+Espanha	 [Espanha] <civ> <*> PROP F S @P< ORG O
+o	 [o] <artd> DET M S @>N  O
+reconhecimento	 [reconhecimento] <act> <am> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+seus	 [seu] <poss 3S> DET M P @>N  O
+direitos	 [direito] <domain> <f-right> <amount> N M P @P<  O
+sobre	 [sobre] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+colônia	 [colônia] <Lciv> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Sacramento	 [sacramento] <prop> <*> <act> N M S @P<  O
+$. O
+</s>
+
+$S-12
+Com=efeito	 [com=efeito] <pp> <*> ADV @ADVL>  O
+$, O
+se	 [se] <clb> <clb-fs> KS @SUB  O
+bem	 [bem] <quant> ADV @ADVL>  O
+haja	 [haver] <aux> V PR 1/3S SUBJ VFIN @FS-ADVL>  O
+conseguido	 [conseguir] <vH> <mv> V PCP M S @ICL-AUX<  O
+separar-	 [separar] <hyfen> <mv> V INF @ICL-<ACC  O
+se	 [se] <refl> PERS M/F 3S ACC @<ACC  O
+de	 [de] PRP @<PIV  O
+Portugal	 [Portugal] <civ> <*> PROP M S @P< O
+em	 [em] PRP @<ADVL  O
+1822	 [1822] <card> <date> <year> NUM M/F S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+Brasil	 [Brasil] <org> <*> PROP M S @SUBJ> ORG O
+necessitou	 [necessitar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+vários	 [vários] <quant> DET M P @>N  O
+decênios	 [decênio] <dur> N M P @<ACC  O
+mais	 [mais] ADV @<ADVL  O
+para	 [para] PRP @<ADVL  O
+eliminar	 [eliminar] <vH> <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+tutelagem	 [tutelagem] <activity> N F S @<ACC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+$, O
+graças=a	 [graças=a] PRP @ADVL>  O
+sólidos	 [sólido] <nh> ADJ M P @>N  O
+acordos	 [acordo] <sem-c> N M P @P<  O
+internacionais	 [internacional] <nh> <np-close> ADJ M P @N<  O
+$, O
+mantinha	 [manter] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N< B-REL
+sobre	 [sobre] PRP @<PIV @<ADVL I-REL
+ele	 [ele] PERS M 3S NOM/PIV @P<  O
+a	 [o] <artd> DET F S @>N  O
+Inglaterra	 [Inglaterra] <civ> <*> PROP F S @<ACC ORG O
+$. O
+</s>

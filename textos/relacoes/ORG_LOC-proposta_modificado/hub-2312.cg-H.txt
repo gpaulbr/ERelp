@@ -1,0 +1,5 @@
+$S-1
+Departamento=de=Defesa	 [Departamento=de=Defesa] <inst> PROP M S @P< ORG O
+de	 [de] <sam-> PRP @<SC REL
+os	 [o] <artd> <-sam> DET M P @>N REL
+Estados=Unidos=da=América	 [Estados=Unidos=da=América] <civ> PROP M P @P< LOCAL O

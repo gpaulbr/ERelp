@@ -1,0 +1,59 @@
+$S-6
+O 	[o]   <artd> DET M S @>N  
+biólogo 	[biólogo] <Hprof> N M S @SUBJ>  
+William=Eberhard 	[William=Eberhard] <hum>   <np-close> PROP M S @N<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=da=Costa=Rica 	[Universidade=da=Costa=Rica] <inst>   PROP F S @P<  ORG
+$, 
+descobriu 	[descobrir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+as 	[o] <clb> <artd> DET F P @>N  
+larvas 	[larva] <Azo> N F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+inseto 	[inseto] <Aent> N M S @P<  
+$, 
+a 	[a] <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+parasitar 	[parasitar] <vH> <mv> V INF 0/1/3S @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+aranha 	[aranha] <Azo> N F S @<ACC  
+Plesiometa 	[Plesiometa] <org>   <np-close> PROP F S @N<  
+argyra 	[argyro] <np-long> ADJ F S @N<  
+$, 
+provocam 	[provocar] <mv> V PR 3P IND VFIN @FS-<ACC  
+mudanças 	[mudança] <event> N F P @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+comportamento 	[comportamento] <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+hospedeira 	[hospedeira] <H> N F S @P<  
+$. 
+</s>
+
+$S-18
+É 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC  
+uma 	[um] <arti> DET F S @>N  
+descoberta 	[descoberta] <event> N F S @<SC  
+e 	[e] KC @NPHR  
+tanto 	[tanto] <quant> <KOMP> ADV @ADVL>   
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+psicólogo 	[psicólogo] <Hprof> N M S @<SUBJ  
+César=Ades 	[César=Ades] <hum>   <np-close> PROP M S @N<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <org>   PROP F S @P<  ORG
+$, 
+especialista 	[especialista] <np-close> ADJ M/F S @N<PRED  
+em 	[em] <np-close> PRP @N<  
+comportamento 	[comportamento] <act> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+aranhas 	[aranha] <Azo> N F P @P<  
+$. 
+</s>

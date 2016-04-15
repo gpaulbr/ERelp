@@ -1,0 +1,69 @@
+$S-14
+Comandadas	 [comandar] <*> <vH> <mv> V PCP F P @ICL-PRED>  O
+por	 [por] PRP @<PASS  O
+Gabriel=Menotti	 [Gabriel=Menotti] <hum> <*> PROP M S @P< PES O
+$, O
+de	 [de] <sam-> <np-close> PRP @N<PRED REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Cine=Falcatrua	 [Cine=Falcatrua] <inst> <*> PROP M S @P< ORG O
+$, O
+as	 [o] <artd> DET F P @>N  O
+projeções	 [projeção] <act> N F P @SUBJ>  O
+não	 [não] ADV @ADVL>  O
+seguiam	 [seguir] <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  O
+uma	 [um] <arti> DET F S @>N  O
+programação	 [programação] <act> N F S @<ACC  O
+prévia	 [prévio] <nh> <np-close> ADJ F S @N<  O
+$. O
+$" O
+</s>
+
+$S-25
+Realizada	 [realizar] <*> <vH> V PCP F S @PRED>  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Teatro=do=Sesi	 [Teatro=do=Sesi] <inst> <*> PROP M S @P<  O
+$, O
+local	 [local] <Lh> <np-close> N M S @N<PRED  O
+ao=lado=de	 [ao=lado=de] <sam-> PRP @ADVL>  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+espaço	 [espaço] <Labs> <Ltop> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+fisl	 [fisl] N M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+noite	 [noite] <per> <temp> N F S @SUBJ>  O
+começou	 [começar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+com	 [com] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+gaúchos	 [gaúcho] <Hnat> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Bataclã=FC	 [Bataclã=FC] <org> <*> PROP F S @P< PES O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> REL
+entraram	 [entrar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N< REL
+em	 [em] <sam-> PRP @<SA REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+palco	 [palco] <Lh> N M S @P< REL
+com	 [com] PRP @<ADVL REL
+uniformes	 [uniforme] <cloH> N M P @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+DMLU	 [DMLU] <inst> <*> PROP M S @P< ORG O
+$, O
+o	 [o] <artd> DET M S @>N  O
+Departamento=Municipal=de=Limpeza=Urbana	 [Departamento=Municipal=de=Limpeza=Urbana] <inst> <*> PROP M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Porto=Alegre	 [Porto=Alegre] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+abriram	 [abrir] <vH> <fmc> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+show	 [show] <occ> N M S @<ACC  O
+com	 [com] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+clássico	 [clássico] <cc-r> <H> N M S @P<  O
+Amigo=Punk	 [Amigo=Punk] <hum> <*> <np-close> PROP M S @N<  O
+$. O
+</s>

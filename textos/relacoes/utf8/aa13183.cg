@@ -1,0 +1,60 @@
+$S-1
+$" O
+A	 [o] <artd> DET F S @>N O
+feira	 [feira] <occ> N F S @SUBJ> O
+destina-	 [destinar] <vH> <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] PERS F 3S ACC @<ACC-PASS O
+a	 [a] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+público	 [público] <HH> N M S @P< O
+em=geral	 [em=geral] <pp> ADV @<ADVL O
+$, O
+embora	 [embora] <clb> <clb-fs> KS @SUB O
+o	 [o] <artd> DET M S @>N O
+programa	 [programa] <sem-c> <cc-r> N M S @SUBJ> O
+de	 [de] <np-close> PRP @N< O
+sexta-feira	 [sexta-feira] <occ> N F S @P< O
+esteja	 [estar] <vK> <mv> V PR 3S SUBJ VFIN @FS-<ADVL O
+muito	 [muito] <quant> ADV @>A O
+pensado	 [pensar] <n> <vH> V PCP M S @<SC O
+para	 [para] <np-close> PRP @N< O 
+as	 [o] <artd> DET F P @>N O
+escolas	 [escola] <inst> N F P @P< O
+$, O
+com	 [com] PRP @<ADVL O
+actividades	 [actividade] <act-d> <activity> N F P @P< O
+para	 [para] PRP @<ADVL O
+os	 [o] <artd> DET M P @>N O
+primeiros	 [primeiro] <NUM-ord> ADJ M P @>N O
+ciclos	 [ciclo] <per> N M P @P< O
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+sábado	 [sábado] <temp> N M S @SUBJ> O
+tenha	 [ter] <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA O
+actividades	 [actividade] <act-d> <activity> N F P @<ACC O
+para	 [para] PRP @<ADVL O
+os	 [o] <artd> DET M P @>N O
+professores	 [professor] <Hprof> N M P @P< O
+$, O
+com	 [com] PRP @<ADVL O
+uma	 [um] <arti> DET F S @>N O
+pequena	 [pequeno] <jh> ADJ F S @>N O
+mostra	 [mostra] <act> <occ> <f-c> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O
+as	 [o] <artd> <-sam> DET F P @>N O
+actividades	 [actividade] <act-d> <activity> N F P @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+NUCLIO	 [NUCLIO] <inst> PROP M S @P< ORG O
+$" O
+$, O
+disse	 [dizer] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [a] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+Agência=Lusa	 [Agência=Lusa] <org> PROP F S @P< O
+a	 [o] <artd> DET F S @>N B-REL
+astrónoma	 [astrónoma] <Hprof> N F S @<SUBJ I-REL
+Rosa=Doran	 [Rosa=Doran] <hum> <np-close> PROP F S @N< PES O
+$. O
+$" O
+</s>

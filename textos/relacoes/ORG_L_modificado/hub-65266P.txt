@@ -1,0 +1,112 @@
+$S-3
+António=Nunes	 [António=Nunes] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Autoridade=de=Segurança=Alimentar=e=Económica	 [Autoridade=de=Segurança=Alimentar=e=Económica] <org> <*> PROP F S @P< ORG O
+$( O
+ASAE	 [ASAE] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+uma	 [uma] <card> NUM F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+entidades	 [entidade] <H> N F P @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+irá	 [ir] <aux> <np-close> V FUT 3S IND VFIN @FS-N<  O
+fiscalizar	 [fiscalizar] <vH> <mv> V INF @ICL-AUX<  O
+a	 [o] <artd> DET F S @>N  O
+aplicação	 [aplicação] <act> <sem-r> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+lei	 [lei] <conv> <percep-f> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+proibe	 [proibir] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+o	 [o] <artd> DET M S @>N  O
+fumo	 [fumo] <cm> N M S @<ACC  O
+em	 [em] PRP @<ADVL  O
+espaços	 [espaço] <Labs> <Ltop> N M P @P<  O
+fechados	 [fechado] <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+utilização	 [utilização] <act> N F S @P<  O
+pública	 [público] <jh> <np-close> ADJ F S @N<  O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  O
+fotografado	 [fotografar] <vH> <mv> V PCP M S @ICL-AUX<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Diário=de=Notícias	 [Diário=de=Notícias] <media> <*> PROP M S @P<  O
+$( O
+DN	 [DN] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+a	 [a] PRP @<ADVL  O
+fumar	 [fumar] <mv> V INF @ICL-P<  O
+uma	 [um] <arti> DET F S @>N  O
+cigarrilha	 [cigarrilha] <cc> N F S @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Casino	 [casino] <prop> <*> <inst> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Estoril	 [Estoril] <civ> <*> PROP M S @P<  O
+a	 [a] <sam-> PRP @<ADVL  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+02.30	 [02.30] <card> NUM F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+manhã	 [manhã] <temp> <per> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+dia	 [dia] <temp> <dur> <per> N M S @P<  O
+01	 [01] <card> <np-close> NUM M/F P @N<  O
+de	 [de] <np-close> PRP @N<  O
+Janeiro	 [Janeiro] <hum> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-8
+Sobre	 [sobre] <*> PRP @ADVL>  O
+as	 [o] <artd> DET F P @>N  O
+dúvidas	 [dúvida] <sem-c> N F P @P<  O
+manifestadas	 [manifestar] <vH> <mv> <np-close> V PCP F P @ICL-N<  O
+por	 [por] <sam-> PRP @<PASS  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+máximo	 [máximo] <Labs> <amount> <cc-light> N M S @P<  O
+responsável	 [responsável] <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+ASAE	 [ASAE] <org> <*> PROP F S @P< ORG O
+relativamente=a	 [relativamente=a] <sam-> <np-close> PRP @N<  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+âmbito	 [âmbito] <Labs> <L> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+aplicação	 [aplicação] <act> <sem-r> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+nova	 [novo] <jh> ADJ F S @>N  O
+lei	 [lei] <conv> <percep-f> N F S @P<  O
+$, O
+Luís=Rebelo	 [Luís=Rebelo] <hum> <*> PROP M S @SUBJ> PES O
+considerou	 [considerar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+a	 [o] <artd> DET F S @>N  O
+legislação	 [legislação] <act> <sem-c> N F S @SUBJ>  O
+$" O
+é	 [ser] <*1> <vK> <mv> V PR 3S IND VFIN @FS-<ACC  O
+clara	 [claro] <*2> <nh> ADJ F S @<SC  O
+$" O
+quanto=a	 [quanto=a] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+proibição	 [proibição] <act-s> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+fumar	 [fumar] <mv> V INF @ICL-P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+casinos	 [casino] <inst> N M P @P<  O
+e	 [e] KC @NPHR  O
+salas	 [sala] <Lh> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+jogos	 [jogo] <activity> <occ> <cc-h> <game> N M P @P<  O
+$. O
+</s>

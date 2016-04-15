@@ -1,0 +1,31 @@
+$S-24
+Em 	[em]   <sam-> PRP @ADVL>   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+início 	[início] <temp> N M S @P<   O
+$, 
+a 	[o] <artd> DET F S @>N   O
+ACT 	[ACT] <org>   PROP F S @SUBJ>  ORG O
+preparou 	[preparar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+30 	[30] <card> NUM M P @>N   O
+óvulos 	[ovo] <anorg> N M P @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+vaca 	[vaca] <Adom> <food> N F S @P<   O
+$, 
+extraindo 	[extrair] <hyfen> <vH> <mv> V GER @ICL-<ADVL   O
+lhes 	[eles] PERS M/F 3P DAT @<DAT   O
+o 	[o] <artd> DET M S @>N   O
+núcleo 	[núcleo] <Labs> N M S @<ACC @SUBJ>   O
+e 	[e] KC @NPHR   O
+fundindo 	[fundir] <clb> <hyfen> <mv> V GER @ICL-<ADVL   O
+os 	[eles] PERS M 3P ACC @<ACC   O
+com 	[com] PRP @<ADVL   O
+células 	[célula] <Acell> <Lh> <HH> N F P @P<   O
+adultas 	[adulto] <jh> <np-close> ADJ F P @N<   O
+preservadas 	[preservar] <vH> <np-long> V PCP F P @N<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+banteng 	[banteng] N M S @P<   O
+de 	[de] <np-close> PRP @N<   O
+San=Diego 	[San=Diego] <hum>   PROP M S @P< PES  O
+$. 
+</s>

@@ -1,0 +1,58 @@
+$S-2
+Pesquisadores 	[pesquisador]   <Hprof> N M P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Michigan 	[Universidade=de=Michigan] <inst>   PROP F S @P<  ORG
+em 	[em] <np-close> PRP @N<  
+Ann=Arbor 	[Ann=Arbor] <hum>   PROP F S @P<  LOCAL
+$, 
+em 	[em] <sam-> PRP @ADVL>  
+os 	[o] <artd> <-sam> DET M P @>N  
+Estados=Unidos 	[Estados=Unidos] <civ>   PROP M P @P<  
+$, 
+sugerem 	[sugerir] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <artd> DET M P @>N  
+olhos 	[olho] <anmov> N M P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+asiáticos 	[asiático] <Hnat> N M P @P<  
+tendem 	[tender] <vH> <mv> V PR 3P IND VFIN @FS-<ACC  
+a 	[a] PRP @<PIV  
+ver 	[ver] <vH> <mv> V INF @ICL-P<  
+uma 	[um] <arti> DET F S @>N  
+imagem 	[imagem] <pict> <sem-c> <ac-cat> N F S @<ACC  
+em 	[em] <sam-> PRP @<OA  
+o 	[o] <-sam> <artd> DET M S @>N  
+seu 	[seu] <poss 3S> DET M S @>N  
+conjunto 	[conjunto] <coll> <HH> <amount> N M S @P<  
+$, 
+prestando 	[prestar] <clb> <mv> V GER @ICL-<ADVL  
+tanto 	[tanto] <quant> <KOMP> ADV @<ADVL  
+atenção 	[atenção] <am> N F S @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+que 	[que] <clb> <clb-fs> KS @SUB  
+está 	[estar] <mv> V PR 3S IND VFIN @FS-KOMP<  
+em 	[em] PRP @<SA  
+primeiro=plano 	[primeiro=plano] <Labs> N M S @P<  
+quanto 	[quanto] <clb> <clb-fs> <rel> <ks> <quant> ADV @ADVL>  
+em 	[em] <sam-> PRP @AS<  
+o 	[o] <-sam> <artd> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+$, 
+enquanto 	[enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+os 	[o] <artd> DET M P @>N  
+americanos 	[americano] <Hnat> N M P @SUBJ>  
+demoram 	[demorar] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+mais 	[mais] ADV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+olhar 	[olhar] <act-d> N M S @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+objeto 	[objeto] <cc> <ac-cat> N M S @P<  
+central 	[central] <nh> <np-close> ADJ M S @N<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+quadro 	[quadro] <furn> <pict> <cc-r> <sit> <HH> <sem-c> N M S @P<  
+$. 
+</s>

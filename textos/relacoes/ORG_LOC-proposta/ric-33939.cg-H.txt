@@ -1,0 +1,4 @@
+$S-1
+Universidade=da=California	 [Universidade=da=California] <inst> PROP F S @P< ORG O
+$, B-REL
+Davis	 [Davis] <hum> PROP M/F S @<SC LOCAL O

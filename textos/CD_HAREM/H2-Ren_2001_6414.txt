@@ -1,0 +1,48 @@
+
+    
+      Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal. A descoberta, segundo pesquisadores da
+      <EM ID="H2-Ren_2001_6414-152" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Universidade de Wisconsin-Madison</EM> 
+      (
+      <EM ID="H2-Ren_2001_6414-153" CATEG="LOCAL" TIPO="HUMANO" COREL="H2-Ren_2001_6414-1002 H2-Ren_2001_6414-152 H2-Ren_2001_6414-1520" TIPOREL="inclui sede_de sede_de">EUA</EM>
+      ), poderá levar à compreensão de como as epidemias da doença surgem e qual a melhor forma de combatê-las.
+    
+    
+      A equipe liderada por
+      <EM ID="H2-Ren_2001_6414-154" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-Ren_2001_6414-152 H2-Ren_2001_6414-1520" TIPOREL="vinculo_inst vinculo_inst">Yoshihiro Kawaoka</EM>
+      analisou amostras do
+      <EM ID="H2-Ren_2001_6414-155" CATEG="COISA" TIPO="SUBSTANCIA"  >H5N1</EM>
+      , o vírus influenza que,
+      <EM ID="H2-Ren_2001_6414-156" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1997</EM>
+      , matou
+      <EM ID="H2-Ren_2001_6414-1" CATEG="VALOR" TIPO="QUANTIDADE"  >6</EM>
+      das
+      <EM ID="H2-Ren_2001_6414-2" CATEG="VALOR" TIPO="QUANTIDADE"  >18</EM>
+      pessoas infectadas, em
+      <EM ID="H2-Ren_2001_6414-157" CATEG="LOCAL" TIPO="HUMANO"  >Hong Kong</EM>
+      .
+    
+    Essas amostras foram inoculadas em camundongos e, de acordo com os sintomas apresentados pelos animais, foram divididas em dois grupos.
+    O primeiro grupo causava uma forma de infecção letal, matando os camundongos, e o segundo provocava apenas problemas respiratórios como sintomas.
+    
+      Para descobrir a razão dessa diferença,
+      <EM ID="H2-Ren_2001_6414-158" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-Ren_2001_6414-154" TIPOREL="ident">Kawaoka</EM>
+      usou uma estratégia de "engenheirar" os vírus, trocando genes entre as linhagens virais. Desse modo, conseguiu identificar qual deles era o responsável pela maior capacidade de infecção do influenza.
+    
+    
+      "Uma mudança de apenas uma base [letra] no gene
+      <EM ID="H2-Ren_2001_6414-159" CATEG="COISA" TIPO="SUBSTANCIA"  >PB2</EM>
+      [que resultou na modificação de um aminoácido na proteína por ele codificada] parece ser a causa da virulência do influenza", explica.
+    
+    
+      Os cientistas ainda não sabem exatamente qual o papel do
+      <EM ID="H2-Ren_2001_6414-160" CATEG="COISA" TIPO="SUBSTANCIA" COREL="H2-Ren_2001_6414-159" TIPOREL="ident">PB2</EM>
+      , mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas.
+    
+    
+      O estudo do grupo de
+      <EM ID="H2-Ren_2001_6414-161" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-Ren_2001_6414-154" TIPOREL="ident">Kawaoka</EM>
+      está na edição <EM ID="H2-Ren_2003_6465-178" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de hoje</EM> da revista científica "
+      <EM ID="H2-Ren_2001_6414-15" CATEG="LOCAL" TIPO="VIRTUAL"  >Science</EM>
+      ".
+    
+  

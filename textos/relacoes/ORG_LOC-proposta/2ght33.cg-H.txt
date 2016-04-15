@@ -1,0 +1,30 @@
+$S-1
+Detroit	 [Detroit] <civ> PROP F S @SUBJ> LOCAL O
+$, O
+essa	 [esse] <dem> DET F S @>N O
+$" O
+cidade	 [cidade] <Lciv> <np-close> N F S @APP O
+portátil	 [portátil] <nh> <np-close> ADJ F S @N< O 
+$" O
+$, O
+virtualizada	 [virtualizar] <DERS> <mv> V PCP F S @ICL-N<PRED O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+minimalista	 [minimalista] <nh> ADJ F S @>N O
+batida	 [batida] <Lpath> <occ> <activity> <event> <drink> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+um	 [um] <arti> DET M S @>N O
+sequenciador	 [sequenciador] <mach> N M S @P< O
+automático	 [automático] <nh> <np-close> ADJ M S @N< O 
+$, O
+profetiza	 [profetizar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+em	 [em] PRP @<ADVL O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+música	 [música] <sem-l> <domain> <cc-r> N F S @P< O
+$-- O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+já	 [já] ADV @ADVL> O
+nos	 [nós] PERS M/F 1P ACC @ACC> O
+deu	 [dar] <mv> <np-close> V PS 3S IND VFIN @FS-N< O 
+a	 [a] PRP @<PIV B-REL
+Motown	 [Motown] <civ> PROP M/F S @P< ORG O

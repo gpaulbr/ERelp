@@ -1,0 +1,4 @@
+$S-1
+Universidade=de=Wisconsin--Madison	 [Universidade=de=Wisconsin--Madison] <media> PROP F S @P< ORG O
+$( REL
+EUA	 [EUA] <civ> <np-close> PROP M P @N<PRED LOCAL O

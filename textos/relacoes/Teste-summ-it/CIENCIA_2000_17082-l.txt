@@ -1,0 +1,24 @@
+$S-15
+Ele 	[ele]   PERS M 3S NOM @SUBJ>   O
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+como 	[como] <prd> <adv-rel> PRP @<OC   O
+exemplo 	[exemplo] <cjt-head> <asarg> <ac> N M S @P<   O
+as 	[o] <artd> DET F P @>N   O
+cidades 	[cidade] <cjt> <asarg> <Lciv> N F P @P<   O
+de 	[de] <np-close> PRP @N<   O
+Paragominas 	[Paragominas] <cjt-head> <civ>   PROP M/F S @P<  LOCAL O
+$( 
+PA 	[PA] <civ>   <np-close> PROP M S @N<PRED  ORG O
+$) 
+$, 
+Açailândia 	[Açailândia] <cjt> <civ>   PROP M/F S @P<   O
+$( 
+MA 	[MA] <civ>   <np-close> PROP M S @N<PRED   O
+$) 
+e 	[e] KC @NPHR   O
+Humaitá 	[Humaitá] <cjt> <hum> <newlex>   PROP F S @P<   O
+$( 
+AM 	[AM] <civ>   <np-close> PROP M S @N<PRED   O
+$) 
+$. 
+</s>

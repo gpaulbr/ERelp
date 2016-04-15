@@ -1,0 +1,47 @@
+$S-1
+Em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+Cité=Universitaire	 [Cité=Universitaire] <top> PROP F S @P< ORG O
+arranjou	 [arranjar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+maneira	 [maneira] <ac> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O 
+não	 [não] ADV @ADVL> O
+ficar	 [ficar] <vK> <mv> V INF @ICL-P< O
+muito=tempo	 [muito=tempo] <dur> <am> <temp> N M S @<SC O
+em	 [em] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Residência=André=de=Gouveia	 [Residência=André=de=Gouveia] <top> PROP F S @P< O
+$, O
+indo	 [ir] <clb> <mv> V GER @ICL-<ADVL O
+antes	 [antes] ADV @<ADVL O
+para	 [para] PRP @<SA O
+uma	 [um] <arti> DET F S @>N O
+casa	 [casa] <build> N F S @P< O
+que	 [que] <clb> <clb-fs> KS @SUB O
+era	 [ser] <vK> <mv> V IMPF 3S IND VFIN @FS-<ACC O
+a	 [o] <artd> DET F S @>N O
+cara	 [cara] <Labs> <f-h> <f-an> N F S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+ele	 [ele] <-sam> PERS M 3S NOM/PIV @P< O
+$-- O
+a	 [o] <artd> DET F S @>N O
+Deutsche=de=la=Meurthe	 [Deutsche=de=la=Meurthe] <org> PROP F S @<SUBJ O
+$, O
+a	 [o] <artd> DET F S @>N O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+antiga	 [antigo] <n> <jh> <np-close> ADJ F S @APP O
+$, O
+a	 [o] <artd> DET F S @>N O
+mais	 [mais] <quant> <KOMP> ADV @>A O
+clássica	 [clássico] <n> <nh> <np-close> ADJ F S @APP O 
+$, O
+aquela	 [aquele] <dem> DET F S @<SC O
+onde	 [onde] <clb> <clb-fs> <ks> <rel> ADV @SA> O
+Simone=de=Beauvoir	 [Simone=de=Beauvoir] <hum> PROP M/F S @SUBJ> PES O
+ia	 [ir] <aux> V IMPF 3S IND VFIN @FS-<ADVL O
+visitar	 [visitar] <vH> <mv> V INF @ICL-AUX< O
+o	 [o] <artd> DET M S @>N O
+estudante	 [estudante] <Hprof> N M S @<ACC O
+Jean-Paul=Sartre	 [Jean-Paul=Sartre] <hum> <np-close> PROP M S @N< O 
+$. O
+</s>

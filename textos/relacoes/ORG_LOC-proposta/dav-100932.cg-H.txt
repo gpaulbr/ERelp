@@ -1,0 +1,11 @@
+$S-1
+Tribunal=Internacional=Penal	 [Tribunal=Internacional=Penal] <inst> PROP M S @<SUBJ ORG O
+para	 [para] PRP @<ADVL B-REL
+o	 [o] <artd> DET M S @>N I-REL
+Ruanda	 [Ruanda] <civ> PROP F S @P< LOCAL O
+
+$S-2
+AFNOR	 [AFNOR] <org> PROP F S @P< ORG O
+em	 [em] <sam-> PRP @<ADVL O
+os	 [o] <artd> <-sam> DET M P @>N O
+Estados=Unidos	 [Estados=Unidos] <civ> PROP M P @P< LOCAL O

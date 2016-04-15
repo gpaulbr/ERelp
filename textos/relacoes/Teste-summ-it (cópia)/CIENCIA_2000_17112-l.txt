@@ -1,0 +1,51 @@
+$S-5
+O 	[o]   <artd> DET M S @>N  
+trabalho 	[trabalho] <act-d> <am> N M S @SUBJ>  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+coordenado 	[coordenar] <vH> <mv> V PCP M S @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+geocientista 	[geocientista] <Hprof> <DERP> N M S @P<  
+Charles=Vörösmarty 	[Charles=Vörösmarty] <hum>   <np-close> PROP M S @N<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=New=Hampshire 	[Universidade=de=New=Hampshire] <inst>   PROP F S @P<  ORG
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+Estados=Unidos 	[Estados=Unidos] <civ>   PROP M P @P<  LOCAL
+$. 
+</s>
+
+$S-15 
+A 	[o]  <artd> DET F S @>N  
+demanda 	[demanda] <act-s> <am> N F S @SUBJ>  
+aumenta 	[aumentar] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC  
+de 	[de] PRP @<PRED  
+forma 	[forma] <percep-f> <con> N F S @P<  
+drástica 	[drástico] <nh> <np-close> ADJ F S @N<  
+em 	[em] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @P<  
+todo 	[todo] <*2> <quant> <np-close> DET M S @N<  
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+especialista 	[especialista] <Hprof> N M S @<SUBJ  
+em 	[em] <np-close> PRP @N<  
+recursos 	[recurso] <ac> <act-d> <sem-s> <mon> N M P @P<  
+hídricos 	[hídrico] <nh> <np-close> ADJ M P @N<  
+José=Galizia=Tundisi 	[José=Galizia=Tundisi] <hum>   <np-long> PROP M S @N< @<ACC  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Instituto=Internacional=de=Ecologia 	[Instituto=Internacional=de=Ecologia] <inst>   PROP M S @P<  ORG
+$, 
+em 	[em] PRP @<ADVL  
+São=Carlos 	[São=Carlos] <civ>   PROP M S @P<  LOCAL
+$( 
+SP 	[SP] <civ>   <np-close> PROP M S @N<PRED  
+$) 
+$. 
+</s>

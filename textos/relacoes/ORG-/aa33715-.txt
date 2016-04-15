@@ -1,0 +1,53 @@
+$S-8
+Por=outro=lado	 [por=outro=lado] <pp> <*> ADV @ADVL>  O
+$, O
+a	 [o] <clb> <artd> DET F S @>N  O
+escolha	 [escolha] <act> <HH> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Caixa=Geral=de=Depósitos	 [Caixa=Geral=de=Depósitos] <org> <*> PROP F S @P< ORG O
+para	 [para] PRP @ADVL>  O
+presidir	 [presidir] <vH> <mv> V INF @ICL-P< B-REL
+a	 [a] <sam-> PRP @<PIV I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+BCP	 [BCP] <inst> <*> PROP M S @P< ORG O
+só	 [só] ADV @ADVL>  O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+igualmente	 [igualmente] <quant> ADV @<ADVL  O
+ser	 [ser] <vK> <mv> V INF @ICL-AUX<  O
+obra	 [obra] <sem-c> <Lh> <activity> N F S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Pai=Natal	 [Pai=Natal] <hum> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-122
+Se	 [se] <clb> <clb-fs> <*> KS @SUB  O
+Santos=Ferreira	 [Santos=Ferreira] <hum> <*> PROP M S @SUBJ> O
+tiver	 [ter] <mv> V FUT 3S SUBJ VFIN @FS-ADVL> 	O
+sucesso	 [sucesso] <am> <ac> N M S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <-sam> <artd> DET M S @>N O
+BCP	 [BCP] <inst> <*> PROP M S @P< ORG O
+$, O
+quem	 [quem] <clb> <rel> SPEC F S @SUBJ>  O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  O
+sofrer	 [sofrer] <vH> <mv> V INF @ICL-AUX<  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+Caixa	 [caixa] <prop> <*> <con> <cc-r> N F S @<SC ORG O
+$-- O
+e	 [e] KC @NPHR  O
+$, O
+por=tabela	 [por=tabela] <pp> ADV @<ADVL  O
+$, O
+todos	 [todo] <quant> DET M P @>N  O
+nós	 [nós] PERS M/F 1P NOM/PIV @P<  O
+$, O
+contribuintes	 [contribuinte] <jh> ADJ F P @<SC  O
+$. O
+</s>

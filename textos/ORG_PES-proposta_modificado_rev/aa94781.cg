@@ -1,0 +1,79 @@
+$S-1
+Hugo=Doménech	 [Hugo=Doménech] <hum> PROP M S @SUBJ> PES O
+$, O
+professor	 [professor] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N O
+Universidade=Jaume=de=Castellón	 [Universidade=Jaume=de=Castellón] <inst> PROP F S @P< ORG O
+e	 [e] <co-postnom> KC @CO O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+jornalista	 [jornalista] <Hprof> N M S @P< O
+Raul=Riebenbaueur	 [Raul=Riebenbaueur] <hum> <np-close> PROP M S @N< O 
+reuniram	 [reunir] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+um	 [um] <arti> DET M S @>N O
+especialista	 [especialista] <Hprof> N M S @<ACC O
+forense	 [forense] <nh> <np-close> ADJ M S @N< O 
+$, O
+um	 [um] <arti> DET M S @>N O
+militar	 [militar] N M S @SUBJ> O
+geofísico	 [geofísico] <nh> <np-close> ADJ M S @N< O 
+e	 [e] <co-subj> KC @CO O
+um	 [um] <arti> DET M S @>N O
+astrofísico	 [astrofísico] <Hprof> N M S @SUBJ> O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+recolheram	 [recolher] <fmc> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+depoimentos	 [depoimento] <sem-s> N M P @<ACC O
+locais	 [local] <nh> <np-close> ADJ M P @N< O
+$. O
+</s>
+
+$S-2
+Como	 [como] <clb> <clb-fs> KS @SUB O
+curiosidade	 [curiosidade] <ac> <am> N F S @SUBJ> O
+passou	 [passar] <mv> V PS 3S IND VFIN @FS-ADVL> O
+por	 [por] PRP @<PIV O
+Portugal	 [Portugal] <civ> PROP M S @P< O
+e	 [e] <co-fin> KC @CO O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+visto	 [ver] <vH> <mv> V PCP M S @ICL-AUX< O
+em	 [em] <sam-> PRP @<OA O
+o	 [o] <artd> <-sam> DET M S @>N O
+Café=Palladium=dos=Restauradores	 [Café=Palladium=dos=Restauradores] <inst> PROP M S @P< O
+por	 [por] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+jornalista	 [jornalista] <Hprof> N M S @P< O
+de	 [de] <np-close> PRP @N< O 
+O=Século	 [O=Século] <top> PROP M S @P< ORG O
+$, REL
+Francisco=Mata	 [Francisco=Mata] <hum> <np-close> PROP M S @APP PES O
+$, O
+já	 [já] ADV @<ADVL O
+falecido	 [falecido] <jh> <np-close> ADJ M S @N<PRED O 
+$, O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+que	 [que] <clb> <rel> SPEC M S @SUBJ> O
+o	 [ele] PERS M 3S ACC @ACC> O
+contou	 [contar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+em	 [em] <sam-> PRP @<ADVL O
+uma	 [um] <arti> <-sam> DET F S @>N O
+crônica	 [crônica] <sem-r> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+antigo	 [antigo] <n> <jh> ADJ M S @P< O
+Sete	 [sete] <prop> <card> NUM M/F P @<SC O
+$. O
+$[ O
+$... O
+$] O
+</s>
+
+$S-3
+Luiz=Carvalho	 [Luiz=Carvalho] <hum> PROP M S @NPHR PES O
+$, O
+fotojornalista	 [fotojornalista] <jh> <np-close> ADJ M/F S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <artd> <-sam> DET M S @>N O
+Expresso	 [expresso] <prop> <V> N M S @P< ORG O
+$. O
+</s>

@@ -1,0 +1,51 @@
+$S-10
+O 	[o]   <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+britânica 	[britânica] <Hnat> N F S @P<   
+Nature 	[Nature] <media>   <np-close> PROP F S @N<  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+de 	[de] <cjt-head> PRP @<SC  
+autoria 	[autoria] <percep-f> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+Neil=M.=Ferguson 	[Neil=M.=Ferguson] <hum>   PROP M S @P<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Imperial=College 	[Imperial=College] <inst>   PROP M S @P<  
+$, 
+de 	[de] <np-close> PRP @N<PRED  
+Londres 	[Londres] <civ>   PROP F S @P<  
+$, 
+e 	[e] KC @NPHR  
+mais 	[mais] ADV @>A  
+sete 	[sete] <card> NUM M/F P @>N  
+colaboradores 	[colaborador] <cjt> <n> <jh> ADJ M P @<SC  
+$; 
+o 	[o] <dem> DET M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+americana 	[americana] <Hnat> N F S @P<   
+Science 	[Science] <hum>   <*1> <*2> <np-close> PROP F S @N<  
+foi 	[ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+feito 	[fazer] <mv> V PCP M S @ICL-AUX<  
+por 	[por] PRP @<PASS  
+Ira=M.=Longini=Jr. 	[Ira=M.=Longini=Jr.] <hum>   PROP F S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Emory 	[Universidade=Emory] <inst>   PROP F S @P<  ORG
+$, 
+em 	[em] PRP @<ADVL  
+Atlanta 	[Atlanta] <civ>   PROP M S @P<  
+$( 
+Eua 	[Eua] <top>   <np-close> PROP M/F S @N<PRED  
+$) 
+$, 
+e 	[e] KC @NPHR  
+mais 	[mais] ADV @>A  
+sete 	[sete] <card> NUM M/F P @>N  
+colegas 	[colega] <Hfam> N M/F P @PRED>  
+$. 
+</s>

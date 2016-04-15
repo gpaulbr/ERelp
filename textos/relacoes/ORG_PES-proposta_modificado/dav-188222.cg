@@ -1,0 +1,14 @@
+$S-1
+O	 [o] <artd> DET M S @>N O
+que	 [que] <clb> <interr> SPEC M S @SC> O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-QUE O
+a	 [o] <artd> DET F S @>N O
+KORG	 [KORG] <org> PROP F S @<SUBJ ORG O
+onde	 [onde] <clb> <clb-fs> <ks> <rel> ADV @ADVL> REL
+Niky=Orellana	 [Niky=Orellana] <hum> PROP M S @SUBJ> PES O
+é	 [ser] <vK> <mv> V PR 3S IND VFIN @FS-<ADVL O
+comentador	 [comentador] <Hprof> N M S @<SC O
+de	 [de] <np-close> PRP @N< O
+futebol	 [futebol] <sport> N M S @P< O
+$? O
+</s>

@@ -1,0 +1,72 @@
+$S-8
+A 	[o]   <artd> DET F S @>N   O
+equipe 	[equipe] <HH> N F S @SUBJ>   O
+de 	[de] <np-close> PRP @N<   O
+Peter=Savolainen 	[Peter=Savolainen] <hum>   PROP M S @P<  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Instituto=Real=de=Tecnologia 	[Instituto=Real=de=Tecnologia] <inst>   PROP M S @P<  ORG O
+$, 
+de 	[de] <np-close> PRP @N<PRED   O
+Estocolmo 	[Estocolmo] <civ>   PROP M S @P<   O
+$, 
+Suécia 	[Suécia] <civ>   <np-close> PROP F S @N<   O
+$, 
+constatou 	[constatar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+que 	[que] <clb> <clb-fs> KS @SUB   O
+a 	[o] <artd> DET F S @>N   O
+diversidade 	[diversidade] <am> N F S @SUBJ>   O
+genética 	[genético] <nh> <np-close> ADJ F S @N<   O
+era 	[ser] <vK> <mv> V IMPF 3S IND VFIN @FS-<ACC   O
+maior 	[grande] <KOMP> ADJ F S @<SC   O
+entre 	[entre] PRP @<ADVL   O
+os 	[o] <artd> DET M P @>N   O
+cães 	[cão] <Adom> N M P @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+leste 	[leste] <dir> N M S @P<   O
+asiático 	[asiático] <nat> <np-close> ADJ M S @N<   O
+$. 
+</s>
+$S-12
+Cães 	[cão]   <Adom> N M P @TOP   O
+indígenas 	[indígena] <np-close> ADJ M P @N<   O
+Jennifer=Leonard 	[Jennifer=Leonard] <cjt-head> <hum>   PROP F S @SUBJ>  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Universidade=da=Califórnia 	[Universidade=da=Califórnia] <inst>   PROP F S @P<  ORG O
+em 	[em] <np-close> PRP @N<   O
+Los=Angeles 	[Los=Angeles] <civ>   PROP M S @P<   O
+$, 
+e 	[e] <cjt-head> KC @NPHR   O
+colegas 	[colega] <cjt> <Hfam> N M/F P @P< @SUBJ>   O
+de 	[de] <np-close> PRP @N<   O
+instituições 	[instituição] <inst> <act> N F P @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Peru 	[Peru] <civ>   PROP M S @P<   O
+e 	[e] <cjt> KC @NPHR   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+México 	[México] <civ>   PROP M S @P<   O
+procuraram 	[procurar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA   O
+verificar 	[verificar] <mv> V INF @ICL-<ACC   O
+o 	[o] <artd> DET M S @>N   O
+material 	[material] <mat> <mat-cloth> <cc-r> <cm> N M S @<ACC   O
+genético 	[genético] <nh> <np-close> ADJ M S @N<   O
+de 	[de] <np-close> PRP @N<   O
+raças 	[raça] <percep-f> <HH> N F P @P<   O
+de 	[de] <np-close> PRP @N<   O
+cachorro 	[cachorro] <Azo> N M S @P<   O
+sabidamente 	[sabidamente] ADV @>A   O
+anteriores 	[anterior] <nh> ADJ M/F P @<PRED   O
+a 	[a] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+chegada 	[chegada] <event> N F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+europeus 	[europeu] <Hnat> N M P @P<   O
+$. 
+</s>

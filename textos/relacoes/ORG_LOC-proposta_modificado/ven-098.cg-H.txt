@@ -1,0 +1,17 @@
+$S-1
+Lisboa	 [Lisboa] <civ> PROP F S @P< LOCAL O
+$, O
+cadete	 [cadete] <Hprof> <np-long> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N REL
+ACM	 [ACM] <org> PROP F S @P< ORG O
+
+$S-2
+Boxing=Club	 [Boxing=Club] <org> PROP M/F S @NPHR ORG O
+de	 [de] <np-close> PRP @N< REL
+Portugal	 [Portugal] <civ> PROP M S @P< LOCAL O
+
+$S-3
+ACM	 [ACM] <org> PROP F S @P< ORG O
+de	 [de] <np-close> PRP @N< REL
+Coimbra	 [Coimbra] <civ> PROP M/F S @P< LOCAL O

@@ -1,0 +1,52 @@
+$S-1
+México	 [México] <civ> <*> PROP M S @SUBJ>  O
+prende	 [prender] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+assessor	 [assessor] <Hprof> N M S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+deputado	 [deputado] <Hprof> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+PRI	 [PRI] <party> <*> PROP M S @P<  O
+De	 [de] <*> <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+agências=internacionais	 [agência=internacional] <HH> N F P @P<  O
+A	 [o] <*> <artd> DET F S @>N  O
+polícia	 [polícia] <HH> N F S @PRED>  O
+mexicana	 [mexicano] <nat> <jh> <np-close> ADJ F S @N<  O
+prendeu	 [prender] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+ontem	 [ontem] ADV @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+funcionário	 [funcionário] <Hprof> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Câmara	 [câmara] <prop> <*> <Lh> <HH> N F S @P<  O
+por	 [por] PRP @<ADVL  O
+suspeita	 [suspeita] <sem-c> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+envolvimento	 [envolvimento] <event> <act> N M S @P<  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+assassinato	 [assassinato] <act> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+secretário-geral	 [secretário-geral] <Hprof> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Partido=Revolucionário=Institucional	 [Partido=Revolucionário=Institucional] <party> <*> PROP M S @P< ORG O
+$( O
+PRI	 [PRI] <party> <*> <np-close> PROP M/F S @APP  O
+$, O
+governista	 [governista] <np-close> ADJ M/F S @N<PRED  O
+$) O
+$, O
+José=Francisco=Ruiz=Massieu	 [José=Francisco=Ruiz=Massieu] <hum> <*> <np-close> PROP M S @APP  O
+$, O
+48	 [48] <card> <np-close> NUM M/F P @N<PRED  O
+$, O
+ocorrido	 [ocorrer] <vN> V PCP M S @>N  O
+quarta-feira	 [quarta-feira] <temp> <np-close> N F S @N<PRED  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Cidade=do=México	 [Cidade=do=México] <org> <*> PROP F S @P< LOCAL O
+$. O
+</s>

@@ -1,0 +1,366 @@
+$S-1
+Se 	[se] <clb> <clb-fs> <*> KS @SUB  
+existem 	[existir] <mv> V PR 3P IND VFIN @FS-ADVL>  
+espécies 	[espécie] <meta> <A> N F P @<SUBJ  
+$"  
+malandras 	[malandro] <*1> <*2> ADJ F P @<PRED  
+$"  
+de 	[de] PRP @<ADVL  
+aranha 	[aranha] <Azo> N F S @P<  
+$, 
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+as 	[o] <dem> DET F P @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+gênero 	[gênero] <ac-cat> <meta> <cc> N M S @P<  
+Attacobius 	[Attacobius] <hum> <*> <np-close> PROP M S @N<  
+$. 
+</s>
+
+$S-2
+Chamadas 	[chamada] <*> <act-s> N F P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+aranhas-cavalgadoras 	[aranhas-cavalgadora] <DERS> <Azo> N F P @P<  
+$, 
+ganharam 	[ganhar] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+esse 	[esse] <dem> DET M S @>N  
+nome 	[nome] <percep-f> <ac-cat> N M S @<ACC  
+por 	[por] PRP @<ADVL  
+um 	[um] <arti> DET M S @>N  
+bom 	[bom] ADJ M S @>N  
+motivo 	[motivo] <ac> N M S @P<  
+$:  
+
+têm 	[ter] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+hábito 	[hábito] <f-psych> <percep-f> <cloH> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+montar 	[montar] <cjt-head> <vH> <mv> V INF @ICL-P<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+cabeça 	[cabeça] <anmov> <cc-r> <cc> <pos-soc> <Azo> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+formigas 	[formiga] <Aent> N F P @P<  
+e 	[e] KC @NPHR  
+sobreviver 	[sobreviver] <cjt> <vH> <mv> V INF @ICL-P<  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+custa 	[custa] <mon> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+esses 	[esse] <dem> <-sam> DET M P @>N  
+insetos 	[inseto] <Aent> N M P @P<  
+$. 
+</s>
+
+$S-3
+Seis 	[seis] <*> <card> NUM M/F P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+nove 	[nove] <card> NUM F P @>N  
+aranhas 	[aranha] <Azo> N F P @P<  
+descobertas 	[descoberto] <np-close> ADJ F P @N<  
+por 	[por] <sam-> <np-long> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Butantan 	[Butantan] <inst> <*> PROP M S @P<  
+e 	[e] KC @NPHR  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Goeldi 	[Goeldi] <inst> <*> PROP M S @P<  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+de 	[de] <sam-> PRP @<SC  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+grupo 	[grupo] <HH> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+$"  
+folgadas 	[folgado] <*1> <*2> <jh> ADJ F P @P<  
+$"  
+$. 
+</s>
+
+$S-4
+Três 	[três] <*> <card> NUM M/F P @SUBJ>  
+$( 
+A. 	[A.] <hum> <*> PROP M/F S @SUBJ>  
+tucuri 	[tucurer] <predco> <predco> <cjt-head> <fmc> <mv> V PS 1S IND VFIN @FS-STA  
+$, 
+A. 	[A.] <hum> <*> <np-close> PROP M/F S @APP  
+uriri 	[urirer] <cjt> <fmc> <mv> V PS 1S IND VFIN @FS-STA  
+e 	[e] <cjt-head> KC @NPHR  
+A. 	[A.] <hum> <*> PROP M/F S @<ACC  
+blakei 	[blakar] <nosubj> <cjt> <fmc> <mv> V PS 1S IND VFIN @FS-STA  
+$) 
+foram 	[ser] <nosubj> <cjt> <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  
+achadas 	[achar] <vH> <mv> V PCP F P @ICL-AUX<  
+em 	[em] <sam-> PRP @<OA  
+o 	[o] <-sam> <artd> DET M S @>N  
+Pará 	[Pará] <civ> <*> PROP M S @P<  
+$, 
+outras 	[outro] <diff> <KOMP> DET F P @>N  
+três 	[três] <card> NUM F P @<SC  
+$( 
+A.=Kitae 	[A.=Kitae] <hum> <*> <np-close> PROP F S/P @APP  
+$, 
+A. 	[A.] <hum> <*> <np-close> PROP M/F S @APP  
+lamellatus 	[lamellatu] N M P @<PRED  
+e 	[e] <cjt> KC @NPHR  
+A. 	[A.] <hum> <*> <np-close> PROP M/F S @APP  
+carranca 	[carranca] <percep-w> <cloH> N F S @<PRED  
+$) 
+em 	[em] PRP @<ADVL  
+Tocantins 	[Tocantins] <hum> <*> PROP M S @P<  
+e 	[e] <cjt> KC @NPHR  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Bahia 	[Bahia] <civ> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-5
+$"  
+Elas 	[elas] <*> <*1> PERS F 3P NOM @SUBJ>  
+montam 	[montar] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+em=cima=de 	[em=cima=de] <sam-> PRP @<ADVL  
+a 	[o] <artd> <-sam> DET F S @>N  
+cabeça 	[cabeça] <anmov> <cc-r> <cc> <pos-soc> <Azo> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+aquelas 	[aquele] <-sam> <dem> DET F P @>N  
+formigas 	[formiga] <Aent> N F P @P<  
+graúdas 	[graúdo] <np-close> ADJ F P @N<  
+$[  
+as 	[o] <artd> DET F P @>N  
+saúvas 	[saúva] <Aent> N F P @<PRED  
+$]  
+e 	[e] KC @NPHR  
+vão 	[ir] <fmc> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+embora 	[embora] ADV @<SA  
+$, 
+para 	[para] PRP @ADVL>  
+dentro=de 	[dentro=de] <sam-> PRP @ADVL>  
+o 	[o] <artd> <-sam> DET M S @>N  
+formigueiro 	[formigueiro] <*2> <AA> <Ltop> N M S @P<  
+$"  
+$, 
+conta 	[contar] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Antonio=Brescovit 	[Antonio=Brescovit] <hum> <*> PROP M S @<SUBJ  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Butantan 	[Butantan] <inst> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-6
+Os 	[o] <*> <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @SUBJ>  
+não 	[não] ADV @ADVL>  
+sabem 	[saber] <cjt-head> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+qual 	[qual] <clb> <interr> DET M/F S @SC>  
+é 	[ser] <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+truque 	[truque] <game> <act-trick> <V> N M S @<SUBJ  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+a 	[o] <artd> DET F S @>N  
+aranha 	[aranha] <Azo> N F S @SUBJ>  
+usa 	[usar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+$( 
+$"  
+se 	[se] <*1> PERS M 3S ACC @ACC>-PASS  
+emite 	[emitir] <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+feromônio 	[feromônio] <cm-chem> N M S @<ACC  
+$, 
+algum 	[algum] <quant> DET M S @>N  
+outro 	[outro] <diff> <KOMP> DET M S @>N  
+sinal 	[sinal] <percep-l> <percep-w> <ac> <ac-sign> <mon> <sem-r> <sick-c> <np-close> N M S @N<PRED  
+químico 	[químico] <*2> <nh> <np-close> ADJ M S @N<  
+$"  
+$) 
+$, 
+mas 	[mas] <clb> KC @NPHR  
+o 	[o] <artd> DET M S @>N  
+fato 	[fato] <ac> <cloH> <AAdom> N M S @<SUBJ  
+é=que 	[é=que] <foc> ADV @<FOC 	[é=que] <v-ks> ADV @<FOC  
+ela 	[ela] PERS F 3S NOM @SUBJ>  
+não 	[não] ADV @ADVL>  
+é 	[ser] <cjt> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+identificada 	[identificar] <vH> <mv> V PCP F S @ICL-AUX<  
+como 	[como] <prd> <adv-rel> PRP @<SC  
+aranha 	[aranha] <asarg> <Azo> N F S @P<  
+$. 
+</s>
+
+$S-7
+As 	[o] <*> <artd> DET F P @>N  
+formigas 	[formiga] <Aent> N F P @SUBJ>  
+não 	[não] ADV @ADVL>  
+a 	[ela] PERS F 3S ACC @ACC>  
+vêem 	[ver] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+como 	[como] <prd> <adv-rel> PRP @<OC  
+uma 	[um] <arti> DET F S @>N  
+ameaça 	[ameaça] <asarg> <act-s> <sit> N F S @P<  
+$. 
+</s>
+
+$S-8
+$"  
+É 	[ser] <clb-fs> <*> <*1> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+muito 	[muito] <quant> ADV @>A  
+difícil 	[difícil] <nh> ADJ M S @<SC  
+saber 	[saber] <mv> V INF @ICL-<SUBJ  
+o=que 	[o=que] <clb> <clb-fs> <interr> SPEC M S @SUBJ>  
+acontece 	[acontecer] <vN> <mv> V PR 3S IND VFIN @FS-<ACC  
+$, 
+porque 	[porque] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+bicho 	[bicho] <Azo> <H> N M S @SUBJ>  
+vive 	[viver] <vH> <mv> V PR 3S IND VFIN @FS-<ADVL  
+enterrado 	[enterrar] <*2> V PCP M S @<PRED  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Brescovit 	[Brescovit] <hum> <*> PROP M/F S @<SUBJ  
+$. 
+</s>
+
+$S-9
+$"  
+Mas 	[mas] <*> <*1> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+gente 	[gente] <HH> N F S @SUBJ>  
+experimenta 	[experimentar] <predco> <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$, 
+tira 	[tirar] <nosubj> <cjt> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+aranha 	[aranha] <Azo> N F S @<ACC  
+de=cima 	[de=cima] <pp> ADV @<ADVL  
+de 	[de] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+cabeça 	[cabeça] <anmov> <cc-r> <cc> <pos-soc> <Azo> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+formiga 	[formiga] <Aent> N F S @P<  
+$, 
+e 	[e] <clb> KC @NPHR  
+ela 	[ela] PERS F 3S NOM @SUBJ>  
+volta 	[voltar] <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+correndo 	[correr] <mv> V GER @ICL-<ADVL  
+$. 
+</s>
+
+$S-10
+E 	[e] <*> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+formiga 	[formiga] <Aent> N F S @SUBJ>  
+a 	[ela] PERS F 3S ACC @ACC>  
+carrega 	[carregar] <predco> <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$, 
+não 	[não] ADV @ADVL>  
+está 	[estar] <nosubj> <cjt> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+nem 	[nem] ADV @>A  
+aí 	[aí] <kc> ADV @<SA  
+$. 
+$"  
+</s>
+
+$S-11
+E 	[e] <cjt-head> <*> KC @NPHR  
+$, 
+de=fato 	[de=fato] <pp> ADV @ADVL>  
+$, 
+o 	[o] <artd> DET M S @>N  
+azar 	[azar] <event> N M S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+todo 	[todo] <quant> <det> ADV @<ADVL  
+de 	[de] <sam-> PRP @<SC  
+as 	[o] <-sam> <artd> DET F P @>N  
+formigas 	[formiga] <Aent> N F P @P<  
+$, 
+porque 	[porque] <clb> <clb-fs> KS @SUB  
+essas 	[esse] <clb> <dem> DET F P @>N  
+aranhas 	[aranha] <Azo> N F P @SUBJ>  
+$, 
+a 	[a] <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+chegarem 	[chegar] <mv> V INF 3P @ICL-P<  
+a 	[a] <sam-> PRP @<SA  
+o 	[o] <-sam> <artd> DET M S @>N  
+formigueiro 	[formigueiro] <AA> <Ltop> N M S @P<  
+$, 
+se 	[se] <refl> PERS M/F 3P ACC @ACC>  
+alimentam 	[alimentar] <vH> <mv> V PR 3P IND VFIN @FS-<ADVL  
+de 	[de] <sam-> PRP @<PIV  
+os 	[o] <-sam> <artd> DET M P @>N  
+ovos 	[ovo] <food-c> N M P @P<  
+e 	[e] <cjt> KC @NPHR  
+de 	[de] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+trabalho 	[trabalho] <act-d> <am> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+trabalhadoras 	[trabalhadora] <Hprof> N F P @P<  
+desavisadas 	[desavisado] <jh> <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-12
+Esse 	[esse] <*> <dem> DET M S @>N  
+comportamento 	[comportamento] <act> N M S @SUBJ>  
+já 	[já] ADV @ADVL>  
+era 	[ser] <cjt-head> <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA  
+conhecido 	[conhecer] <vH> <jh> V PCP M S @<SC  
+antes 	[antes] ADV @<ADVL  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+as 	[o] <artd> DET F P @>N  
+descobertas 	[descoberta] <event> N F P @SUBJ>  
+vão 	[ir] <cjt> <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+acrescentar 	[acrescentar] <vH> <mv> V INF @ICL-AUX<  
+muito 	[muito] <quant> DET M S @<ACC  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <dem> DET M S @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+já 	[já] ADV @ADVL>  
+se 	[se] PERS M/F 3S ACC @ACC>-REFL  
+entende 	[entender] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+de 	[de] <sam-> PRP @<PIV  
+essas 	[esse] <-sam> <dem> DET F P @>N  
+espécies 	[espécie] <meta> <A> N F P @P<  
+$. 
+</s>
+
+$S-13
+Os 	[o] <*> <artd> DET M P @>N  
+estudos 	[estudo] <sem-r> <per> <sem-l> <activity> N M P @SUBJ>  
+são 	[ser] <fmc> <aux> V PR 3P IND VFIN @FS-STA  
+bancados 	[bancar] <vH> <mv> V PCP M P @ICL-AUX<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+Fapesp 	[Fapesp] <org> <*> PROP F S @P<  
+$( 
+Fundação=de=Amparo 	[Fundação=de=Amparo] <org> <*> <np-close> PROP F S @N<PRED  
+a 	[a] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Pesquisa=do=Estado 	[Pesquisa=do=Estado] <org> <*> PROP F S @P<  
+de 	[de] <np-close> PRP @N<  
+São=Paulo 	[São=Paulo] <hum> <*> <newlex> PROP M S @P<  
+$) 
+e 	[e] <cjt-head> KC @NPHR  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+CNPq 	[CNPq] <org> <*> PROP M S @P<  
+$( 
+Conselho=Nacional=de=Desenvolvimento=Científico 	[Conselho=Nacional=de=Desenvolvimento=Científico] <org> <*> <np-close> PROP M S @N<PRED  
+e 	[e] <cjt> KC @NPHR  
+Tecnológico 	[Tecnológico] <hum> <*> <np-close> PROP M/F S @APP  
+$) 
+$. 
+$( 
+</s>
+
+$S-14
+Sn 	[sn] <*> N M S @NPHR  
+$) 
+</s>

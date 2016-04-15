@@ -1,0 +1,74 @@
+$S-4
+Segundo 	[segundo] <com>   <adv-rel> PRP @ADVL>  
+Cassius=Vinicius=Stevani 	[Cassius=Vinicius=Stevani] <hum> <asarg>   PROP M/F S @P<  PES
+$, 
+químico 	[químico] <asarg> <Hprof> N M S @PRED> @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+USP 	[USP] <cjt-head> <org>   PROP F S @P<  ORG
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+coordena 	[coordenar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+os 	[o] <artd> DET M P @>N  
+estudos 	[estudo] <sem-r> <per> <sem-l> <activity> N M P @<ACC  
+$, 
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+possível 	[possível] <nh> ADJ M S @<SC  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+material 	[material] <mat> <mat-cloth> <cc-r> <cm> N M S @SUBJ>  
+recolhido 	[recolhido] <np-close> ADJ M S @N<  
+abranja 	[abranjar] <mv> V PR 3S IND VFIN @FS-<SUBJ  
+pelo=menos 	[pelo=menos] <quant> ADV @>N  
+dez 	[dez] <card> NUM F P @>N  
+espécies 	[espécie] <cjt> <asarg> <meta> <A> N F P @P<  
+novas 	[novo] <np-close> ADJ F P @N<  
+$. 
+</s>
+
+$S-12
+Com=base=em 	[com=base=em]   PRP @ADVL>  
+relatos 	[relato] <sem-r> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+moradores 	[morador] <cjt-head> <jh> ADJ M P @P<  
+e 	[e] KC @NPHR  
+muita 	[muito] <quant> DET F S @>N  
+paciência 	[paciência] <cjt> <am> <game> N F S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+coleta 	[coleta] <mon> <activity> N F S @P<  
+$, 
+a 	[o] <artd> DET F S @>N  
+equipe 	[equipe] <HH> N F S @SUBJ>  
+chegou 	[chegar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<ADVL  
+os 	[o] <-sam> <artd> DET M P @>N  
+cogumelos 	[cogumelo] <Btree> N M P @P<  
+em 	[em] <np-close> PRP @N<  
+dois 	[dois] <card> NUM M/F P @>N  
+locais 	[local] <n> <nh> ADJ M/F P @P<  
+$:  
+o 	[o] <artd> DET M S @>N  
+Parque=Estadual=Turístico 	[Parque=Estadual=Turístico] <cjt-head> <top>   PROP M S @NPHR  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Alto=Ribeira 	[Alto=Ribeira] <hum>   PROP M S @P<  
+$, 
+em 	[em] PRP @ADVL  
+Iporanga 	[Iporanga] <civ>   PROP M S @P<  
+$( 
+SP 	[SP] <civ>   <np-close> PROP M S @N<PRED  ORG
+$) 
+e 	[e] <cjt> KC @NPHR  
+uma 	[um] <arti> DET F S @>N  
+área 	[área] <cjt> <L> <Lh> N F S @NPHR  
+de 	[de] <np-close> PRP @N<  
+mata=ciliar 	[mata=ciliar] <BB> N F S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+município 	[município] <Lciv> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+Costa=Rica 	[Costa=Rica] <civ>   PROP M S @P<  
+$, 
+Mato=Grosso=do=Sul 	[Mato=Grosso=do=Sul] <civ>   <np-close> PROP M S @N<  PES
+$. 
+</s>

@@ -1,0 +1,135 @@
+$S-1
+Matosinhos	 [Matosinhos] <civ> <*> PROP M/F S @SUBJ> O
+abre	 [abrir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O 
+10	 [10] <card> NUM M P @>N O
+parques	 [parque] <Lh> <BB> <furn> N M P @<ACC O 
+infantis	 [infantil] <np-close> ADJ M P @N< O
+A	 [o] <-sam> <artd> DET F S @>N O
+Câmara=de=Matosinhos	 [Câmara=de=Matosinhos] <tit> <*> <np-long> PROP F S @N< ORG O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA B-REL
+investir	 [investir] <vH> <mv> V INF @ICL-AUX< I-REL
+cerca=de	 [cerca=de] ADV @>A I-REL
+120=mil	 [120=mil] <card> NUM M/F P @<ACC I-REL
+contos	 [conto] <sem-r> <amount> <cur> <tool> N M P @<ACC I-REL
+em	 [em] <sam-> PRP @<PIV I-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+construção	 [construção] <act> N F S @P< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+dez	 [dez] <card> NUM M P @>N I-REL
+parques	 [parque] <Lh> <BB> <furn> N M P @P< I-REL
+infantis	 [infantil] <np-close> ADJ M P @N< I-REL
+em	 [em] <sam-> <np-long> PRP @N< I-REL
+as	 [o] <-sam> <artd> DET F P @>N I-REL
+freguesias	 [freguesia] <HH> N F P @P< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Guifões	 [Guifões] <hum> <*> PROP M/F S @P< LOCAL O
+$, O
+Perafita	 [Perafita] <hum> <*> <np-close> PROP M/F S @APP O
+$, O
+S.=Mamede=de=Infesta	 [S.=Mamede=de=Infesta] <civ> <*> <np-close> PROP M/F S @N< O
+e	 [e] KC @NPHR O
+Matosinhos	 [Matosinhos] <civ> <*> <np-close> PROP M/F S @N< O
+$. O
+</s>
+
+$S-11
+Matosinhos	 [Matosinhos] <civ> <*> PROP M/F S @SUBJ> O
+abre	 [abrir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O 
+10	 [10] <card> NUM M P @>N O
+parques	 [parque] <Lh> <BB> <furn> N M P @<ACC O 
+infantis	 [infantil] <np-close> ADJ M P @N< O
+A	 [o] <-sam> <artd> DET F S @>N O
+Câmara=de=Matosinhos	 [Câmara=de=Matosinhos] <tit> <*> <np-long> PROP F S @N< ORG O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+investir	 [investir] <vH> <mv> V INF @ICL-AUX< O 
+cerca=de	 [cerca=de] ADV @>A O
+120=mil	 [120=mil] <card> NUM M/F P @<ACC O 
+contos	 [conto] <sem-r> <amount> <cur> <tool> N M P @<ACC O
+em	 [em] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+construção	 [construção] <act> N F S @P< B-REL
+de	 [de] <np-close> PRP @N< I-REL
+dez	 [dez] <card> NUM M P @>N I-REL
+parques	 [parque] <Lh> <BB> <furn> N M P @P< I-REL
+infantis	 [infantil] <np-close> ADJ M P @N< I-REL
+em	 [em] <sam-> <np-long> PRP @N< I-REL
+as	 [o] <-sam> <artd> DET F P @>N I-REL
+freguesias	 [freguesia] <HH> N F P @P< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Guifões	 [Guifões] <hum> <*> PROP M/F S @P< O
+$, O
+Perafita	 [Perafita] <hum> <*> <np-close> PROP M/F S @APP LOCAL O
+$, O
+S.=Mamede=de=Infesta	 [S.=Mamede=de=Infesta] <civ> <*> <np-close> PROP M/F S @N< O
+e	 [e] KC @NPHR O
+Matosinhos	 [Matosinhos] <civ> <*> <np-close> PROP M/F S @N< O
+$. O
+</s>
+
+$S-111
+Matosinhos	 [Matosinhos] <civ> <*> PROP M/F S @SUBJ> O
+abre	 [abrir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O 
+10	 [10] <card> NUM M P @>N O
+parques	 [parque] <Lh> <BB> <furn> N M P @<ACC O 
+infantis	 [infantil] <np-close> ADJ M P @N< O
+A	 [o] <-sam> <artd> DET F S @>N O
+Câmara=de=Matosinhos	 [Câmara=de=Matosinhos] <tit> <*> <np-long> PROP F S @N< ORG O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+investir	 [investir] <vH> <mv> V INF @ICL-AUX< O 
+cerca=de	 [cerca=de] ADV @>A O
+120=mil	 [120=mil] <card> NUM M/F P @<ACC O 
+contos	 [conto] <sem-r> <amount> <cur> <tool> N M P @<ACC O
+em	 [em] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+construção	 [construção] <act> N F S @P< B-REL
+de	 [de] <np-close> PRP @N< I-REL
+dez	 [dez] <card> NUM M P @>N I-REL
+parques	 [parque] <Lh> <BB> <furn> N M P @P< I-REL
+infantis	 [infantil] <np-close> ADJ M P @N< I-REL
+em	 [em] <sam-> <np-long> PRP @N< I-REL
+as	 [o] <-sam> <artd> DET F P @>N I-REL
+freguesias	 [freguesia] <HH> N F P @P< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Guifões	 [Guifões] <hum> <*> PROP M/F S @P< O
+$, O
+Perafita	 [Perafita] <hum> <*> <np-close> PROP M/F S @APP O
+$, O
+S.=Mamede=de=Infesta	 [S.=Mamede=de=Infesta] <civ> <*> <np-close> PROP M/F S @N< LOCAL O
+e	 [e] KC @NPHR O
+Matosinhos	 [Matosinhos] <civ> <*> <np-close> PROP M/F S @N< O
+$. O
+</s>
+
+$S-1111
+Matosinhos	 [Matosinhos] <civ> <*> PROP M/F S @SUBJ> O
+abre	 [abrir] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA O 
+10	 [10] <card> NUM M P @>N O
+parques	 [parque] <Lh> <BB> <furn> N M P @<ACC O 
+infantis	 [infantil] <np-close> ADJ M P @N< O
+A	 [o] <-sam> <artd> DET F S @>N O
+Câmara=de=Matosinhos	 [Câmara=de=Matosinhos] <tit> <*> <np-long> PROP F S @N< ORG O
+vai	 [ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+investir	 [investir] <vH> <mv> V INF @ICL-AUX< O 
+cerca=de	 [cerca=de] ADV @>A O
+120=mil	 [120=mil] <card> NUM M/F P @<ACC O 
+contos	 [conto] <sem-r> <amount> <cur> <tool> N M P @<ACC O
+em	 [em] <sam-> PRP @<PIV O
+a	 [o] <-sam> <artd> DET F S @>N O
+construção	 [construção] <act> N F S @P< B-REL
+de	 [de] <np-close> PRP @N< I-REL
+dez	 [dez] <card> NUM M P @>N I-REL
+parques	 [parque] <Lh> <BB> <furn> N M P @P< I-REL
+infantis	 [infantil] <np-close> ADJ M P @N< I-REL
+em	 [em] <sam-> <np-long> PRP @N< I-REL
+as	 [o] <-sam> <artd> DET F P @>N I-REL
+freguesias	 [freguesia] <HH> N F P @P< I-REL
+de	 [de] <np-close> PRP @N< I-REL
+Guifões	 [Guifões] <hum> <*> PROP M/F S @P< O
+$, O
+Perafita	 [Perafita] <hum> <*> <np-close> PROP M/F S @APP O
+$, O
+S.=Mamede=de=Infesta	 [S.=Mamede=de=Infesta] <civ> <*> <np-close> PROP M/F S @N< O
+e	 [e] KC @NPHR O
+Matosinhos	 [Matosinhos] <civ> <*> <np-close> PROP M/F S @N< LOCAL O
+$. O
+</s>

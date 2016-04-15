@@ -1,0 +1,390 @@
+$S-1
+Chineses 	[chinês] <cjt-head> <*> <Hnat> <ling> N M P @SUBJ>  
+e 	[e] KC @NPHR  
+americanos 	[americano] <cjt> <Hnat> N M P @SUBJ>  
+enxergam 	[enxergar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+mundo 	[mundo] <L> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+jeitos 	[jeito] <act-trick> N M P @P<  
+distintos 	[distinto] <jh> <np-close> ADJ M P @N<  
+$_  
+literalmente 	[literalmente] <nh> ADV @<ADVL  
+$, 
+a 	[a] PRP @<ADVL  
+julgar 	[julgar] <vH> <mv> V INF @ICL-P<  
+por 	[por] PRP @<ADVL  
+uma 	[um] <arti> DET F S @>N  
+pesquisa 	[pesquisa] <occ> <act-d> N F S @P<  
+publicada 	[publicar] <vH> <mv> <np-close> V PCP F S @ICL-N<  
+hoje 	[hoje] ADV @<ADVL  
+$. 
+</s>
+
+$S-2
+Pesquisadores 	[pesquisador] <*> <Hprof> N M P @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Michigan 	[Universidade=de=Michigan] <inst> <*> PROP F S @P< ORG
+em 	[em] <np-close> PRP @N<  
+Ann=Arbor 	[Ann=Arbor] <hum> <*> PROP F S @P< LOCAL
+$, 
+em 	[em] <sam-> PRP @ADVL>  
+os 	[o] <artd> <-sam> DET M P @>N  
+Estados=Unidos 	[Estados=Unidos] <civ> <*> PROP M P @P<  
+$, 
+sugerem 	[sugerir] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <artd> DET M P @>N  
+olhos 	[olho] <anmov> N M P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+asiáticos 	[asiático] <Hnat> N M P @P<  
+tendem 	[tender] <vH> <mv> V PR 3P IND VFIN @FS-<ACC  
+a 	[a] PRP @<PIV  
+ver 	[ver] <vH> <mv> V INF @ICL-P<  
+uma 	[um] <arti> DET F S @>N  
+imagem 	[imagem] <pict> <sem-c> <ac-cat> N F S @<ACC  
+em 	[em] <sam-> PRP @<OA  
+o 	[o] <-sam> <artd> DET M S @>N  
+seu 	[seu] <poss 3S> DET M S @>N  
+conjunto 	[conjunto] <coll> <HH> <amount> N M S @P<  
+$, 
+prestando 	[prestar] <clb> <mv> V GER @ICL-<ADVL  
+tanto 	[tanto] <quant> <KOMP> ADV @<ADVL  
+atenção 	[atenção] <am> N F S @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+o 	[o] <-sam> <artd> DET M S @>N  
+que 	[que] <clb> <clb-fs> KS @SUB  
+está 	[estar] <mv> V PR 3S IND VFIN @FS-KOMP<  
+em 	[em] PRP @<SA  
+primeiro=plano 	[primeiro=plano] <Labs> N M S @P<  
+quanto 	[quanto] <clb> <clb-fs> <rel> <ks> <quant> ADV @ADVL>  
+em 	[em] <sam-> PRP @AS<  
+o 	[o] <-sam> <artd> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+$, 
+enquanto 	[enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+os 	[o] <artd> DET M P @>N  
+americanos 	[americano] <Hnat> N M P @SUBJ>  
+demoram 	[demorar] <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+mais 	[mais] ADV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+olhar 	[olhar] <act-d> N M S @<ACC  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+objeto 	[objeto] <cc> <ac-cat> N M S @P<  
+central 	[central] <nh> <np-close> ADJ M S @N<  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+quadro 	[quadro] <furn> <pict> <cc-r> <sit> <HH> <sem-c> N M S @P<  
+$. 
+</s>
+
+$S-3
+$"  
+As 	[o] <*> <*1> <artd> DET F P @>N  
+diferenças 	[diferença] <ac> N F P @SUBJ>  
+não 	[não] ADV @ADVL>  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+minúsculas 	[minúsculo] <nh> ADJ F P @<SC  
+$. 
+</s>
+
+$S-4
+Depois 	[depois] <*> ADV @ADVL>  
+de 	[de] <sam-> PRP @A<  
+o 	[o] <-sam> <artd> DET M S @>N  
+primeiro 	[primeiro] <NUM-ord> ADJ M S @>N  
+segundo 	[segundo] <dur> <unit> N M S @P<  
+$, 
+os 	[o] <artd> DET M P @>N  
+americanos 	[americano] <Hnat> N M P @SUBJ>  
+olharam 	[olhar] <predco> <cjt-head> <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+mais 	[mais] ADV @<ADVL  
+para 	[para] PRP @<PIV  
+o 	[o] <artd> DET M S @>N  
+objeto 	[objeto] <cc> <ac-cat> N M S @P<  
+central 	[central] <nh> <np-close> ADJ M S @N<  
+do=que 	[do=que] <com> KS @AS-KOMP<  
+para 	[para] PRP @AS<  
+o 	[o] <artd> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+durante 	[durante] PRP @<ADVL  
+600 	[600] <card> NUM M P @>N  
+milissegundos 	[milissegundo] <dur> N M P @P<  
+$, 
+enquanto 	[enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+isso 	[isso] <dem> SPEC M S @SUBJ>  
+só 	[só] ADV @ADVL>  
+aconteceu 	[acontecer] <vN> <mv> <np-close> V PS 3S IND VFIN @FS-<ADVL @FS-N<  
+por 	[por] PRP @<ADVL  
+40 	[40] <card> NUM M P @>N  
+milissegundos 	[milissegundo] <dur> N M P @P<  
+com 	[com] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+chineses 	[chinês] <*2> <Hnat> <ling> N M P @P<  
+$"  
+$, 
+disse 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+Folha=Richard=Nisbett 	[Folha=Richard=Nisbett] <org> <*> PROP F S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Departamento=de=Psicologia 	[Departamento=de=Psicologia] <inst> <*> PROP M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+universidade 	[universidade] <inst> N F S @P<  
+$. 
+</s>
+
+$S-5
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  
+credita 	[creditar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+a 	[a] <sam-> PRP @<ACC  
+a 	[o] <-sam> <artd> DET F S @>N  
+sua 	[seu] <poss 3S> DET F S @>N  
+colega 	[colega] <Hfam> N F S @P<  
+Hannah=Faye=Chua 	[Hannah=Faye=Chua] <hum> <*> <np-close> PROP F S @N<  
+a 	[o] <artd> DET F S @>N  
+idéia 	[idéia] <sem-c> N F S @PRED>  
+de 	[de] <np-close> PRP @N<  
+testar 	[testar] <vH> <mv> V INF @ICL-P<  
+de 	[de] PRP @<PIV  
+forma 	[forma] <percep-f> <con> N F S @P<  
+visual 	[visual] <nh> <np-close> ADJ F S @N<  
+um 	[um] <arti> DET M S @>N  
+dado 	[dado] <cc> <ac> N M S @<SUBJ  
+já 	[já] ADV @ADVL>  
+verificado 	[verificar] <mv> <np-close> V PCP M S @ICL-N<  
+verbalmente 	[verbalmente] <nh> ADV @<ADVL  
+$. 
+</s>
+
+$S-6
+Pessoas 	[pessoa] <*> <H> N F P @SUBJ>  
+nascidas 	[nascer] <jh> <mv> <np-close> V PCP F P @ICL-N<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+China 	[China] <civ> <*> PROP F S @P<  
+têm 	[ter] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+mais 	[muito] <quant> <KOMP> DET F S @>N  
+facilidade 	[facilidade] <am> N F S @<ACC  
+de 	[de] <np-close> PRP @N<  
+se 	[se] <refl> PERS M 3S/P ACC @ACC>  
+lembrar 	[lembrar] <vH> <mv> V INF @ICL-P<  
+de 	[de] PRP @<PIV  
+um 	[um] <arti> DET M S @>N  
+objeto 	[objeto] <cc> <ac-cat> N M S @P<  
+quando 	[quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+o 	[ele] PERS M 3S ACC @ACC>  
+vêem 	[ver] <vH> <mv> V PR 3P IND VFIN @FS-<ADVL  
+por 	[por] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+segunda 	[segundo] <NUM-ord> ADJ F S @>N  
+vez 	[vez] <temp> N F S @P<  
+com 	[com] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+mesmo 	[mesmo] <diff> <KOMP> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+aparecia 	[aparecer] <mv> V IMPF 3S IND VFIN @FS-<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+primeira 	[primeiro] <NUM-ord> <jh> ADJ F S @>N  
+olhada 	[olhada] <act-d> N F S @P<  
+$_  
+o 	[o] <dem> DET M S @<SUBJ  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+já=não 	[já=não] ADV @ADVL>  
+acontece 	[acontecer] <vN> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+com 	[com] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+americanos 	[americano] <Hnat> N M P @P<  
+$. 
+</s>
+
+$S-7
+Se 	[se] <clb> <clb-fs> <*> KS @SUB  
+isso 	[isso] <dem> SPEC M S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-ADVL>  
+verdade 	[verdade] <percep-f> <ac> N F S @<SC  
+$, 
+em 	[em] <clb> PRP @PIV> @<ADVL  
+que 	[que] <interr> DET M S @>N  
+estágio 	[estágio] <per> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+percepção 	[percepção] <sem-c> <act> N F S @P<  
+ou 	[ou] KC @NPHR  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+processamento 	[processamento] <act> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+imagem 	[imagem] <pict> <sem-c> <ac-cat> N F S @P<  
+estaria 	[estar] <fmc> <mv> V COND 3S VFIN @FS-QUE  
+a 	[o] <artd> DET F S @>N  
+diferença 	[diferença] <ac> N F S @<SUBJ  
+$? 
+</s>
+
+$S-8
+Foi 	[ser] <nosubj> <cjt-head> <*> <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <dem> DET M S @<SC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+o 	[o] <artd> DET M S @>N  
+grupo 	[grupo] <HH> N M S @SUBJ>  
+testou 	[testar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+$, 
+usando 	[usar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+óculos 	[óculo] <tool> <part-build> <cloH> N M P @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+rastreiam 	[rastrear] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+movimento 	[movimento] <HH> <activity> <amount> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+olhos 	[olho] <anmov> N M P @P<  
+$( 
+veja 	[ver] <nosubj> <cjt> <vH> <fmc> <mv> V PR 3S SUBJ VFIN @FS-STA  
+quadro 	[quadro] <furn> <pict> <cc-r> <sit> <HH> <sem-c> N M S @<ACC  
+a 	[a] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+dir 	[dizer] <vH> <mv> V INF @ICL-P<  
+$. 
+$) 
+$. 
+</s>
+
+$S-9
+De=fato 	[de=fato] <pp> <*> ADV @ADVL>  
+$, 
+os 	[o] <artd> DET M P @>N  
+chineses 	[chinês] <Hnat> <ling> N M P @SUBJ>  
+olhavam 	[olhar] <vH> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+mais 	[mais] ADV @<ADVL  
+para 	[para] PRP @<PIV  
+o 	[o] <artd> DET M S @>N  
+fundo 	[fundo] <Labs> <HH> <Lopening> <mon> N M S @P<  
+$, 
+com 	[com] <np-close> PRP @N<PRED @<ADVL  
+mais 	[muito] <quant> <KOMP> DET F S @>N  
+intensidade 	[intensidade] <am> N F S @P<  
+e 	[e] KC @NPHR  
+enfocando 	[enfocar] <clb> <vH> <mv> V GER @ICL-<ADVL  
+mais 	[muito] <quant> <KOMP> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+imagem 	[imagem] <pict> <sem-c> <ac-cat> N F S @P<  
+$. 
+</s>
+
+$S-10
+Para 	[para] <*> PRP @ADVL>  
+Nisbett 	[Nisbett] <hum> <*> PROP M/F S @P<  
+$, 
+diferenças 	[diferença] <ac> N F P @P< @SUBJ>  
+culturais 	[cultural] <nh> <np-close> ADJ F P @N<  
+$_  
+principalmente 	[principalmente] ADV @>P  
+em 	[em] <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+educação 	[educação] <act> <domain> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+crianças 	[criança] <H> N F P @P<  
+$_  
+explicariam 	[explicar] <vH> <fmc> <mv> V COND 3P VFIN @FS-STA  
+essa 	[esse] <dem> DET F S @>N  
+assimetria 	[assimetria] <percep-f> N F S @<ACC  
+$. 
+</s>
+
+$S-11
+$"  
+Mães 	[mãe] <*> <*1> <nh> ADJ M/F P @>N  
+americanas 	[americano] <n> <nat> <jh> ADJ F P @SUBJ>  
+tendem 	[tender] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+a 	[a] PRP @<PIV  
+usar 	[usar] <vH> <mv> V INF @ICL-P<  
+mais 	[muito] <quant> <KOMP> DET M P @>N  
+substantivos 	[substantivo] <ac-cat> N M P @<ACC  
+$, 
+e 	[e] KC @NPHR  
+a 	[a] PRP @<ADVL  
+usar 	[usar] <vH> <mv> V INF @ICL-P<  
+mais 	[mais] ADV @<ADVL  
+objetos 	[objeto] <cc> <ac-cat> N M P @<ACC  
+a 	[a] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+brincar 	[brincar] <vH> <mv> V INF @ICL-P<  
+com 	[com] PRP @<PIV  
+seus 	[seu] <si> <poss 3S> DET M P @>N  
+filhos 	[filho] <Hfam> N M P @P<  
+pequenos 	[pequeno] <jh> <np-close> ADJ M P @N<  
+$. 
+</s>
+
+$S-12
+Já 	[já] <*> ADV @ADVL>  
+as 	[o] <artd> DET F P @>N  
+chinesas 	[chinês] <Hnat> <ling> N F P @SUBJ>  
+e 	[e] <cjt-head> KC @NPHR  
+coreanas 	[coreana] <Hnat> N F P @SUBJ>  
+utilizam 	[utilizar] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+mais 	[muito] <quant> <KOMP> DET M P @>N  
+verbos 	[verbo] <ac-cat> N M P @<ACC  
+e 	[e] <cjt> KC @NPHR  
+enfocam 	[enfocar] <vH> <fmc> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+mais 	[muito] <quant> <KOMP> DET F P @>N  
+relações 	[relação] <ac> <sem-r> N F P @<ACC  
+sociais 	[social] <*2> <jh> <np-close> ADJ F P @N<  
+$"  
+$, 
+afirma 	[afirmar] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+ele 	[ele] PERS M 3S NOM @<SUBJ  
+$. 
+</s>
+
+$S-13
+Nisbett 	[Nisbett] <cjt-head> <hum> <*> PROP M/F S @SUBJ>  
+e 	[e] KC @NPHR  
+Chua 	[Chua] <cjt> <hum> <*> PROP M/F S @SUBJ>  
+pretendem 	[pretender] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+agora 	[agora] <kc> ADV @ADVL>  
+ver 	[ver] <vH> <mv> V INF @ICL-<ACC  
+se 	[se] <clb> <clb-fs> KS @SUB  
+diferenças 	[diferença] <cjt-head> <ac> N F P @SUBJ>  
+como 	[como] <com> <adv-rel> <np-close> PRP @N<  
+essas 	[esse] <cjt> <dem> DET F P @SUBJ>  
+se 	[se] <refl> PERS M/F 3P ACC @ACC>  
+manifestam 	[manifestar] <vH> <mv> V PR 3P IND VFIN @FS-<ACC  
+entre 	[entre] PRP @<ADVL  
+outras 	[outro] <diff> <KOMP> DET F P @>N  
+culturas 	[cultura] <ac> <activity> N F P @P<  
+$. 
+</s>
+
+$S-14
+O 	[o] <*> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @SUBJ>  
+está 	[estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+$"  
+PNAS 	[PNAS] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$. 
+$( 
+</s>
+
+$S-15
+RJL 	[RJL] <org> <*> PROP M/F S @NPHR  
+$) 
+</s>
+
+$S-16

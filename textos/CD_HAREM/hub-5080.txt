@@ -1,0 +1,9 @@
+
+
+O <EM ID="hub-5080-60" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Tour de França de 2009</EM>  vai começar no <EM ID="hub-5080-584" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-5080-60 hub-5080-60-aa hub-5080-60-aaa" TIPOREL="sede_de sede_de sede_de">Mónaco</EM> com um contra-relógio de <EM ID="hub-5080-585" CATEG="VALOR" TIPO="QUANTIDADE"  >15 quilómetros</EM>, numa etapa que também terminará no principado monegasco.
+
+O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de <EM ID="hub-5080-586" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Fórmula 1</EM>.
+
+"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <EM ID="hub-5080-587" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Christian Prudhomme</EM> como justificação para a decisão.
+
+O <EM ID="hub-5080-63" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="hub-5080-60 hub-5080-60-aa hub-5080-60-aaa" TIPOREL="ident ident ident">Tour de França</EM>  voltará assim ao <EM ID="hub-5080-590" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-5080-584" TIPOREL="ident">Mónaco</EM>, <EM ID="hub-5080-588" CATEG="TEMPO" TIPO="DURACAO"  >depois de 45 anos</EM>  ausente.

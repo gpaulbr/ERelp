@@ -1,0 +1,74 @@
+$S-5
+O	 [o] <*> <artd> DET M S @>N  O
+Conselho=Europeu=Metodista	 [Conselho=Europeu=Metodista] <org> <*> PROP M S @SUBJ> ORG O
+reuniu	 [reunir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+passado	 [passado] ADJ M S @>N  O
+mês	 [mês] <dur> <per> <unit> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Setembro	 [Setembro] <top> <*> PROP M/F S @P<  O
+em	 [em] <np-close> PRP @N< REL
+Stuttgart	 [Stuttgart] <civ> <*> PROP M S @P< LOCAL O
+$, O
+Alemanha	 [Alemanha] <civ> <*> <np-close> PROP F S @N< O
+$. O
+</s>
+
+$S-10
+$( O
+Bispo=Sifredo	 [Bispo=Sifredo] <hum> <*> <np-close> PROP M S @APP  O
+$) O
+$-- O
+Carta	 [Carta] <tit> <*> PROP M/F S @SUBJ>  O
+a	 [a] <sam-> PRP @ADVL>  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Primeiro=Ministro	 [Primeiro=Ministro] <inst> <*> PROP M S @P<  O
+$-- O
+A	 [o] <*> <artd> DET F S @>N  O
+Paz	 [paz] <prop> <*> <sit> N F S @SUBJ>  O
+precisa	 [precisar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+de	 [de] PRP @<PIV  O
+uma	 [um] <arti> DET F S @>N  O
+Oportunidade	 [oportunidade] <prop> <*> <ac> <event> <am> N F S @P<  O
+$-- O
+Manifesto=Ecuménico=Jovem	 [Manifesto=Ecuménico=Jovem] <tit> <*> <np-close> PROP F S @N<  O
+contra	 [contra] <np-long> PRP @N<  O
+a	 [o] <artd> DET F S @>N  O
+guerra	 [guerra] <occ> <per> N F S @P<  O
+$-- O
+World=Council=of=Churches	 [World=Council=of=Churches] <org> <*> <np-close> PROP M/F S @APP  O
+$-- O
+$" O
+Wars	 [Wars] <hum> <*> <*1> PROP M/F S @SUBJ>  O
+cannot	 [cannot] N M S @SUBJ>  O
+be	 [bê] <ac-sign> N M S @SUBJ>  O
+won	 [won] N M S @SUBJ>  O
+$, O
+only	 [only] N M S @SUBJ>  O
+peace	 [peace] N M S @<PRED  O
+can	 [can] <*2> N M S @SUBJ>  O
+$" O
+$-- O
+World=Alliance=of=Reformed=Churches	 [World=Alliance=of=Reformed=Churches] <top> <*> <np-close> PROP M/F S @APP ORG O
+$-- O
+condena	 [condenar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+a	 [o] <artd> DET F S @>N REL
+guerra	 [guerra] <occ> <per> N F S @<ACC REL
+em	 [em] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Iraque	 [Iraque] <inst> <*> PROP M S @P< LOCAL O
+Departamentos=Federação	 [Departamentos=Federação] <inst> <*> PROP M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Mulheres=Juventude=Comissões=Evangelização	 [Mulheres=Juventude=Comissões=Evangelização] <top> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+Educ	 [Educ] <hum> <*> PROP M/F S @P<  O
+$. O
+Liturgia=Textos=Documentos=Artigos=Estudos=Bíblicos=Diversos=Calendário=Leccionário=Leituras	 [Liturgia=Textos=Documentos=Artigos=Estudos=Bíblicos=Diversos=Calendário=Leccionário=Leituras] <tit> <*> PROP F S @NPHR  O
+Diárias	 [Diárias] <hum> <*> <np-close> PROP M/F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ibra=Televisão=Arquivo=Fotográfico=Comentários=Links=I	 [Ibra=Televisão=Arquivo=Fotográfico=Comentários=Links=I] <tit> <*> PROP F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+$. O
+</s>

@@ -1,0 +1,235 @@
+$S-6
+Agora 	 [agora] ADV @ADVL>  O
+$, O
+há	 [haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+indícios	 [indício] <ac> N M P @<ACC  O
+consistentes	 [consistente] <nh> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+principal	 [principal] <SUP> ADJ M S @>N  O
+estimulador	 [estimulador] <DERS> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+essa	 [esse] <-sam> <dem> DET F S @>N  O
+atitude	 [atitude] <f-psych> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Itamar	 [Itamar] <hum> <*> PROP M S @P<  O
+foi	 [ser] <vK> <mv> V PS 3S IND VFIN @FS-P<  O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+Telerj	 [Telerj] <org> <*> PROP F S @P< ORG O
+$, REL
+José=de=Castro	 [José=de=Castro] <hum> <*> <np-long> PROP M S @APP PES O
+$, O
+para	 [para] PRP @<ADVL  O
+recuperar	 [recuperar] <vH> <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+influência	 [influência] <am> N F S @<ACC  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+tinha	 [ter] <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+sobre	 [sobre] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+governo	 [governo] <HH> N M S @P<  O
+$. O
+</s>
+
+$S-8
+De	 [de] <*> PRP @ADVL>  O
+lá	 [lá] ADV @P<  O
+para	 [para] PRP @ADVL>  O
+cá	 [cá] ADV @P<  O
+$, O
+José=de=Castro	 [José=de=Castro] <hum> <*> PROP M S @SUBJ> PES O
+limitou-	 [limitar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+a	 [a] PRP @<PIV  O
+sobreviver	 [sobreviver] <vH> <mv> V INF @ICL-P<  O
+politicamente	 [político] ADV @<ADVL  O
+alimentando	 [alimentar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+algumas	 [algum] <quant> DET F P @>N  O
+colunas	 [coluna] <part-build> <cc-r> <HH> N F P @<ACC  O
+com	 [com] <np-close> PRP @N<  O
+notas	 [nota] N F P <sem-r> <ac-sign> <ac> @P<  O
+pouco	 [pouco] <quant> ADV @>A  O
+convincentes	 [convincente] <nh> <np-close> ADJ M/F P @N<  O
+$, O
+a=respeito=de	 [a=respeito=de] PRP @<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+suposta	 [suposto] ADJ F S @>N  O
+influência	 [influência] <am> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ainda	 [ainda] ADV @ADVL>  O
+mantinha	 [manter] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+sobre	 [sobre] PRP @<PIV @<ADVL  O
+Itamar	 [Itamar] <hum> <*> PROP M S @P< O
+só	 [só] ADV @>A  O
+divulgadas	 [divulgar] <vH> V PCP F P @<OC  O
+devido=a	 [devido=a] <sam-> PRP @<ADVL  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+fato	 [fato] <ac> <cloH> <AAdom> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+ter	 [ter] <mv> V INF @ICL-P< REL
+a	 [o] <artd> DET F S @>N O
+Telerj	 [Telerj] <genre> <*> PROP F S @<ACC ORG O
+sob	 [sob] PRP @<ADVL  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+controle	 [controle] <am> N M S @P<  O
+$. O
+</s>
+
+$S-88
+De	 [de] <*> PRP @ADVL>  O
+lá	 [lá] ADV @P<  O
+para	 [para] PRP @ADVL>  O
+cá	 [cá] ADV @P<  O
+$, O
+José=de=Castro	 [José=de=Castro] <hum> <*> PROP M S @SUBJ>  O
+limitou-	 [limitar] <hyfen> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS M 3S ACC @<ACC  O
+a	 [a] PRP @<PIV  O
+sobreviver	 [sobreviver] <vH> <mv> V INF @ICL-P<  O
+politicamente	 [político] ADV @<ADVL  O
+alimentando	 [alimentar] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+algumas	 [algum] <quant> DET F P @>N  O
+colunas	 [coluna] <part-build> <cc-r> <HH> N F P @<ACC  O
+com	 [com] <np-close> PRP @N<  O
+notas	 [nota] N F P <sem-r> <ac-sign> <ac> @P<  O
+pouco	 [pouco] <quant> ADV @>A  O
+convincentes	 [convincente] <nh> <np-close> ADJ M/F P @N<  O
+$, O
+a=respeito=de	 [a=respeito=de] PRP @<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+suposta	 [suposto] ADJ F S @>N  O
+influência	 [influência] <am> N F S @P<  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+ainda	 [ainda] ADV @ADVL>  O
+mantinha	 [manter] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N<  O
+sobre	 [sobre] PRP @<PIV @<ADVL  O
+Itamar	 [Itamar] <hum> <*> PROP M S @P< PES O
+só	 [só] ADV @>A  O
+divulgadas	 [divulgar] <vH> V PCP F P @<OC  O
+devido=a	 [devido=a] <sam-> PRP @<ADVL  O
+o	 [o] <artd> <-sam> DET M S @>N  O
+fato	 [fato] <ac> <cloH> <AAdom> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+ter	 [ter] <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+Telerj	 [Telerj] <genre> <*> PROP F S @<ACC ORG O
+sob	 [sob] PRP @<ADVL  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+controle	 [controle] <am> N M S @P<  O
+$. O
+</s>
+
+$S-9
+A	 [o] <*> <artd> DET F S @>N  O
+crise	 [crise] <sit> N F S @SUBJ>  O
+já	 [já] ADV @ADVL>  O
+tinha	 [ter] <fmc> <aux> V IMPF 3S IND VFIN @FS-STA  O
+sido	 [ser] <aux> V PCP @ICL-AUX<  O
+solucionada	 [solucionar] <vH> <mv> V PCP F S @ICL-AUX<  O
+$, O
+após	 [após] PRP @<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @P<  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+casa	 [casa] <build> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+procurador	 [procurador] <Hprof> N M S @P<  O
+geral	 [geral] <nh> <np-close> ADJ M S @N<  O
+Aristides=Junqueira	 [Aristides=Junqueira] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC>  O
+juntou	 [juntar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< REL
+as	 [o] <artd> DET F P @>N REL
+principais	 [principal] <SUP> <jh> ADJ F P @>N O
+lideranças	 [liderança] <pos-soc> <HH> N F P @<SUBJ REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Congresso	 [congresso] <prop> <*> <occ> PROP M S @P< ORG O
+$, O
+membros	 [membro] <an> <H> <np-close> N M P @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Supremo=Tribunal=Federal	 [Supremo=Tribunal=Federal] <inst> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+FHC	 [FHC] <hum> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-99
+A	 [o] <*> <artd> DET F S @>N  O
+crise	 [crise] <sit> N F S @SUBJ>  O
+já	 [já] ADV @ADVL>  O
+tinha	 [ter] <fmc> <aux> V IMPF 3S IND VFIN @FS-STA  O
+sido	 [ser] <aux> V PCP @ICL-AUX<  O
+solucionada	 [solucionar] <vH> <mv> V PCP F S @ICL-AUX<  O
+$, O
+após	 [após] PRP @<ADVL  O
+uma	 [um] <arti> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @P<  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+casa	 [casa] <build> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+procurador	 [procurador] <Hprof> N M S @P<  O
+geral	 [geral] <nh> <np-close> ADJ M S @N<  O
+Aristides=Junqueira	 [Aristides=Junqueira] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+juntou	 [juntar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< REL
+as	 [o] <artd> DET F P @>N REL
+principais	 [principal] <SUP> <jh> ADJ F P @>N O
+lideranças	 [liderança] <pos-soc> <HH> N F P @<SUBJ REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N O
+Congresso	 [congresso] <prop> <*> <occ> PROP M S @P< O
+$, O
+membros	 [membro] <an> <H> <np-close> N M P @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Supremo=Tribunal=Federal	 [Supremo=Tribunal=Federal] <inst> <*> PROP M S @P< ORG O
+e	 [e] KC @NPHR  O
+FHC	 [FHC] <hum> <*> PROP M/F S @P<  O
+$. O
+</s>
+
+$S-10
+Lideranças	 [liderança] <clb> <*> <pos-soc> <HH> N F P @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Congresso	 [congresso] <prop> <*> <occ> PROP M S @P< ORG O
+$, O
+empenhadas	 [empenhado] <jh> <np-close> ADJ F P @N<PRED  O
+em	 [em] PRP @A<  O
+resolver	 [resolver] <vH> <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+atual	 [atual] <nh> ADJ F S @>N  O
+crise	 [crise] <sit> N F S @<ACC  O
+institucional	 [institucional] <nh> <np-close> ADJ F S @N<  O
+$, O
+suspeitam	 [suspeitar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+José=de=Castro	 [José=de=Castro] <hum> <*> PROP M S @SUBJ> PES O
+tenha	 [ter] <mv> V PR 3S SUBJ VFIN @FS-<ACC  O
+se	 [se] PERS M/F 3S/P ACC @ACC>-PASS  O
+valido	 [validar] <vN> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+de	 [de] PRP @<ADVL  O
+duas	 [dois] <card> NUM F P @>N  O
+circunstancias	 [circunstancia] <DERS> N F P @P<  O
+para	 [para] PRP @<ADVL  O
+influenciar	 [influenciar] <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+presidente	 [presidente] <Hprof> N M S @<ACC  O
+a	 [a] PRP @<ADVL  O
+criar	 [criar] <mv> V INF @ICL-P<  O
+o	 [o] <artd> DET M S @>N  O
+impasse	 [impasse] <sit> <Lpath> N M S @<ACC  O
+atual	 [atual] <nh> ADJ M/F S @<OC  O
+$. O
+</s>

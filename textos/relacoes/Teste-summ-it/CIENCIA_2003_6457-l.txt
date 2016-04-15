@@ -1,0 +1,29 @@
+$S-10
+Mas 	[mas]   KC @NPHR   O
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @ADVL>   O
+a 	[o] <artd> DET F S @>N   O
+agência=de=notícias 	[agência=de=notícias] <asarg> <HH> N F S @P<   O
+France=Presse 	[France=Presse] <org>   <np-close> PROP F S @N<   O
+$, 
+a 	[o] <artd> DET F S @>N   O
+Venezuela 	[Venezuela] <civ>   PROP F S @SUBJ>  ORG O
+já 	[já] ADV @ADVL>   O
+tem 	[ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+um 	[um] <arti> DET M S @>N   O
+caso 	[caso] <event> <ac-cat> <sem> N M S @<ACC   O
+suspeito 	[suspeito] <np-close> ADJ M S @N<   O
+$:  
+um 	[um] <arti> DET M S @>N   O
+homem 	[homem] <Hattr> N M S @NPHR   O
+de 	[de] <np-close> PRP @N<   O
+48 	[48] <card> NUM M P @>N   O
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<   O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>   O
+viajou 	[viajar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+recentemente 	[recentemente] ADV @<ADVL   O
+a 	[a] <sam-> PRP @<SA   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+China 	[China] <civ>   PROP F S @P<  LOCAL O
+$. 
+</s>

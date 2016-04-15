@@ -1,0 +1,32 @@
+$S-3
+A 	[o]   <artd> DET F S @>N  
+equipe 	[equipe] <HH> N F S @SUBJ>  
+liderada 	[liderar] <vH> <mv> <np-close> V PCP F S @ICL-N<  
+por 	[por] PRP @<PASS  
+Yoshihiro=Kawaoka 	[Yoshihiro=Kawaoka] <hum>   PROP M S @P<  PES
+analisou 	[analisar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+amostras 	[amostra] <cjt-head> <cc> N F P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+H5=N1 	[H5=N1] <brand>   PROP M S @P<  ORG
+$, 
+o 	[o] <artd> DET M S @>N  
+vírus 	[vírus] <Acell> <np-close> N M S @APP  
+influenza 	[influenza] <cjt> <sick> N F S @<ACC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+$, 
+em 	[em] PRP @ADVL>  
+1997 	[1997] <card> <date> <year> NUM M/F S @P<  
+$, 
+matou 	[matar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+6 	[6] <card> NUM M/F P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+18 	[18] <card> NUM F P @>N  
+pessoas 	[pessoa] <H> N F P @P<  
+infectadas 	[infectar] <vN> <np-close> V PCP F P @N<  
+$, 
+em 	[em] PRP @<ADVL  
+Hong=Kong 	[Hong=Kong] <civ>   PROP M S @P<  
+$. 
+</s>

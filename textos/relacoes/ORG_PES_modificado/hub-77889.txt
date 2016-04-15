@@ -1,0 +1,48 @@
+$S-4
+O	 [o] <*> <artd> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @SUBJ>  O
+de	 [de] <np-close> PRP @N<  O
+desenvolvimento	 [desenvolvimento] <process> <act> N M S @P<  O
+$" O
+estará	 [estar] <clb-fs> <*1> <mv> <quote> V FUT 3S IND VFIN @FS-ACC>>  O
+de=acordo	 [de=acordo] <pp> ADV @<ADVL  O
+com	 [com] PRP @A<  O
+as	 [o] <artd> DET F P @>N  O
+tendências	 [tendência] <ac> N F P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+tecnologia	 [tecnologia] <domain> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+informação	 [informação] <ac> N F S @P<  O
+e	 [e] KC @NPHR  O
+ajudará	 [ajudar] <vH> <fmc> <mv> <quote> V FUT 3S IND VFIN @FS-ACC>>  O
+a	 [a] PRP @<PIV  O
+melhorar	 [melhorar] <mv> V INF @ICL-P<  O
+a	 [o] <artd> DET F S @>N  O
+inovação	 [inovação] <act> N F S @<ACC  O
+e	 [e] KC @NPHR  O
+competitividade	 [competitividade] <f-q> N F S @<ACC  O
+mundial	 [mundial] <nh> <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+empresas	 [empresa] <HH> N F P @P<  O
+chinesas	 [chinês] <*2> <nat> <jh> <np-close> ADJ F P @N<  O
+$" O
+$, O
+disse	 [dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+ministro	 [ministro] <Hprof> <Htit> N M S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Indústria=da=Informação	 [Indústria=da=Informação] <org> <*> PROP F S @P<  O
+$, O
+Wang=Xundong	 [Wang=Xundong] <hum> <*> <np-long> PROP M S @APP PES O
+$, O
+citado	 [citado] <jh> <np-close> ADJ M S @N<PRED REL
+por	 [por] <sam-> PRP @<ADVL REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+agência	 [agência] <HH> N F S @P< REL
+Xinhua	 [Xinhua] <org> <*> <np-close> PROP F S @N< ORG O
+$. O
+</s>

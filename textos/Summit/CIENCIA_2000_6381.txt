@@ -1,0 +1,300 @@
+$S-1
+Após 	[após] <*> PRP @ADVL>  
+o 	[o] <artd> DET M S @>N  
+anúncio 	[anúncio] <act-s> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+sequenciamento 	[sequenciamento] <DERS> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+genoma 	[genoma] N F S @P<  
+$, 
+em 	[em] <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+semana 	[semana] <dur> N F S @P<  
+passada 	[passado] <np-close> ADJ F S @N<  
+$, 
+a 	[o] <artd> DET F S @>N  
+França 	[França] <civ> <*> PROP F S @SUBJ>  
+resiste 	[resistir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+como 	[como] <com> <adv-rel> PRP @<ADVL  
+único 	[único] ADJ M S @>N  
+país 	[país] <asarg> <Lciv> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+União=Européia 	[União=Européia] <civ> <*> PROP F S @P<  
+a 	[a] PRP @<ADVL  
+não 	[não] ADV @ADVL>  
+permitir 	[permitir] <vH> <mv> V INF @ICL-P<  
+patenteamento 	[patenteamento] <act> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+genes 	[gene] <ac> N M P @P<  
+$. 
+</s>
+
+$S-2
+A 	[o] <*> <artd> DET F S @>N  
+UE 	[UE] <org> <*> PROP F S @SUBJ>  
+adota 	[adotar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+$, 
+desde 	[desde] PRP @<ADVL  
+junho 	[junho] N M S @P<  
+de 	[de] <np-close> PRP @N<  
+1998 	[1998] <card> <date> <year> NUM M/F P @P<  
+$, 
+diretiva 	[diretiva] <cc-r> N F S @<ACC  
+favorável 	[favorável] <np-close> ADJ F S @N<  
+a 	[a] <sam-> PRP @A<  
+o 	[o] <-sam> <artd> DET M S @>N  
+patenteamento 	[patenteamento] <act> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+genes 	[gene] <ac> N M P @P<  
+$. 
+</s>
+
+$S-3
+O 	[o] <*> <artd> DET M S @>N  
+texto 	[texto] <sem-r> N M S @SUBJ>  
+$, 
+redigido 	[redigir] <vH> <mv> V PCP M S @ICL-N<PRED  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+Parlamento=Europeu 	[Parlamento=Europeu] <cjt-head> <inst> <*> PROP M S @P<  
+$, 
+Comissão=Européia 	[Comissão=Européia] <cjt> <org> <*> PROP F S @P<  
+e 	[e] KC @NPHR  
+Conselho=de=Ministros 	[Conselho=de=Ministros] <org> <*> <np-close> PROP M S @APP  
+$, 
+utiliza 	[utilizar] <cjt-head> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+princípio 	[princípio] <temp> <conv> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <rel> SPEC M S @P<  
+$"  
+o 	[ele] <*1> PERS M 3S ACC @ACC>  
+genoma 	[genoma] N F S @SUBJ>  
+não 	[não] ADV @ADVL>  
+é 	[ser] <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+patenteável 	[patenteável] <nh> ADJ F S @<SC  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+sequência 	[sequência] <coll-sem> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+gene 	[gene] <ac> N M S @P<  
+pode 	[poder] <cjt> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+ser 	[ser] <*2> <mv> V INF @ICL-AUX<  
+$"  
+$. 
+</s>
+
+$S-4
+No=entanto 	[no=entanto] <kc> <*> ADV @ADVL>  
+$, 
+há 	[haver] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+restrições 	[restrição] <act> N F P @<ACC  
+$. 
+</s>
+
+$S-5
+O 	[o] <*> <artd> DET M S @>N  
+patenteamento 	[patenteamento] <act> N M S @SUBJ>  
+só 	[só] ADV @ADVL>  
+pode 	[poder] <cjt-head> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+aplicado 	[aplicar] <mv> V PCP M S @ICL-AUX<  
+em 	[em] PRP @<PIV  
+pesquisas 	[pesquisa] <occ> <act-d> N F P @P<  
+ligadas 	[ligar] <mv> <np-close> V PCP F P @ICL-N<  
+a 	[a] PRP @<PIV  
+doenças 	[doença] <sick> N F P @P<  
+genéticas 	[genético] <nh> <np-close> ADJ F P @N<  
+em 	[em] <np-long> PRP @N<  
+que 	[que] <rel> SPEC M S @P<  
+o 	[o] <artd> DET M S @>N  
+funcionamento 	[funcionamento] <process> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+gene 	[gene] <ac> N M S @P<  
+é 	[ser] <cjt> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+detalhado 	[detalhar] <vH> <mv> V PCP M S @ICL-AUX<  
+$. 
+</s>
+
+$S-6
+A 	[o] <*> <artd> DET F S @>N  
+França 	[França] <civ> <*> PROP F S @SUBJ>  
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+único 	[único] ADJ M S @>N  
+país 	[país] <Lciv> N M S @<SC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+se 	[se] PERS M/F 3S ACC @ACC>-PASS  
+recusa 	[recusar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+a 	[a] PRP @<PIV  
+aceitar 	[aceitar] <vH> <mv> V INF @ICL-P<  
+a 	[o] <artd> DET F S @>N  
+determinação 	[determinação] <am> <act-s> <act> N F S @<ACC  
+européia 	[europeu] <nat> <jh> <np-close> ADJ F S @N<  
+$. 
+</s>
+
+$S-7
+A 	[o] <*> <artd> DET F S @>N  
+ministra 	[ministra] <Hprof> <Htit> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Justiça 	[justiça] <prop> <*> <am> <HH> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+país 	[país] <Lciv> N M S @P<  
+$, 
+Elisabeth=Guigou 	[Elisabeth=Guigou] <hum> <*> <np-close> PROP F S @APP  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+norma 	[norma] <conv> N F S @SUBJ>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+incompatível 	[incompatível] <nh> ADJ F S @<SC  
+com 	[com] PRP @<ADVL  
+as 	[o] <artd> DET F P @>N  
+leis 	[lei] <conv> <percep-f> N F P @P<  
+francesas 	[francês] <nat> <jh> <np-close> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+bioética 	[bioética] <domain> <DERP> N F S @P<  
+$. 
+</s>
+
+$S-8
+Em 	[em] <*> <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+início 	[início] <temp> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+mês 	[mês] <dur> <per> <unit> N M S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+CCNE 	[CCNE] <org> <*> PROP M S @SUBJ>  
+$( 
+Comitê=Consultivo=Nacional=de=Ética 	[Comitê=Consultivo=Nacional=de=Ética] <org> <*> <np-close> PROP M S @N<PRED  
+$) 
+$, 
+órgão 	[órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> <np-close> N M S @N<PRED  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+orienta 	[orientar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @<SUBJ  
+francês 	[francês] <nat> <jh> <np-close> ADJ M S @N<  
+sobre 	[sobre] PRP @<PIV @<ADVL  
+aspectos 	[aspecto] <ac-cat> N M P @P<  
+éticos 	[ético] <nh> <np-close> ADJ M P @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+biotecnologia 	[biotecnologia] <domain> N F S @P<  
+$, 
+reforçou 	[reforçar] <predco> <cjt-head> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+posição 	[posição] <act> <pos-an> N F S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+ministra 	[ministra] <Hprof> <Htit> N F S @P<  
+$, 
+alegando 	[alegar] <vH> <mv> V GER @ICL-<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+$"  
+o 	[o] <*1> <artd> DET M S @>N  
+conhecimento 	[conhecimento] <sem-c> <state-h> <cc-r> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+sequência 	[sequência] <coll-sem> N F S @P<  
+de 	[de] <np-long> PRP @N<  
+um 	[um] <arti> DET M S @>N  
+gene 	[gene] <ac> N M S @P<  
+não 	[não] ADV @ADVL>  
+pode 	[poder] <aux> V PR 3S IND VFIN @FS-<ACC  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+assimilado 	[assimilar] <vH> <mv> V PCP M S @ICL-AUX<  
+como 	[como] <prd> <adv-rel> PRP @<SC  
+produto 	[produto] <asarg> <cc-h> <mon> <ac-cat> N M S @P<  
+patenteado 	[patentear] <vH> <np-close> V PCP M S @N<  
+e 	[e] KC @NPHR  
+$, 
+portanto 	[portanto] <kc> ADV @ADVL>  
+$, 
+não 	[não] ADV @ADVL>  
+é 	[ser] <nosubj> <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+patenteável 	[patenteável] <*2> <nh> ADJ M/F S @<SC  
+$"  
+$. 
+</s>
+
+$S-9
+$"  
+Bem 	[bem] <*> <*1> <quant> ADV @>A  
+comum 	[comum] ADJ M/F S @PRED>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+humanidade 	[humanidade] <HH> <am> N F S @P<  
+$, 
+$( 
+o 	[o] <artd> DET M S @>N  
+sequenciamento 	[sequenciamento] <DERS> <np-close> N M S @N<PRED  
+de 	[de] <np-close> PRP @N<  
+genes 	[gene] <ac> N M P @P<  
+$) 
+não 	[não] ADV @ADVL>  
+pode 	[poder] <nosubj> <cjt-head> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+limitado 	[limitar] <mv> V PCP M S @ICL-AUX<  
+por 	[por] PRP @<PASS  
+patentes 	[patente] <nh> ADJ M/F P @P<  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  
+pretendem 	[pretender] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+$, 
+em=nome=de 	[em=nome=de] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+direito 	[direito] <domain> <f-right> <amount> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+propriedade 	[propriedade] <cm> <Lh> N F S @P<  
+industrial 	[industrial] <nh> <np-close> ADJ F S @N<  
+$, 
+proteger 	[proteger] <mv> V INF @ICL-<ACC  
+a 	[o] <artd> DET F S @>N  
+exclusividade 	[exclusividade] <percep-f> N F S @<ACC  
+de 	[de] <sam-> PRP @<PIV  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+conhecimento 	[conhecimento] <*2> <sem-c> <state-h> <cc-r> N M S @P<  
+$"  
+$, 
+diz 	[dizer] <nosubj> <cjt> <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+parecer 	[parecer] <vK> <mv> V INF @ICL-<ACC  
+de 	[de] <sam-> PRP @<SC  
+o 	[o] <-sam> <artd> DET M S @>N  
+CCNE 	[CCNE] <inst> <*> PROP M S @P<  
+$. 
+</s>
+
+$S-10
+O 	[o] <*> <artd> DET M S @>N  
+assunto 	[assunto] <sem-c> N M S @SUBJ>  
+deve 	[dever] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+ser 	[ser] <aux> V INF @ICL-AUX<  
+debatido 	[debater] <vH> <mv> V PCP M S @ICL-AUX<  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+presidência 	[presidência] <pos-soc> N F S @P<  
+francesa 	[francês] <nat> <np-close> ADJ F S @N<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+UE 	[UE] <civ> <*> PROP F S @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+semestre 	[semestre] <asarg> <per> N M S @P<  
+$. 
+</s>
+
+$S-11

@@ -1,0 +1,174 @@
+
+    Uma nação de pedintes
+    
+      O
+      <EM ID="cver-66" CATEG="PESSOA" TIPO="INDIVIDUAL"  >PRESIDENTE Sarkozy</EM>
+      abriu a
+      <EM ID="cver-67" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="cver-66" TIPOREL="ter_participacao_de">Conferência de Dadores</EM>
+      realizada em
+      <EM ID="cver-68" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-66 cver-67" TIPOREL="local_nascimento_de sede_de">Paris</EM>
+      com uma frase grandiloquente sobre a necessidade urgente de criar um
+      <EM ID="cver-69" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estado</EM> palestiniano
+      <EM ID="cver-70" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no fim de 2008</EM>
+      . O
+      <EM ID="cver-71" CATEG="PESSOA" TIPO="CARGO" COREL="cver-66" TIPOREL="ident">Presidente</EM>
+      ou é mentiroso ou finge-se ignorante, ou as duas coisas. Depois do falhanço esperado da cimeira de
+      <EM ID="cver-72" CATEG="LOCAL" TIPO="HUMANO"  >Annapolis</EM>
+      , um modo de
+      <EM ID="cver-73" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Condoleezza Rice</EM>
+      salvar a face e de a
+       <EM ID="cver-74" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-73 cver-79 cver-89" TIPOREL="vinculo_inst vinculo_inst ident">Administração</EM>  americana
+      e a
+      <EM ID="cver-75" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-66" TIPOREL="vinculo_inst">Europa</EM>
+      continuarem a fingir que estão interessadas em resolver o conflito israelo-palestiniano e de lavarem as mãos de tudo o resto,
+      <EM ID="cver-76" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-66" TIPOREL="ident">Sarkozy</EM>
+      não pode ignorar que o momento para pronunciamentos débeis é o menos adequado.
+      <EM ID="cver-77" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Tony Blair</EM>
+      , depois de ter minado todo o processo de paz do
+      <EM ID="cver-109" CATEG="LOCAL" TIPO="HUMANO"  >Médio Oriente</EM>
+      ao ordenar a invasão do
+      <EM ID="cver-110" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Iraque</EM>
+      de braço dado com
+      <EM ID="cver-79" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-73" TIPOREL="relacao_profissional">Bush</EM>
+      , continua a emitir piedades deste género, e diz que está <EM ID="cver-790" CATEG="TEMPO" TIPO="GENERICO"  >na altura</EM> de resolver o problema e que ele pode ser resolvido.
+      <EM ID="cver-80" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-77" TIPOREL="ident">Blair</EM>
+      não sabe o que diz.
+    
+    
+      A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta fase, quando os palestinianos têm não um mas dois governos e dois territórios, um ocupado pelos israelitas, a
+      <EM ID="cver-81" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Cisjordânia</EM>
+      , outro abandonado pelos israelitas e bombardeado pelos israelitas,
+      <EM ID="cver-82" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Gaza</EM>
+      .
+      <EM ID="cver-111" CATEG="TEMPO" TIPO="DURACAO"  >Anos e anos</EM>
+      de destruição compulsiva de interlocutores, alguns moderados, e de opressão, fizeram do povo palestiniano uma nação de pedintes.
+      <EM ID="cver-84" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="cver-82 cver-82" TIPOREL="ORGANIZACAO**ocorre_em**cver-82**LOCAL PESSOA**natural_de**cver-82**LOCAL">Gaza</EM>
+      subvive das esmolas iranianas, sauditas e dos
+      <EM ID="cver-85" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-109" TIPOREL="incluido">Emiratos</EM>
+      , e a
+      <EM ID="cver-87" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="cver-81 cver-81" TIPOREL="ORGANIZACAO**ocorre_em**cver-81**LOCAL PESSOA**natural_de**cver-81**LOCAL">Cisjordânia</EM>
+      subvive de doações da
+      <EM ID="cver-88" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      , da
+      <EM ID="cver-89" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >América</EM>
+      , de 
+      <EM ID="cver-90" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estados árabes</EM> 
+      e das
+      <EM ID="cver-91" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Nações Unidas</EM>
+      . Nenhuma nação palestiniana pode aspirar a ser um
+      <EM ID="cver-92" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-93 cver-95" TIPOREL="inclui inclui">Estado</EM> palestiniano
+      , e um país viável, sem unidade do território e do povo, e sem soberania sobre esse povo e esse território. No terreno, temos a pior situação de sempre. O
+      <EM ID="cver-93" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Hamas</EM>
+      a mandar em
+      <EM ID="cver-94" CATEG="ORGANIZACAO|LOCAL|PESSOA" TIPO="ADMINISTRACAO|HUMANO|POVO" COREL="cver-82 cver-82 cver-82" TIPOREL="ORGANIZACAO**ocorre_em**cver-82**LOCAL PESSOA**natural_de**cver-82**LOCAL LOCAL**ident**cver-82**LOCAL">Gaza</EM>
+      , e a
+      <EM ID="cver-95" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >OLP</EM>
+      a fingir que manda na
+      <EM ID="cver-96" CATEG="ORGANIZACAO|LOCAL|PESSOA" TIPO="ADMINISTRACAO|HUMANO|POVO" COREL="cver-81 cver-81 cver-8" TIPOREL="ORGANIZACAO**ocorre_em**cver-81**LOCAL PESSOA**natural_de**cver-81**LOCAL LOCAL**ident**cver-81**LOCAL">Cisjordânia</EM>
+      .
+      <EM ID="cver-97" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-66" TIPOREL="ident">Sarkozy</EM>
+      , e
+      <EM ID="cver-98" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-77" TIPOREL="ident">Blair</EM>
+      , e os europeus, sendo a
+      <EM ID="cver-99" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem
+      <EM ID="cver-100" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-96 cver-84" TIPOREL="PESSOA**vinculo_inst**cver-96**ORGANIZACAO PESSOA**vinculo_inst**cver-84**ORGANIZACAO">Mahmoud Abbas</EM>
+      é um chefe com apoio popular na
+      <EM ID="cver-101" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="ident">Cisjordânia</EM>
+      nem a
+      <EM ID="cver-102" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-95" TIPOREL="ident">OLP</EM>
+      , dominada pela
+      <EM ID="cver-103" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA" COREL="cver-102" TIPOREL="ORGANIZACAO**incluido**cver-102**ORGANIZACAO">Fatah</EM>
+      , tem apoio popular em
+      <EM ID="cver-104" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-82" TIPOREL="ident">Gaza</EM>
+      . Se realizassem eleições na
+      <EM ID="cver-105" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="ident">Cisjordânia</EM>
+      ,
+      <EM ID="cver-106" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-100" TIPOREL="ident">Abbas</EM>
+      e um grupo de agentes corruptos disfarçados de "moderados" não as ganhariam, e não as ganhariam nas cidades onde o
+      <EM ID="cver-107" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-93" TIPOREL="ident">Hamas</EM>
+      ganhou.
+      <EM ID="cver-108" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-100" TIPOREL="ident">Abbas</EM>
+      pode fingir mandar em
+      <EM ID="cver-113" CATEG="ORGANIZACAO|LOCAL|PESSOA" TIPO="INSTITUICAO|HUMANO|POVO" COREL="cver-100" TIPOREL="ORGANIZACAO**vinculo_inst**cver-100**PESSOA">Ramallah</EM>
+      e na clientela privilegiada de uma organização que não soube constituir-se como fonte legítima do poder palestiniano, não pode fingir que é considerado em
+      <EM ID="cver-121" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Jenin</EM>
+      e
+      <EM ID="cver-116" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="incluido">Hebron</EM>
+      , em
+      <EM ID="cver-117" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="incluido">Nablus</EM>
+      e
+      <EM ID="cver-118" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="incluido">Tulkarem</EM>
+      , em
+      <EM ID="cver-119" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Jericó</EM>
+      e
+      <EM ID="cver-120" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-109" TIPOREL="incluido">Jerusalém Oriental</EM>
+      .
+      <EM ID="cver-122" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="cver-100" TIPOREL="ident">Abbas</EM>
+      , arrastando-se aos pés dos chefes europeus a mendigar uns milhares de milhões de dólares enquanto insulta o
+      <EM ID="cver-123" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-93" TIPOREL="ident">Hamas</EM>
+      e aceita que os palestinianos de
+      <EM ID="cver-124" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-82" TIPOREL="ident">Gaza</EM>
+      sejam colectivamente punidos pelo embargo israelita e pela recusa americana e europeia de incluir o
+      <EM ID="cver-125" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-93" TIPOREL="ident">Hamas</EM>
+      no processo de paz  é visto como uma marioneta do
+      <EM ID="cver-126" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75 cver-89" TIPOREL="inclui inclui">Ocidente</EM>
+      e um traidor. Os israelitas sabem isto melhor do que ninguém porque são os que melhor conhecem a quimera do road map.
+      <EM ID="cver-127" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Israel</EM>
+      , sabendo que não pode devolver a
+      <EM ID="cver-128" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-81" TIPOREL="ident">Cisjordânia</EM>
+      , desmantelar os colonatos, prescindir da
+      <EM ID="cver-129" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Ocupação</EM>
+      sem comprometer a sua segurança, dividir
+      <EM ID="cver-131" CATEG="LOCAL|PESSOA" TIPO="HUMANO|POVO" COREL="cver-109" TIPOREL="LOCAL**incluido**cver-109**LOCAL">Jerusalém</EM>
+      ou ceder a pretensões sobre o regresso de milhões de refugiados (que nunca poderão regressar), está interessado em manter as ficções americanas e europeias e administrar a
+      <EM ID="cver-132" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="cver-129" TIPOREL="ident">Ocupação</EM>
+      e a relação de forças, como a sua supremacia militar assegura. O
+      <EM ID="cver-133" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-93" TIPOREL="ident">Hamas</EM>
+      está interessado, simetricamente, em administrar a resistência.
+      <EM ID="cver-135" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-127" TIPOREL="ident">Israel</EM>
+      só seria obrigado a ceder se os
+      <EM ID="cver-136" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-73 cver-79 cver-89" TIPOREL="vinculo_inst vinculo_inst ident">Estados Unidos</EM>
+      deixassem de apoiar e de vender milhares de milhões de dólares de armas aos israelitas, e
+      <EM ID="cver-134" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="cver-127 cver-127" TIPOREL="ORGANIZACAO**ident**cver-127**ORGANIZACAO PESSOA**natural_de**cver-127**LOCAL">Israel</EM>
+      sabe que isso nunca acontecerá, por razões da política interna americana e da força do lobby judeu. Nenhum candidato democrata, nem mesmo o utópico
+      <EM ID="cver-137" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Obama</EM>
+      , ousariam modificar este estado de coisas.
+    
+    
+      A posição da
+      <EM ID="cver-138" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      , dando milhares de milhões que a dispensem de contribuir para uma resolução política, é a mais contraproducente. A
+      <EM ID="cver-139" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      prefere pagar para não ser incomodada, e prefere transformar, como transformou, os palestinianos numa nação de pedintes. A velha e cínica
+      <EM ID="cver-140" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      , origem de todo este problema, a assassina
+      <EM ID="cver-141" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      como lhe chama o escritor israelita
+      <EM ID="cver-142" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Amos Oz</EM>
+      , sabe que não pode contrariar os
+      <EM ID="cver-143" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-136" TIPOREL="ident">Estados Unidos</EM>
+      e não quer contrariar os israelitas por má consciência. Sabe também que os palestinianos são um povo espoliado, banido, revoltado e oprimido, e que parte da responsabilidade histórica dessa opressão lhe pertence. Como contribui para o problema sem contribuir para a solução, a
+      <EM ID="cver-144" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      adoptou um discurso de duplicidades e subentendidos, de fraquezas e recuos, de que o
+      <EM ID="cver-145" CATEG="PESSOA" TIPO="INDIVIDUAL"  >senhor Javier Solanas</EM>
+      é o exemplo acabado. A rematar o discurso, a
+      <EM ID="cver-146" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="cver-75" TIPOREL="ident">Europa</EM>
+      passa cheques. Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, <EM ID="cver-6" CATEG="TEMPO" TIPO="FREQUENCIA"  >de tanto em tanto tempo</EM>, a uma compensação monetária. Muitos milhões acabam, como <EM ID="cver-8" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no tempo</EM> de <EM ID="cver-7" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Arafat</EM>, em contas secretas e nos bolsos de uma oligarquia. Tanto dinheiro não chega para comprar os palestinianos que não estão à venda. Os palestinianos vêem o
+      <EM ID="cver-148" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Muro</EM>
+      entrar-lhes pelas vidas dentro, vêem a sua destituição transformada em humilhação, e votam
+      <EM ID="cver-149" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="cver-93" TIPOREL="ident">Hamas</EM>
+      ou
+      <EM ID="cver-150" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Jihad Islâmica</EM>
+      . Em
+      <EM ID="cver-151" CATEG="LOCAL" TIPO="HUMANO" COREL="cver-82" TIPOREL="ident">Gaza</EM>
+      , as crianças querem ser mártires. E sem
+      <EM ID="cver-152" CATEG="LOCAL|ABSTRACCAO" TIPO="HUMANO|IDEIA" COREL="cver-82" TIPOREL="LOCAL**ident**cver-82**LOCAL">Gaza</EM>
+      , não haverá
+      <EM ID="cver-153" CATEG="LOCAL|ABSTRACCAO" TIPO="HUMANO|IDEIA" COREL="cver-109" TIPOREL="LOCAL**incluido**cver-109**LOCAL">Palestina</EM>
+      .
+    
+    
+      <EM ID="cver-154" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Clara Ferreira Alves</EM>
+    
+  

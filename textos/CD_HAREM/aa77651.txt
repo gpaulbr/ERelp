@@ -1,0 +1,94 @@
+
+    
+      <EM ID="aa77651-513" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Ministério da Defesa Nacional</EM> 
+    
+    
+      <EM ID="aa77651-514" CATEG="PESSOA" TIPO="CARGO" COREL="aa77651-513" TIPOREL="vinculo_inst">Ministro da Defesa Nacional</EM> visita
+      
+        <EM ID="aa77651-515" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa77651-513" TIPOREL="vinculo_inst">Forças Nacionais Destacadas no Afeganistão</EM>
+        
+    
+    
+      O
+      <EM ID="aa77651-518" CATEG="PESSOA" TIPO="CARGO" COREL="aa77651-514" TIPOREL="ident">Ministro da Defesa Nacional</EM>
+      ,
+      <EM ID="aa77651-519" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-514" TIPOREL="ident">Nuno Severiano Teixeira</EM>
+      , desloca-se ao
+      <EM ID="aa77651-520" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-517" TIPOREL="ident">Afeganistão</EM>
+      ,
+      <EM ID="aa77651-521" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 29 de Dezembro</EM>
+      , para efectuar uma visita às
+      
+        <EM ID="aa77651-522" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa77651-515" TIPOREL="ident">Forças Nacionais Destacadas em Cabul</EM>
+        
+      .
+    
+    
+      <EM ID="aa77651-525" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-519" TIPOREL="ident">Nuno Severiano Teixeira</EM>
+      visitará o contingente português estacionado em
+      <EM ID="aa77651-526" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-524" TIPOREL="incluido">Campo Warehouse</EM>
+      , composto pela
+      
+        <EM ID="aa77651-527" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa77651-515" TIPOREL="incluido">22.ª Companhia de Atiradores Pára-Quedistas da Brigada de Reacção Rápida</EM>
+        
+      e uma equipa de
+      
+        <EM ID="aa77651-530" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="aa77651-515" TIPOREL="incluido">Controladores Aéreos Avançados da Força Aérea</EM>
+        
+      .
+    
+    
+      O
+     <EM ID="aa77651-533" CATEG="PESSOA" TIPO="CARGO" COREL="aa77651-514" TIPOREL="ident">Ministro da Defesa</EM>
+      deverá assistir ao briefing do destacamento e visitar o aquartelamento do
+      <EM ID="aa77651-534" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-526" TIPOREL="ident">Campo Warehouse</EM>
+      . Com um total de
+      <EM ID="aa77651-535" CATEG="VALOR" TIPO="QUANTIDADE"  >161</EM>
+      militares, o contingente português integrado na
+      <EM ID="aa77651-537" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-515" TIPOREL="vinculo_inst">Força Internacional de Assistência e Segurança</EM>
+      (
+      <EM ID="aa77651-538" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-537" TIPOREL="ident">ISAF</EM>
+      ) constitui a
+        <EM ID="aa77651-126" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-515" TIPOREL="vinculo_inst">Força de Reacção Rápida do Comandante</EM>  da força da <EM ID="aa77651-129" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-126" TIPOREL="inclui">NATO</EM> no <EM ID="aa77651-130" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-517" TIPOREL="ident">Afeganistão</EM>.
+      <EM ID="aa77651-540" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-525" TIPOREL="ident">Nuno Severiano Teixeira</EM>
+      reúne-se ainda com o comandante da força da
+      <EM ID="aa77651-541" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-129" TIPOREL="ident">NATO</EM>
+      (
+      <EM ID="aa77651-542" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa77651-537" TIPOREL="ident">ISAF</EM>
+      ) no
+      <EM ID="aa77651-543" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-517" TIPOREL="ident">Afeganistão</EM>
+      ,
+      <EM ID="aa77651-544" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-541" TIPOREL="vinculo_inst">General Dan McNeill</EM>
+      . A participação militar Portuguesa no
+      <EM ID="aa77651-545" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-517" TIPOREL="ident">Afeganistão</EM>
+      começou
+      <EM ID="aa77651-546" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 10 de Agosto de 2005</EM>
+      .
+    
+    
+      <EM ID="aa77651-547" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-519" TIPOREL="ident">Nuno Severiano Teixeira</EM>
+      aproveita a deslocação a
+      <EM ID="aa77651-548" CATEG="LOCAL" TIPO="HUMANO" COREL="aa77651-524" TIPOREL="ident">Cabul</EM>
+      para manter encontros com as autoridades afegãs. O
+      <EM ID="aa77651-550" CATEG="PESSOA" TIPO="CARGO" COREL="aa77651-514" TIPOREL="ident">Ministro da Defesa</EM>
+      deverá reunir-se com o
+      <EM ID="aa77651-551" CATEG="PESSOA" TIPO="CARGO"  >Ministro da Defesa</EM>
+      afegão,
+      <EM ID="aa77651-552" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-551" TIPOREL="ident">Raheem Wardag</EM>
+      , e com o
+      
+        <EM ID="aa77651-553" CATEG="PESSOA" TIPO="CARGO"  >Presidente da República Islâmica do Afeganistão</EM>
+        
+      ,
+      <EM ID="aa77651-556" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa77651-553 aa77651-555" TIPOREL="ident PESSOA**vinculo_inst**aa77651-555**ORGANIZACAO">Hamid Karzai</EM>
+      .
+    
+    
+      O
+      <EM ID="aa77651-119" CATEG="PESSOA" TIPO="CARGO" COREL="aa77651-514" TIPOREL="ident">Ministro da Defesa Nacional</EM>
+      estará de regresso a
+      <EM ID="aa77651-120" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      <EM ID="aa77651-121" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 30 de Dezembro</EM>
+      .
+    
+  

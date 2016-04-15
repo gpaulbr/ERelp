@@ -1,0 +1,189 @@
+
+    
+      Preço do barril de crude chegou ao nível histórico de
+      <EM ID="aa58069-365" CATEG="VALOR" TIPO="MOEDA"  >100 dólares</EM>
+    
+    
+      <EM ID="aa58069-366" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >03.01.2008</EM>
+      -
+      <EM ID="aa58069-367" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >08h46</EM>
+    
+    
+      Por
+      <EM ID="aa58069-368" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Lurdes Ferreira</EM>
+    
+    
+      <EM ID="aa58069-369" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Às 17h30</EM>
+      <EM ID="aa58069-370" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de ontem</EM>
+      em
+      <EM ID="aa58069-371" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      , a vaga especulativa do mercado do petróleo convergiu com as previsões
+      <EM ID="aa58069-372" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dos últimos meses</EM>
+      que davam como certa a chegada do preço do crude aos
+      <EM ID="aa58069-373" CATEG="VALOR" TIPO="MOEDA" COREL="aa58069-365" TIPOREL="ident">100 dólares</EM>
+      . As projecções tornaram-se realidade,
+      <EM ID="aa58069-186" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao fim de um ano</EM>
+      em que o preço desta matéria subiu
+      <EM ID="aa58069-374" CATEG="VALOR" TIPO="QUANTIDADE"  >58 por cento</EM>
+      e que foi também o maior aumento anual
+      <EM ID="aa58069-375" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >da última década</EM>
+      .
+    
+    
+      O recorde histórico verificou-se na bolsa mercantil de
+      <EM ID="aa58069-376" CATEG="LOCAL" TIPO="HUMANO"  >Nova Iorque</EM>
+      , com a transacção do crude de tipo leve, de referência para o mercado dos
+      <EM ID="aa58069-377" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-377" TIPOREL="inclui">EUA</EM>
+      , com entrega
+      <EM ID="aa58069-378" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para Fevereiro</EM>
+      , a pular mais de três dólares numa só sessão e a bater na marca histórica dos
+      <EM ID="aa58069-379" CATEG="VALOR" TIPO="MOEDA" COREL="aa58069-365" TIPOREL="ident">100 dólares</EM>
+      . Baixou pouco depois para os
+      <EM ID="aa58069-380" CATEG="VALOR" TIPO="MOEDA"  >99,17 dólares</EM>
+      . Em
+      <EM ID="aa58069-381" CATEG="LOCAL" TIPO="HUMANO"  >Londres</EM>
+      , o
+      
+        <EM ID="aa58069-383" CATEG="COISA" TIPO="CLASSE"  >Brent do Mar do Norte</EM>
+        
+      , também com entrega
+      <EM ID="aa58069-386" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >para Fevereiro</EM>
+      , subiu igualmente
+      mais de três dólares
+      e passou pela primeira vez o patamar dos
+      <EM ID="aa58069-388" CATEG="VALOR" TIPO="MOEDA"  >97 dólares</EM>
+      . O novo máximo histórico ficou em
+      <EM ID="aa58069-389" CATEG="VALOR" TIPO="MOEDA"  >97,74 dólares</EM>
+      .
+    
+    
+      A onda de violência na
+      <EM ID="aa58069-390" CATEG="LOCAL" TIPO="HUMANO"  >Nigéria</EM>
+      e a instabilidade no
+      <EM ID="aa58069-391" CATEG="LOCAL" TIPO="HUMANO"  >Paquistão</EM>
+      são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude
+      <EM ID="aa58069-393" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos anos</EM>
+      . Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista (
+      <EM ID="aa58069-394" CATEG="PESSOA" TIPO="POVO"  >China</EM>
+      , que já é o segundo maior consumidor do mundo, e a
+      <EM ID="aa58069-395" CATEG="PESSOA" TIPO="POVO"  >Índia</EM>
+      ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a
+      <EM ID="aa58069-396" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >OPEP</EM>
+      , em aumentar significativamente a sua produção. Outras são conjunturais: temperaturas frias do pico
+      <EM ID="aa58069-397" CATEG="TEMPO" TIPO="GENERICO"  >do Inverno</EM>
+      ; e a descida das reservas dos
+      <EM ID="aa58069-398" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-377" TIPOREL="ident">EUA</EM>
+      , o maior mercado consumidor do mundo. Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
+    
+    
+      "Vamos aqui ficar [no patamar dos
+      <EM ID="aa58069-399" CATEG="VALOR" TIPO="MOEDA" COREL="aa58069-365" TIPOREL="ident">100 dólares</EM>
+      ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à
+      <EM ID="aa58069-400" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >France Presse</EM>
+      o analista do mercado de capitais da
+      <EM ID="aa58069-401" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >BMO</EM>
+      ,
+      <EM ID="aa58069-402" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa58069-401" TIPOREL="vinculo_inst">Bart Melek</EM>
+      .
+    
+    
+      Para este desequilíbrio contribui agora a nova vaga de violência da
+      <EM ID="aa58069-404" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-390" TIPOREL="ident">Nigéria</EM>
+      , país que
+      <EM ID="aa58069-405" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos anos</EM>
+      já perdeu
+      <EM ID="aa58069-406" CATEG="VALOR" TIPO="QUANTIDADE"  >25 por cento</EM>
+      da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos
+      <EM ID="aa58069-407" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-377" TIPOREL="ident">EUA</EM>
+      . Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de
+      <EM ID="aa58069-408" CATEG="VALOR" TIPO="QUANTIDADE"  >12</EM>
+      pessoas <EM ID="aa58069-109" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na passagem de ano</EM>, é agora superior ao que foi
+      <EM ID="aa58069-409" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos meses</EM>
+      . E contribui também a situação geopolítica no
+      <EM ID="aa58069-410" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-391" TIPOREL="ident">Paquistão</EM>
+      ,
+      <EM ID="aa58069-411" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >uma semana depois</EM>
+      do assassinado de
+      <EM ID="aa58069-412" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Benazir Bhuto</EM>
+      - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
+    
+    
+      A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o
+       presidente da <EM ID="aa58069-13" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Ritterbusch &amp; Associates</EM>
+      ,
+      <EM ID="aa58069-414" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa58069-12 aa58069-13" TIPOREL="ident vinculo_inst">Jim Ritterbusch</EM>
+      , citado pela
+      <EM ID="aa58069-416" CATEG="LOCAL" TIPO="VIRTUAL"  >Reuters</EM>
+      .
+    
+    
+      Mas estes não são os únicos dois países em turbulência geopolítica. É também o
+      <EM ID="aa58069-417" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Quénia</EM>
+      , "ao lado da
+      <EM ID="aa58069-418" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="aa58069-390" TIPOREL="LOCAL**ident**aa58069-390**LOCAL">Nigéria</EM>
+      , que se incendeia", diz
+      <EM ID="aa58069-419" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Moncef Kaabi</EM>
+      , da
+      <EM ID="aa58069-420" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa58069-419" TIPOREL="vinculo_inst">Natixis</EM>
+      , é também a
+      <EM ID="aa58069-421" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO"  >Turquia</EM>
+      , com as operações contra os separatistas curdos no
+      <EM ID="aa58069-422" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Norte</EM>
+      , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores". Por outro lado, os
+      <EM ID="aa58069-423" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa58069-377" TIPOREL="sede_de">EUA</EM>
+      deverão anunciar ainda
+      <EM ID="aa58069-184" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, <EM ID="aa58069-5" CATEG="TEMPO" TIPO="FREQUENCIA"  >pela sétima semana consecutiva</EM>, desta vez em
+      <EM ID="aa58069-424" CATEG="VALOR" TIPO="QUANTIDADE"  >1,8 milhões</EM>
+      de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da 
+      <EM ID="aa58069-425" CATEG="PESSOA" TIPO="MEMBRO"  >Reuters</EM> 
+      .
+    
+    
+      O preço actual do petróleo ficou agora mais próximo do pico de
+      <EM ID="aa58069-427" CATEG="VALOR" TIPO="MOEDA" COREL="aa58069-365" TIPOREL="ident">100 dólares</EM>
+      <EM ID="aa58069-428" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1980</EM>
+      provocado pela guerra entre o
+      <EM ID="aa58069-429" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Irão</EM>
+      e o
+      <EM ID="aa58069-430" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Iraque</EM>
+      , dois países-membros da
+      <EM ID="aa58069-431" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa58069-396 aa58069-429 aa58069-430" TIPOREL="ident inclui inclui">OPEP</EM>
+      . O preço de então ajustado à inflação representa
+      <EM ID="aa58069-432" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      <EM ID="aa58069-434" CATEG="VALOR" TIPO="MOEDA"  >101,7 dólares</EM>
+      .
+    
+    
+      A convicção dominante no mercado, a avaliar pelos analistas contactados pela
+      <EM ID="aa58069-436" CATEG="PESSOA" TIPO="MEMBRO"  >Reuters</EM>
+      , é a de que o preço desta matéria-prima continuará provavelmente a subir
+      <EM ID="aa58069-437" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos próximos cinco anos</EM>
+      , a não ser que o crescimento económico abrande e abrande também a procura de combustível. A pressão para a subida de preços que se verifica
+      <EM ID="aa58069-438" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde 2002</EM>
+      continua a ter condições para manter o ritmo: algumas regiões fora da
+      <EM ID="aa58069-439" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="aa58069-396 aa58069-396" TIPOREL="ORGANIZACAO**ident**aa58069-396**ORGANIZACAO LOCAL**sede_de**aa58069-396**LOCAL">OPEP</EM>
+      , nomeadamente o mar do 
+      <EM ID="aa58069-440" CATEG="LOCAL" TIPO="FISICO" COREL="aa58069-385" TIPOREL="ident">Norte</EM>
+      , têm a sua produção em declínio, a
+      <EM ID="aa58069-441" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|GRUPOIND"  >China</EM>
+      mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
+    
+    
+      Para analistas como
+      <EM ID="aa58069-442" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Kris Voorspools</EM>
+      , da
+      <EM ID="aa58069-443" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa58069-442" TIPOREL="vinculo_inst">Fortis</EM>
+      , em
+      <EM ID="aa58069-444" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-443" TIPOREL="sede_de">Bruxelas</EM>
+      , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
+    
+    
+      Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por
+      <EM ID="aa58069-445" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nauman Barakat</EM>
+      ,
+      
+        vice-presidente da <EM ID="aa58069-449" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="aa58069-445" TIPOREL="vinculo_inst">Macquarie Futures</EM> dos <EM ID="aa58069-15" CATEG="LOCAL" TIPO="HUMANO" COREL="aa58069-377 aa58069-449" TIPOREL="ident sede_de">EUA</EM>
+      .
+    
+  

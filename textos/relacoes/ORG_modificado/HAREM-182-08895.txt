@@ -1,0 +1,47 @@
+$S-10
+Ministério=da=Justiça	 [Ministério=da=Justiça] <org> <*> PROP M S @SUBJ> ORG O
+recua	 [recuar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+Os	 [o] <*> <artd> DET M P @>N  O
+censores	 [censor] <Hprof> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Zé=Gregori	 [Zé=Gregori] <hum> <*> PROP M S @P<  O
+elaboram	 [elaborar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+um	 [um] <arti> DET M S @>N  O
+ofício	 [ofício] <pos-soc> <ac> <cc-r> <occ> N M S @<ACC  O
+advertindo	 [advertir] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Rede=Record	 [Rede=Record] <media> <*> PROP F S @<ACC ORG O
+por=causa=de	 [por=causa=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+exibição	 [exibição] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+filme	 [filme] <sem-w> <cc> N M S @P<  O
+Fogo	 [Fogo] <tit> <*> <np-close> PROP M S @N<  O
+contra	 [contra] <np-long> PRP @N<  O
+Fogo	 [fogo] <prop> <*> <cc-fire> <process> <L> <act-d> <activity> N M S @P<  O
+em	 [em] PRP @<ADVL  O
+horário	 [horário] <cc-r> N M S @P<  O
+impróprio	 [impróprio] <nh> <np-close> ADJ M S @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+último	 [último] <NUM-ord> ADJ M S @>N  O
+domingo	 [domingo] <temp> N M S @P<  O
+$. O
+</s>
+
+$S-13
+Vale	 [vale] <*> <Ltop> <cc-r> N M S @SUBJ>  O
+destacar	 [destacar] <mv> V INF 3S @IMV  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+PSDB	 [PSDB] <party> <*> PROP M S @SUBJ> ORG O
+vinha	 [vir] <aux> V IMPF 3S IND VFIN @FS-<ACC REL
+negociando	 [negociar] <clb> <vH> <mv> V GER @ICL-AUX< REL
+um	 [um] <arti> DET M S @>N REL
+acordo	 [acordo] <sem-c> N M S @<ACC REL
+com	 [com] <np-close> PRP @N< REL
+a	 [o] <artd> DET F S @>N REL
+Igreja=Universal	 [Igreja=Universal] <org> <*> PROP F S @P< ORG O
+$. O
+</s>

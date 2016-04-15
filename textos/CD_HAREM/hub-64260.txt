@@ -1,0 +1,44 @@
+
+    
+      <EM ID="hub-64260-136" CATEG="OUTRO"   >COISAS DA SÁBADO</EM> 
+      : A DIFERENÇA ENTRE O
+      <EM ID="hub-64260-137" CATEG="COISA" TIPO="CLASSE"  >JORNAL DE NOTÍCIAS</EM>
+      E O
+      <EM ID="hub-64260-138" CATEG="COISA" TIPO="CLASSE"  >DIÁRIO DE NOTÍCIAS</EM>
+    
+    
+      <EM ID="hub-64260-12" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No dia</EM> em que a operação «
+      <EM ID="hub-64260-139" CATEG="ACONTECIMENTO" TIPO="EVENTO"  >Noite Branca</EM>
+      » começou a prender suspeitos de serem responsáveis pelo clima de violência no
+      <EM ID="hub-64260-140" CATEG="LOCAL" TIPO="HUMANO"  >Porto</EM>
+      , a comparação entre um jornal de
+      <EM ID="hub-64260-141" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      , o
+      <EM ID="hub-64260-142" CATEG="OBRA|COISA" TIPO="REPRODUZIDA|CLASSE" COREL="hub-64260-138" TIPOREL="COISA**ident**hub-64260-138**COISA">Diário de Notícias</EM>
+      , e um do
+      <EM ID="hub-64260-143" CATEG="LOCAL" TIPO="HUMANO"  >Porto</EM>
+      , o
+      <EM ID="hub-64260-144" CATEG="OBRA|COISA" TIPO="REPRODUZIDA|CLASSE" COREL="hub-64260-137" TIPOREL="COISA**ident**hub-64260-137**COISA">Jornal de Notícias</EM>
+      ,
+      <EM ID="hub-64260-145" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no mesmo dia 17 de Dezembro</EM>
+      , não podia ser mais significativa. O 
+      <EM ID="hub-64260-146" CATEG="OBRA" TIPO="REPRODUZIDA"  >Diário de Notícias</EM> 
+      falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do
+      <EM ID="hub-64260-147" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-64260-140" TIPOREL="ocorre_em">FCP</EM>
+      , os
+      <EM ID="hub-64260-148" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-64260-147" TIPOREL="vinculo_inst">Super Dragões</EM>
+      . Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção. Onde eles apareciam era à frente da claque em filmes (a
+      <EM ID="hub-64260-149" CATEG="ORGANIZACAO|LOCAL" TIPO="EMPRESA|VIRTUAL"  >SIC</EM>
+      mostrou-os) e em fotos de segurança aos dirigentes do clube. No
+      <EM ID="hub-64260-150" CATEG="LOCAL" TIPO="VIRTUAL"  >Jornal de Notícias</EM>
+      tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença. De facto, o
+      <EM ID="hub-64260-151" CATEG="OBRA|COISA" TIPO="REPRODUZIDA|CLASSE" COREL="hub-64260-144 hub-64260-144" TIPOREL="OBRA**ident**hub-64260-144**OBRA COISA**ident**hub-64260-144**COISA">Jornal de Notícias</EM>
+      parece ser um jornal do
+      <EM ID="hub-64260-152" CATEG="LOCAL" TIPO="HUMANO"  >Casaquistão</EM>
+      tal é a ignorância do que se passa à sua volta. Mas não é, é mesmo do
+      <EM ID="hub-64260-153" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-64260-140" TIPOREL="ident">Porto</EM>
+      e esse é que é o problema: é do
+      <EM ID="hub-64260-154" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-64260-140" TIPOREL="ident">Porto</EM>
+      e cala.
+    
+  

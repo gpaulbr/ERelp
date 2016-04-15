@@ -1,0 +1,24 @@
+$S-3
+As	 [o] <*> <artd> DET F P @>N  O
+logomarcas	 [logomarca] <ac-sign> N F P @SUBJ>  O
+em	 [em] <sam-> <np-close> PRP @N<  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+totens	 [totem] <ac-sign> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+bancos	 [banco] <furn> <inst> <Ltop> N M P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Boston	 [Boston] <civ> <*> PROP M/F S @P< ORG O
+e	 [e] KC @NPHR  O
+Citibank	 [Citibank] <hum> <*> PROP M/F S @P< ORG O
+$, O
+Clube=Banco=dos=Ingleses	 [Clube=Banco=dos=Ingleses] <org> <*> PROP F S @SUBJ>  O
+e	 [e] KC @NPHR  O
+lanchonete	 [lanchonete] <build> N F S @SUBJ>  O
+McDonalds	 [McDonalds] <hum> <*> PROP F S @SUBJ>  O
+estavam	 [estar] <vK> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  O
+manchadas	 [manchado] <n> <nh> ADJ F P @<SC  O
+de	 [de] <np-close> PRP @N<  O
+sangue	 [sangue] <cm-liq> N M S @P<  O
+$. O
+</s>

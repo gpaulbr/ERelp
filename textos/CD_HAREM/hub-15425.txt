@@ -1,0 +1,85 @@
+
+    
+     <EM ID="hub-15425-65" CATEG="OBRA" TIPO="PLANO"  >Tratado de Lisboa</EM>
+      (
+      <EM ID="hub-15425-668" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-65" TIPOREL="data_de">2007</EM>
+      )
+    
+    
+      O
+      <EM ID="hub-15425-67" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-65" TIPOREL="ident">Tratado de Lisboa</EM> 
+      ou
+      <EM ID="hub-15425-671" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-65" TIPOREL="ident">Tratado de Reforma</EM>
+      , é o acordo ratificado pelo
+      <EM ID="hub-15425-672" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15425-65" TIPOREL="outrarel">Conselho da União Europeia</EM>  
+      em
+      <EM ID="hub-15425-673" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      ,
+      <EM ID="hub-15425-674" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-65 hub-15425-668" TIPOREL="data_de incluido">a 19 de Outubro de 2007</EM>
+      , e que substitui a
+        <EM ID="hub-15425-676" CATEG="OBRA" TIPO="PLANO"  >Constituição</EM>
+        europeia
+      <EM ID="hub-15425-677" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2004</EM>
+      .[1]
+    
+    
+      O
+      <EM ID="hub-15425-69" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-65" TIPOREL="ident">Tratado de Lisboa</EM> 
+      confere à
+      <EM ID="hub-15425-679" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15425-672 hub-15425-672-aaa" TIPOREL="inclui ident">União Europeia</EM>
+      , personalidade jurídica própria para assinar acordos internacionais a nível comunitário. O termo «
+      <EM ID="hub-15425-680" CATEG="ABSTRACCAO" TIPO="NOME"  >Comunidade</EM>
+      » será substituído por «
+      <EM ID="hub-15425-681" CATEG="ABSTRACCAO" TIPO="NOME"  >União</EM>
+      », nomeia o <EM ID="hub-15425-71" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15425-672-aaa" TIPOREL="vinculo_inst">Alto Representante para a Política Exterior e de Segurança Comum da União Europeia</EM>  e estabelece a aplicação formal da dupla maioria
+      <EM ID="hub-15425-682" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a partir de 2014</EM>
+      .
+    
+    História
+    
+      A emenda proposta pela <EM ID="hub-15425-73" CATEG="PESSOA" TIPO="GRUPOCARGO"  >Presidência</EM> alemã do <EM ID="hub-15425-74" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15425-73 hub-15425-672 hub-15425-672-aa" TIPOREL="vinculo_inst ident ident">Conselho da União Europeia</EM>  
+      (
+      <EM ID="hub-15425-686" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-668" TIPOREL="ident">2007</EM>
+      )
+      <EM ID="hub-15425-687" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-668" TIPOREL="incluido">a 19 de Maio de 2007</EM>
+      incluiu a "essência da
+      <EM ID="hub-15425-689" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-676" TIPOREL="ident">Constituição</EM>
+      ". A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos
+      <EM ID="hub-15425-690" CATEG="VALOR" TIPO="QUANTIDADE"  >27</EM>
+      estados membros
+      <EM ID="hub-15425-691" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-668" TIPOREL="incluido">durante o primeiro semestre de 2007</EM>
+      . Decidiu-se abandonar o formato do  '
+      <EM ID="hub-15425-692" CATEG="OBRA" TIPO="PLANO"  >Tratado constitucional</EM>
+      '  e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados
+      actualmente em vigor, o <EM ID="hub-15425-75" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-679" TIPOREL="outrarel">Tratado da União Europeia</EM>
+      e o <EM ID="hub-15425-77" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-679" TIPOREL="outrarel">Tratado da Comunidade Europeia</EM>
+      , que passaria a chamar-se 
+      <EM ID="hub-15425-697" CATEG="ABSTRACCAO" TIPO="NOME"  >Tratado sobre o funcionamento da União</EM> 
+      .
+    
+    
+      <EM ID="hub-15425-698" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15425-672-aaa" TIPOREL="incluido">Portugal</EM>
+      , que assumiu a presidência da
+      <EM ID="hub-15425-699" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15425-672-aaa" TIPOREL="ident">UE</EM>
+      <EM ID="hub-15425-700" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-668" TIPOREL="incluido">durante o segundo semestre de 2007</EM>
+      , lançou uma conferência intergovernamental (
+      <EM ID="hub-15425-701" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >CIG</EM>
+      )
+      <EM ID="hub-15425-79" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-700" TIPOREL="incluido">nos dias 23</EM> e <EM ID="hub-15425-80" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-700" TIPOREL="incluido">24 de Julho</EM>
+      , para acabar a redação do texto, coincidindo com a reunião de
+      <EM ID="hub-15425-703" CATEG="PESSOA" TIPO="GRUPOCARGO"  >ministros dos Negócios Estrangeiros</EM>
+      . O novo
+      <EM ID="hub-15425-704" CATEG="OBRA" TIPO="PLANO" COREL="hub-15425-65" TIPOREL="ident">Tratado</EM>
+      foi apresentado na cimeira
+      <EM ID="hub-15425-705" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-700" TIPOREL="incluido">de 18 de Outubro</EM>
+      , em
+      <EM ID="hub-15425-706" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15425-673" TIPOREL="ident">Lisboa</EM>
+      , tendo sido assinado pelos representantes dos vários governos
+      <EM ID="hub-15425-707" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15425-700" TIPOREL="incluido">no dia 13 de Dezembro de 2007</EM>
+      , no
+      <EM ID="hub-15425-708" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15425-673" TIPOREL="incluido">Mosteiro dos Jerónimos</EM>
+      . Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor
+      <EM ID="hub-15425-710" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2009</EM>
+      .
+    
+  

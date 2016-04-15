@@ -1,0 +1,49 @@
+$S-1
+O 	[o]   <artd> DET M S @>N   O
+aumento 	[aumento] <act> N M S @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+temperatura 	[temperatura] <f-q> N F S @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Antártida 	[Antártida] <top>   PROP F S @P<  LOCAL O
+durante 	[durante] <np-close> PRP @N<   O
+o 	[o] <artd> DET M S @>N   O
+último 	[último] <NUM-ord> ADJ M S @>N   O
+século 	[século] <dur> <per> N M S @P<   O
+foi 	[ir] <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+de 	[de] PRP @<ADVL   O
+1,2 	[1,2] <card> NUM M P @>N    O
+pelo=menos 	[pelo=menos] <quant> ADV @>N   O
+o 	[o] <artd> DET M S @>N   O
+dobro 	[dobro] <amount> N M S @<SUBJ   O
+de 	[de] <sam-> PRP @<SA   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+média 	[média] <Labs> <amount> N F S @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+resto 	[resto] <amount> N M S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+planeta 	[planeta] <Lstar> N M S @P<   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+ficou 	[ficar] <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+entre 	[entre] PRP @<SA   O
+0,2 	[0,2] <card> NUM M P @>N   O
+e 	[e] KC @NPHR   O
+0,6 	[0,6] <card> NUM M P @>N   O
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL   O
+o 	[o] <artd> DET M S @>N   O
+IPCC 	[IPCC] <cjt-head> <inst> <asarg>   PROP M S @P<  ORG O
+$( 
+Painel=Intergovernamental=de=Mudança=Climática 	[Painel=Intergovernamental=de=Mudança=Climática] <cjt> <org> <asarg>   PROP M S @P<   O
+$, 
+órgão 	[órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> <np-close> N M S @N<PRED   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+ONU 	[ONU] <org>   PROP F S @P<   O
+$) 
+$. 
+</s>

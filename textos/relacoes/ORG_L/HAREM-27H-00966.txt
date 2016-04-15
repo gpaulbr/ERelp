@@ -1,0 +1,104 @@
+$S-2
+O	 [o] <*> <artd> DET M S @>N  O
+fogo	 [fogo] <cc-fire> <process> <L> <act-d> <activity> N M S @SUBJ>  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  O
+deflagrou	 [deflagrar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+cerca=de	 [cerca=de] <sam-> PRP @<ADVL  O
+as	 [o] <artd> <-sam> DET F P @>N  O
+06h50	 [06h50] <temp> N F P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+casa	 [casa] <build> N F S @P<  O
+térrea	 [térreo] <nh> <np-close> ADJ F S @N<  O
+$, O
+causou	 [causar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+ferimentos	 [ferimento] <event> N M P @<ACC  O
+em	 [em] <sam-> PRP @<ADVL  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+idosa	 [idoso] <n> <jh> ADJ F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+82	 [82] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+caso	 [caso] <event> <ac-cat> <sem> <np-close> N M S @APP  O
+mais	 [mais] <quant> <KOMP> ADV @>A  O
+grave	 [grave] <np-close> ADJ M/F S @N<  O
+$, O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+enteado	 [enteado] <Hfam> N M S @P<  O
+$, O
+um	 [um] <arti> DET M S @>N  O
+homem	 [homem] <Hattr> <np-close> N M S @N<PRED  O
+de	 [de] <np-close> PRP @N<  O
+32	 [32] <card> NUM M P @>N  O
+anos	 [ano] <dur> <temp> <per> <unit> N M P @P<  O
+$, O
+ambos	 [ambos] <quant> <np-close> DET M P @N<PRED  O
+transportados	 [transportar] <vH> <mv> V PCP M P @ICL-N<PRED  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Hospital=de=São=João	 [Hospital=de=São=João] <inst> <*> PROP M S @P< ORG O
+$, O
+em	 [em] <sam-> PRP @<ADVL B-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Porto	 [Porto] <civ> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-3
+Segundo	 [segundo] <com> <*> <adv-rel> PRP @ADVL>  O
+a	 [o] <artd> DET F S @>N  O
+fonte	 [fonte] <asarg> <Lwater> <Labs> <an> N F S @P<  O
+$, O
+o	 [o] <artd> DET M S @>N  O
+incêndio	 [incêndio] <occ> N M S @SUBJ>  O
+ocorreu	 [ocorrer] <vN> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+em	 [em] <sam-> PRP @<ADVL  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+habitação	 [habitação] <Lh> N F S @P<  O
+situada	 [situado] <nh> <np-close> ADJ F S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+uma	 [um] <-sam> <arti> DET F S @>N  O
+$" O
+ilha	 [ilha] <*1> <*2> <Ltop> N F S @P<  O
+$" O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rua=Coronel=Sarsfield	 [Rua=Coronel=Sarsfield] <top> <*> PROP F S @P<  O
+$, O
+em	 [em] PRP @<ADVL  O
+Leça=da=Palmeira	 [Leça=da=Palmeira] <org> <*> PROP M S @P< LOCAL O
+$, O
+a	 [a] PRP @<PIV @<ADVL  O
+cerca=de	 [cerca=de] ADV @>A  O
+500	 [500] <card> NUM M P @>N  O
+metros	 [metro] <unit> <ac-cat> N M P @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+quartel	 [quartel] <Lh> <amount> <per> <Lopening> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Bombeiros=Voluntários=de=Matosinhos-Leça	 [Bombeiros=Voluntários=de=Matosinhos-Leça] <org> <*> PROP M P @P< ORG O
+$, O
+o=que	 [o=que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+facilitou	 [facilitar] <vH> <mv> V PS 3S IND VFIN @FS-S<  O
+a	 [o] <artd> DET F S @>N  O
+pronta	 [pronto] <jh> ADJ F S @>N  O
+intervenção	 [intervenção] <act> N F S @<ACC  O
+para	 [para] PRP @<ADVL  O
+impedir	 [impedir] <mv> V INF @ICL-P<  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+as	 [o] <artd> DET F P @>N  O
+chamas	 [chama] <cc-fire> <act-s> N F P @SUBJ>  O
+atingissem	 [atingir] <mv> V IMPF 3P SUBJ VFIN @FS-<ACC  O
+as	 [o] <artd> DET F P @>N  O
+casas	 [casa] <build> N F P @<ACC  O
+vizinhas	 [vizinho] <np-close> ADJ F P @N<  O
+$. O
+</s>

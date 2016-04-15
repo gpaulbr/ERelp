@@ -1,0 +1,295 @@
+$S-1
+O 	[o] <*> <artd> DET M S @>N  
+aumento 	[aumento] <act> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+temperatura 	[temperatura] <f-q> N F S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Antártida 	[Antártida] <top> <*> PROP F S @P< LOCAL
+durante 	[durante] <np-close> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+último 	[último] <NUM-ord> ADJ M S @>N  
+século 	[século] <dur> <per> N M S @P<  
+foi 	[ir] <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+de 	[de] PRP @<ADVL  
+1,2° 	[1,2°] <card> NUM M P @>N  
+C 	[c] <prop> <*> N M S @P<  
+$_  
+pelo=menos 	[pelo=menos] <quant> ADV @>N  
+o 	[o] <artd> DET M S @>N  
+dobro 	[dobro] <amount> N M S @<SUBJ  
+de 	[de] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+média 	[média] <Labs> <amount> N F S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+resto 	[resto] <amount> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+planeta 	[planeta] <Lstar> N M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+ficou 	[ficar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+entre 	[entre] PRP @<SA  
+0,2° 	[0,2°] <card> NUM M P @>N  
+C 	[c] <cjt-head> <prop> <*> N M S @P<  
+e 	[e] KC @NPHR  
+0,6° 	[0,6°] <card> NUM M P @>N  
+C 	[c] <cjt> <prop> <*> N M S @P<  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+IPCC 	[IPCC] <cjt-head> <inst> <asarg> <*> PROP M S @P< ORG
+$( 
+Painel=Intergovernamental=de=Mudança=Climática 	[Painel=Intergovernamental=de=Mudança=Climática] <cjt> <org> <asarg> <*> PROP M S @P<  
+$, 
+órgão 	[órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> <np-close> N M S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+ONU 	[ONU] <org> <*> PROP F S @P<  
+$) 
+$. 
+</s>
+
+$S-2
+Parece 	[parecer] <cjt-head> <*> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+ninharia 	[ninharia] <ac> N F S @<SC  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+o 	[o] <artd> DET M S @>N  
+aquecimento 	[aquecimento] <act> N M S @SUBJ>  
+antártico 	[antártico] <nat> <jh> <np-close> ADJ M S @N<  
+está 	[estar] <cjt> <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+modificando 	[modificar] <clb> <mv> V GER @ICL-AUX<  
+radicalmente 	[radicalmente] ADV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+ecossistema 	[ecossistema] <Labs> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+$. 
+</s>
+
+$S-3
+É 	[ser] <*> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+o 	[o] <dem> DET M S @<SC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+mostra 	[mostrar] <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+o 	[o] <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+publicado 	[publicar] <vH> <mv> V PCP M S @ICL-<OC  
+por 	[por] <sam-> PRP @<PASS  
+o 	[o] <-sam> <artd> DET M S @>N  
+britânico 	[britânico] <Hnat> N M S @P<  
+David=Vaughan 	[David=Vaughan] <hum> <*> <np-close> PROP M S @N<  
+e 	[e] KC @NPHR  
+seus 	[seu] <si> <poss 3S> DET M P @>N  
+colegas 	[colega] <Hfam> N M P @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+British=Antarctic=Survey 	[British=Antarctic=Survey] <inst> <*> PROP M S @P<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+$"  
+Science 	[Science] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+de 	[de] <sam-> <np-close> PRP @N<  
+esta 	[este] <-sam> <dem> DET F S @>N  
+semana 	[semana] <dur> N F S @P<  
+$. 
+</s>
+
+$S-4
+Os 	[o] <*> <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <Hprof> N M P @SUBJ>  
+ainda 	[ainda] ADV @>A  
+não 	[não] ADV @ADVL>  
+sabem 	[saber] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+se 	[se] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+problema 	[problema] <ac> N M S @SUBJ>  
+tem 	[ter] <predco> <cjt-head> <mv> V PR 3S IND VFIN @FS-<ACC  
+relação 	[relação] <ac> <sem-r> N F S @<ACC  
+com 	[com] <np-close> PRP @N<  
+o 	[o] <artd> DET M S @>N  
+efeito=estufa 	[efeito=estufa] <ac> N M S @P<  
+ou 	[ou] KC @NPHR  
+é 	[ser] <nosubj> <cjt> <vK> <fmc> <mv> V PR 3S IND VFIN @FS-<ACC  
+resultado 	[resultado] <ac> N M S @<SC  
+de 	[de] <np-close> PRP @N<  
+mecanismos 	[mecanismo] <ac> N M P @P<  
+naturais 	[natural] <np-close> ADJ M P @N<  
+de 	[de] <sam-> PRP @A<  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+$. 
+</s>
+
+$S-5
+As 	[o] <*> <artd> DET F P @>N  
+áreas 	[área] <L> <Lh> N F P @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+afetadas 	[afetado] ADJ F P @<PRED  
+são 	[ser] <vK> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+península 	[península] <cjt-head> <Ltop> N F S @<SUBJ  
+Antártica 	[Antártica] <top> <*> <np-close> PROP F S @N<  
+e 	[e] KC @NPHR  
+o 	[o] <artd> DET M S @>N  
+mar 	[mar] <cjt> <Lwater> N M S @<SUBJ  
+de 	[de] <np-close> PRP @N<  
+Bellinghausen 	[Bellinghausen] <civ> <*> PROP M/F S @P<  
+$, 
+regiões 	[região] <L> <Ltop> N F P @<SC  
+a 	[a] PRP @<ADVL  
+cerca=de 	[cerca=de] ADV @>A  
+1.500 	[1.500] <card> NUM M P @>N  
+km 	[km] <unit> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+sul 	[sul] <dir> N M S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Argentina 	[Argentina] <civ> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-6
+Em 	[em] <*> <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+península 	[península] <Ltop> N F S @P<  
+$, 
+sete 	[sete] <card> NUM F P @>N  
+geleiras 	[geleira] <Ltop> <con> N F P @SUBJ>  
+desapareceram 	[desaparecer] <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+em 	[em] <sam-> PRP @<ADVL  
+os 	[o] <artd> <-sam> DET M P @>N  
+últimos 	[último] <NUM-ord> ADJ M P @>N  
+50 	[50] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$. 
+</s>
+
+$S-7
+As 	[o] <*> <artd> DET F P @>N  
+mudanças 	[mudança] <event> N F P @SUBJ>  
+em 	[em] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+populações 	[população] <HH> N F P @P<  
+de 	[de] <np-close> PRP @N<  
+pinguins 	[pingüim] <Aorn> N M P @P<  
+também 	[também] ADV @ADVL>  
+serviram 	[servir] <cjt-head> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+como 	[como] <prd> <adv-rel> PRP @<SC  
+indicativo 	[indicativo] <asarg> <ac-cat> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <rel> SPEC M S @P<  
+as 	[o] <artd> DET F P @>N  
+coisas 	[coisa] <cc> <ac> N F P @SUBJ>  
+não 	[não] ADV @ADVL>  
+andavam 	[andar] <cjt> <vH> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+bem 	[bem] <quant> ADV @<ADVL  
+$:  
+
+as 	[o] <artd> DET F P @>N  
+espécies 	[espécie] <meta> <A> N F P @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+usavam 	[usar] <vH> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  
+geleiras 	[geleira] <Ltop> <con> N F P @<ACC  
+para 	[para] PRP @<ADVL  
+se 	[se] <refl> PERS M/F 3S/P ACC @ACC>  
+abrigar 	[abrigar] <vH> <mv> V INF @ICL-P<  
+e 	[e] KC @NPHR  
+procriar 	[procriar] <mv> V INF @ICL-UTT  
+começaram 	[começar] <vH> <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  
+a 	[a] PRP @PRT-AUX<  
+diminuir 	[diminuir] <mv> V INF @ICL-AUX<  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+$, 
+enquanto 	[enquanto] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+os 	[o] <artd> DET M P @>N  
+pinguins 	[pingüim] <Aorn> N M P @SUBJ>  
+acostumados 	[acostumado] <np-close> ADJ M P @N<  
+a 	[a] PRP @A<  
+mar 	[mar] <Lwater> N M S @P<  
+aberto 	[abrir] <vH> <np-close> V PCP M S @N<  
+colonizaram 	[colonizar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-<ADVL @FS-N<  
+a 	[o] <artd> DET F S @>N  
+península 	[península] <Ltop> N F S @<ACC  
+$. 
+</s>
+
+$S-8
+$"  
+Ninhais 	[ninhal] <*> <*1> <DERS> N M P @SUBJ>  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+eram 	[ser] <vK> <mv> <np-close> V IMPF 3P IND VFIN @FS-N<  
+ocupados 	[ocupado] <nh> ADJ M P @<SC  
+há 	[há] PRP @<ADVL  
+650 	[650] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+sumiram 	[sumir] <clb-fs> <*2> <mv> <quote> V PS/MQP 3P IND VFIN @FS-ACC>>  
+$"  
+$, 
+contou 	[contar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+David=Vaughan 	[David=Vaughan] <hum> <*> PROP M S @<SUBJ  
+a 	[a] <sam-> PRP @<PIV @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Folha 	[Folha] <media> <*> PROP F S @P<  
+$. 
+</s>
+
+$S-9
+O 	[o] <*> <artd> DET M S @>N  
+pesquisador 	[pesquisador] <Hprof> N M S @SUBJ>  
+$, 
+contudo 	[contudo] <kc> ADV @ADVL>  
+$, 
+ainda 	[ainda] ADV @>A  
+não 	[não] ADV @ADVL>  
+está 	[estar] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+convencido 	[convencido] <n> <jh> ADJ M S @<SC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+vilão 	[vilão] <Hattr> N M S @SUBJ>  
+antártico 	[antártico] <nat> <jh> <np-close> ADJ M S @N<  
+seja 	[ser] <vK> <mv> V PR 3S SUBJ VFIN @FS-P<  
+o 	[o] <artd> DET M S @>N  
+efeito=estufa 	[efeito=estufa] <ac> N M S @<SC  
+$. 
+</s>
+
+$S-10
+$"  
+Há 	[haver] <clb-fs> <*> <*1> <mv> <quote> V PR 3S IND VFIN @FS-ACC>>  
+fortes 	[forte] ADJ F P @>N  
+evidências 	[evidência] <percep-f> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+que 	[que] <clb> <rel> SPECM S @NPHR  
+esse 	[esse] <dem> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+mudança 	[mudança] <event> N F S @P<  
+$, 
+em 	[em] <sam-> PRP @ADVL>  
+uma 	[um] <-sam> <arti> DET F S @>N  
+escala 	[escala] <sem-c> <ac-cat> <act-d> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+décadas 	[década] <dur> N F P @P<  
+$, 
+pode 	[poder] <aux> V PR 3S IND VFIN @FS-STA  
+acontecer 	[acontecer] <vN> <mv> V INF @ICL-AUX<  
+naturalmente 	[naturalmente] <*2> ADV @<ADVL  
+$"  
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+$. 
+</s>
+
+$S-11

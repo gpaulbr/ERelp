@@ -1,0 +1,40 @@
+$S-1
+Quando	 [quando] <clb> <interr> ADV @>A O
+é=que	 [é=que] <foc> ADV @<FOC O
+Liamine=Zéroul	 [Liamine=Zéroul] <hum> PROP M/F S @SUBJ> PES O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-QUE B-REL
+eleito	 [eleger] <vH> <mv> V PCP M S @ICL-AUX< I-REL
+para	 [para] PRP @<PIV I-REL
+a	 [o] <artd> DET F S @>N I-REL
+presidência	 [presidência] <pos-soc> N F S @P< I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL 
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Argélia	 [Argélia] <civ> PROP F S @P< ORG O
+$? O
+</s>
+
+$S-2
+Quando	 [quando] <clb> <interr> ADV @>A O
+é=que	 [é=que] <foc> ADV @<FOC O
+Eduardo=Frei	 [Eduardo=Frei] <hum> PROP M S @SUBJ> PES O
+se	 [se] <refl> PERS M/F 3S ACC @ACC> B-REL
+tornou	 [tornar] <fmc> <mv> V PS 3S IND VFIN @FS-QUE I-REL
+presidente	 [presidente] <Hprof> N M/F S @<OC I-REL
+de	 [de] <sam-> <np-close> PRP @N< I-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Chile	 [Chile] <civ> PROP M S @P< ORG O
+$? O
+</s>
+
+$S-3
+Em	 [em] <clb> PRP @ADVL> O
+que	 [que] <interr> DET M S @>N O
+ano	 [ano] <per> <temp> <dur> <unit> N M S @P< O
+é=que	 [é=que] <v-ks> ADV @<FOC	 [é=que] <foc> ADV @<FOC O
+Eugène=Ionesco	 [Eugène=Ionesco] <hum> PROP M S @SUBJ> PES O
+entrou	 [entrar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-QUE B-REL
+em	 [em] <sam-> PRP @<SA I-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Academia=Francesa	 [Academia=Francesa] <inst> PROP F S @P< ORG O
+$? O
+</s>

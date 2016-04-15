@@ -1,0 +1,34 @@
+$S-5
+A 	[o]   <artd> DET F S @>N   O
+multa 	[multa] <mon> N F S @SUBJ>   O
+pode 	[poder] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC   O
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<   O
+reduzida 	[reduzido] ADJ F S @<SC   O
+em 	[em] PRP @<ADVL   O
+90% 	[90%] <card> NUM M P @>N    O
+se 	[se] <clb> <clb-fs> KS @SUB   O
+for 	[ser] <aux> V FUT 3S SUBJ VFIN @FS-<ADVL   O
+apresentado 	[apresentar] <vH> <mv> V PCP M S @ICL-AUX<   O
+um 	[um] <arti> DET M S @>N   O
+plano 	[plano] <sem-c> <Labs> N M S @<SUBJ   O
+de 	[de] <np-close> PRP @N<   O
+recuperação 	[recuperação] <act> <process> N F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+área 	[área] <L> <Lh> N F S @P<   O
+$, 
+afirmou 	[afirmar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+gerente-executivo 	[gerente-executivo] <Hprof> N M S @<SUBJ   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Ibama 	[Ibama] <inst>   PROP M S @P<  ORG O
+em 	[em] <np-close> PRP @N<   O
+Campo=Grande 	[Campo=Grande] <top>   <newlex> PROP F S @P<   O
+$( 
+MS 	[MS] <civ>   <np-close> PROP M S @N<PRED   O
+$) 
+$, 
+Nereu=Fontes 	[Nereu=Fontes] <hum>   <np-close> PROP M S @APP  PES O
+$. 
+</s>

@@ -1,0 +1,12 @@
+$S-1
+Instituto=Brasileiro=de=Advocacia=Pública	 [Instituto=Brasileiro=de=Advocacia=Pública] <inst> PROP M S @P< ORG O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA B-REL
+em	 [em] <sam-> PRP @<SC I-REL
+a	 [o] <artd> <-sam> DET F S @>N I-REL
+Avenida=da=Liberdade	 [Avenida=da=Liberdade] <top> PROP F S @P< LOCAL O
+
+$S-2
+Procuradoria	 [Procuradoria] <inst> <np-close> PROP F S @N<PRED ORG O
+de	 [de] <np-close> PRP @N< B-REL
+o	 [o] <artd> <-sam> DET M S @>N I-REL
+Município=de=Santo=André	 [Município=de=Santo=André] <civ> PROP M S @P< LOCAL O

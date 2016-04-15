@@ -1,0 +1,101 @@
+!%f90 -*- f90 -*-
+
+python module cblas ! in
+!usercode '''#include "cblas.h"
+!'''
+    interface  
+
+
+subroutine saxpy(n,a,x,incx,y,incy)
+
+  ! z = axpy(a,x,y,n=len(x)/abs(incx),incx=1,incy=incx,overwrite_y=0)
+  ! Calculate z = a*x+y, where a is scalar.
+
+  fortranname cblas_saxpy
+  
+  callstatement (*f2py_func)(n,a,x,incx,y,incy);
+  callprotoargument const int,const float,const float*,const int,float*,const int
+
+  intent(c)
+  intent(c) saxpy
+
+  integer optional,intent(in),depend(x,incx) :: n = len(x)/abs(incx)
+  real intent(in):: a
+  real dimension(n),intent(in) :: x
+  integer optional, intent(in),check(incx>0||incx<0) :: incx = 1
+  real dimension(n),depend(x),check(len(x)==len(y)) :: y
+  intent(in,out,copy,out=z) :: y
+  integer optional, intent(in),depend(incx) ,check(incy>0||incy<0) :: incy = incx
+
+end subroutine saxpy
+
+subroutine daxpy(n,a,x,incx,y,incy)
+
+  ! z = axpy(a,x,y,n=len(x)/abs(incx),incx=1,incy=incx,overwrite_y=0)
+  ! Calculate z = a*x+y, where a is scalar.
+
+  fortranname cblas_daxpy
+  
+  callstatement (*f2py_func)(n,a,x,incx,y,incy);
+  callprotoargument const int,const double,const double*,const int,double*,const int
+
+  intent(c)
+  intent(c) daxpy
+
+  integer optional,intent(in),depend(x,incx) :: n = len(x)/abs(incx)
+  double precision intent(in):: a
+  double precision dimension(n),intent(in) :: x
+  integer optional, intent(in),check(incx>0||incx<0) :: incx = 1
+  double precision dimension(n),depend(x),check(len(x)==len(y)) :: y
+  intent(in,out,copy,out=z) :: y
+  integer optional, intent(in),depend(incx) ,check(incy>0||incy<0) :: incy = incx
+
+end subroutine daxpy
+
+subroutine caxpy(n,a,x,incx,y,incy)
+
+  ! z = axpy(a,x,y,n=len(x)/abs(incx),incx=1,incy=incx,overwrite_y=0)
+  ! Calculate z = a*x+y, where a is scalar.
+
+  fortranname cblas_caxpy
+  
+  callstatement (*f2py_func)(n,&a,x,incx,y,incy);
+  callprotoargument const int,const void*,const void*,const int,void*,const int
+
+  intent(c)
+  intent(c) caxpy
+
+  integer optional,intent(in),depend(x,incx) :: n = len(x)/abs(incx)
+  complex intent(in):: a
+  complex dimension(n),intent(in) :: x
+  integer optional, intent(in),check(incx>0||incx<0) :: incx = 1
+  complex dimension(n),depend(x),check(len(x)==len(y)) :: y
+  intent(in,out,copy,out=z) :: y
+  integer optional, intent(in),depend(incx) ,check(incy>0||incy<0) :: incy = incx
+
+end subroutine caxpy
+
+subroutine zaxpy(n,a,x,incx,y,incy)
+
+  ! z = axpy(a,x,y,n=len(x)/abs(incx),incx=1,incy=incx,overwrite_y=0)
+  ! Calculate z = a*x+y, where a is scalar.
+
+  fortranname cblas_zaxpy
+  
+  callstatement (*f2py_func)(n,&a,x,incx,y,incy);
+  callprotoargument const int,const void*,const void*,const int,void*,const int
+
+  intent(c)
+  intent(c) zaxpy
+
+  integer optional,intent(in),depend(x,incx) :: n = len(x)/abs(incx)
+  double complex intent(in):: a
+  double complex dimension(n),intent(in) :: x
+  integer optional, intent(in),check(incx>0||incx<0) :: incx = 1
+  double complex dimension(n),depend(x),check(len(x)==len(y)) :: y
+  intent(in,out,copy,out=z) :: y
+  integer optional, intent(in),depend(incx) ,check(incy>0||incy<0) :: incy = incx
+
+end subroutine zaxpy
+    end interface
+end module cblas

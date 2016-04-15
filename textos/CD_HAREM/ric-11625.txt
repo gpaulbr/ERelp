@@ -1,0 +1,262 @@
+
+    
+      O
+      <EM ID="ric-11625-305" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Kuduro</EM>
+      e nós. Teria mesmo algo a ver?
+    
+    
+      <EM ID="ric-11625-306" CATEG="ABSTRACCAO" TIPO="NOME"  >Ku</EM>
+      , palavra e não palavrão, parece vir do mais puro vernáculo do
+      <EM ID="ric-11625-307" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-306" TIPOREL="outrarel">Kimbundo</EM>
+      (
+      <EM ID="ric-11625-308" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-306" TIPOREL="outrarel">MataKu</EM>
+      =nádegas, assento plural de ritaku), principal língua falada em
+      <EM ID="ric-11625-309" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-307" TIPOREL="pratica_se">Luanda</EM>
+      ,
+      <EM ID="ric-11625-310" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-309" TIPOREL="inclui">Angola</EM>
+      (da qual falamos centenas de vocábulos, sem saber - inclusive
+      <EM ID="ric-11625-311" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-306 ric-11625-307" TIPOREL="nome_de_ident nome_de_incluido">Ku</EM>
+      , certo?) O sentido figurado da palavra é, exatamente, o mesmo que usamos no
+      <EM ID="ric-11625-312" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM>
+      :
+      <EM ID="ric-11625-313" CATEG="ABSTRACCAO" TIPO="NOME"  >Bunda</EM>
+      (palavra aliás, oriunda também do mesmo
+      <EM ID="ric-11625-314" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-307" TIPOREL="nome_de_ident">Kimbundo</EM>
+      ), literalmente traduzida para o portugês também como nádegas.
+    
+    
+      O sentido da expressão
+      <EM ID="ric-11625-315" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-305" TIPOREL="nome_de_ident">Kuduro</EM>
+      poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece:
+      <EM ID="ric-11625-317" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-315" TIPOREL="ident">Kuduro</EM>
+      =
+      <EM ID="ric-11625-318" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-315" TIPOREL="outrarel">Bunda</EM>
+      imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo. Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
+    
+    
+      Contudo, dança livre que é, no
+      <EM ID="ric-11625-319" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      também se pode rebolar, é claro, basta querer.
+    
+    
+      Dito isto, o
+      <EM ID="ric-11625-320" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      , inserido no âmbito da cultura
+      <EM ID="ric-11625-321" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="inclui">Hip Hop</EM>
+      , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o
+      <EM ID="ric-11625-322" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Funk</EM>
+      carioca e o
+      <EM ID="ric-11625-323" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Kwaito</EM>
+      (da
+      <EM ID="ric-11625-324" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-323" TIPOREL="pratica_se">África do Sul</EM>
+      ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na
+      <EM ID="ric-11625-325" CATEG="LOCAL" TIPO="HUMANO"  >América do Norte</EM>
+      .
+    
+    
+      Mas o
+      <EM ID="ric-11625-326" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      também é um símbolo dos mais fortes,
+      <EM ID="ric-11625-327" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >neste momento</EM>
+      , da enorme capacidade da resistência cultural das populações não-brancas, do <EM ID="ric-11625-198" CATEG="TEMPO" TIPO="GENERICO"  >outrora</EM> chamado
+      <EM ID="ric-11625-328" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-310 ric-11625-324" TIPOREL="nome_de_inclui nome_de_inclui">Terceiro Mundo</EM>
+      , diante da pressão globalizante, sinônimo evidente de aculturação.
+    
+    Kuduro Checkup
+    
+      No
+      <EM ID="ric-11625-329" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      angolano - e vejam vocês mesmos que coisa curiosa! - os passos do mix, da fusão com o break, são o mais puro e carioca dos
+      <EM ID="ric-11625-330" CATEG="ABSTRACCAO|COISA" TIPO="DISCIPLINA|CLASSE"  >Sambas</EM>
+      . Incrível!
+    
+    
+      Acreditem, mas, os
+      <EM ID="ric-11625-331" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-11625-305" TIPOREL="praticante_de">Pupilos do Kuduro</EM>
+      , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa
+      <EM ID="ric-11625-332" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Ala dos Malandrinhos</EM>
+      dançava lá
+      <EM ID="ric-11625-333" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >naqueles bem passados anos 60</EM>
+      . Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos
+      <EM ID="ric-11625-334" CATEG="ABSTRACCAO|COISA" TIPO="DISCIPLINA|CLASSE" COREL="ric-11625-330 ric-11625-330" TIPOREL="ABSTRACCAO**ident**ric-11625-330**ABSTRACCAO COISA**ident**ric-11625-330**COISA">Sambas</EM>
+      . Pode?
+    
+    
+      Teria sido aquela minha saudosa rapaziada de
+      <EM ID="ric-11625-335" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-332" TIPOREL="residencia_de">Padre Miguel</EM>
+      a inventora do
+      <EM ID="ric-11625-336" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      ?
+    
+    
+      Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do
+      <EM ID="ric-11625-337" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais. Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho
+      <EM ID="ric-11625-338" CATEG="COISA" TIPO="CLASSE"  >Sampler</EM>
+      , por exemplo).
+    
+    
+      Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do
+      <EM ID="ric-11625-340" CATEG="OUTRO"   >Mocinho</EM>
+      poderia ser atribuído a sociedade neoliberal globalizada, ao
+      <EM ID="ric-11625-341" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Capitalismo</EM>
+      em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
+    
+    Besteira. Baita injustiça, sobretudo. Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
+    
+      O
+      <EM ID="ric-11625-342" CATEG="COISA" TIPO="CLASSE" COREL="ric-11625-338" TIPOREL="ident">Sampler</EM>
+      e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes. Se disponíveis estiverem, ferramentas de cultura serão. Se não estiverem, outras ferramentas se inventarão.
+    
+    
+      Aliás, o que um
+      <EM ID="ric-11625-343" CATEG="COISA" TIPO="CLASSE" COREL="ric-11625-338" TIPOREL="ident">Sampler</EM>
+      faz mesmo? Não muda nada. Copia. E haja periferia e miséria para samplear.
+    
+    A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
+    
+      Vírus no sistema. O
+      <EM ID="ric-11625-344" CATEG="OUTRO"  COREL="ric-11625-340" TIPOREL="ident">Mocinho</EM>
+      verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
+    
+    ----------------------
+    Inside the Kuduro
+    (em português não ficaria melhor não)
+    
+      Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo. É esta a célula rítmica base, a matriz, o
+      <EM ID="ric-11625-345" CATEG="COISA" TIPO="SUBSTANCIA"  >DNA</EM>
+      , sobre o qual se criará os sons que bem entendermos. Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
+    
+    
+      No caso do
+      <EM ID="ric-11625-346" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava
+      <EM ID="ric-11625-347" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos anos 70</EM>
+      ,
+      <EM ID="ric-11625-348" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >80</EM>
+      de
+      <EM ID="ric-11625-349" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="outrarel">Kabetula</EM>
+      , um ritmo muito popular em
+      <EM ID="ric-11625-350" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-309 ric-11625-349" TIPOREL="ident pratica_se">Luanda</EM>
+      , semelhante ao
+      <EM ID="ric-11625-351" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="outrarel">Semba</EM>
+      , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o
+      <EM ID="ric-11625-352" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      é uma variação do
+      <EM ID="ric-11625-353" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305 ric-11625-310" TIPOREL="outrarel praticado_em">Kuzukuta</EM>
+      , ritmo popular do carnaval angolano).
+    
+    
+      Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do
+      <EM ID="ric-11625-354" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-312" TIPOREL="ident">Brasil</EM>
+      , 
+      <EM ID="ric-11625-355" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde, pelo menos, o século 19</EM>
+      ), tipicamente urbanos que são, vieram, provavelmente, do
+      <EM ID="ric-11625-356" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="outrarel">Kaduke</EM>
+      , espécie de
+      <EM ID="ric-11625-357" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      surgido na cidade de
+      <EM ID="ric-11625-358" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-356" TIPOREL="pratica_se">Ambaça</EM>
+      (
+      <EM ID="ric-11625-359" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-358" TIPOREL="inclui">Mbaka</EM>
+      ), grande centro urbano e comercial (!) lá
+      <EM ID="ric-11625-360" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >pelos idos de 1880</EM>
+      (veja
+      <EM ID="ric-11625-361" CATEG="OBRA" TIPO="REPRODUZIDA"  >Capello e Ivens</EM>
+      ), <EM ID="ric-11625-199" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no tempo</EM> da colonização portuguesa em
+      <EM ID="ric-11625-362" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-310 ric-11625-358" TIPOREL="ident inclui">Angola</EM>
+    
+    
+      Este
+      <EM ID="ric-11625-363" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-356" TIPOREL="ident">Kaduke</EM>
+      , talvez tenha gerado, a partir do mesmo processo, no
+      <EM ID="ric-11625-364" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-312" TIPOREL="ident">Brasil</EM>
+      colonial, o
+      <EM ID="ric-11625-365" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-312" TIPOREL="praticado_em">Kalundu</EM>
+      que, mesclado à danças européias como a
+      <EM ID="ric-11625-366" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Polka</EM>
+      e a
+      <EM ID="ric-11625-367" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Mazurka</EM>
+      (espécies de danças de periferia brancas, populares na
+      <EM ID="ric-11625-370" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-366 ric-11625-367" TIPOREL="pratica_se pratica_se">Europa</EM>
+        central), deram numa dança popularíssima na
+      <EM ID="ric-11625-371" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-373 ric-11625-312" TIPOREL="nome_de_pratica_se incluido">Corte</EM>
+      brasileira (um
+      <EM ID="ric-11625-372" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      colonial) chamada de
+      <EM ID="ric-11625-373" CATEG="ABSTRACCAO" TIPO="NOME" COREL="ric-11625-305 ric-11625-365" TIPOREL="nome_de_outrarel nome_de_outrarel">Lundu</EM>
+      .
+    
+    
+      Pois não é que o
+      <EM ID="ric-11625-374" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-356" TIPOREL="ident">Kaduke</EM>
+      , o
+      <EM ID="ric-11625-375" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-365" TIPOREL="ident">Kalundu</EM>
+      e talvez até mesmo o
+      <EM ID="ric-11625-376" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Jongo</EM>
+      formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente
+      <EM ID="ric-11625-377" CATEG="TEMPO" TIPO="GENERICO"  >hoje</EM>
+      no
+      <EM ID="ric-11625-378" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-312 ric-11625-328" TIPOREL="ident incluido">Brasil</EM>
+      como
+      <EM ID="ric-11625-379" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-330 ric-11625-312" TIPOREL="ABSTRACCAO**ident**ric-11625-330**ABSTRACCAO praticado_em">Samba</EM>
+      ?
+    
+    
+      Viram só?
+      <EM ID="ric-11625-380" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      e
+      <EM ID="ric-11625-381" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-379" TIPOREL="ident">Samba</EM>
+      : Tudo a ver.
+    
+    
+      Fenômeno recorrente, efetivamente, existem manifestações como o
+      <EM ID="ric-11625-382" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      em todas as periferias do mundo. Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de
+      <EM ID="ric-11625-383" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="incluido">Break Dance</EM>
+      , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
+    
+    
+      Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do
+      <EM ID="ric-11625-384" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-312 ric-11625-335" TIPOREL="incluido inclui">Rio</EM>
+      , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros,
+      <EM ID="ric-11625-385" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-11625-325 ric-11625-383" TIPOREL="natural_de praticante_de">James Brown</EM>
+      e
+      <EM ID="ric-11625-387" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-11625-325 ric-11625-383" TIPOREL="natural_de praticante_de">Michael Jackson</EM>
+      ? Há break sim, mas, um pouquinho só. Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
+    
+    
+      Ora, é evidente que, olhando detidamente os movimentos de dança deste
+      <EM ID="ric-11625-388" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-384" TIPOREL="praticado_em">Funk Carioca</EM>
+      , iremos encontrar a mesma filosofia coreográfica do
+      <EM ID="ric-11625-389" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305 ric-11625-384" TIPOREL="ident outrarel">Kuduro</EM>
+      , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás,
+      <EM ID="ric-11625-390" CATEG="TEMPO" TIPO="GENERICO"  >hoje</EM>
+      banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
+    
+    
+      Assim como na
+      <EM ID="ric-11625-391" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-310 ric-11625-324 ric-11625-328" TIPOREL="inclui inclui incluido">África</EM>
+      e no
+      <EM ID="ric-11625-392" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-312" TIPOREL="ident">Brasil</EM>
+      , na
+      <EM ID="ric-11625-393" CATEG="LOCAL" TIPO="HUMANO"  >Índia</EM>
+      , no
+      <EM ID="ric-11625-394" CATEG="LOCAL" TIPO="HUMANO"  >Afeganistão</EM>
+      , na
+      <EM ID="ric-11625-395" CATEG="LOCAL" TIPO="HUMANO"  >Indonésia</EM>
+      , a fórmula beat futurista somado à tradição, se repetirá. Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá. Para nós brasileiros, por exemplo, o
+      <EM ID="ric-11625-396" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="ric-11625-305" TIPOREL="ident">Kuduro</EM>
+      pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante
+      <EM ID="ric-11625-397" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Periferia</EM>
+      .
+    
+    
+      Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê. Somos do
+      <EM ID="ric-11625-1" CATEG="LOCAL|PESSOA|ABSTRACCAO" TIPO="VIRTUAL|GRUPOMEMBRO|DISCIPLINA"  >Overmundo</EM>
+      , o pá! O Bicho, o vírus da maçã. Y love you
+      <EM ID="ric-11625-2" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-11625-310" TIPOREL="ident">Angola</EM>
+      !
+    
+    (Em tempo: Em terra de cego, quem tem um olho, infelizmente é... caolho.)
+  

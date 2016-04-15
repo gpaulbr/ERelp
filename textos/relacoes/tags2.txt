@@ -1,0 +1,87 @@
+2ght33.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 1 
+aa13183.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 1 
+aa25258.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 1 
+aa46996.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 1 
+aa55968.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 1 
+aa56088.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 2 
+aa58069.cg-H.txt 
+ B-REL:2 I-REL:1 TOTAL: 5 
+aa87333.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 5 
+bob-37600.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 5 
+dav-100932.cg-H.txt 
+ B-REL:1 I-REL:1 TOTAL: 7 
+dav-188222.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 7 
+dav-833351.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 8 
+DR-PT5.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 9 
+H2-dftre765.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 9 
+H2-Ren_2001_6414.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 10 
+H2-Ren_2003.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 10 
+hjlll.cg-H.txt 
+ B-REL:2 I-REL:0 TOTAL: 12 
+hub-16268.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 12 
+hub-2312.cg-H.txt 
+ B-REL:1 I-REL:1 TOTAL: 14 
+hub-28874.cg-H.txt 
+ B-REL:2 I-REL:2 TOTAL: 18 
+hub-39869.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 18 
+hub-4171.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 18 
+hub-41899.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 18 
+hub-43823.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 18 
+hub-49343.cg-H.txt 
+ B-REL:2 I-REL:2 TOTAL: 22 
+hub-51467.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 22 
+hub-56266.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 22 
+hub-57257.cg-H.txt 
+ B-REL:2 I-REL:3 TOTAL: 27 
+hub-68694.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 27 
+hub-97297.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 27 
+Ntyr-78.cg-H.txt 
+ B-REL:0 I-REL:0 TOTAL: 27 
+relkj7666.cg-H.txt 
+ B-REL:2 I-REL:4 TOTAL: 33 
+ric-12366.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 34 
+ric-33939.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 35 
+ric-42664.cg-H.txt 
+ B-REL:2 I-REL:1 TOTAL: 38 
+ric-46546.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 39 
+ric-53646.cg-H.txt 
+ B-REL:1 I-REL:1 TOTAL: 41 
+ric-58766.cg-H.txt 
+ B-REL:7 I-REL:13 TOTAL: 61 
+ric-76632.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 62 
+rica-474415.cg-H.txt 
+ B-REL:1 I-REL:1 TOTAL: 64 
+ven-098.cg-H.txt 
+ B-REL:3 I-REL:2 TOTAL: 69 
+wpt-1005220936254463458.cg-H.txt 
+ B-REL:1 I-REL:0 TOTAL: 70 
+wpt-101306633536471708.cg-H.txt 
+ B-REL:2 I-REL:3 TOTAL: 75 
+Total de Relacoes: 75

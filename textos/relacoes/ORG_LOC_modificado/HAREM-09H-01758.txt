@@ -1,0 +1,213 @@
+$S-1
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <org> <*> PROP F S @SUBJ>  O
+comemora	 [comemorar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+10º.	 [10º.] <NUM-ord> <jh> ADJ M S @>N  O
+aniversário	 [aniversário] <occ> N M S @<ACC  O
+A	[o] <-sam> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <org> <*> PROP F S @SUBJ> ORG O
+comemora	 [comemorar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+amanhã	 [amanhã] ADV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+10º.	 [10º.] <NUM-ord> <jh> ADJ M S @>N  O
+aniversário	 [aniversário] <occ> N M S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N REL
+implantação	 [implantação] <act> <event> N F S @P< REL
+em	 [em] <np-close> PRP @N< REL
+Portugal	 [Portugal] <civ> <*> PROP M S @P< LOCAL O
+com	 [com] PRP @<ADVL  O
+cerimónias	 [cerimónia] <occ> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+carácter	 [carácter] <f-psych> N M S @P<  O
+religioso	 [religioso] <np-close> ADJ M S @N<  O
+e	 [e] KC @NPHR  O
+de	 [de] <np-close> PRP @N<  O
+convívio	 [convívio] <activity> N M S @P<  O
+$-- O
+disse	 [dizer] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+ontem	 [ontem] ADV @<ADVL  O
+fonte	 [fonte] <Lwater> <Labs> <an> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+organização	 [organização] <HH> N F S @P<  O
+$. O
+</s>
+
+$S-3
+A	 [o] <*> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <inst> <*> PROP F S @SUBJ> ORG O
+$, O
+instituição	 [instituição] <inst> <act> <np-close> N F S @N<PRED  O
+educacional	 [educacional] <nh> <np-close> ADJ F S @N<  O
+$, O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<PRED  O
+$, O
+beneficente	 [beneficente] <np-close> ADJ M/F S @N<PRED  O
+e	 [e] KC @NPHR  O
+filantrópica	 [filantrópico] <np-close> ADJ F S @N<PRED  O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA REL
+fundada	 [fundar] <vH> <mv> V PCP F S @ICL-AUX< REL
+em	 [em] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+jornalista	 [jornalista] <Hprof> N M S @P<  O
+$, O
+radialista	 [radialista] <Hprof> N M/F S @P<  O
+e	 [e] KC @NPHR  O
+poeta	 [poeta] <Hprof> N M S @PRED>  O
+Alziro=Zarur	 [Alziro=Zarur] <hum> <*> <np-close> PROP M S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+rádio	 [rádio] <ac-cat> N F S @P<  O
+$" O
+Hora=da=Boa=Vontade	 [Hora=da=Boa=Vontade] <tit> <*> <*1> <*2> <np-close> PROP F S @N<  O
+$" O
+$, O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rádio=Globo	 [Rádio=Globo] <media> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-33
+A	 [o] <*> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <inst> <*> PROP F S @SUBJ> ORG O
+$, O
+instituição	 [instituição] <inst> <act> <np-close> N F S @N<PRED  O
+educacional	 [educacional] <nh> <np-close> ADJ F S @N<  O
+$, O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<PRED  O
+$, O
+beneficente	 [beneficente] <np-close> ADJ M/F S @N<PRED  O
+e	 [e] KC @NPHR  O
+filantrópica	 [filantrópico] <np-close> ADJ F S @N<PRED  O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+fundada	 [fundar] <vH> <mv> V PCP F S @ICL-AUX< O
+em	 [em] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+jornalista	 [jornalista] <Hprof> N M S @P<  O
+$, O
+radialista	 [radialista] <Hprof> N M/F S @P<  O
+e	 [e] KC @NPHR  O
+poeta	 [poeta] <Hprof> N M S @PRED>  O
+Alziro=Zarur	 [Alziro=Zarur] <hum> <*> <np-close> PROP M S @N<  O
+em	 [em] <sam-> <np-long> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+programa	 [programa] <sem-c> <cc-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+rádio	 [rádio] <ac-cat> N F S @P< O
+$" O
+Hora=da=Boa=Vontade	 [Hora=da=Boa=Vontade] <tit> <*> <*1> <*2> <np-close> PROP F S @N< LOCAL O
+$" O
+$, O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rádio=Globo	 [Rádio=Globo] <media> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-333
+A	 [o] <*> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <inst> <*> PROP F S @SUBJ> ORG O
+$, O
+instituição	 [instituição] <inst> <act> <np-close> N F S @N<PRED  O
+educacional	 [educacional] <nh> <np-close> ADJ F S @N<  O
+$, O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<PRED  O
+$, O
+beneficente	 [beneficente] <np-close> ADJ M/F S @N<PRED  O
+e	 [e] KC @NPHR  O
+filantrópica	 [filantrópico] <np-close> ADJ F S @N<PRED  O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+fundada	 [fundar] <vH> <mv> V PCP F S @ICL-AUX< O
+em	 [em] <sam-> PRP @<PIV O
+o	 [o] <-sam> <artd> DET M S @>N O
+Brasil	 [Brasil] <civ> <*> PROP M S @P< O
+por	 [por] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+jornalista	 [jornalista] <Hprof> N M S @P<  O
+$, O
+radialista	 [radialista] <Hprof> N M/F S @P<  O
+e	 [e] KC @NPHR  O
+poeta	 [poeta] <Hprof> N M S @PRED>  O
+Alziro=Zarur	 [Alziro=Zarur] <hum> <*> <np-close> PROP M S @N<  O
+em	 [em] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+rádio	 [rádio] <ac-cat> N F S @P<  O
+$" O
+Hora=da=Boa=Vontade	 [Hora=da=Boa=Vontade] <tit> <*> <*1> <*2> <np-close> PROP F S @N<  O
+$" O
+$, O
+em	 [em] <sam-> PRP @<PIV REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Rádio=Globo	 [Rádio=Globo] <media> <*> PROP F S @P< LOCAL O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+$. O
+</s>
+
+$S-6
+Em	 [em] <*> PRP @ADVL>  O
+Portugal	 [Portugal] <civ> <*> PROP M S @P< LOCAL O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <org> <*> PROP F S @SUBJ> ORG O
+iniciou	 [iniciar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+seu	 [seu] <si> <poss 3S> DET M S @>N  O
+trabalho	 [trabalho] <act-d> <am> N M S @<ACC  O
+a	 [a] PRP @<ADVL  O
+2	 [2] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Março	 [Março] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1989	 [1989] <card> <date> <year> NUM M/F P @P<  O
+$, O
+dando	 [dar] <clb> <mv> V GER @ICL-<ADVL  O
+ajuda	 [ajuda] <am> N F S @<ACC  O
+material	 [material] <nh> <np-close> ADJ F S @N<  O
+e	 [e] KC @NPHR  O
+espiritual	 [espiritual] <nh> <np-close> ADJ M/F S @N<  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+população	 [população] <HH> N F S @P<  O
+portuguesa	 [português] <nat> <jh> <np-close> ADJ F S @N<  O
+mais	 [muito] <quant> <KOMP> DET F S @>N  O
+carenciada	 [carenciada] <DERS> N F S @<SUBJ  O
+através	 [através] ADV @<ADVL  O
+de	 [de] PRP @A<  O
+programas	 [programa] <sem-c> <cc-r> N M P @P<  O
+como	 [como] <prd> <adv-rel> PRP @<OC  O
+$" O
+Um=passo=em=frente	 [Um=passo=em=frente] <tit> <asarg> <*> <*1> <*2> PROP M/F S @P<  O
+$" O
+$, O
+Ronda-da-caridade	 [ronda-da-caridade] <asarg> <*> <event> <per> <dance> <HH> N F S @P<  O
+e	 [e] KC @NPHR  O
+Semente	 [Semente] <hum> <asarg> <*> PROP M/F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Boa=vontade	 [boa=vontade] <prop> <*2> <f-psych> <*> N F S @P<  O
+$" O
+$. O
+</s>

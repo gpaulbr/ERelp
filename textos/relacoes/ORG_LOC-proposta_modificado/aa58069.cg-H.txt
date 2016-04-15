@@ -1,0 +1,28 @@
+$S-1
+Fortis	 [Fortis] <org> PROP F S @P< ORG O
+$, O
+em	 [em] PRP @ADVL> REL
+Bruxelas	 [Bruxelas] <civ> PROP F S @P< LOCAL O
+
+$S-2
+Macquarie=Futures	 [Macquarie=Futures] <org> PROP F S @P< ORG O
+de	 [de] <sam-> <np-close> PRP @N< REL
+os	 [o] <artd> <-sam> DET M P @>N REL
+EUA	 [EUA] <civ> PROP M P @P< LOCAL O
+
+$S-3
+Natixis	 [Natixis] <org> PROP F S @P< ORG O
+$, O
+Ã	 [ser] <fmc> <vK> <mv> V PR 3S IND VFIN @FS-STA O
+tambÃm	 [tambÃm] ADV @>N O
+a	 [o] <artd> DET F S @>N O
+Turquia	 [Turquia] <civ> PROP F S @<SC LOCAL O
+
+$S-4
+Iraque	 [Iraque] <civ> PROP M S @P< LOCAL O
+$, O
+dois	 [dois] <card> NUM M P @>N O
+paÃses-membros	 [paÃs-membro] <H> <an> <Lciv> <np-close> N M P @APP O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+OPEP	 [OPEP] <org> PROP F S @P< ORG O

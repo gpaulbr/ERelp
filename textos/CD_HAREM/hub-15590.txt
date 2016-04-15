@@ -1,0 +1,143 @@
+
+    
+      <EM ID="hub-15590-59" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Nuno Álvares Pereira</EM>
+    
+    Biografia
+    
+      <EM ID="hub-15590-60" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-60" TIPOREL="ident">Nuno Álvares Pereira</EM>
+      nasceu na vila de
+      <EM ID="hub-15590-61" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-59" TIPOREL="local_nascimento_de">Cernache do Bonjardim</EM>
+      , concelho da
+      <EM ID="hub-15590-62" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-61" TIPOREL="inclui">Sertã</EM>
+      . Era filho de
+      <EM ID="hub-15590-63" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="relacao_familiar">Álvaro Gonçalves Pereira</EM>
+      e de
+      <EM ID="hub-15590-64" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="relacao_familiar">Iria Gonçalves do Carvalhal</EM>
+      .
+    
+    
+      Casou com
+      <EM ID="hub-15590-65" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="relacao_familiar">Leonor de Alvim</EM>
+      ,
+      <EM ID="hub-15590-66" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1377</EM>
+      em
+      <EM ID="hub-15590-67" CATEG="LOCAL" TIPO="HUMANO"  >Vila Nova da Rainha</EM>
+      , freguesia do concelho de
+      <EM ID="hub-15590-68" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-67" TIPOREL="inclui">Azambuja</EM>
+      .
+    
+    
+      Quando o
+      <EM ID="hub-15590-199" CATEG="PESSOA" TIPO="INDIVIDUAL"  >rei Fernando de Portugal</EM> 
+      morreu
+      <EM ID="hub-15590-70" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-15590-199 hub-15590-199-aa" TIPOREL="data_morte data_morte">em 1383</EM>
+      , sem herdeiros a não ser a
+      <EM ID="hub-15590-71" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-199 hub-15590-199-aa" TIPOREL="relacao_familiar relacao_familiar">princesa Beatriz</EM>
+      casada com o
+      <EM ID="hub-15590-202" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-71" TIPOREL="relacao_familiar">rei João I de Castela</EM> 
+      ,
+      <EM ID="hub-15590-73" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Nuno</EM>
+      foi um dos primeiros nobres a apoiar as pretensões de
+      <EM ID="hub-15590-74" CATEG="PESSOA" TIPO="INDIVIDUAL"  >João</EM>
+      , o
+      <EM ID="hub-15590-75" CATEG="PESSOA|PESSOA" TIPO="INDIVIDUAL|CARGO" COREL="hub-15590-74" TIPOREL="ident">Mestre de Avis</EM>
+      à coroa. Apesar de ser filho ilegítimo de
+      
+        <EM ID="hub-15590-76" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-75" TIPOREL="relacao_familiar">Pedro I de Portugal</EM>
+        
+      ,
+      <EM ID="hub-15590-79" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-74" TIPOREL="ident">João</EM>
+      afigurava-se como uma hipótese preferível à perda de independência para os castelhanos. Depois da primeira vitória de
+      <EM ID="hub-15590-80" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Álvares Pereira</EM>
+      frente aos castelhanos na batalha dos
+        <EM ID="hub-15590-82" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="hub-15590-59" TIPOREL="ter_participacao_de">Atoleiros</EM> <EM ID="hub-15590-83" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Abril de 1384</EM>
+      ,
+      <EM ID="hub-15590-84" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-74" TIPOREL="ident">João de Avis</EM>
+      nomeia-o
+      
+        <EM ID="hub-15590-85" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-59" TIPOREL="ident">Condestável de Portugal</EM>
+        
+      e
+        <EM ID="hub-15590-88" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-59" TIPOREL="ident">Conde de Ourém</EM>
+      .
+    
+    
+      O génio militar de
+      <EM ID="hub-15590-91" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Nuno Álvares Pereira</EM>
+      foi decisivo na
+      <EM ID="hub-15590-92" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="hub-15590-59" TIPOREL="ter_participacao_de">Batalha de Aljubarrota</EM>
+      .
+    
+    
+      O génio militar de
+      <EM ID="hub-15590-93" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Nuno Álvares Pereira</EM>
+      foi decisivo na
+      <EM ID="hub-15590-94" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="hub-15590-59" TIPOREL="ter_participacao_de">Batalha de Aljubarrota</EM>
+      .
+    
+    
+      <EM ID="hub-15590-95" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A 6 de Abril de 1385</EM>
+      ,
+      <EM ID="hub-15590-96" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-74" TIPOREL="ident">João</EM>
+      é reconhecido pelas cortes reunidas em
+      <EM ID="hub-15590-97" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-201" TIPOREL="LOCAL**incluido**hub-15590-201**LOCAL">Coimbra</EM>
+      como
+      
+        <EM ID="hub-15590-98" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-74" TIPOREL="ident">Rei de Portugal</EM>
+        
+      . Esta posição de força portuguesa desencadeia uma resposta à altura em
+      <EM ID="hub-15590-101" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-205" TIPOREL="LOCAL**ident**hub-15590-205**LOCAL">Castela</EM>
+      .
+      <EM ID="hub-15590-102" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-202" TIPOREL="ident">João de Castela</EM> 
+      invade
+      <EM ID="hub-15590-103" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-201" TIPOREL="LOCAL**ident**hub-15590-201**LOCAL">Portugal</EM>
+      com vista a proteger os interesses de sua mulher
+      <EM ID="hub-15590-104" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-71" TIPOREL="ident">Beatriz</EM>
+      .
+      <EM ID="hub-15590-105" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Álvares Pereira</EM>
+      toma o controlo da situação no terreno e inicia uma série de cercos a cidades leais a
+      <EM ID="hub-15590-106" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-15590-205 hub-15590-205" TIPOREL="ORGANIZACAO**ocorre_em**hub-15590-205**LOCAL ORGANIZACAO**ident**hub-15590-205**ORGANIZACAO">Castela</EM>
+      , localizadas principalmente no
+      <EM ID="hub-15590-108" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO"  >Norte</EM>
+      do país.
+    
+    
+      <EM ID="hub-15590-109" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A 14 de Agosto</EM>
+      ,
+      <EM ID="hub-15590-110" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Álvares Pereira</EM>
+      mostra o seu génio militar ao vencer a batalha de <EM ID="hub-15590-112" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE" COREL="hub-15590-59" TIPOREL="ter_participacao_de">Aljubarrota</EM> à frente de um pequeno exército de
+      <EM ID="hub-15590-113" CATEG="VALOR" TIPO="QUANTIDADE"  >6,000</EM>
+      portugueses e aliados ingleses, contra as
+      <EM ID="hub-15590-114" CATEG="VALOR" TIPO="QUANTIDADE"  >30,000</EM>
+      tropas castelhanas. A batalha viria a ser decisiva no fim da instabilidade política
+      <EM ID="hub-15590-115" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1383-1385</EM>
+      e na consolidação da independência portuguesa. Finda a ameaça castelhana,
+      <EM ID="hub-15590-116" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="ident">Nuno Álvares Pereira</EM>
+      permaneceu como condestável do reino e tornou-se
+        <EM ID="hub-15590-117" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-59" TIPOREL="ident">Conde de Arraiolos e Barcelos</EM>
+      .
+      <EM ID="hub-15590-121" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Entre 1385 e 1390</EM>
+      , <EM ID="hub-15590-1" CATEG="TEMPO" TIPO="GENERICO"  >ano</EM> da morte de
+      
+        <EM ID="hub-15590-122" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-202" TIPOREL="ident">João de Castela</EM>
+        
+      , dedicou-se a realizar raides contra a fronteira de
+      <EM ID="hub-15590-125" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-15590-106" TIPOREL="sede_de">Castela</EM>
+      , com o objectivo de manter a pressão e dissuadir o país vizinho de novos ataques.
+    
+    
+      Do seu casamento com
+      <EM ID="hub-15590-126" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-65" TIPOREL="ident">Leonor de Alvim</EM>
+      , o
+      <EM ID="hub-15590-127" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-59" TIPOREL="ident">Condestável</EM>
+      teve apenas uma filha,
+      <EM ID="hub-15590-128" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-59" TIPOREL="relacao_familiar">Beatriz Pereira de Alvim</EM>
+      , que se tornou mulher de
+      <EM ID="hub-15590-129" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-15590-128" TIPOREL="relacao_familiar">Afonso</EM>
+      , o primeiro
+        <EM ID="hub-15590-130" CATEG="PESSOA" TIPO="CARGO" COREL="hub-15590-129" TIPOREL="ident">Duque de Bragança</EM>
+      , sendo assim um dos antepassados da actual casa real portuguesa. Lembrado como um dos melhores generais portugueses, abraça,
+      <EM ID="hub-15590-133" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos últimos anos</EM>
+      , a vida religiosa carmelita.
+    
+  

@@ -1,0 +1,87 @@
+
+    
+      <EM ID="hub-97297-569" CATEG="PESSOA" TIPO="INDIVIDUAL"  >George Steiner</EM>
+      - holocausto ou holocaustos?
+    
+    
+      <EM ID="hub-97297-570" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-97297-569" TIPOREL="ident">George Steiner</EM>
+      esteve recentemente em
+      <EM ID="hub-97297-572" CATEG="LOCAL" TIPO="HUMANO"  >Portugal</EM>
+      e de acordo com notícia no
+      <EM ID="hub-97297-573" CATEG="LOCAL" TIPO="VIRTUAL"  >Ciência Hoje</EM>
+      o ensaísta vem proferir um discurso que a
+      <EM ID="hub-97297-574" CATEG="PESSOA" TIPO="POVO"  >Europa</EM>
+      é uma civilização decadente e que aparecerão outros locais do planeta como a
+      <EM ID="hub-97297-575" CATEG="LOCAL" TIPO="HUMANO"  >China</EM>
+      e a
+      <EM ID="hub-97297-576" CATEG="LOCAL" TIPO="HUMANO"  >Índia</EM>
+      ?. Esta afirmação levantou-me uma série de inquitações:
+    
+    
+      Ora a
+      <EM ID="hub-97297-577" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="hub-97297-576 hub-97297-576" TIPOREL="ORGANIZACAO**ocorre_em**hub-97297-576**LOCAL PESSOA**natural_de**hub-97297-576**LOCAL">Índia</EM>
+      e a
+      <EM ID="hub-97297-578" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="hub-97297-575 hub-97297-575" TIPOREL="ORGANIZACAO**ocorre_em**hub-97297-575**LOCAL PESSOA**natural_de**hub-97297-575**LOCAL">China</EM>
+      já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto
+      <EM ID="hub-97297-579" CATEG="TEMPO" TIPO="GENERICO"  >hoje</EM>
+      há uma
+      <EM ID="hub-97297-580" CATEG="ORGANIZACAO|PESSOA" TIPO="ADMINISTRACAO|POVO" COREL="hub-97297-574" TIPOREL="PESSOA**ident**hub-97297-574**PESSOA">Europa</EM>
+      que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.
+    
+    
+      Mas
+      <EM ID="hub-97297-581" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-97297-569" TIPOREL="ident">George Steiner</EM>
+      (
+      <EM ID="hub-97297-582" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-97297-569" TIPOREL="ident">G.S.</EM>
+      ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em
+      <EM ID="hub-97297-583" CATEG="LOCAL" TIPO="HUMANO"  >Berlim</EM>
+      , concerteza...ou tão aplaudido sábio terá esquecido de
+      <EM ID="hub-97297-584" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Aristides Sousa Mendes</EM>
+      ou de
+      <EM ID="hub-97297-585" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Oskar Schindler</EM>
+      ?
+    
+    
+      Por mim
+      <EM ID="hub-97297-586" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-97297-569" TIPOREL="ident">G.S.</EM>
+      que fique pela
+      <EM ID="hub-97297-587" CATEG="LOCAL" TIPO="HUMANO"  >América</EM>
+      e ataque outros holocaustos que não criticou:
+      <EM ID="hub-97297-588" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Guantanamo</EM>
+      , o muro internacional no
+      <EM ID="hub-97297-589" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-97297-587" TIPOREL="incluido">México</EM>
+      , que ataque a administração
+        <EM ID="hub-97297-591" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Bush</EM>
+      que ainda não assinou o
+      <EM ID="hub-97297-592" CATEG="OBRA" TIPO="PLANO"  >Protocolo de Quioto</EM>
+      , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...
+    
+    
+      <EM ID="hub-97297-593" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-97297-569" TIPOREL="ident">G.S.</EM>
+      , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no
+      <EM ID="hub-97297-594" CATEG="LOCAL" TIPO="HUMANO"  >Mundo</EM>
+      <EM ID="hub-97297-43" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de hoje</EM> como
+      <EM ID="hub-97297-595" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Angola</EM>
+      e que são também holocautos tão ou mais graves que
+      <EM ID="hub-97297-596" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Kosovo</EM>
+      e/ou
+      <EM ID="hub-97297-597" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Israel-Palestina</EM>
+      :
+      <EM ID="hub-97297-598" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Darfur</EM>
+      ,
+      <EM ID="hub-97297-599" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Birmânia</EM>
+      ,
+      <EM ID="hub-97297-600" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Congo</EM>
+      ,
+      <EM ID="hub-97297-601" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Ruanda</EM>
+      ,
+      <EM ID="hub-97297-602" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Singapura</EM>
+      ,
+      <EM ID="hub-97297-603" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Indonésia</EM>
+      , <EM ID="hub-97297-44" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Tibete</EM>, povos da
+      <EM ID="hub-97297-604" CATEG="LOCAL" TIPO="HUMANO"  >Amazónia</EM>
+      ,
+      <EM ID="hub-97297-605" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Curdos</EM>
+      e Nações sem Estado.
+    
+  

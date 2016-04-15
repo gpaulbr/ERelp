@@ -1,0 +1,43 @@
+$S-7
+A 	[o]   <artd> DET F S @>N   O
+Fapesp 	[Fapesp] <org>   PROP F S @SUBJ>  ORG O
+$( 
+Fundação=de=Amparo 	[Fundação=de=Amparo] <org>   <np-close> PROP F S @N<PRED   O
+a 	[a] <sam-> PRP @ADVL>   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Pesquisa=do=Estado 	[Pesquisa=do=Estado] <org>   PROP F S @P<   O
+de 	[de] <np-close> PRP @N<   O
+São=Paulo 	[São=Paulo] <hum>   <newlex> PROP M S @P<  LOCAL O
+$) 
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC> @SUBJ>   O
+pretendia 	[pretender] <vH> <mv> <np-close> V IMPF 3S IND VFIN @FS-N<   O
+comprar 	[comprar] <vH> <mv> V INF @ICL-<ACC   O
+Maldis 	[Maldis] <hum>   PROP M/F S @<ACC   O
+para 	[para] PRP @<ADVL   O
+executar 	[executar] <vH> <mv> V INF @ICL-P<   O
+seu 	[seu] <si> <poss 3S> DET M S @>N   O
+projeto 	[projeto] <sem-c> N M S @<ACC   O
+proteoma 	[proteomar] <predco> <cjt-head> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+$, 
+teve 	[ter] <nosubj> <cjt> <fmc> <aux> V PS 3S IND VFIN @FS-STA   O
+de 	[de] PRP @PRT-AUX<   O
+desistir 	[desistir] <vH> <mv> V INF @ICL-AUX<   O
+de 	[de] <sam-> PRP @<PIV   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+idéia 	[idéia] <sem-c> N F S @P<   O
+após 	[após] <np-close> PRP @N< @<ADVL   O
+a 	[o] <artd> DET F S @>N   O
+desvalorização 	[desvalorização] <act> N F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+real 	[real] <cur> N M S @P<   O
+$, 
+em 	[em] <sam-> PRP @<ADVL   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+começo 	[começo] <temp> N M S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+semestre 	[semestre] <per> N M S @P<   O
+$. 
+</s>

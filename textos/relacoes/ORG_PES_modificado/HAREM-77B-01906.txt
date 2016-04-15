@@ -1,0 +1,46 @@
+$S-13
+Esses	 [esse] <*> <dem> DET M P @>N  O
+acordos	 [acordo] <sem-c> N M P @SUBJ>  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+firmados	 [firmar] <vH> <mv> V PCP M P @ICL-AUX<  O
+em	 [em] PRP @<ADVL  O
+momentos	 [momento] <dur> <f-q> N M P @P<  O
+difíceis	 [difícil] <nh> <np-close> ADJ M P @N<  O
+e	 [e] KC @NPHR  O
+constituíam	 [constituir] <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  O
+$, O
+dentro=de	 [dentro=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+tradição	 [tradição] <ac> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+relações	 [relação] <ac> <sem-r> N F P @P<  O
+luso-inglesas	 [luso-inglês] <nat> <jh> <np-close> ADJ F P @N<  O
+$, O
+pagamentos	 [pagamento] <act> N M P @<ACC  O
+em	 [em] PRP @<ADVL  O
+privilégios	 [privilégio] <f-right> N M P @P<  O
+econômicos	 [econômico] <jh> <np-close> ADJ M P @N<  O
+de	 [de] <np-close> PRP @N<  O
+1810	 [1810] <card> <date> <year> NUM M/F P @P<  O
+foram	 [ser] <fmc> <aux> V PS/MQP 3P IND VFIN @FS-STA  O
+firmados	 [firmar] <vH> <mv> V PCP M P @ICL-AUX<  O
+contra	 [contra] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+garantia	 [garantia] <act-s> <act-d> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Inglaterra	 [Inglaterra] <civ> <*> PROP F S @P< ORG O
+de	 [de] <clb> PRP @ADVL> @<SC  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+nenhum	 [nenhum] <quant> DET M S @>N  O
+governo	 [governo] <HH> N M S @SUBJ>  O
+imposto	 [impor] <vH> <mv> <np-close> V PCP M S @ICL-N<  O
+por	 [por] PRP @<PASS  O
+Napoleão	 [Napoleão] <hum> <*> PROP M S @P< PES O
+em	 [em] <np-close> PRP @N<  O
+Portugal	 [Portugal] <civ> <*> PROP M S @P<  O
+seria	 [ser] <aux> <np-close> V COND 3S VFIN @FS-N<  O
+reconhecido	 [reconhecer] <vH> <mv> V PCP M S @ICL-AUX<  O
+$. O
+</s>

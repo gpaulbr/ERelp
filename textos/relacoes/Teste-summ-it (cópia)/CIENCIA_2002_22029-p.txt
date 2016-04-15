@@ -1,0 +1,23 @@
+$S-11
+A 	[o]   <artd> DET F S @>N  
+nossa 	[nosso] <poss 1P> DET F S @>N  
+idéia 	[idéia] <sem-c> N F S @SUBJ>  
+é 	[ser] <clb-fs> <mv> <quote> V PR 3S IND VFIN @FS-ACC  
+desenvolver 	[desenvolver] <cjt-head> <mv> V INF @ICL-<SC  
+a 	[o] <artd> DET F S @>N  
+tecnologia 	[tecnologia] <domain> N F S @<ACC  
+e 	[e] KC @NPHR  
+treinar 	[treinar] <cjt> <vH> <mv> V INF @ICL-<SC  
+pessoal 	[pessoal] <HH> N M S @<ACC  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+a 	[o] <artd> DET F S @>N  
+física 	[física] <domain> N F S @<SUBJ  
+nuclear 	[nuclear] <nh> <np-close> ADJ F S @N<  
+Suzana=Salem=Vasconcelos 	[Suzana=Salem=Vasconcelos] <hum>   <np-long> PROP F S @N<  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+LIP 	[LIP] <inst>   PROP M S @P<  ORG
+$. 
+</s>

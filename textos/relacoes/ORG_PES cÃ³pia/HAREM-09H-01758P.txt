@@ -1,0 +1,43 @@
+$S-3
+A	 [o] <*> <artd> DET F S @>N  O
+Legião=da=Boa=Vontade	 [Legião=da=Boa=Vontade] <inst> <*> PROP F S @SUBJ> ORG O
+$, O
+instituição	 [instituição] <inst> <act> <np-close> N F S @N<PRED  O
+educacional	 [educacional] <nh> <np-close> ADJ F S @N<  O
+$, O
+cultural	 [cultural] <nh> <np-close> ADJ M/F S @N<PRED  O
+$, O
+beneficente	 [beneficente] <np-close> ADJ M/F S @N<PRED  O
+e	 [e] KC @NPHR  O
+filantrópica	 [filantrópico] <np-close> ADJ F S @N<PRED  O
+$, O
+foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA B-REL
+fundada	 [fundar] <vH> <mv> V PCP F S @ICL-AUX< I-REL
+em	 [em] <sam-> PRP @<PIV I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+Brasil	 [Brasil] <civ> <*> PROP M S @P< I-REL
+por	 [por] <sam-> PRP @<ADVL I-REL
+o	 [o] <-sam> <artd> DET M S @>N I-REL
+jornalista	 [jornalista] <Hprof> N M S @P<  O
+$, O
+radialista	 [radialista] <Hprof> N M/F S @P<  O
+e	 [e] KC @NPHR  O
+poeta	 [poeta] <Hprof> N M S @PRED>  O
+Alziro=Zarur	 [Alziro=Zarur] <hum> <*> <np-close> PROP M S @N< PES O
+em	 [em] <sam-> <np-long> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+programa	 [programa] <sem-c> <cc-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+rádio	[rádio] <cm-chem> <sem-l> <tool> N M S @P<  O
+$" O
+Hora=da=Boa=Vontade	 [Hora=da=Boa=Vontade] <tit> <*> <*1> <*2> <np-close> PROP F S @N<  O
+$" O
+$, O
+em	 [em] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rádio=Globo	 [Rádio=Globo] <media> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+$. O
+</s>

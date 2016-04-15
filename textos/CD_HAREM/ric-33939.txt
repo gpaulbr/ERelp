@@ -1,0 +1,154 @@
+
+    
+      <EM ID="ric-33939-1" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >EUA</EM>
+      MANTÉM EM SEGREDO ARMAS NÃO-LETAIS
+    
+    
+      <EM ID="ric-33939-2" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Debora MacKenzie</EM>
+      , da
+      <EM ID="ric-33939-3" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-33939-2" TIPOREL="vinculo_inst">New Scientist</EM>
+      (www.newscientist.com)
+    
+    
+      Bactérias que comem estradas e edifícios. Biocatalizadores que decompõem combustíveis e plásticos. Dispositivos que corroem secretamente o alumínio e outros metais. Estes são apenas uns poucos exemplos de armas não letais que os
+      <EM ID="ric-33939-4" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="ric-33939-1" TIPOREL="ident">EUA</EM>
+      tentaram, ou estão a tentar, desenvolver. Mas quão próximas estas armas estarão da realidade nunca poderemos saber. A
+      <EM ID="ric-33939-5" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-1" TIPOREL="incluido">US National Academy of Sciences</EM>
+      (
+      <EM ID="ric-33939-6" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-5" TIPOREL="ident">NAS</EM>
+      ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.
+    
+    A academia justifica sua reticência sem precedentes mencionando preocupações com segurança <EM ID="ric-33939-54" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >após o 11 de Setembro</EM> . Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos <EM ID="ric-33939-57" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-33939-1" TIPOREL="sede_de">EUA</EM> como tratados internacionais sobre armas químicas e bacteriológicas.
+    Os documentos em causa foram colecionados <EM ID="ric-33939-69" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano passado</EM> por um painel de cientistas acadêmicos e industriais organizado pela <EM ID="ric-33939-58" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-5" TIPOREL="ident">NAS</EM> para avaliar recentes investigações de armas não letais para o <EM ID="ric-33939-60" CATEG="ORGANIZACAO|OBRA" TIPO="INSTITUICAO|PLANO"  >Joint Non-Lethal Weapons Program</EM> (<EM ID="ric-33939-61" CATEG="ORGANIZACAO|OBRA" TIPO="INSTITUICAO|PLANO" COREL="ric-33939-60 ric-33939-60" TIPOREL="ORGANIZACAO**ident**ric-33939-60**ORGANIZACAO OBRA**ident**ric-33939-60**OBRA">JNLWP</EM>), do <EM ID="ric-33939-62" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="ric-33939-1" TIPOREL="incluido">Pentágono</EM>. Os <EM ID="ric-33939-63" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="ric-33939-1" TIPOREL="ident">EUA</EM> ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na <EM ID="ric-33939-64" CATEG="LOCAL" TIPO="HUMANO"  >Somália</EM>, <EM ID="ric-33939-65" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1993</EM>, quando civis amotinados mataram soldados americanos.
+    
+      O painel, cujo relatório deve sair
+      <EM ID="ric-33939-7" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até ao fim deste ano</EM>
+      , colecionou
+      <EM ID="ric-33939-8" CATEG="VALOR" TIPO="QUANTIDADE"  >147</EM>
+      relatórios e propostas de investigadores, muitos deles financiados pelo
+      <EM ID="ric-33939-9" CATEG="ORGANIZACAO|OBRA" TIPO="INSTITUICAO|PLANO" COREL="ric-33939-60 ric-33939-60" TIPOREL="ORGANIZACAO**ident**ric-33939-60**ORGANIZACAO OBRA**ident**ric-33939-60**OBRA">JNLWP</EM>
+      . Um grupo no
+      <EM ID="ric-33939-10" CATEG="LOCAL" TIPO="HUMANO"  >Oak Ridge National Laboratory</EM>
+      , no
+      <EM ID="ric-33939-11" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-33939-10" TIPOREL="inclui">Tennessee</EM>
+      , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão "desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais". Outros propõem armas de energia dirigida.
+    
+    
+      <EM ID="ric-33939-13" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em Março</EM>
+      , como é habitual com estudos não-classificados da
+      <EM ID="ric-33939-14" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-5" TIPOREL="ident">NAS</EM>
+      , eles foram depositados no
+      <EM ID="ric-33939-16" CATEG="LOCAL|LOCAL" TIPO="VIRTUAL|HUMANO"  >Public Access Records Office</EM>
+      da academia, e os seus títulos foram divulgados (ver abaixo). "Estes documentos são supostos serem públicos", afirma
+      <EM ID="ric-33939-17" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ed Hammond</EM>
+      do
+      <EM ID="ric-33939-18" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-33939-17" TIPOREL="inclui">Sunshine Project</EM>
+      , um grupo que faz campanha contra armas biológicas. Quando ele pediu ao serviço de registros para ver
+      <EM ID="ric-33939-19" CATEG="VALOR" TIPO="QUANTIDADE"  >77</EM>
+      dos documentos, este concordou em cedê-los.
+    
+    
+      "Mas
+      <EM ID="ric-33939-20" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >dois dias depois</EM>
+      a
+      <EM ID="ric-33939-21" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-14" TIPOREL="ident">NAS</EM>
+      retirou os documentos", conta
+      <EM ID="ric-33939-22" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-17" TIPOREL="ident">Hammond</EM>
+      . "
+      <EM ID="ric-33939-23" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-14" TIPOREL="vinculo_inst">Kevin Hale</EM>
+      , o responsável de segurança da
+      <EM ID="ric-33939-24" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-14" TIPOREL="ident">NAS</EM>
+      , disse-me que era porque alguém havia exprimido preocupação". Quem o fez não é claro. A pressão restritiva não parece ter vindo da própria
+      <EM ID="ric-33939-12" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-61" TIPOREL="ORGANIZACAO**ident**ric-33939-61**ORGANIZACAO">JNLWP</EM>
+      , porque
+      <EM ID="ric-33939-15" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na semana passada</EM>
+      esta enviou a
+      <EM ID="ric-33939-25" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-17" TIPOREL="ident">Hammond</EM>
+      oito documentos que ele havia requerido, incluindo três que estavam na lista da
+      <EM ID="ric-33939-26" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-14" TIPOREL="ident">NAS</EM>
+      .
+    
+    
+      <EM ID="ric-33939-27" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="ric-33939-3" TIPOREL="ident">New Scientist</EM>
+      não pode contatar
+      <EM ID="ric-33939-28" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-23" TIPOREL="ident">Hale</EM>
+      . "Ainda estamos a formular a nossa resposta às pessoas da
+      <EM ID="ric-33939-29" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="ric-33939-18" TIPOREL="ident">Sunshine</EM>
+      ", foi tudo que um assistente disse. Mas os poucos relatórios que
+      <EM ID="ric-33939-30" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-17" TIPOREL="ident">Hammond</EM>
+      obteve constituem uma leitura interessante.
+    
+    
+      <EM ID="ric-33939-31" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Mais de um ano atrás</EM>
+      , 
+      <EM ID="ric-33939-32" CATEG="ORGANIZACAO|OBRA" TIPO="EMPRESA|REPRODUZIDA"  >New Scientist</EM> 
+      revelou que responsáveis superiores da
+      <EM ID="ric-33939-33" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-12" TIPOREL="ident">JNLWP</EM>
+      pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais (
+      <EM ID="ric-33939-34" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >16 Dezembro 2000</EM>
+      , pg. 4). Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas
+      <EM ID="ric-33939-35" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde os anos 1990</EM>
+      .
+    
+    
+      Um pedido de financiamento feito
+      <EM ID="ric-33939-36" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1998</EM>
+      pelo
+      <EM ID="ric-33939-37" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Office of Naval Research</EM>
+      propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam "deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.
+    
+    
+      O plano era isolar genes para enzimas que atacam materiais como
+      <EM ID="ric-33939-38" CATEG="COISA" TIPO="CLASSE"  >Kevlar</EM>
+      , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades. As bactérias deveriam ser projetadas para se auto-destruírem depois de despejarem a sua carga de destruição.
+    
+    Não é claro quantas destas idéias foram realmente realizadas. Mas o grupo já patenteou um microorganismo que decomporia poliuretano, "um componente vulgar das tintas de navios e aviões", incluindo revestimentos anti-radar secretos.
+    
+      Outra proposta
+      <EM ID="ric-33939-39" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1998</EM>
+      , de um laboratório de biotecnologia da base de
+      <EM ID="ric-33939-40" CATEG="LOCAL" TIPO="HUMANO"  >Brooks</EM>
+      da
+      <EM ID="ric-33939-41" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-1" TIPOREL="incluido">Força Aérea</EM>
+      , próxima de
+      <EM ID="ric-33939-42" CATEG="LOCAL" TIPO="HUMANO"  >San Antonio</EM>
+      no
+      <EM ID="ric-33939-43" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-33939-42" TIPOREL="inclui">Texas</EM>
+      , era refinar "biocatalizadores anti-material" já em desenvolvimento. Um deles envolvia uma bactéria derivada que decompunha moléculas orgânicas como combustíveis e plásticos.
+    
+    
+      As propostas afirmam que tais substâncias estão isentas das restrições relativas à guerra biológica. Mas isso não é verdade, argumenta
+      <EM ID="ric-33939-44" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Mark Wheelis</EM>
+      da
+      <EM ID="ric-33939-70" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="ric-33939-70" TIPOREL="vinculo_inst">Universidade da California</EM> 
+      ,
+      <EM ID="ric-33939-46" CATEG="LOCAL" TIPO="HUMANO" COREL="ric-33939-70 ric-33939-71" TIPOREL="sede_de inclui">Davis</EM>
+      . A
+      <EM ID="ric-33939-79" CATEG="OBRA" TIPO="PLANO"  >Convenção das Armas Biológicas e Tóxicas de 1972</EM> 
+      proíbe o "desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas" se não forem para finalidades pacíficas. Além disso,
+      <EM ID="ric-33939-49" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no ano passado</EM>
+      os próprios
+      <EM ID="ric-33939-50" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="ric-33939-1" TIPOREL="ident">EUA</EM>
+      introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.
+    
+    
+      Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais
+      <EM ID="ric-33939-51" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="ric-33939-44" TIPOREL="ident">Wheelis</EM>
+      considera que transgrediriam a <EM ID="ric-33939-81" CATEG="OBRA" TIPO="PLANO"  >Convenção das Armas Químicas de 1992</EM> 
+      .
+    
+    Esta convenção proíbe "qualquer produto químico... que possa causar morte, incapacidade temporária ou dano permanente".
+    _______________
+    
+
+      Copyright ©
+      <EM ID="ric-33939-59" CATEG="ABSTRACCAO|COISA" TIPO="NOME|CLASSE"  >New Scientist 2002</EM>
+      . For fair use only. 
+    
+    A URL deste artigo é: www.globalresearch.ca/ .
+    
+      Texto extraído do site português
+      <EM ID="ric-33939-55" CATEG="LOCAL" TIPO="VIRTUAL"  >Resistir</EM>
+      (www.resistir.info).
+    
+  

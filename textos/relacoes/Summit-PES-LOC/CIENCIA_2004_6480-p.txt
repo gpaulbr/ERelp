@@ -1,0 +1,51 @@
+$S-1
+O 	[o]   <artd> DET M S @>N  
+ministro 	[ministro] <Hprof> <Htit> N M S @SUBJ>  
+Roberto=Rodrigues 	[Roberto=Rodrigues] <hum>   <np-close> PROP M S @N<  PES
+$( 
+Agricultura 	[Agricultura] <civ>   <np-close> PROP M/F S @N<PRED  ORG
+$) 
+anunciou 	[anunciar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+ontem 	[ontem] ADV @<ADVL  
+o 	[o] <artd> DET M S @>N  
+nascimento 	[nascimento] <event> N M S @<ACC  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+bezerra 	[bezerra] <Azo> N F S @P<  
+Vitoriosa 	[Vitoriosa] <hum>   <np-close> PROP F S @N<  
+$. 
+</s>
+
+$S-4
+Clayton=Campanhola 	[Clayton=Campanhola] <hum>   PROP M S @SUBJ>  PES
+$, 
+diretor-presidente 	[diretor-presidente] <Hprof> <np-close> N M S @APP  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Embrapa 	[Embrapa] <org>   PROP F S @P<  ORG
+$, 
+afirma 	[afirmar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+o 	[o] <artd> DET M S @>N  
+método 	[método] <ac> <am> N M S @SUBJ>  
+ajudará 	[ajudar] <vH> <mv> V FUT 3S IND VFIN @FS-<ACC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+multiplicação 	[multiplicação] <act> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+animais 	[animal] <Azo> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+elevado 	[elevado] <nh> ADJ M S @>N  
+valor 	[valor] <am> <ac> <unit> N M S @P<  
+genético 	[genético] <nh> <np-close> ADJ M S @N<  
+ou 	[ou] KC @NPHR  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+reprodução 	[reprodução] <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+ameaçados 	[ameaçar] <n> <vH> V PCP M P @P<  
+de 	[de] <np-close> PRP @N<  
+extinção 	[extinção] <act> <event> N F S @P<  
+$. 
+</s>

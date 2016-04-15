@@ -1,0 +1,8 @@
+$S-1
+EUA	 [EUA] <civ> PROP M P @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N O
+telemóvel	 [telemóvel] <tool> N M S @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Apple	 [Apple] <org> PROP F S @P< ORG O

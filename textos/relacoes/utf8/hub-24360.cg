@@ -1,0 +1,59 @@
+$S-1
+É	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA O
+certo	 [certo] <jh> ADJ M S @<SC O
+que	 [que] <clb> <clb-fs> KS @SUB O
+$, O
+agora	 [agora] <kc> ADV @<ADVL O
+que	 [que] <clb> <clb-fs> KS @SUB O
+já=não	 [já=não] ADV @ADVL> O
+há	 [haver] <mv> V PR 3S IND VFIN @FS-A< O
+intervenções	 [intervenção] <act> N F P @<ACC O
+pungentes	 [pungente] <nh> <np-close> ADJ F P @N< O 
+de	 [de] <np-close> PRP @N< O
+Santana=Lopes	 [Santana=Lopes] <hum> PROP F S @P< PES O
+$, O
+os	 [o] <artd> DET M P @>N O
+congressos	 [congresso] <occ> N M P @SUBJ> O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+PSD	 [PSD] <party> PROP M S @P< ORG O
+ficariam	 [ficar] <vK> <mv> V COND 3P VFIN @FS-<SUBJ O
+demasiado	 [demasiado] ADV @<ADVL O
+dependentes	 [dependente] <jh> ADJ M P @<SC O
+de	 [de] <sam-> PRP @A< O
+as	 [o] <artd> <-sam> DET F P @>N O
+gaffes	 [gaffe] <act-d> N F P @P< O
+de	 [de] <np-close> PRP @N< O
+Luís=Filipe=Menezes	 [Luís=Filipe=Menezes] <hum> PROP M/F S @P< O
+$. O
+</s>
+
+$S-2
+De=resto	 [de=resto] <pp> ADV @ADVL> O
+$, O
+fico	 [ficar] <vK> <fmc> <mv> V PR 1S IND VFIN @FS-STA O
+já	 [já] ADV @<ADVL O
+satisfeito	 [satisfazer] <jh> <vH> <mv> V PCP M S @ICL-<SC O
+por	 [por] PRP @<PASS O
+ter	 [ter] <aux> V INF @ICL-P< O
+conseguido	 [conseguir] <vH> <mv> V PCP @ICL-AUX< O
+escrever	 [escrever] <vH> <mv> V INF @ICL-<ACC O
+um	 [um] <arti> DET M S @>N O
+post	 [post] N M S @<ACC O
+sobre	 [sobre] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+PSD	 [PSD] <party> PROP M S @P< ORG O
+$, O
+sem	 [sem] <np-close> PRP @N<PRED O
+uma	 [um] <arti> DET F S @>N O
+única	 [único] <jh> ADJ F S @>N O
+referência	 [referência] <sem-r> <act-s> <ac> N F S @P< O
+a	 [a] <sam-> <np-close> PRP @N< O 
+a	 [o] <-sam> <artd> DET F S @>N O
+baixa	 [baixo] ADJ F S @>N O
+estatura	 [estatura] <f-h> N F S @P< O
+de	 [de] <np-close> PRP @N< O
+Marques=Mendes	 [Marques=Mendes] <hum> PROP M/F S @P< PES O
+$. O
+$( O
+</s>

@@ -1,0 +1,119 @@
+$S-3
+Com	 [com] <*> PRP @ADVL> @PRED>  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+urnas	 [urna] <con> <occ> N F P @P<  O
+de	 [de] <np-long> PRP @N<  O
+voto	 [voto] <act-s> <sem-s> N M S @P<  O
+para	 [para] PRP @ADVL>  O
+as	 [o] <artd> DET F P @>N  O
+17	 [17] <card> NUM F P @>N  O
+horas	 [hora] <dur> <temp> <unit> N F P @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+reunião	 [reunião] <occ> N F S @SUBJ>  O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+decorrerá	 [decorrer] <vN> <mv> <np-close> V FUT 3S IND VFIN @FS-N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Hotel=Lisboa=Plaza	 [Hotel=Lisboa=Plaza] <inst> <*> PROP M S @P<  O
+$, O
+junto	 [junto] ADV @<ADVL  O
+de	 [de] <sam-> PRP @A<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Parque=Mayer	 [Parque=Mayer] <top> <*> PROP M S @P<  O
+$, O
+tem	 [ter] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+seu	 [seu] <poss 3S> DET M S @SUBJ>  O
+inicio	 [iniciar] <vH> <fmc> <mv> V PR 1S IND VFIN @FS-STA  O
+marcado	 [marcar] <vH> <mv> V PCP M S @ICL-<PRED  O
+para	 [para] PRP @<ADVL  O
+as	 [o] <artd> DET F P @>N  O
+18	 [18] <card> NUM F P @>N  O
+horas	 [hora] <dur> <temp> <unit> N F P @P<  O
+$, O
+onde	 [onde] <clb> <rel> ADV @<ADVL  O
+para=além=de	 [para=além=de] <sam-> PRP @ADVL>  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+eleição	 [eleição] <occ> N F S @P<  O
+se	 [se] <refl> PERS F 3S ACC @ACC>-PASS  O
+realizará	 [realizar] <vH> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+aprovação	 [aprovação] <act> N F S @<SUBJ  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Relatório	 [relatório] <prop> <*> <sem-r> N M S @P<  O
+e	 [e] KC @NPHR  O
+Contas	 [conta] <prop> <*> <sem-c> <sem-r> <con> <cc> <domain> N F P @PRED>  O
+de	 [de] <np-close> PRP @N<  O
+2002	 [2002] <card> <date> <year> NUM M/F P @P<  O
+e	 [e] KC @NPHR  O
+a	 [o] <artd> DET F S @>N  O
+apresentação	 [apresentação] <act> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+plano	 [plano] <sem-c> <Labs> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+actividades	 [actividade] <act-d> <activity> N F P @P<  O
+e	 [e] KC @NPHR  O
+orçamento	 [orçamento] <mon> N M S @SUBJ>  O
+para	 [para] <np-close> PRP @N<  O
+2003	 [2003] <card> <date> <year> NUM M/F P @>N  O
+Sovnet	 [Sovnet] <inst> <*> PROP M/F P @P<  O
+organiza	 [organizar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+o	 [o] <artd> DET M S @>N  O
+17º	 [17º] <NUM-ord> <jh> ADJ M S @>N  O
+congresso	 [congresso] <occ> N M S @<ACC  O
+mundial	 [mundial] <nh> <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+IPMA	 [IPMA] <org> <*> PROP F S @P<  O
+O	 [o] <*> <artd> DET M S @>N  O
+17º	 [17º] <NUM-ord> <jh> ADJ M S @>N  O
+congresso	 [congresso] <occ> N M S @SUBJ>  O
+mundial	 [mundial] <nh> <np-close> ADJ M S @N<  O
+em	 [em] <np-long> PRP @N<  O
+Gestão=de=Projectos	 [Gestão=de=Projectos] <occ> <*> PROP M S @P<  O
+decorrerá	 [decorrer] <vN> <fmc> <mv> V FUT 3S IND VFIN @FS-STA  O
+entre	 [entre] PRP @<ADVL  O
+os	 [o] <artd> DET M P @>N  O
+dias	 [dia] <temp> <dur> <per> N M P @P<  O
+4	[4] NUM M/F P @P< O
+a	[a] PRP @P< O
+6	[6] NUM M/F P @N< O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Junho	 [junho] <prop> <*> N M S @P<  O
+$, O
+em	 [em] PRP @<ADVL  O
+Moscovo	 [Moscovo] <civ> <*> PROP M S @P< LOCAL O
+$, O
+tendo	 [ter] <clb> <mv> V GER @ICL-<ADVL  O
+como	 [como] <advl> <adv-rel> PRP @<ADVL  O
+principais	 [principal] <SUP> ADJ F P @>N  O
+linhas	 [linha] <asarg> <geom-line> <cord> <Lpath> N F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+acção	 [acção] <act-d> <cc-r> N F S @P<  O
+a	 [o] <artd> DET F S @>N  O
+análise	 [análise] <act-c> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+gestão	 [gestão] <act-d> <domain> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+projectos	 [projeto] <sem-c> N M P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+sociedade	 [sociedade] <HH> N F S @P<  O
+$, O
+em	 [em] <sam-> PRP @<ADVL  O
+os	 [o] <artd> <-sam> DET M P @>N  O
+negócios	 [negócio] <act-d> N M P @P<  O
+e	 [e] KC @NPHR  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+próprio	 [próprio] <ident> DET M S @>N  O
+Estado	 [Estado] <inst> <*> <newlex> PROP M S @P< ORG O
+$. O
+</s>

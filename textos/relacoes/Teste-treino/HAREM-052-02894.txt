@@ -1,0 +1,43 @@
+$S-20
+A	 [o] <*> <artd> DET F S @>N  O
+iniciativa	 [iniciativa] <act-d> N F S @SUBJ>  O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+de	 [de] <sam-> PRP @<SC  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Comissão	 [comissão] <org> <*> PROP F S @P< O
+de	 [de] <sam-> <np-close> PRP @N<  O
+as	 [o] <-sam> <artd> DET F P @>N  O
+Cidades=Irmãs=São=Paulo-Osaka	 [Cidades=Irmãs=São=Paulo-Osaka] <org> <*> PROP F P @P< ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+plantou-	 [plantar] <hyfen> <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N< O
+as	 [elas] PERS F 3P ACC @<ACC O
+próximo=a	 [próximo=a] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Pavilhão=Japonês	 [Pavilhão=Japonês] <inst> <*> PROP M S @P< LOCAL O
+$. O
+</s>
+
+$S-21
+Coma	 [comer] <*> <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA  O
+a	 [a] <sam-> PRP @<ADVL  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+vontade	 [vontade] <am> N F S @P<  O
+$: O
+A	 [o] <*> <artd> DET F S @>N  O
+equipe	 [equipe] <HH> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Jornal=do=Nikkey	 [Jornal=do=Nikkey] <hum> <*> PROP M S @P< ORG O
+esteve	 [estar] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+pesquisando	 [pesquisar] <clb> <vH> <mv> V GER @ICL-AUX< REL
+um	 [um] <arti> DET M S @>N O
+lado	 [lado] <Labs> N M S @<ACC O
+gostoso	 [gostoso] <np-close> ADJ M S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N O
+Liberdade	 [liberdade] <prop> <*> <f-psych> <am> <f-right> N F S @P< O
+em	 [em] <np-close> PRP @N< REL
+São=Paulo	 [São=Paulo] <hum> <*> <newlex> PROP M S @P< LOCAL O
+$. O
+</s>

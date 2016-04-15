@@ -1,0 +1,231 @@
+
+    
+<EM ID="Ntyr-78-68" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >CCB 15 ANOS</EM>
+      | UM PRESENTE AOS ESPECTADORES
+    
+    
+      Com um grande concerto realizado ao ar livre, na
+      <EM ID="Ntyr-78-1" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-68" TIPOREL="sede_de">Praça do Museu</EM>
+      ,
+      <EM ID="Ntyr-78-200" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 21 de Março de 1993</EM>
+      , o
+      <EM ID="Ntyr-78-300" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="Ntyr-78-200 Ntyr-78-68" TIPOREL="datado_de produtor_de">CCB</EM>
+      iniciava,
+      <EM ID="Ntyr-78-400" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >há quinze anos</EM>
+      , a sua actividade como centro de produção e apresentação de espectáculos e exposições  o maior de
+      <EM ID="Ntyr-78-500" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-1" TIPOREL="inclui">Portugal</EM>
+      . O
+      <EM ID="Ntyr-78-6" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-500" TIPOREL="incluido">Grande Auditório</EM>
+      viria a ser inaugurado
+      <EM ID="Ntyr-78-91" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >seis meses depois</EM>
+      ,
+      <EM ID="Ntyr-78-7" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >a 22 de Setembro</EM>
+      , com um recital da soprano catalã
+      <EM ID="Ntyr-78-8" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Montserrat Caballé</EM>
+      , enquanto o
+      <EM ID="Ntyr-78-9" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-500" TIPOREL="incluido">Pequeno Auditório</EM>
+      abrira as suas portas
+      <EM ID="Ntyr-78-10" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Junho</EM>
+      com um espectáculo do violoncelista
+      <EM ID="Ntyr-78-11" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Anner Bylsma</EM>
+      .
+    
+    
+      Neste arco temporal  <EM ID="Ntyr-78-101" CATEG="TEMPO" TIPO="DURACAO"  >de 15 anos</EM> 
+      , o
+      <EM ID="Ntyr-78-1700" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="Ntyr-78-300" TIPOREL="ident">CCB</EM>
+      apresentou ao público de
+      <EM ID="Ntyr-78-12" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-500" TIPOREL="incluido">Lisboa</EM>
+      artistas tão diversos como
+      <EM ID="Ntyr-78-18" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sviatoslav Richter</EM>
+      e
+      <EM ID="Ntyr-78-19" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cecilia Bartoli</EM>
+      ,
+      <EM ID="Ntyr-78-20" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pina Bausch</EM>
+      et
+      <EM ID="Ntyr-78-21" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pippo Delbono</EM>
+      ,
+      <EM ID="Ntyr-78-22" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Peter Brook</EM>
+      e
+      <EM ID="Ntyr-78-23" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jordi Savall</EM>
+      ,
+      <EM ID="Ntyr-78-24" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Philip Glass</EM>
+      et
+      <EM ID="Ntyr-78-25" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Keith Jarrett</EM>
+      , a
+      <EM ID="Ntyr-78-26" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Royal Shakespeare Company</EM>
+      e o
+      <EM ID="Ntyr-78-27" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Piccolo Teatro di Milano</EM>
+      ,
+      <EM ID="Ntyr-78-28" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Robert Lepage</EM>
+      e a companhia
+      <EM ID="Ntyr-78-29" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Cheek by Jowl</EM>
+      , a companhia de ópera do
+      <EM ID="Ntyr-78-30" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Teatro Mariinski</EM>
+      de
+      <EM ID="Ntyr-78-31" CATEG="LOCAL" TIPO="HUMANO"  >S. Petersburgo</EM>
+      e
+      <EM ID="Ntyr-78-32" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >The Wooster Group</EM>
+      . Aqui se estrearam os
+      <EM ID="Ntyr-78-33" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >The Gift</EM>
+      , aqui actuaram
+      <EM ID="Ntyr-78-34" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Maria João Pires</EM>
+      e
+      <EM ID="Ntyr-78-35" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Bernardo Sassetti</EM>
+      , aqui se apresentaram os
+      <EM ID="Ntyr-78-36" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Madredeus</EM>
+      e
+      <EM ID="Ntyr-78-37" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >GNR</EM>
+      ,
+      <EM ID="Ntyr-78-38" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sérgio Godinho</EM>
+      e
+      <EM ID="Ntyr-78-39" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Luís Represas</EM>
+      ,
+      <EM ID="Ntyr-78-40" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jorge Palma</EM>
+      e
+      <EM ID="Ntyr-78-41" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Mariza</EM>
+      . Os visitantes do
+      <EM ID="Ntyr-78-160" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-300 Ntyr-78-6 Ntyr-78-9 Ntyr-78-500" TIPOREL="sede_de inclui inclui incluido">CCB</EM>
+      puderam ver <EM ID="Ntyr-78-105" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nestes anos</EM> exposições de
+      <EM ID="Ntyr-78-42" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Roy Lichtenstein</EM>
+      e
+      <EM ID="Ntyr-78-43" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Frida Kahlo</EM>
+      , de
+      <EM ID="Ntyr-78-44" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Robert Rauschenberg</EM>
+      e de
+      <EM ID="Ntyr-78-45" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Paula Rêgo</EM>
+      , de
+      <EM ID="Ntyr-78-46" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Antoni Tàpies</EM>
+      e de
+      <EM ID="Ntyr-78-47" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Helena Almeida</EM>
+      , de
+      <EM ID="Ntyr-78-48" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Júlio Pomar</EM>
+      e de
+      <EM ID="Ntyr-78-49" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sabine Hornig</EM>
+      , de
+      <EM ID="Ntyr-78-50" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Candida Höfer</EM>
+      e de
+      <EM ID="Ntyr-78-51" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Sebastião Salgado</EM>
+      , de
+      <EM ID="Ntyr-78-52" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Aleksander Rodchenko</EM>
+      e de
+      <EM ID="Ntyr-78-53" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Louise Bourgeois</EM>
+      .
+    
+    
+      <EM ID="Ntyr-78-15" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Durante estes anos</EM> de viragem <EM ID="Ntyr-78-15aa" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do século</EM>, o
+      <EM ID="Ntyr-78-54" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|INSTITUICAO" COREL="Ntyr-78-300 Ntyr-78-160" TIPOREL="ORGANIZACAO**ident**Ntyr-78-300**ORGANIZACAO LOCAL**ident**Ntyr-78-160**LOCAL">CCB</EM>
+      acolheu alguns dos maiores espectáculos apresentados em
+      <EM ID="Ntyr-78-93" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-12" TIPOREL="ident">Lisboa</EM>
+      , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais. O balanço <EM ID="Ntyr-78-107" CATEG="TEMPO" TIPO="DURACAO"  >desta década e meia</EM> de actividade praticamente ininterrupta (o
+      <EM ID="Ntyr-78-56" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-160" TIPOREL="ident">Centro</EM>
+      só fecha
+      <EM ID="Ntyr-78-94" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no Dia de Natal</EM>
+      ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do
+      <EM ID="Ntyr-78-95" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-160" TIPOREL="ident">CCB</EM>
+      , além dos muitos milhares que ferquentam as suas actividades.
+      <EM ID="Ntyr-78-57" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 2006</EM>
+      ,
+      <EM ID="Ntyr-78-58" CATEG="VALOR" TIPO="QUANTIDADE"  >150.000</EM>
+      pessoas assistiram a espectáculos,
+      <EM ID="Ntyr-78-59" CATEG="VALOR" TIPO="QUANTIDADE"  >200.000</EM>
+      visitaram as exposições,
+      <EM ID="Ntyr-78-60" CATEG="VALOR" TIPO="QUANTIDADE"  >90.000</EM>
+      frequentaram reuniões e congressos,
+      <EM ID="Ntyr-78-61" CATEG="VALOR" TIPO="QUANTIDADE"  >20.000</EM>
+      crianças participaram em actividades de pedagogia e animação.
+    
+    
+      É por isso que as comemorações dos <EM ID="Ntyr-78-111" CATEG="VALOR" TIPO="QUANTIDADE"  >15 anos</EM>
+      de actividade do
+      <EM ID="Ntyr-78-62" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="Ntyr-78-300" TIPOREL="ident">CCB</EM>
+      , que decorrerão
+      <EM ID="Ntyr-78-1000" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao longo do ano de 2008</EM>
+      , vão ser especialmente orientadas para o público que fez do
+      <EM ID="Ntyr-78-108" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-160" TIPOREL="ident">CCB</EM>
+      um equipamento indipensável na vida cultural da cidade. Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos. Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos
+      <EM ID="Ntyr-78-63" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2008</EM>
+      mais acessível aos frequentadores do
+      <EM ID="Ntyr-78-17" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="Ntyr-78-300 Ntyr-78-160" TIPOREL="ORGANIZACAO**ident**Ntyr-78-300**ORGANIZACAO LOCAL**ident**Ntyr-78-160**LOCAL">CCB</EM>
+      .
+    
+    
+      Assim, um conjunto de espectáculos programados para o
+      <EM ID="Ntyr-78-96" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-6" TIPOREL="ident">Grande Auditório</EM>
+      foi escolhido para integrar a série
+   <EM ID="Ntyr-78-70" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="Ntyr-78-68" TIPOREL="ident">CCB 15 Anos</EM>, em que o leque de preços se situa em média
+      <EM ID="Ntyr-78-65" CATEG="VALOR" TIPO="QUANTIDADE"  >30%</EM>
+      abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais. Mais: nos casos em que isso seja tecnicamente possível, os lugares de
+      <EM ID="Ntyr-78-110" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-108" TIPOREL="incluido">Galeria</EM>
+      (em pé, <EM ID="Ntyr-78-1300" CATEG="TEMPO" TIPO="FREQUENCIA"  >por vezes</EM> com visibilidade reduzida) serão postos à venda ao preço único de
+      <EM ID="Ntyr-78-66" CATEG="VALOR" TIPO="MOEDA"  >5 EUR</EM>
+      (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público.
+    
+    
+      As comemorações terão assim início já
+      <EM ID="Ntyr-78-67" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Dezembro</EM>
+      , com a apresentação da
+      
+        <EM ID="Ntyr-78-4" CATEG="OBRA" TIPO="REPRODUZIDA"  >Oratória de Natal de J. S. Bach</EM>
+      
+      pela
+      <EM ID="Ntyr-78-72" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Akademie für Alte Musik</EM>
+      e o
+      <EM ID="Ntyr-78-73" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >RIAS Kammerchor</EM>
+      de
+      <EM ID="Ntyr-78-74" CATEG="LOCAL" TIPO="HUMANO"  >Berlim</EM>
+      , para a qual o preço dos bilhetes varia entre os
+      <EM ID="Ntyr-78-75" CATEG="VALOR" TIPO="MOEDA"  >5</EM>
+      (
+      <EM ID="Ntyr-78-112" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-110" TIPOREL="ident">Galerias</EM>
+      ) e os
+      <EM ID="Ntyr-78-76" CATEG="VALOR" TIPO="MOEDA"  >25 EUR</EM>
+      (
+      <EM ID="Ntyr-78-113" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-108" TIPOREL="incluido">1ª Plateia</EM>
+      );
+      <EM ID="Ntyr-78-77" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Janeiro</EM>
+      , a ópera visual <EM ID="Ntyr-78-800" CATEG="OBRA" TIPO="REPRODUZIDA"  >Operação Orfeu</EM>, apresentada pela companhia dinamarquesa
+      <EM ID="Ntyr-78-79" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Hotel ProForma</EM>
+      , será também um espectáculo
+      <EM ID="Ntyr-78-88" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="Ntyr-78-68" TIPOREL="ident">CCB 15 Anos</EM>
+      (bilhetes
+      <EM ID="Ntyr-78-97" CATEG="VALOR" TIPO="MOEDA"  >entre 15 e 20 EUR</EM>
+      ):
+     <EM ID="Ntyr-78-90" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="Ntyr-78-68" TIPOREL="ident">CCB 15 Anos</EM>
+      será também o ciclo de piano
+      <EM ID="Ntyr-78-106" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="Ntyr-78-68" TIPOREL="incluido">Beethoven 2008</EM>
+      (cinco recitais com o preço único de
+      <EM ID="Ntyr-78-82" CATEG="VALOR" TIPO="MOEDA"  >15 EUR</EM>
+      por concerto). E
+      <EM ID="Ntyr-78-83" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em Fevereiro</EM>
+      haverá três espectáculos integrados nas comemorações : o concerto do quinteto de
+      <EM ID="Ntyr-78-84" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Enrico Rava</EM>
+      , um dos maiores trompetistas de jazz da actualidade, oferecerá preços
+      <EM ID="Ntyr-78-102" CATEG="VALOR" TIPO="MOEDA"  >entre os 5 e os 20 EUR</EM>
+      ; as duas récitas da coreografia de
+      <EM ID="Ntyr-78-85" CATEG="PESSOA" TIPO="INDIVIDUAL"  >William Forsythe</EM>
+      <EM ID="Ntyr-78-71" CATEG="OBRA|ACONTECIMENTO" TIPO="REPRODUZIDA|EVENTO" COREL="Ntyr-78-85 Ntyr-78-68" TIPOREL="OBRA**obra_de**Ntyr-78-85**PESSOA ACONTECIMENTO**incluido**Ntyr-78-68**ACONTECIMENTO">Impressing the Czar</EM>, pelo
+      <EM ID="Ntyr-78-114" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Ballet Real da Flandres</EM>
+      , terão bilhetes
+      <EM ID="Ntyr-78-103" CATEG="VALOR" TIPO="MOEDA"  >entre 5 e 30 EUR</EM>
+      ; e a
+      <EM ID="Ntyr-78-1100" CATEG="ACONTECIMENTO" TIPO="EVENTO" COREL="Ntyr-78-68" TIPOREL="incluido">Carta Branca a Jorge Palma</EM>,
+      <EM ID="Ntyr-78-99" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no último dia do mês</EM>
+      , propõe entradas
+      <EM ID="Ntyr-78-98" CATEG="VALOR" TIPO="MOEDA"  >entre 5 e 20 EUR</EM>
+      .
+    
+    
+      Mas a festa vai continuar
+      <EM ID="Ntyr-78-13" CATEG="TEMPO" TIPO="DURACAO"  >ao longo do ano de 2008</EM>
+      . Cada edição do
+      <EM ID="Ntyr-78-104" CATEG="OBRA" TIPO="PLANO"  >Programa de Actividades</EM>
+      assinalará com o selo
+      <EM ID="Ntyr-78-117" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="Ntyr-78-68" TIPOREL="ident">CCB 15 Anos</EM>
+      os espectáculos integrados nesta oferta especial. E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, <EM ID="Ntyr-78-189" CATEG="TEMPO" TIPO="FREQUENCIA"  >todos os dias</EM>,
+      <EM ID="Ntyr-78-100" CATEG="TEMPO|TEMPO" TIPO="TEMPO_CALEND|DURACAO"  >de há 15 anos para cá</EM> 
+      , o
+      <EM ID="Ntyr-78-3" CATEG="LOCAL" TIPO="HUMANO" COREL="Ntyr-78-160" TIPOREL="ident">Centro Cultural de Belém</EM> 
+      .
+    
+  

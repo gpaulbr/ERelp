@@ -1,0 +1,76 @@
+
+    
+      <EM ID="Ytr433-122" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ronaldo</EM>
+      volta a treinar com bola no
+      <EM ID="Ytr433-123" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="Ytr433-122" TIPOREL="inclui">Milan</EM>
+    
+    
+      <EM ID="Ytr433-277" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-122" TIPOREL="ident">Fenômeno</EM>
+      não participava de um coletivo
+      <EM ID="Ytr433-124" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde novembro</EM>
+      . Jogador se recupera de lesão
+    
+    
+      Das agências de notícias
+      <EM ID="Ytr433-125" CATEG="LOCAL" TIPO="HUMANO"  >Dubai</EM>
+      ,
+      <EM ID="Ytr433-126" CATEG="LOCAL" TIPO="HUMANO" COREL="Ytr433-125" TIPOREL="inclui">Emirados Árabes</EM>
+    
+    
+      Depois de ser cotado para vestir a camisa do
+      <EM ID="Ytr433-127" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Flamengo</EM>
+      , o
+      <EM ID="Ytr433-128" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-122" TIPOREL="ident">Fenômeno</EM>
+      parece, se não satisfeito, pelo menos conformado em retornar ao grupo do
+      <EM ID="Ytr433-130" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="Ytr433-122 Ytr433-123" TIPOREL="vinculo_inst vinculo_inst">Milan</EM>
+      .
+      Após longo período
+      se recuperando de uma lesão,
+      <EM ID="Ytr433-132" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-122" TIPOREL="ident">Ronaldo</EM>
+      calçou as chuteiras e voltou a treinar com bola, o que não fazia
+      <EM ID="Ytr433-133" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde novembro</EM>
+      .
+    
+    
+      O atacante segue em recuperação.
+      <EM ID="Ytr433-134" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nesta sexta-feira</EM>
+      , participou da maior parte das atividades, em
+      <EM ID="Ytr433-135" CATEG="LOCAL" TIPO="HUMANO" COREL="Ytr433-125" TIPOREL="ident">Dubai</EM>
+      , nos
+      <EM ID="Ytr433-136" CATEG="LOCAL" TIPO="HUMANO" COREL="Ytr433-126" TIPOREL="ident">Emirados Árabes</EM>
+      . O técnico dividiu o elenco em dois times com
+      <EM ID="Ytr433-137" CATEG="VALOR" TIPO="QUANTIDADE"  >11</EM>
+      jogadores atuando na metade do gramado do estádio
+      <EM ID="Ytr433-138" CATEG="LOCAL" TIPO="HUMANO" COREL="Ytr433-125" TIPOREL="incluido">Al Maktoum</EM>
+      .
+    
+    
+      Em seguida, quando começou a movimentação com bola,
+      <EM ID="Ytr433-139" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-122" TIPOREL="ident">Ronaldo</EM>
+      seguiu correndo. Aí quem se destacou - negativamente, de acordo com o jornal italiano "
+      <EM ID="Ytr433-148" CATEG="COISA|ORGANIZACAO|PESSOA" TIPO="MEMBROCLASSE|INSTITUICAO|GRUPOMEMBRO"  >La Gazzetta dello Sport</EM> 
+      " - foi o goleiro
+      <EM ID="Ytr433-141" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-123 Ytr433-130 Ytr433-122" TIPOREL="incluido vinculo_inst relacao_profissional">Dida</EM>
+      .
+    
+    
+      O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por
+      <EM ID="Ytr433-142" CATEG="VALOR" TIPO="CLASSIFICACAO"  >6 a 0</EM>
+      . Três dos gols que levou eram defensáveis, segundo o jornal italiano.
+    
+    
+      <EM ID="Ytr433-143" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-123 Ytr433-130 Ytr433-122 Ytr433-141" TIPOREL="incluido vinculo_inst relacao_profissional relacao_profissional">Alessandro Nesta</EM>
+      saiu em defesa do companheiro.
+    
+    
+      - Poderíamos ter vencido o
+      <EM ID="Ytr433-144" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Inter</EM>
+      (
+      <EM ID="Ytr433-145" CATEG="VALOR" TIPO="CLASSIFICACAO"  >2 a 1</EM>
+      , o segundo gol em falha de
+      <EM ID="Ytr433-146" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-141" TIPOREL="ident">Dida</EM>
+      ). Não podemos ficar pressionando o
+      <EM ID="Ytr433-147" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="Ytr433-141" TIPOREL="ident">Dida</EM>
+      . Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.
+    
+  

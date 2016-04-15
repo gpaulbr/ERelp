@@ -1,0 +1,81 @@
+$S-2
+Esse 	[esse]   <dem> DET M S @SUBJ>   O
+é 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC   O
+o 	[o] <artd> DET M S @>N   O
+pior 	[mau] <KOMP> <SUP> ADJ M S @>N   O
+panorama 	[panorama] <Ltop> N M S @<SC   O
+climático 	[climático] <nh> <np-close> ADJ M S @N<   O
+previsto 	[prever] <vH> <np-long> V PCP M S @N<   O
+por 	[por] <sam-> PRP @<ADVL   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+instituto 	[instituto] <inst> N M S @P<   O
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA   O
+Carlos=Nobre 	[Carlos=Nobre] <hum>   PROP M S @<SUBJ  PES O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+participou 	[participar] <vH> <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+de 	[de] <sam-> PRP @<PIV   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+debate 	[debate] <talk> N M S @P<   O
+Cenários=da=Amazônia 	[Cenários=da=Amazônia] <tit> <np-close> PROP M S @N<    O
+$, 
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+52ª 	[52ª] <NUM-ord> ADJ F S @>N   O
+Reunião=Anual 	[Reunião=Anual] <occ>   PROP F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+SBPC 	[SBPC] <org>   PROP F S @P<  ORG O
+$. 
+</s>
+$S-10
+O 	[o]   <artd> DET M S @>N   O
+desmatamento 	[desmatamento] <act> N M S @SUBJ>   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Amazônia 	[Amazônia] <top>   PROP F S @P<  ORG O
+atingiu 	[atingir] <clb-fs> <mv> <quote> V PS 3S IND VFIN @FS-ACC   O
+16.926 	[16.926] <card> NUM M P @>N   O
+km2 	[km2] <unit> N M P @<ACC   O
+em 	[em] <np-close> PRP @N<   O
+99 	[99] <card> NUM M/F P @P<   O
+$, 
+disse 	[dizer] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA   O
+a 	[o] <artd> DET F S @>N   O
+secretária 	[secretária] <furn> <Hprof> N F S @<SUBJ   O
+de 	[de] <np-close> PRP @N<   O
+Coordenação=da=Amazônia 	[Coordenação=da=Amazônia] <top>   PROP F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Ministério=do=Meio=Ambiente 	[Ministério=do=Meio=Ambiente] <inst>   PROP M S @P<   O
+$, 
+Mary=Allegretti 	[Mary=Allegretti] <hum>   <np-close> PROP F S @APP  PES O
+$. 
+</s>
+$S-13
+Adalberto=Veríssimo 	[Adalberto=Veríssimo] <hum>   PROP M S @SUBJ>  PES O
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+ONG=Imazon 	[ONG=Imazon] <org>   PROP F S @P<  ORG O
+$, 
+apresentou 	[apresentar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC   O
+segundo 	[segundo] <NUM-ord> <jh> <np-close> ADJ M S @N<   O
+o=qual 	[o=qual] <clb> <clb-fs> <rel> SPEC M S @ADVL>   O
+as 	[o] <artd> DET F P @>N   O
+cidades 	[cidade] <Lciv> N F P @SUBJ>   O
+em 	[em] <np-close> PRP @N<   O
+regiões 	[região] <L> <Ltop> N F P @P<   O
+amazônicas 	[amazônico] <nat> <np-close> ADJ F P @N<   O
+ocupadas 	[ocupado] <nh> <np-long> ADJ F P @N<   O
+de 	[de] <np-close> PRP @N<   O
+forma 	[forma] <percep-f> <con> N F S @P<   O
+predatória 	[predatório] <np-close> ADJ F S @N<   O
+duram 	[durar] <vN> <mv> <np-close> V PR 3P IND VFIN @FS-N<   O
+por=volta=de 	[por=volta=de] PRP @<ADVL   O
+23 	[23] <card> NUM M P @>N   O
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<   O
+$. 
+</s>

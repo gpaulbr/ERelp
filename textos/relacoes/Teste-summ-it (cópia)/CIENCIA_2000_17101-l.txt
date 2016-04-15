@@ -1,0 +1,33 @@
+$S-11
+Hossne 	[Hossne] <hum>   PROP M/F S @SUBJ>  
+citou 	[citar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+Tuskegee 	[Tuskegee] <hum>   PROP M/F S @P<  LOCAL
+$( 
+Eua 	[Eua] <top>   <np-close> PROP M/F S @N<PRED ORG 
+$) 
+$, 
+em 	[em] <clb> PRP @ADVL>  
+que 	[que] <clb-fs> <rel> SPEC M S @P<  
+negros 	[negro] <Htit> N M P @SUBJ>  
+com 	[com] <np-close> PRP @N<  
+sífilis 	[sífilis] <sick> N F S/P @P<  
+não 	[não] ADV @ADVL>  
+foram 	[ser] <aux> <np-close> V PS/MQP 3P IND VFIN @FS-N<  
+tratados 	[tratar] <mv> V PCP M P @ICL-AUX<  
+por 	[por] PRP @<ADVL  
+40 	[40] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+para 	[para] PRP @<ADVL  
+que 	[que] <clb> <clb-fs> KS @SUB  
+a 	[o] <artd> DET F S @>N  
+evolução 	[evolução] <process> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+doença 	[doença] <sick> N F S @P<  
+fosse 	[ser] <vK> <mv> V IMPF 3S SUBJ VFIN @FS-P<  
+estudada 	[estudado] <nh> ADJ F S @<SC  
+$. 
+</s>

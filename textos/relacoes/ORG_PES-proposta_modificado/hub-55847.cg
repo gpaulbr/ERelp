@@ -1,0 +1,56 @@
+$S-1
+Pêro	 [pêro] <fruit> N M S @SUBJ> O
+recusa	 [recusar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+oferta	 [oferta] <act-s> N F S @<ACC O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+$, O
+em	 [em] PRP @ADVL> O
+1474	 [1474] <card> <year> <date> NUM M/F S @P< O
+$, O
+acompanha	 [acompanhar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+D.=Juan	 [D.=Juan] <hum> PROP M/F S @<ACC O
+a	 [a] PRP @<ADVL O
+Lisboa	 [Lisboa] <civ> PROP F S @P< O
+a	 [a] PRP @<ADVL O
+uma	 [um] <arti> DET F S @>N O
+entrevista	 [entrevista] <occ> <talk> N F S @P< O
+com	 [com] <np-close> PRP @N< O
+Afonso=V	 [Afonso=V] <org> PROP M S @P< PES O
+de	 [de] <np-close> PRP @N< REL
+Portugal	 [Portugal] <civ> PROP F S @P< ORG O
+$. O
+</s>
+
+$S-2
+Em	 [em] PRP @ADVL> O
+1476	 [1476] <card> <year> <date> NUM M/F S @P< O
+acompanha	 [acompanhar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-<ACC O
+D.=Afonso=V	 [D.=Afonso=V] <hum> PROP M/F S @<ACC O
+em	 [em] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+batalha	 [batalha] <occ> N F S @P< O
+de	 [de] <np-close> PRP @N< O 
+Toro	 [toro] <prop> <an> <anbo> <geom> N M S @P< O
+$, O
+a	 [o] <artd> DET F S @>N O
+tentativa	 [tentativa] <act-d> N F S @<ACC O
+fracassada	 [fracassar] <vN> <np-close> V PCP F S @N< O
+de	 [de] <np-close> PRP @N< O
+D.=João	 [D.=João] <hum> PROP M S @P< O
+de	 [de] PRP @<ADVL O
+reclamar	 [reclamar] <vH> <mv> V INF @ICL-P< O
+o	 [o] <artd> DET M S @>N O
+trono	 [trono] <furn> N M S @<ACC O
+de	 [de] <np-close> PRP @N< O
+Castela	 [Castela] <top> PROP F S @P< O
+$, O
+já=que	 [já=que] <clb> <clb-fs> KS @SUB O
+era	 [ser] <vK> <mv> V IMPF 1/3S IND VFIN @FS-<ADVL O
+cunhado	 [cunhado] <Hfam> N M S @<SC O
+de	 [de] <np-close> PRP @N< O
+Henrique=IV	 [Henrique=IV] <top> PROP M/F S @P< PES O
+de	 [de] <np-close> PRP @N< REL
+Castela	 [Castela] <top> PROP F S @P< ORG O
+$. O
+</s>

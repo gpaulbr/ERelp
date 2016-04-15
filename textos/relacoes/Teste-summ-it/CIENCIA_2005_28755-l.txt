@@ -1,0 +1,47 @@
+$S-12
+Com=base=em 	[com=base=em]   PRP @ADVL>   O
+relatos 	[relato] <sem-r> N M P @P<   O
+de 	[de] <np-close> PRP @N<   O
+moradores 	[morador] <cjt-head> <jh> ADJ M P @P<   O
+e 	[e] KC @NPHR   O
+muita 	[muito] <quant> DET F S @>N   O
+paciência 	[paciência] <cjt> <am> <game> N F S @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+coleta 	[coleta] <mon> <activity> N F S @P<   O
+$, 
+a 	[o] <artd> DET F S @>N   O
+equipe 	[equipe] <HH> N F S @SUBJ>   O
+chegou 	[chegar] <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+a 	[a] <sam-> PRP @<ADVL   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+cogumelos 	[cogumelo] <Btree> N M P @P<   O
+em 	[em] <np-close> PRP @N<   O
+dois 	[dois] <card> NUM M/F P @>N   O
+locais 	[local] <n> <nh> ADJ M/F P @P<   O
+$:  
+o 	[o] <artd> DET M S @>N   O
+Parque=Estadual=Turístico 	[Parque=Estadual=Turístico] <cjt-head> <top>   PROP M S @NPHR   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Alto=Ribeira 	[Alto=Ribeira] <hum>   PROP M S @P<   O
+$, 
+em 	[em] PRP @ADVL   O
+Iporanga 	[Iporanga] <civ>   PROP M S @P<  LOCAL O
+$( 
+SP 	[SP] <civ>   <np-close> PROP M S @N<PRED  ORG O
+$) 
+e 	[e] <cjt> KC @NPHR   O
+uma 	[um] <arti> DET F S @>N   O
+área 	[área] <cjt> <L> <Lh> N F S @NPHR   O
+de 	[de] <np-close> PRP @N<   O
+mata=ciliar 	[mata=ciliar] <BB> N F S @P<   O
+em 	[em] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+município 	[município] <Lciv> N M S @P<   O
+de 	[de] <np-close> PRP @N<   O
+Costa=Rica 	[Costa=Rica] <civ>   PROP M S @P<   O
+$, 
+Mato=Grosso=do=Sul 	[Mato=Grosso=do=Sul] <civ>   <np-close> PROP M S @N<   O
+$. 
+</s>

@@ -1,0 +1,39 @@
+$S-5
+Hugo=Doménech	 [Hugo=Doménech] <hum> <*> PROP M S @VOK PES O
+$, O
+professor	 [professor] <Hprof> <np-close> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Universidade=Jaume=de=Castellón	 [Universidade=Jaume=de=Castellón] <inst> <*> PROP F S @P< ORG O
+e	 [e] KC @NPHR O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <-sam> <artd> DET M S @>N O
+jornalista	 [jornalista] <Hprof> N M S @P< O
+Raul=Riebenbaueur	 [Raul=Riebenbaueur] <hum> <*> <np-close> PROP M S @N< O
+reuniram	 [reunir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+um	 [um] <arti> DET M S @>N O
+especialista	 [especialista] <Hprof> N M S @<ACC O
+forense	 [forense] <nh> <np-close> ADJ M S @N< O
+$, O
+um	 [um] <arti> DET M S @>N O
+militar	 [militar] N M S @<PRED @SUBJ> O
+geodésico	 [geodésico] <nh> <np-close> ADJ M S @N< O
+e	 [e] KC @NPHR O
+um	 [um] <arti> DET M S @>N O
+astrofísico	 [astrofísico] <Hprof> N M S @SUBJ> O
+e	 [e] KC @NPHR O
+recolheram	 [recolher] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA O
+depoimentos	 [depoimento] <sem-s> N M P @<ACC O
+locais	 [local] <nh> <np-close> ADJ M P @N< O
+$. O
+</s>
+
+$S-17
+Luiz=Carvalho	 [Luiz=Carvalho] <hum> <*> PROP M S @NPHR PES O
+$, O
+fotojornalista	 [fotojornalista] <Hprof> N M S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Expresso	 [expresso] <prop> <*> <V> PROP M S @P< ORG O
+$. O
+</s>

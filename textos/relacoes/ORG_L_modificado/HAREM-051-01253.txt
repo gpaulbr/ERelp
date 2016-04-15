@@ -1,0 +1,229 @@
+$S-1
+Rainha=D.=Maria=II=Foto	 [Rainha=D.=Maria=II=Foto] <org> <*> PROP F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Biblioteca	 [Biblioteca] <org> <*> PROP F S @P<  O
+Biblioteca=Central=da=Marinha	 [Biblioteca=Central=da=Marinha] <org> <*> PROP F S @P< ORG O
+Situada	 [situar] <vH> <mv> V PCP F S @ICL-AUX< O
+$, O
+desde	 [desde] PRP @ADVL>  O
+1891	 [1891] <card> <date> <year> NUM M/F S @P<  O
+$, O
+em	 [em] <sam-> PRP @ADVL> REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Praça=do=Império	 [Praça=do=Império] <top> <*> PROP F S @P< LOCAL O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+imediata	 [imediato] ADJ F S @>N  O
+proximidade	 [proximidade] <am> <L> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Mosteiro=dos=Jerónimos	 [Mosteiro=dos=Jerónimos] <org> <*> PROP M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Biblioteca=Central=da=Marinha	 [Biblioteca=Central=da=Marinha] <org> <*> <np-close> PROP F S @APP  O
+$( O
+BCM	 [BCM] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+sucessora	 [sucessora] <H> N F S @<SC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+antiga	 [antigo] ADJ F S @>N  O
+Biblioteca=da=Real=Academia	 [Biblioteca=da=Real=Academia] <org> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Guardas-Marinhas	 [Guardas-Marinhas] <org> <*> PROP M P @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  O
+seguiu	 [seguir] <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+com	 [com] PRP @<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+côrte	 [côrte] <inst> N F S @P<  O
+para	 [para] PRP @<PIV @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Brasil	 [Brasil] <civ> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+foi	 [ser] <fmc> <aux> <np-close> V PS 3S IND VFIN @FS-N<  O
+transferida	 [transferir] <vH> <mv> V PCP F S @ICL-AUX<  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+aquando=de	 [aquando=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+1ª	 [1ª] <NUM-ord> <jh> ADJ F S @>N  O
+invasão	 [invasão] <act> <event> N F S @P<  O
+francesa	 [francês] <nat> <jh> <np-close> ADJ F S @N<  O
+$, O
+tendo	 [ter] <clb> <aux> V GER @ICL-<ADVL  O
+ficado	 [ficar] <mv> V PCP @ICL-AUX<  O
+em=grande=parte	 [em=grande=parte] <pp> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<SA  O
+aquele	 [aquele] <-sam> <dem> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+$. O
+</s>
+
+$S-11
+Rainha=D.=Maria=II=Foto	 [Rainha=D.=Maria=II=Foto] <org> <*> PROP F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Biblioteca	 [Biblioteca] <org> <*> PROP F S @P<  O
+Biblioteca=Central=da=Marinha	 [Biblioteca=Central=da=Marinha] <org> <*> PROP F S @P< ORG O
+Situada	 [situar] <vH> <mv> V PCP F S @ICL-AUX< O
+$, O
+desde	 [desde] PRP @ADVL>  O
+1891	 [1891] <card> <date> <year> NUM M/F S @P<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Praça=do=Império	 [Praça=do=Império] <top> <*> PROP F S @P<  O
+$, O
+em	 [em] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+imediata	 [imediato] ADJ F S @>N  O
+proximidade	 [proximidade] <am> <L> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Mosteiro=dos=Jerónimos	 [Mosteiro=dos=Jerónimos] <org> <*> PROP M S @P<  O
+$, O
+a	 [o] <artd> DET F S @>N  O
+Biblioteca=Central=da=Marinha	 [Biblioteca=Central=da=Marinha] <org> <*> <np-close> PROP F S @APP  O
+$( O
+BCM	 [BCM] <org> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+sucessora	 [sucessora] <H> N F S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <-sam> <artd> DET F S @>N  O
+antiga	 [antigo] ADJ F S @>N  O
+Biblioteca=da=Real=Academia	 [Biblioteca=da=Real=Academia] <org> <*> PROP F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+os	 [o] <-sam> <artd> DET M P @>N  O
+Guardas-Marinhas	 [Guardas-Marinhas] <org> <*> PROP M P @P<  O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  O
+seguiu	 [seguir] <mv> <np-close> V PS 3S IND VFIN @FS-N< REL
+com	 [com] PRP @<ADVL REL
+a	 [o] <artd> DET F S @>N REL
+côrte	 [côrte] <inst> N F S @P< REL
+para	 [para] PRP @<PIV @<ADVL REL
+o	 [o] <artd> DET M S @>N REL
+Brasil	 [Brasil] <civ> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+foi	 [ser] <fmc> <aux> <np-close> V PS 3S IND VFIN @FS-N<  O
+transferida	 [transferir] <vH> <mv> V PCP F S @ICL-AUX<  O
+para	 [para] PRP @<ADVL  O
+o	 [o] <artd> DET M S @>N  O
+Rio=de=Janeiro	 [Rio=de=Janeiro] <civ> <*> PROP M S @P<  O
+aquando=de	 [aquando=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+1ª	 [1ª] <NUM-ord> <jh> ADJ F S @>N  O
+invasão	 [invasão] <act> <event> N F S @P<  O
+francesa	 [francês] <nat> <jh> <np-close> ADJ F S @N<  O
+$, O
+tendo	 [ter] <clb> <aux> V GER @ICL-<ADVL  O
+ficado	 [ficar] <mv> V PCP @ICL-AUX<  O
+em=grande=parte	 [em=grande=parte] <pp> ADV @<ADVL  O
+em	 [em] <sam-> PRP @<SA  O
+aquele	 [aquele] <-sam> <dem> DET M S @>N  O
+país	 [país] <Lciv> N M S @P<  O
+$. O
+</s>
+
+$S-2
+A	 [o] <*> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+fundação	 [fundação] <act> <part-build> <Labs> <HH> N F S @SUBJ>  O
+$, O
+como	 [como] <com> <adv-rel> PRP @ADVL>  O
+$" O
+Biblioteca=de=Marinha	 [Biblioteca=de=Marinha] <org> <asarg> <*> <*1> <*2> PROP F S @P< ORG O
+$" O
+$, O
+deve-	 [dever] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS F 3S ACC @<ACC-PASS  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rainha=D.=Maria=II	 [Rainha=D.=Maria=II] <hum> <*> PROP F S @P<  O
+$, O
+por	 [por] PRP @<ADVL  O
+decreto	 [decreto] <sem-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+7	 [7] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Janeiro	 [Janeiro] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1835	 [1835] <card> <date> <year> NUM M/F P @P<  O
+$, O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+de	 [de] PRP @<SC  O
+ínicio	 [ínicio] N M S @P<  O
+integrada	 [integrar] <vH> <mv> V PCP F S @ICL-<SC REL
+em	 [em] <sam-> PRP @<PIV REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Arsenal=Real=de=Marinha	 [Arsenal=Real=de=Marinha] <inst> <*> PROP M S @P< LOCAL O
+e	 [e] KC @NPHR  O
+instalada	 [instalado] <jh> ADJ F S @<SC  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+andar	 [andar] <Lh> <ac> <cc> N M S @P<  O
+nobre	 [nobre] <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+respectivo	 [respectivo] ADJ M S @>N  O
+edíficio	 [edíficio] N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ribeira=das=Naus	 [Ribeira=das=Naus] <top> <*> PROP F S @P<  O
+$. O
+</s>
+
+$S-22
+A	 [o] <*> <artd> DET F S @>N  O
+sua	 [seu] <poss 3S> DET F S @>N  O
+fundação	 [fundação] <act> <part-build> <Labs> <HH> N F S @SUBJ>  O
+$, O
+como	 [como] <com> <adv-rel> PRP @ADVL>  O
+$" O
+Biblioteca=de=Marinha	 [Biblioteca=de=Marinha] <org> <asarg> <*> <*1> <*2> PROP F S @P< ORG O
+$" O
+$, O
+deve-	 [dever] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+se	 [se] <refl> PERS F 3S ACC @<ACC-PASS  O
+a	 [a] <sam-> PRP @<PIV  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Rainha=D.=Maria=II	 [Rainha=D.=Maria=II] <hum> <*> PROP F S @P<  O
+$, O
+por	 [por] PRP @<ADVL  O
+decreto	 [decreto] <sem-r> N M S @P<  O
+de	 [de] <np-close> PRP @N<  O
+7	 [7] <card> NUM M/F P @P<  O
+de	 [de] <np-close> PRP @N<  O
+Janeiro	 [Janeiro] <hum> <*> PROP M/F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+1835	 [1835] <card> <date> <year> NUM M/F P @P<  O
+$, O
+ficando	 [ficar] <clb> <vK> <mv> V GER @ICL-<ADVL  O
+de	 [de] PRP @<SC  O
+ínicio	 [ínicio] N M S @P<  O
+integrada	 [integrar] <vH> <mv> V PCP F S @ICL-<SC  O
+em	 [em] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Arsenal=Real=de=Marinha	 [Arsenal=Real=de=Marinha] <inst> <*> PROP M S @P<  O
+e	 [e] KC @NPHR  O
+instalada	 [instalado] <jh> ADJ F S @<SC REL
+em	 [em] <sam-> PRP @<ADVL REL
+o	 [o] <-sam> <artd> DET M S @>N O
+andar	 [andar] <Lh> <ac> <cc> N M S @P<  O
+nobre	 [nobre] <np-close> ADJ M S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+respectivo	 [respectivo] ADJ M S @>N  O
+edíficio	 [edíficio] N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Ribeira=das=Naus	 [Ribeira=das=Naus] <top> <*> PROP F S @P< LOCAL O
+$. O
+</s>

@@ -1,0 +1,95 @@
+
+    
+      
+        <EM ID="aa55968-39" CATEG="OBRA" TIPO="REPRODUZIDA"  >New York, New York</EM>
+        
+    
+    
+      <EM ID="aa55968-472" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No mês passado</EM>
+      , o
+       presidente da <EM ID="aa55968-7" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa55968-40" TIPOREL="ocorre_em">Câmara de Nova Iorque</EM>
+      ,
+      <EM ID="aa55968-476" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-473 aa55968-507" TIPOREL="ident natural_de">Michael Bloomberg</EM>
+      , decidiu entregar o cartão de militante do
+      <EM ID="aa55968-477" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa55968-476" TIPOREL="vinculo_inst">Partido Conservador</EM>
+      . O gesto foi entendido como o arregaçar de mangas para entrar na corrida presidencial numa candidatura independente.
+    
+    
+      E se ele avançar, as mais recentes sondagens indicam que o boletim de voto das eleições
+      <EM ID="aa55968-478" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2008</EM>
+      podem ter três rostos ligados à "
+      <EM ID="aa55968-479" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="aa55968-40" TIPOREL="LOCAL**ident**aa55968-40**LOCAL">Big Apple</EM>
+      ":
+      <EM ID="aa55968-480" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-507" TIPOREL="natural_de">Hillary Clinton</EM>
+      , senadora pelo estado de
+      <EM ID="aa55968-481" CATEG="LOCAL" TIPO="HUMANO" COREL="aa55968-40" TIPOREL="ident">Nova Iorque</EM>
+      ,
+      <EM ID="aa55968-482" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-40 aa55968-507" TIPOREL="natural_de natural_de">Rudy Giuliani</EM>
+      , o republicano que já foi
+       presidente da <EM ID="aa55968-59" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="aa55968-482" TIPOREL="vinculo_inst">Câmara</EM>
+      da cidade, e
+      <EM ID="aa55968-484" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-476" TIPOREL="ident">Michael Bloomberg</EM>
+      , o homem que sucedeu a
+      <EM ID="aa55968-485" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-482" TIPOREL="ident">Giuliani</EM>
+      no cargo.
+    
+    
+      Este cenário deverá irritar solenemente a classe política de cidades como
+      <EM ID="aa55968-486" CATEG="LOCAL" TIPO="HUMANO" COREL="aa55968-476" TIPOREL="local_nascimento_de">Boston</EM>
+      ,
+      <EM ID="aa55968-487" CATEG="LOCAL" TIPO="HUMANO"  >St. Louis</EM>
+      ,
+      <EM ID="aa55968-488" CATEG="LOCAL" TIPO="HUMANO"  >Chicago</EM>
+      , ou
+      <EM ID="aa55968-489" CATEG="LOCAL" TIPO="HUMANO"  >Los Angeles</EM>
+      , que nunca viram com agrado a intromissão de políticos nova-iorquinos nos assuntos presidenciais. Aliás, os últimos sete presidentes eleitos vieram de regiões no
+      <EM ID="aa55968-490" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Sul</EM>
+      ou do
+      <EM ID="aa55968-492" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Oeste</EM>
+      , e ser oriundo do
+      <EM ID="aa55968-493" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO"  >Nordeste</EM>
+      americano passou a ser quase considerado uma garantia de derrota eleitoral (que o digam
+      <EM ID="aa55968-494" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-507" TIPOREL="natural_de">Dukakis</EM>
+      ou
+      <EM ID="aa55968-495" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-507" TIPOREL="natural_de">Kerry</EM>
+      ).
+    
+    
+      Como recordava um artigo num recente número da revista
+      <EM ID="aa55968-496" CATEG="LOCAL" TIPO="VIRTUAL"  >New Yorker</EM>
+      ,
+      <EM ID="aa55968-497" CATEG="PESSOA" TIPO="POVO" COREL="aa55968-40" TIPOREL="natural_de">Nova Iorque</EM>
+      já não via uma coisa assim
+      <EM ID="aa55968-498" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde 1951</EM>
+      , quando, no campeonato de basebol, as equipas de
+      <EM ID="aa55968-499" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >Brooklin Dodgers</EM>
+      e dos
+      <EM ID="aa55968-500" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >New York Giants</EM>
+      disputaram o "play off" para decidir quem iria à final com os
+      <EM ID="aa55968-502" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >New York Yankees</EM>
+      (que acabaram vencedores da "
+      <EM ID="aa55968-503" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="aa55968-502 aa55968-499 aa55968-500" TIPOREL="ter_participacao_de ACONTECIMENTO**ter_participacao_de**aa55968-499**PESSOA ACONTECIMENTO**ter_participacao_de**aa55968-500**PESSOA">World Séries</EM>
+      ").
+    
+    
+      Para uma eventual candidatura,
+      <EM ID="aa55968-504" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-476" TIPOREL="ident">Bloomberg</EM>
+      nem sequer está preocupado com o facto de arrancar tarde, numas eleições em que as primárias servem para angariar fundos (em anteriores eleições, o também magnata dos "media" já gastou
+      <EM ID="aa55968-505" CATEG="VALOR" TIPO="MOEDA"  >mais de 160 milhões de dólares</EM>
+      do seu bolso, e tem muitos mais para gastar). Além disso,
+      <EM ID="aa55968-506" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa55968-476" TIPOREL="ident">Bloomberg</EM>
+      conta com o efeito de subida de popularidade dos independentes nos
+      <EM ID="aa55968-507" CATEG="LOCAL" TIPO="HUMANO" COREL="aa55968-40 aa55968-486 aa55968-487 aa55968-488 aa55968-489" TIPOREL="inclui inclui inclui inclui inclui">EUA</EM>
+      . Os estudos dizem que
+      <EM ID="aa55968-508" CATEG="VALOR" TIPO="QUANTIDADE"  >cerca de 40%</EM>
+      dos eleitores não tem simpatia por nenhum dos partidos. E este dado torna o estatuto de independente muito atraente -- um fenómeno semelhante ao verificado com a candidatura de
+      <EM ID="aa55968-509" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Manuel Alegre</EM>
+      , nas últimas presidenciais portuguesas, ou com aquilo que esperam conseguir
+      <EM ID="aa55968-510" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Helena Roseta</EM>
+      e
+      <EM ID="aa55968-511" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Carmona Rodrigues</EM>
+      nas próximas eleições intercalares para a
+      <EM ID="aa55968-512" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Câmara de Lisboa</EM> 
+      .
+    
+  

@@ -1,0 +1,433 @@
+
+    
+      Juventude em
+      <EM ID="aa87333-1" CATEG="LOCAL" TIPO="HUMANO"  >Durban</EM>
+    
+    
+      
+        <EM ID="aa87333-178" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Às três horas e vinte minutos da tarde</EM>
+        <EM ID="aa87333-179" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa87333-5" TIPOREL="data_nascimento">de 13 de Junho de 1888</EM>
+        
+      nascia em
+      <EM ID="aa87333-4" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      , capital portuguesa,
+      <EM ID="aa87333-5" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando Pessoa</EM>
+      . O parto ocorreu no quarto andar esquerdo do nº 4 do
+      <EM ID="aa87333-6" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-5" TIPOREL="incluido local_nascimento_de">Largo de São Carlos</EM>
+      , em frente da ópera de
+      <EM ID="aa87333-7" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      (
+      <EM ID="aa87333-8" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-7" TIPOREL="incluido">Teatro de São Carlos</EM>
+      ). O seu pai era funcionário público do
+      <EM ID="aa87333-9" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Ministério da Justiça</EM>
+      e crítico musical do «
+      <EM ID="aa87333-10" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Diário de Notícias</EM>
+      »,
+      <EM ID="aa87333-11" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="relacao_familiar">Joaquim de Seabra Pessoa</EM>
+      (
+      <EM ID="aa87333-182" CATEG="VALOR" TIPO="QUANTIDADE"  >38</EM>
+      ), natural de
+      <EM ID="aa87333-12" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-11" TIPOREL="ident local_nascimento_de">Lisboa</EM>
+      ; e a sua mãe
+      <EM ID="aa87333-13" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-11 aa87333-5" TIPOREL="relacao_familiar relacao_familiar">D. Maria Magdalena Pinheiro Nogueira Pessoa</EM>
+      (
+      <EM ID="aa87333-183" CATEG="VALOR" TIPO="QUANTIDADE"  >26</EM>
+      ), natural da
+      <EM ID="aa87333-184" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO" COREL="aa87333-13" TIPOREL="local_nascimento_de">Ilha Terceira</EM>
+      (
+      <EM ID="aa87333-15" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa87333-184" TIPOREL="inclui">Açores</EM>
+      ). Viviam com eles a
+      <EM ID="aa87333-16" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-11 aa87333-5 aa87333-13" TIPOREL="relacao_familiar relacao_familiar relacao_familiar">avó Dionísia</EM>
+      , doente mental e duas criadas velhas,
+      <EM ID="aa87333-17" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Joana</EM>
+      e
+      <EM ID="aa87333-18" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Emília</EM>
+      .
+    
+    
+      É baptizado
+      <EM ID="aa87333-19" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 21 de Julho</EM>
+      na
+      <EM ID="aa87333-20" CATEG="LOCAL" TIPO="HUMANO"  >Igreja dos Mártires</EM>
+      , no
+      <EM ID="aa87333-21" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-20" TIPOREL="incluido inclui">Chiado</EM>
+      . Os padrinhos são a sua
+      <EM ID="aa87333-22" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="relacao_familiar">Tia Anica</EM>
+      (
+      <EM ID="aa87333-23" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-22 aa87333-13" TIPOREL="ident relacao_familiar">D. Ana Luísa Pinheiro Nogueira</EM>
+      , sua tia materna) e o
+      <EM ID="aa87333-24" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="relacao_familiar">General Chaby</EM>
+      . A razão por detrás do nome
+      <EM ID="aa87333-25" CATEG="ABSTRACCAO" TIPO="NOME" COREL="aa87333-5" TIPOREL="nome_de_ident">Fernando António</EM>
+      encontra-se relacionada com
+      <EM ID="aa87333-26" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Santo António</EM>
+      : a sua família reclamava uma ligação genealógica com
+      <EM ID="aa87333-27" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Fernando de Bulhões</EM>
+      , nome de baptismo de
+      <EM ID="aa87333-28" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-26 aa87333-27" TIPOREL="ident ident">Santo António</EM>
+      , cujo dia tradicionalmente consagrado em
+      <EM ID="aa87333-29" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      é
+      <EM ID="aa87333-30" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >13 de Junho</EM>
+      , <EM ID="aa87333-148" CATEG="TEMPO" TIPO="GENERICO"  >dia</EM> em que
+      <EM ID="aa87333-31" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando Pessoa</EM>
+      nasceu.
+    
+    
+      A sua infância e adolescência foram marcadas por factos que o influenciariam posteriormente.
+       <EM ID="aa87333-441" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Às cinco horas</EM>
+      <EM ID="aa87333-446" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >da manhã de 24 de Julho de 1893</EM>
+      , o seu pai morre com
+      <EM ID="aa87333-33" CATEG="VALOR" TIPO="QUANTIDADE"  >43 anos</EM>
+      vítima de tuberculose. A morte é reportada no
+      <EM ID="aa87333-34" CATEG="LOCAL" TIPO="VIRTUAL"  >Diário de Notícias</EM>
+      <EM ID="aa87333-149" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do dia</EM>.
+      <EM ID="aa87333-35" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-35" TIPOREL="ident">Joaquim de Seabra Pessoa</EM>
+      deixou-o com apenas cinco anos, a mãe e o seu irmão
+      <EM ID="aa87333-36" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5 aa87333-11 aa87333-13 aa87333-16" TIPOREL="relacao_familiar relacao_familiar relacao_familiar relacao_familiar">Jorge</EM>
+      que viria a falecer
+      <EM ID="aa87333-185" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no outro ano</EM>
+      sem chegar a completar um ano. A mãe então vê-se obrigada a leiloar parte da mobília e mudam-se para uma casa mais modesta, o terceiro andar do n.º 104 da
+      <EM ID="aa87333-37" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-5" TIPOREL="incluido residencia_de">Rua de São Marçal</EM>
+      . É também <EM ID="aa87333-47" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nesse período</EM> que surge o seu primeiro heterónimo,
+      <EM ID="aa87333-38" CATEG="PESSOA|ABSTRACCAO" TIPO="INDIVIDUAL|NOME" COREL="aa87333-5" TIPOREL="ABSTRACCAO**nome_de_ident**aa87333-5**PESSOA">Chevalier de Pas</EM>
+      , facto relatado pelo próprio
+      <EM ID="aa87333-39" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando Pessoa</EM>
+      a
+      <EM ID="aa87333-40" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Adolfo Casais Monteiro</EM>
+      , numa carta
+      <EM ID="aa87333-42" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 1935</EM>
+      em que fala extensamente sobre a origem dos heterónimos. Ainda
+      <EM ID="aa87333-186" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no mesmo ano</EM>
+      cria seu primeiro poema, um verso curto com a infantil epígrafe de
+      <EM ID="aa87333-188" CATEG="OUTRO"   >À Minha Querida Mamã</EM>
+      . Sua mãe casa-se pela segunda vez
+      <EM ID="aa87333-189" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1895</EM>
+      por procuração, na
+      <EM ID="aa87333-43" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="incluido">Igreja de São Mamede</EM>
+      em
+      <EM ID="aa87333-44" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      , com o
+      <EM ID="aa87333-45" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-13 aa87333-5" TIPOREL="relacao_familiar relacao_familiar">Comandante João Miguel Rosa</EM>
+      ,
+       cônsul de <EM ID="aa87333-150" CATEG="LOCAL|ORGANIZACAO" TIPO="HUMANO|ADMINISTRACAO" COREL="aa87333-4" TIPOREL="LOCAL**inclui**aa87333-4**LOCAL">Portugal</EM> 
+        em
+        <EM ID="aa87333-192" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="ident">Durban</EM>
+      (
+      <EM ID="aa87333-48" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="inclui">África do Sul</EM>
+      ), o qual havia conhecido
+      <EM ID="aa87333-49" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >um ano antes</EM>
+      . Em
+      <EM ID="aa87333-50" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO" COREL="aa87333-48" TIPOREL="inclui">África</EM>
+      ,
+      <EM ID="aa87333-51" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      viria a demonstrar possuir desde cedo habilidades para a literatura.
+    
+    
+      Em razão do casamento, muda-se com a mãe e um tio-avô,
+      <EM ID="aa87333-53" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="relacao_familiar">Manuel Gualdino da Cunha</EM>
+      , para
+      <EM ID="aa87333-54" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="ident">Durban</EM>
+      , onde passa a maior parte da sua juventude. Viajam no navio
+      <EM ID="aa87333-55" CATEG="COISA" TIPO="OBJECTO"  >Funchal</EM>
+      até à
+      <EM ID="aa87333-56" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa87333-150" TIPOREL="LOCAL**incluido**aa87333-150**LOCAL">Madeira</EM>
+      e depois no paquete Inglês
+      <EM ID="aa87333-193" CATEG="COISA" TIPO="OBJECTO"  >Hawarden Castle</EM>
+      até ao
+      <EM ID="aa87333-57" CATEG="LOCAL" TIPO="FISICO"  >Cabo da Boa Esperança</EM>
+      . Tendo que dividir a atenção da mãe com os filhos do casamento e com o padrasto,
+      <EM ID="aa87333-58" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      isola-se, o que lhe propiciava momentos de reflexão. Em
+      <EM ID="aa87333-59" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="ident">Durban</EM>
+      recebe uma educação britânica, o que lhe proporciona um profundo contacto com a língua inglesa. Os seus primeiros textos e estudos são feitos em inglês. Mantém contato com a literatura inglesa através de autores como
+      <EM ID="aa87333-60" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Shakespeare</EM>
+      ,
+      <EM ID="aa87333-61" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Edgar Allan Poe</EM>
+      ,
+      <EM ID="aa87333-62" CATEG="PESSOA" TIPO="INDIVIDUAL"  >John Milton</EM>
+      ,
+      <EM ID="aa87333-63" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Lord Byron</EM>
+      ,
+      <EM ID="aa87333-64" CATEG="PESSOA" TIPO="INDIVIDUAL"  >John Keats</EM>
+      ,
+      <EM ID="aa87333-65" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Percy Shelley</EM>
+      ,
+      <EM ID="aa87333-66" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alfred Tennyson</EM>
+      , entre outros. O inglês teve grande destaque na sua vida, trabalhando com o idioma quando,
+      <EM ID="aa87333-67" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >mais tarde</EM>
+      , se torna correspondente comercial em
+      <EM ID="aa87333-68" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      , além de utilizar o idioma em alguns dos seus textos e traduzir trabalhos de poetas ingleses, como
+      <EM ID="aa87333-194" CATEG="OBRA" TIPO="REPRODUZIDA"  >O Corvo</EM>
+      e
+      <EM ID="aa87333-195" CATEG="OBRA" TIPO="REPRODUZIDA"  >Annabel Lee</EM>
+      de
+      <EM ID="aa87333-196" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-194 aa87333-195" TIPOREL="autor_de autor_de">Edgar Allan Poe</EM>
+      . Com excepção de
+      <EM ID="aa87333-69" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">Mensagem</EM>
+      , os únicos livros publicados em vida são os das colectâneas dos seus poemas ingleses:
+      <EM ID="aa87333-200" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">Antinous</EM>
+      e
+      <EM ID="aa87333-201" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">35 Sonnets</EM>
+      e
+      <EM ID="aa87333-198" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">English Poems I - II</EM>
+      e
+      <EM ID="aa87333-199" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">III</EM>
+      , escritos
+      <EM ID="aa87333-70" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >entre 1918 e 1921</EM>
+      .
+    
+    
+      Faz o curso primário na escola de freiras irlandesas da
+      <EM ID="aa87333-202" CATEG="LOCAL" TIPO="HUMANO"  >West Street</EM>
+      , onde realiza a sua primeira comunhão e percorre
+      <EM ID="aa87333-204" CATEG="TEMPO" TIPO="DURACAO"  >em três anos</EM>
+      o equivalente a cinco.
+      <EM ID="aa87333-71" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1899</EM>
+      ingressa na
+      <EM ID="aa87333-151" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa87333-1" TIPOREL="ocorre_em">Durban High School</EM>
+      , onde permanecerá
+      <EM ID="aa87333-203" CATEG="TEMPO" TIPO="DURACAO"  >durante três anos</EM>
+      e será um dos primeiros alunos da turma,
+      <EM ID="aa87333-205" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no mesmo ano</EM>
+      cria o pseudónimo
+      <EM ID="aa87333-206" CATEG="ABSTRACCAO" TIPO="NOME" COREL="aa87333-5" TIPOREL="nome_de_ident">Alexander Search</EM>
+      , no qual envia cartas a si mesmo utilizando esse nome.
+      <EM ID="aa87333-73" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No ano de 1901</EM>
+      é aprovado com distinção no seu primeiro exame da
+      <EM ID="aa87333-75" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Cape Scholl High Examination</EM>
+      , escreve os primeiros poemas em inglês.
+      <EM ID="aa87333-207" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Na mesma época</EM>
+      morre sua irmã
+      <EM ID="aa87333-76" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5 aa87333-13 aa87333-45" TIPOREL="relacao_familiar relacao_familiar relacao_familiar">Madalena Henriqueta</EM>
+      , de dois anos. De férias, parte
+      <EM ID="aa87333-208" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1901</EM>
+      com a família para
+      <EM ID="aa87333-77" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-150" TIPOREL="LOCAL**ident**aa87333-150**LOCAL">Portugal</EM>
+      . No navio em que viajam, o paquete
+      <EM ID="aa87333-209" CATEG="COISA" TIPO="OBJECTO"  >König</EM>
+      , vem o corpo da sua irmã falecida. Em
+      <EM ID="aa87333-78" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      mora com a família em
+      <EM ID="aa87333-79" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-5" TIPOREL="incluido residencia_de">Pedrouços</EM>
+      e <EM ID="aa87333-790" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >depois</EM> na
+      <EM ID="aa87333-80" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4 aa87333-5" TIPOREL="incluido residencia_de">Avenida de D. Carlos I</EM>
+      , n.º. 109, 3º. Esquerdo. Na capital portuguesa nasce
+      <EM ID="aa87333-81" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5 aa87333-13 aa87333-45 aa87333-76" TIPOREL="relacao_familiar relacao_familiar relacao_familiar relacao_familiar">João Maria</EM>
+      , quarto filho do segundo casamento da mãe de
+      <EM ID="aa87333-82" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      . Viaja com o padrasto, a mãe e os irmãos à
+      <EM ID="aa87333-83" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO" COREL="aa87333-184" TIPOREL="ident">Ilha Terceira</EM>
+      , nos
+      <EM ID="aa87333-85" CATEG="LOCAL|LOCAL" TIPO="FISICO|HUMANO" COREL="aa87333-15" TIPOREL="ident">Açores</EM>
+      , onde vive a família materna. Também partem para
+      <EM ID="aa87333-87" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-150" TIPOREL="LOCAL**incluido**aa87333-150**LOCAL">Tavira</EM>
+      onde para visitar os parentes paternos.
+      <EM ID="aa87333-210" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nessa época</EM>
+      escreve a poesia 
+      <EM ID="aa87333-211" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">Quando ela passa</EM>  
+      .
+    
+    
+      <EM ID="aa87333-88" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando Pessoa</EM>
+      permanece em
+      <EM ID="aa87333-89" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      enquanto todos regressam para
+      <EM ID="aa87333-90" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="ident">Durban</EM>
+      : a mãe, o padrasto, os irmãos e a criada
+      <EM ID="aa87333-91" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Paciência</EM>
+      que viera com eles. Volta sozinho para a
+      <EM ID="aa87333-93" CATEG="LOCAL|LOCAL" TIPO="HUMANO|FISICO" COREL="aa87333-50" TIPOREL="ident">África</EM>
+      no vapor
+      <EM ID="aa87333-212" CATEG="COISA" TIPO="OBJECTO"  >Herzog</EM>
+      .
+      <EM ID="aa87333-213" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Na mesma época</EM>
+      , tenta escrever romances em inglês e matricula-se na
+      <EM ID="aa87333-94" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Commercial School</EM>
+      . Lá estuda <EM ID="aa87333-2200" CATEG="TEMPO" TIPO="GENERICO"  >à noite</EM> enquanto <EM ID="aa87333-221" CATEG="TEMPO" TIPO="GENERICO"  >de dia</EM> se ocupa com disciplinas humanísticas.
+      <EM ID="aa87333-96" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em 1903</EM>
+      , candidata-se à 
+      <EM ID="aa87333-97" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Universidade do Cabo da Boa Esperança</EM>  
+      . Na prova de exame para a admissão, não obtém uma boa classificação, mas tira a melhor nota entre os
+      <EM ID="aa87333-98" CATEG="VALOR" TIPO="QUANTIDADE"  >899</EM>
+      candidatos no ensaio de estilo inglês. Recebe por isso o
+      <EM ID="aa87333-214" CATEG="OUTRO"  COREL="aa87333-5" TIPOREL="outrarel">Queen Victoria Memorial Prize</EM>
+      («
+      <EM ID="aa87333-215" CATEG="OUTRO"  COREL="aa87333-214" TIPOREL="ident">Prémio Rainha Vitória</EM>
+      »).
+      <EM ID="aa87333-100" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Um ano depois</EM>
+      novamente ingressa na
+      <EM ID="aa87333-153" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa87333-151" TIPOREL="ident">Durban High School</EM>
+      onde frequenta o equivalente a um primeiro ano universitário, Aprofunda a sua cultura, lendo clássicos ingleses e latinos; escreve poesia e prosa em inglês e surgem os heterónimos
+      <EM ID="aa87333-216" CATEG="ABSTRACCAO|PESSOA" TIPO="NOME|INDIVIDUAL" COREL="aa87333-5" TIPOREL="ABSTRACCAO**nome_de_ident**aa87333-5**PESSOA">Charles Robert Anon</EM>
+      e
+      <EM ID="aa87333-218" CATEG="ABSTRACCAO|PESSOA" TIPO="NOME|INDIVIDUAL" COREL="aa87333-5" TIPOREL="ABSTRACCAO**nome_de_ident**aa87333-5**PESSOA">H. M. F. Lecher</EM>
+      ; nasce z sua irmã
+      <EM ID="aa87333-102" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5 aa87333-13 aa87333-45 aa87333-76 aa87333-81" TIPOREL="relacao_familiar relacao_familiar relacao_familiar relacao_familiar relacao_familiar">Maria Clara</EM>
+      e publica o jornal do liceu um ensaio crítico intitulado
+      <EM ID="aa87333-177" CATEG="ABSTRACCAO" TIPO="NOME" COREL="aa87333-5" TIPOREL="nome_de_obra_de">Macaulay</EM>
+      . Por fim, encerra os seus bem sucedidos estudos na
+      <EM ID="aa87333-103" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-48" TIPOREL="ident">África do Sul</EM>
+      após realizar na
+      <EM ID="aa87333-104" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >Universidade</EM>
+      o «
+      <EM ID="aa87333-219" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Intermediate Examination in Arts</EM>
+      », adquirindo bons resultados.
+    
+    
+      Volta definitiva a
+      <EM ID="aa87333-220" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-150" TIPOREL="LOCAL**ident**aa87333-150**LOCAL">Portugal</EM>
+      e início de carreira
+    
+    
+      Deixando a família em
+      <EM ID="aa87333-2210" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-1" TIPOREL="ident">Durban</EM>
+      , regressou definitivamente à capital portuguesa, sozinho,
+      <EM ID="aa87333-222" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1905</EM>
+      . Passa a viver com a
+      <EM ID="aa87333-223" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-16" TIPOREL="ident">avó Dionísia</EM>
+      e as duas tias na
+      <EM ID="aa87333-224" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-5 aa87333-223 aa87333-4" TIPOREL="residencia_de residencia_de incluido">Rua da Bela Vista</EM>
+      , 17. A mãe e o padrasto também retornam a
+      <EM ID="aa87333-225" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="ident">Lisboa</EM>
+      ,
+      <EM ID="aa87333-155" CATEG="TEMPO" TIPO="DURACAO"  >durante um período</EM> de férias <EM ID="aa87333-156" CATEG="TEMPO|TEMPO" TIPO="DURACAO|GENERICO"  >de um ano</EM>
+      em que
+      <EM ID="aa87333-227" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      volta a morar com eles. Continua a produção de poemas em inglês e
+      <EM ID="aa87333-228" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1906</EM>
+      matricula-se no
+      <EM ID="aa87333-229" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA"  >Curso Superior de Letras</EM>
+      (actual
+      <EM ID="aa87333-230" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa87333-229" TIPOREL="ORGANIZACAO**ident**aa87333-229**ORGANIZACAO">Faculdade de Letras da Universidade de Lisboa</EM> 
+      ), que abandona sem sequer completar <EM ID="aa87333-157" CATEG="TEMPO" TIPO="GENERICO"  >o primeiro ano</EM>. É
+      <EM ID="aa87333-231" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nesta época</EM>
+      que entra em contacto com importantes escritores de literatura da língua portuguesa. Interessa-se pela obra de
+      <EM ID="aa87333-232" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Cesário Verde</EM>
+      e pelos sermões do
+      <EM ID="aa87333-233" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Padre Antônio Vieira</EM>
+      .
+    
+    
+      <EM ID="aa87333-234" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Em Agosto de 1907</EM>
+      , morre a sua
+      <EM ID="aa87333-235" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-16 aa87333-234" TIPOREL="ident data_morte">avó Dionísia</EM>
+      , deixando-lhe uma pequena herança. Com esse dinheiro, monta uma pequena tipografia, que rapidamente faliu, na
+      <EM ID="aa87333-236" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="incluido">Rua da Conceição da Glória</EM>
+      , 38-4.º, sob o nome de «
+      <EM ID="aa87333-237" CATEG="ABSTRACCAO" TIPO="NOME"  >Empresa Íbis --- Tipografia Editora --- Oficinas a Vapor</EM>
+      ».
+      <EM ID="aa87333-238" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >A partir de 1908</EM>
+      , dedica-se à tradução de correspondência comercial, um trabalho que poderíamos chamar de "correspondente estrangeiro". Nessa profissão trabalha a vida toda, tendo uma modesta vida pública.
+    
+    
+      Inicia a sua actividade de ensaista e crítico literário com a publicação,
+      <EM ID="aa87333-240" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1912</EM>
+      , na revista «
+      <EM ID="aa87333-241" CATEG="LOCAL" TIPO="VIRTUAL"  >Águia</EM>
+      », do artigo «
+      <EM ID="aa87333-242" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">A nova poesia portuguesa sociologicamente considerada</EM> 
+      », a que se seguiriam outros.
+    
+    
+      <EM ID="aa87333-243" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      é internado
+      <EM ID="aa87333-244" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no dia 29 de Novembro de 1935</EM>
+      , no
+      <EM ID="aa87333-245" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|HUMANO" COREL="aa87333-4" TIPOREL="LOCAL**incluido**aa87333-4**LOCAL">Hospital de São Luís dos Franceses</EM>
+      , com diagnóstico de "cólica hepática" (provavelmente uma colangite aguda causada por cálculo biliar), falecendo de suas complicações, possivelmente associada a uma cirrose hepática provocada pelo óbvio excesso de álcool ao longo da sua vida (a título de curiosidade acredita-se que era muito fiel à aguardente "
+      <EM ID="aa87333-246" CATEG="COISA" TIPO="CLASSE"  >Águia Real</EM>
+      ").
+      <EM ID="aa87333-247" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="aa87333-5" TIPOREL="data_morte">No dia 30 de Novembro</EM>
+      morre aos
+      <EM ID="aa87333-248" CATEG="VALOR" TIPO="QUANTIDADE"  >47 anos</EM>
+      . <EM ID="aa87333-105" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >Nos últimos momentos</EM> da sua vida pede os óculos e clama pelos seus heterónimos. A sua última frase é escrita no idioma no qual foi educado, o inglês: I know not what tomorrow will bring ("Eu não sei o que o amanhã trará").
+    
+    Legado
+    [...]
+    
+      Analogamente a
+      <EM ID="aa87333-249" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pompeu</EM>
+      que disse que "navegar é preciso; viver não é preciso",
+      <EM ID="aa87333-250" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      diz, no poema 
+      <EM ID="aa87333-251" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-5" TIPOREL="obra_de">Navegar é Preciso</EM>  
+      , que "viver não é necessário; o que é necessário é criar". Outra interpretação comum deste poema diz respeito ao fato de que a navegação foi resultado de uma atitude racionalista do mundo ocidental (a navegação exigiria precisão) enquanto a vida poderia dispensar tal precisão.
+    
+    
+      Sobre
+      <EM ID="aa87333-252" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando Pessoa</EM>
+      , o poeta mexicano ganhador do
+      <EM ID="aa87333-253" CATEG="OUTRO"   >Nobel de Literatura</EM>
+      <EM ID="aa87333-254" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-253" TIPOREL="outrarel">Octavio Paz</EM>
+      diz que "os poetas não têm biografia. Sua obra é sua biografia" e que, no caso do poeta português, "nada em sua vida é surpreendente --- nada, exceto seus poemas". O crítico literário estadunidense
+      <EM ID="aa87333-255" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Harold Bloom</EM>
+      considerou-o, no seu livro
+      <EM ID="aa87333-256" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-255" TIPOREL="obra_de">The Western Canon</EM>
+      ("
+      <EM ID="aa87333-257" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="aa87333-256" TIPOREL="ident">O Cânone Ocidental</EM>
+      "), o mais representativo poeta
+      <EM ID="aa87333-258" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >do século XX</EM>
+      , ao lado do chileno
+      <EM ID="aa87333-259" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Pablo Neruda</EM>
+      .[3]
+    
+    
+      Na comemoração do centenário do seu nascimento
+      <EM ID="aa87333-260" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 1988</EM>
+      , seu corpo foi transladado para o
+      <EM ID="aa87333-261" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-4" TIPOREL="incluido">Mosteiro dos Jerónimos</EM>
+      , confirmando o reconhecimento que não teve em vida.
+    
+    
+      [editar]
+      <EM ID="aa87333-262" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Pessoa</EM>
+      e o ocultismo
+    
+    
+      <EM ID="aa87333-264" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando Pessoa</EM>
+      possuía ligações com o ocultismo e o misticismo, salientando-se a
+      <EM ID="aa87333-265" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="aa87333-5" TIPOREL="ABSTRACCAO**praticante_de**aa87333-5**PESSOA">Maçonaria</EM>
+      e a
+      <EM ID="aa87333-266" CATEG="ABSTRACCAO|ORGANIZACAO" TIPO="DISCIPLINA|INSTITUICAO" COREL="aa87333-5" TIPOREL="ABSTRACCAO**praticante_de**aa87333-5**PESSOA">Rosa-Cruz</EM>
+      (embora não se conheça qualquer filiação concreta em
+      <EM ID="aa87333-267" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa87333-265" TIPOREL="incluido">Loja</EM>
+      ou
+      <EM ID="aa87333-268" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="aa87333-266" TIPOREL="incluido">Fraternidade</EM>
+      destas escolas de pensamento), havendo inclusive defendido publicamente as organizações iniciáticas, no
+      <EM ID="aa87333-158" CATEG="LOCAL" TIPO="VIRTUAL"  >Diário de Lisboa</EM>
+      ,
+      <EM ID="aa87333-270" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 4 de fevereiro de 1935</EM>
+      , contra ataques por parte da ditadura do
+      <EM ID="aa87333-271" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >Estado Novo</EM>
+      . O seu poema hermético mais conhecido e apreciado entre os estudantes de esoterismo intitula-se "
+      <EM ID="aa87333-272" CATEG="ABSTRACCAO" TIPO="NOME" COREL="aa87333-5" TIPOREL="nome_de_obra_de">No Túmulo de Christian Rosenkreutz</EM>
+      ". Tinha o hábito de fazer consultas astrológicas para si mesmo (de acordo com a sua certidão de nascimento, nasceu
+      <EM ID="aa87333-273" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >às 15h20</EM>
+      ; tinha ascendente
+      <EM ID="aa87333-274" CATEG="OUTRO"   >Escorpião</EM>
+      e o
+      <EM ID="aa87333-275" CATEG="OUTRO"   >Sol</EM>
+      em
+      <EM ID="aa87333-276" CATEG="OUTRO"   >Gémeos</EM>
+      ). Realizou mais de mil horóscopos.
+    
+    
+      Certa vez, lendo uma publicação inglesa do famoso ocultista
+      <EM ID="aa87333-277" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Aleister Crowley</EM>
+      ,
+      <EM ID="aa87333-278" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando</EM>
+      encontrou erros no horóscopo e escreveu ao inglês para corrigi-lo, já que era um conhecedor e praticante da astrologia, conhecimentos estes que impressionaram
+      <EM ID="aa87333-279" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-277" TIPOREL="ident">Crowley</EM>
+      e, como gostava de viagens, o fizeram ir até
+      <EM ID="aa87333-280" CATEG="LOCAL" TIPO="HUMANO" COREL="aa87333-220" TIPOREL="ident">Portugal</EM>
+      para conhecer o poeta. Junto com ele veio a maga alemã
+      <EM ID="aa87333-281" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Miss Jaeger</EM>
+      , que passou a escrever cartas a
+      <EM ID="aa87333-282" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-5" TIPOREL="ident">Fernando</EM>
+      assinando com um pseudônimo ocultista. O encontro não foi muito amigável, dados os graves desequilíbrios psíquico e espiritual que
+      <EM ID="aa87333-283" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="aa87333-277" TIPOREL="ident">Crowley</EM>
+      sofria e --- apesar disso --- ensinava.
+    
+  

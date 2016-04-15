@@ -1,0 +1,137 @@
+$S-28
+A	 [o] <*> <artd> DET F S @>N  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+evento	 [evento] <event> <occ> N M S @P<  O
+contou	 [contar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+com	 [com] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+presença	 [presença] <state> <per> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Fernando=Gomes	 [Fernando=Gomes] <hum> <*> PROP M S @P< PES O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M/F S @N<PRED REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N O
+Câmara=Municipal=do=Porto	 [Câmara=Municipal=do=Porto] <inst> <*> PROP F S @P< ORG O
+$, O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+vereador	 [vereador] <Hprof> N M S @P<  O
+Wan=Chun	 [Wan=Chun] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+em	 [em] PRP @ADVL>  O
+representação	 [representação] <sem-s> <activity> <HH> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Sales=Marques	 [Sales=Marques] <hum> <*> PROP M S @P<  O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M/F S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Leal=Senado	 [Leal=Senado] <hum> <*> PROP M S @P<  O
+$, O
+a=qual	 [o=qual] <clb> <clb-fs> <rel> SPEC F S @SUBJ>  O
+foi	 [ser] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+enriquecida	 [enriquecido] ADJ F S @<SC  O
+com	 [com] PRP @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+pequeno	 [pequeno] <jh> ADJ M S @>N  O
+concerto	 [concerto] <occ> <sem-l> N M S @P<  O
+em	 [em] <np-close> PRP @N<PRED @ADVL>  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+os	 [o] <artd> DET M P @>N  O
+instrumentistas	 [instrumentista] <Hattr> N M P @SUBJ>  O
+Wong=On=Yuen	 [Wong=On=Yuen] <hum> <*> <np-close> PROP M S @N<  O
+e	 [e] KC @NPHR  O
+António=Ferro	 [António=Ferro] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+tocando	 [tocar] <clb> <mv> V GER @ICL-<ADVL  O
+ehru	 [ehru] N M S @<ACC  O
+e	 [e] KC @NPHR  O
+viola-	 [viola] <hyfen> <tool-mus> N F S @<ACC  O
+baixo	 [baixo] ADV @<ADVL  O
+$, O
+respectivamente	 [respectivamente] ADV @<ADVL  O
+$, O
+interpretaram	 [interpretar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+várias	 [várias] <quant> DET F P @>N  O
+peças	 [peça] <sem-c> <cc-h> <amount> <cc-gun> <furn> N F P @<ACC  O
+editadas	 [editar] <vH> <mv> <np-close> V PCP F P @ICL-N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+disco	 [disco] <cc> <tool-mus> <tool> N M S @P<  O
+compacto	 [compacto] <nh> <np-close> ADJ M S @N<  O
+Sinais=de=Yuanju	 [Sinais=de=Yuanju] <brand> <*> <np-close> PROP M S @N<  O
+$. O
+</s>
+
+$S-288
+A	 [o] <*> <artd> DET F S @>N  O
+abertura	 [abertura] <Lopening> <am> <act> N F S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+evento	 [evento] <event> <occ> N M S @P<  O
+contou	 [contar] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+com	 [com] PRP @<PIV  O
+a	 [o] <artd> DET F S @>N  O
+presença	 [presença] <state> <per> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Fernando=Gomes	 [Fernando=Gomes] <hum> <*> PROP M S @P< O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M/F S @N<PRED  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+Câmara=Municipal=do=Porto	 [Câmara=Municipal=do=Porto] <inst> <*> PROP F S @P< ORG O
+$, O
+e	 [e] KC @NPHR  O
+de	 [de] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N O
+vereador	 [vereador] <Hprof> N M S @P< REL
+Wan=Chun	 [Wan=Chun] <hum> <*> <np-close> PROP M S @N< PES O
+$, O
+em	 [em] PRP @ADVL>  O
+representação	 [representação] <sem-s> <activity> <HH> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+Sales=Marques	 [Sales=Marques] <hum> <*> PROP M S @P<  O
+$, O
+presidente	 [presidente] <Hprof> <np-close> N M/F S @APP  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+Leal=Senado	 [Leal=Senado] <hum> <*> PROP M S @P<  O
+$, O
+a=qual	 [o=qual] <clb> <clb-fs> <rel> SPEC F S @SUBJ>  O
+foi	 [ser] <vK> <mv> <np-close> V PS 3S IND VFIN @FS-N<  O
+enriquecida	 [enriquecido] ADJ F S @<SC  O
+com	 [com] PRP @<ADVL  O
+um	 [um] <arti> DET M S @>N  O
+pequeno	 [pequeno] <jh> ADJ M S @>N  O
+concerto	 [concerto] <occ> <sem-l> N M S @P<  O
+em	 [em] <np-close> PRP @N<PRED @ADVL>  O
+que	 [que] <clb-fs> <rel> SPEC M S @P<  O
+os	 [o] <artd> DET M P @>N  O
+instrumentistas	 [instrumentista] <Hattr> N M P @SUBJ>  O
+Wong=On=Yuen	 [Wong=On=Yuen] <hum> <*> <np-close> PROP M S @N<  O
+e	 [e] KC @NPHR  O
+António=Ferro	 [António=Ferro] <hum> <*> <np-close> PROP M S @N<  O
+$, O
+tocando	 [tocar] <clb> <mv> V GER @ICL-<ADVL  O
+ehru	 [ehru] N M S @<ACC  O
+e	 [e] KC @NPHR  O
+viola-	 [viola] <hyfen> <tool-mus> N F S @<ACC  O
+baixo	 [baixo] ADV @<ADVL  O
+$, O
+respectivamente	 [respectivamente] ADV @<ADVL  O
+$, O
+interpretaram	 [interpretar] <vH> <mv> <np-close> V PS/MQP 3P IND VFIN @FS-N<  O
+várias	 [várias] <quant> DET F P @>N  O
+peças	 [peça] <sem-c> <cc-h> <amount> <cc-gun> <furn> N F P @<ACC  O
+editadas	 [editar] <vH> <mv> <np-close> V PCP F P @ICL-N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+disco	 [disco] <cc> <tool-mus> <tool> N M S @P<  O
+compacto	 [compacto] <nh> <np-close> ADJ M S @N<  O
+Sinais=de=Yuanju	 [Sinais=de=Yuanju] <brand> <*> <np-close> PROP M S @N<  O
+$. O
+</s>

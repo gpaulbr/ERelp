@@ -1,0 +1,51 @@
+
+    
+      <EM ID="H2-bbb-224" CATEG="PESSOA|ABSTRACCAO" TIPO="INDIVIDUAL|DISCIPLINA"  >HEIDEGGER</EM>
+      e o 4-4-2: Foi,
+      <EM ID="H2-bbb-28" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ontem</EM>
+      , apresentado o livro «
+      <EM ID="H2-bbb-225" CATEG="OBRA" TIPO="REPRODUZIDA"  >Liderança - As Lições de José Mourinho</EM>
+      » de
+      <EM ID="H2-bbb-226" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-bbb-225" TIPOREL="autor_de">Luís Lourenço</EM>
+      , baseado na sua tese de mestrado. Segundo o autor,
+      <EM ID="H2-bbb-227" CATEG="PESSOA" TIPO="INDIVIDUAL"  >José Mourinho</EM>
+      "é diferente por partir de um novo paradigma de pensamento, preconizado por
+      <EM ID="H2-bbb-228" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-bbb-224" TIPOREL="PESSOA**ident**H2-bbb-224**PESSOA">Heidegger</EM>
+      ou
+      <EM ID="H2-bbb-229" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Morin</EM>
+      , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o
+      <EM ID="H2-bbb-230" CATEG="ABSTRACCAO" TIPO="IDEIA"  >Todo</EM>
+      , que põe de parte a divisão e análise das partes e o pensamento cartesiano
+      <EM ID="H2-bbb-231" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de há quatro séculos</EM>
+      ". Cada vez que leio isto (e faço-o
+      <EM ID="H2-bbb-30" CATEG="TEMPO" TIPO="FREQUENCIA"  >várias vezes ao dia</EM>
+      , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de
+      <EM ID="H2-bbb-233" CATEG="LOCAL" TIPO="HUMANO"  >Stanford Bridge</EM>
+      :
+    
+    
+      - Eh pá, o
+      <EM ID="H2-bbb-235" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Chelsea</EM>
+      não merecia ter empatado este jogo.
+    
+    
+      - Pois não. Mas a primeira parte foi tão má que parecia que o
+      <EM ID="H2-bbb-236" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-bbb-227" TIPOREL="ident">Mourinho</EM>
+      não tinha lido «
+      <EM ID="H2-bbb-237" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="H2-bbb-228" TIPOREL="obra_de">O Ser e o Tempo</EM>
+      ».
+    
+    
+      - Quantas vezes é que o
+      <EM ID="H2-bbb-238" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-bbb-228" TIPOREL="ident">Heidegger</EM>
+      avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?
+    
+    - Exacto. Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.
+    
+      - Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o
+      <EM ID="H2-bbb-239" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="H2-bbb-227" TIPOREL="ident">Mourinho</EM>
+      não conseguiu ver o
+      <EM ID="H2-bbb-240" CATEG="ABSTRACCAO" TIPO="IDEIA" COREL="H2-bbb-230" TIPOREL="ident">Todo</EM>
+      .
+    
+  

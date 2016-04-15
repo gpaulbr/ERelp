@@ -1,0 +1,88 @@
+$S-1
+EUA=Mantém	 [EUA=Mantém] <org> PROP M/F S @NPHR O
+Em=Segredo=Armas=Não-LETAIS	 [Em=Segredo=Armas=Não-LETAIS] <org> <np-close> PROP M/F S @N< O
+Debora=MacKenzie	 [Debora=MacKenzie] <hum> <np-long> PROP F S @N< PES O
+$, O
+de	 [de] <sam-> PRP @ADVL REL
+a	 [o] <artd> <-sam> DET F S @>N O
+New=Scientist	 [New=Scientist] <org> PROP F S @P< ORG O
+$( O
+www.newscientist.com	 [www.newscientist.com] <np-close> N M S @N<PRED O 
+$) O
+Bactérias	 [bactéria] <Acell> <np-close> N F P @N<PRED O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+comem	 [comer] <vH> <mv> <np-close> V PR 3P IND VFIN @FS-N< O 
+estradas	 [estrada] <Lpath> N F P @<ACC O
+e	 [e] <co-acc> KC @CO O
+edifícios	 [edifício] <build> N M P @<ACC O
+$. O
+</s>
+
+$S-2
+A	 [o] <artd> DET F S @>N O
+pressão	 [pressão] <am> <tool> N F S @SUBJ> O
+restritiva	 [restritivo] <nh> <np-close> ADJ F S @N< O 
+não	 [não] ADV @ADVL> O
+parece	 [parecer] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+ter	 [ter] <aux> V INF @ICL-AUX< O
+vindo	 [vir] <mv> V PCP @ICL-AUX< O
+de	 [de] <sam-> PRP @<ADVL O
+a	 [o] <artd> <-sam> DET F S @>N O
+própria	 [próprio] <ident> DET F S @>N O
+JNLWP	 [JNLWP] <inst> PROP F S @P< ORG O
+$, O
+porque	 [porque] <clb> <clb-fs> KS @SUB O
+em	 [em] <sam-> PRP @ADVL> O
+a	 [o] <artd> <-sam> DET F S @>N O
+semana	 [semana] <dur> N F S @P< O
+passada	 [passado] <np-close> ADJ F S @N< O 
+esta	 [este] <dem> DET F S @SUBJ> O
+enviou	 [enviar] <vH> <mv> V PS 3S IND VFIN @FS-<ADVL O
+a	 [o] <artd> DET F S @>N O
+Hammond	 [Hammond] <org> PROP F S @<ACC PES O
+oito	 [oito] <card> NUM M P @>N O
+documentos	 [documento] <cc-r> N M P @PRED> O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @ACC> O
+ele	 [ele] PERS M 3S NOM @SUBJ> O
+havia	 [haver] <aux> <np-close> V IMPF 3S IND VFIN @FS-N< O
+requerido	 [requerer] <vH> <mv> V PCP M S @ICL-AUX< O
+$, O
+incluindo	 [incluir] <clb> <mv> V GER @ICL-<ADVL O
+três	 [três] <card> NUM M/F P @<ACC O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> O
+estavam	 [estar] <mv> <np-close> V IMPF 3P IND VFIN @FS-N< O
+em	 [em] <sam-> PRP @<SA O
+a	 [o] <artd> <-sam> DET F S @>N O
+lista	 [lista] <cc-r> N F S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+a	 [o] <-sam> DET F S @P< O
+Em	 [em] <sam-> <np-close> PRP @N< O 
+as	 [o] <artd> <-sam> DET F P @>N O
+$. O
+</s>
+
+$S-3
+New=Scientist	 [New=Scientist] <hum> PROP M/F S @SUBJ> ORG O
+não	 [não] ADV @ADVL> O
+pode	 [poder] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+contatar	 [contatar] <vH> <mv> V INF @ICL-AUX< O
+Hale	 [Hale] <hum> PROP M/F S @<ACC PES O
+$. O
+</s>
+
+$S-4
+Mas	 [mas] KC @CO O
+isso	 [isso] <dem> SPEC M S @SUBJ> O
+não	 [não] ADV @ADVL> O
+é	 [ser] <clb-fs> <vK> <mv> <quote> V PR 3S IND VFIN @FS-ACC>> O
+verdade	 [verdade] <percep-f> <ac> N F S @<SC O
+$, O
+argumenta	 [argumentar] <fmc> <vH> <mv> <v-quote> V PR 3S IND VFIN @FS-STA O
+Mark=Wheelis	 [Mark=Wheelis] <hum> PROP M/F S @<SUBJ PES O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+Universidade=da=California	 [Universidade=da=California] <inst> PROP F S @P< ORG O
+$, O
+Davis	 [Davis] <hum> PROP M/F S @<SC O
+$. O
+</s>

@@ -1,0 +1,13 @@
+$S-1
+ANPC	 [ANPC] <org> PROP F S @SUBJ> ORG O
+realizou	 [realizar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA O
+$, O
+de	 [de] PRP @<ADVL O
+15	[15] NUM M/F P @P< O
+a	[a] PRP @<ADVL O
+18	[18] NUM M/F P @P< O
+de	 [de] <np-close> PRP @N< O
+Julho	 [julho] <prop> N M S @P< O
+$, O
+em	 [em] PRP @<ADVL O
+Albufeira	 [Albufeira] <civ> PROP F S @P< LOCAL O

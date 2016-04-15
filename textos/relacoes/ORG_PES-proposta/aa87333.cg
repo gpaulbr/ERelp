@@ -1,0 +1,103 @@
+$S-1
+O	 [o] <artd> DET M S @>N O
+seu	 [seu] <poss 3S> DET M S @>N O
+pai	 [pai] <Hfam> N M S @SUBJ> O
+era	 [ser] <vK> <fmc> <mv> V IMPF 3S IND VFIN @FS-STA O
+funcionário=público	 [funcionário=público] <Hprof> N M S @<SC O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+Ministério=da=Justiça	 [Ministério=da=Justiça] <inst> PROP M S @P< O
+e	 [e] <co-prparg> KC @CO O
+crítico	 [crítico] <Hprof> N M S @P< O
+musical	 [musical] <nh> <np-close> ADJ M S @N< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+$" O
+Diário=de=Notícias	 [Diário=de=Notícias] <media> PROP M S @P< ORG O
+$" O
+$, O
+Joaquim=de=Seabra=Pessoa	 [Joaquim=de=Seabra=Pessoa] <hum> PROP M S @<SC PES O
+$( O
+38	 [38] <card> <np-close> NUM M/F P @N<PRED O 
+$) O
+$, O
+natural	 [natural] <jh> ADJ M S @<SC O
+de	 [de] PRP @A< O
+Lisboa	 [Lisboa] <civ> PROP F S @P< O
+$; O
+</s>
+
+$S-2
+Pessoa	 [Pessoa] <hum> PROP M S @SUBJ> PES O
+é	 [ser] <fmc> <aux> V PR 3S IND VFIN @FS-STA O
+internado	 [internar] <vH> <mv> V PCP M S @ICL-AUX< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+dia	 [dia] <per> <dur> <temp> N M S @P< O
+29	 [29] <card> <np-close> NUM M/F P @N< O 
+de	 [de] <np-close> PRP @N< O
+Novembro	 [novembro] <prop> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+1935	 [1935] <card> <year> <date> NUM M/F P @P< O
+$, O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Hospital=de=São=Luís=dos=Franceses	 [Hospital=de=São=Luís=dos=Franceses] <inst> PROP M S @P< ORG O
+$, O
+com	 [com] <np-close> PRP @N<PRED O
+diagnóstico	 [diagnóstico] <sem-r> N M S @P< O
+de	 [de] <np-close> PRP @N< O
+$"  O
+cólica=hepática	 [cólica=hepática] <sick> N F S @P< O
+$" O
+$( O
+provavelmente	 [provavelmente] ADV @ADVL> O
+uma	 [um] <arti> DET F S @>N O
+colangite	 [colangite] <DERS> <np-close> N F S @N<PRED O 
+aguda	 [agudo] <np-close> ADJ F S @N< O 
+causada	 [causar] <mv> <np-close> V PCP F S @ICL-N< O
+por	 [por] PRP @<PASS O
+cálculo	 [cálculo] <sem-c> N M S @P< O
+biliar	 [biliar] <nh> <np-close> ADJ M S @N< O
+$) O
+$, O
+falecendo	 [falecer] <clb> <mv> V GER @ICL-<ADVL O
+de	 [de] PRP @<ADVL O
+suas	 [seu] <si> <poss 3S> DET F P @>N O
+complicações	 [complicação] <ac> N F P @P< O
+$, O
+possivelmente	 [possivelmente] ADV @ADVL> O
+associada	 [associar] <vH> <mv> V PCP F S @ICL-N<PRED O
+a	 [a] PRP @<PIV O
+uma	 [um] <arti> DET F S @>N O
+cirrose	 [cirrose] <sick> N F S @P< O
+hepática	 [hepático] <nh> <np-close> ADJ F S @N< O 
+provocada	 [provocar] <mv> <np-close> V PCP F S @ICL-N< O 
+por	 [por] <sam-> PRP @<PASS O
+o	 [o] <artd> <-sam> DET M S @>N O
+óbvio	 [óbvio] <nh> ADJ M S @>N O
+excesso	 [excesso] <amount> <act> N M S @P< O
+de	 [de] <np-close> PRP @N< O 
+álcool	 [álcool] <cm-liq> N M S @P< O
+ao=longo=de	 [ao=longo=de] <sam-> <np-close> PRP @N< O 
+a	 [o] <-sam> <artd> DET F S @>N O
+sua	 [seu] <si> <poss 3S> DET F S @>N O
+vida	 [vida] <per> N F S @P< O
+$( O
+a=título=de	 [a=título=de] PRP @<ADVL O
+curiosidade	 [curiosidade] <am> <ac> N F S @P< O
+acredita-	 [acreditar] <hyfen> <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+se	 [se] <refl> PERS M 3S ACC @<ACC-PASS O
+que	 [que] <clb> <clb-fs> KS @SUB O
+era	 [ser] <vK> <mv> V IMPF 3S IND VFIN @FS-<SUBJ O
+muito	 [muito] <quant> ADV @>A O
+fiel	 [fiel] <jh> ADJ F S @<SC O
+a	 [a] <sam-> PRP @A< O
+a	 [o] <-sam> <artd> DET F S @>N O
+aguardente	 [aguardente] <drink> N F S @P< O
+$" O
+Águia=Real	 [Águia=Real] <org> PROP F S @<SUBJ O
+$" O
+$) O
+$. O
+</s>

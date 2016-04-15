@@ -1,0 +1,27 @@
+$S-1
+Foi	 [ser] <fmc> <aux> V PS 3S IND VFIN @FS-STA O
+desenvolvida	 [desenvolver] <mv> V PCP F S @ICL-AUX< O
+em	 [em] PRP @<ADVL O
+1935	 [1935] <card> <year> <date> NUM M/F P @P< O
+por	 [por] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+médico	 [médico] <Hprof> N M S @P< O
+neurologista	 [neurologista] <jh> <np-close> ADJ M S @N< O 
+português	 [português] <nat> <jh> <np-long> ADJ M S @N< O
+António=Egas=Moniz	 [António=Egas=Moniz] <hum> <np-close> PROP M S @N< O 
+$( O
+1874-1955	 [1874-1955] <card> <np-close> NUM M/F P @N<PRED O
+$) O
+$, O
+em	 [em] PRP @<ADVL O
+equipe	 [equipe] <HH> N F S @P< O
+com	 [com] PRP @<ADVL O
+o	 [o] <artd> DET M S @>N O
+cirurgião	 [cirurgião] <Hprof> N M S @P< O
+Almeida=Lima	 [Almeida=Lima] <hum> <np-close> PROP M S @N< PES O
+$, O
+em	 [em] <sam-> PRP @<ADVL REL
+a	 [o] <artd> <-sam> DET F S @>N O
+Universidade=de=Lisboa	 [Universidade=de=Lisboa] <inst> PROP F S @P< ORG O
+$. O
+</s>

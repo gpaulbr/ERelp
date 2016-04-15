@@ -1,0 +1,220 @@
+
+    NOME: COLETIVOS, SENHA: COLABORAÇÃO
+    
+      <EM ID="gtqqq-1" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Ricardo Rosas</EM>
+    
+    
+      A recente onda dos coletivos artísticos e ativistas (ou "artivistas") no
+      <EM ID="gtqqq-2" CATEG="LOCAL" TIPO="HUMANO"  >Brasil</EM>
+      tem chamado a atenção da mídia mainstream para um fenômeno de proporções bem maiores e razões mais profundas que a vã filosofia dos cadernos culturais poderia imaginar. Pouco compreendida, a dinâmica destas articulações chega assim maquiada com um verniz espetaculoso e superficial que, ao que parece, tenta esconder o pano de fundo crítico e instrumental desses grupos. <EM ID="gtqqq-300" CATEG="TEMPO" TIPO="FREQUENCIA"  >Muitas vezes</EM> passageiros como um casual flashmob, outras vezes organizados e duradouros como uma associação, tais ajuntamentos são na verdade indícios de uma mutação maior que está se dando tanto na esfera tecnológica quanto na social.
+    
+    
+      Coletivos, em si, nada têm de novo. Já  são uma tradição na arte, na literatura, que percorreu
+      <EM ID="gtqqq-155" CATEG="TEMPO" TIPO="GENERICO"  >todo o século vinte</EM>
+      , aqui como lá fora. Segundo o historiador de coletivos artísticos
+      <EM ID="gtqqq-4" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Alan Moore</EM>
+      (1) , seu ponto de partida foi logo após a
+        <EM ID="gtqqq-248" CATEG="ACONTECIMENTO" TIPO="EFEMERIDE"  >Revolução Francesa</EM>
+      , com os  estudantes de
+      <EM ID="gtqqq-6" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Jacques-Louis David</EM>
+      , os barbados, ou "
+      <EM ID="gtqqq-7" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Barbu</EM>
+      ", que formaram uma comunidade criativa que viria a ser chamada de
+      <EM ID="gtqqq-8" CATEG="ABSTRACCAO" TIPO="NOME" COREL="gtqqq-7" TIPOREL="nome_de_praticado_por">Boêmia</EM>
+      , espécie de nação imaginária espiritual de artistas -cujo nome provinha de uma nação de verdade e geraria a idealização do estilo de vida "boêmio"-, compondo um contraponto à academia oficial.
+      Desde então, o fenômeno tem <EM ID="gtqqq-800" CATEG="TEMPO" TIPO="FREQUENCIA"  >ocasionalmente</EM> se repetido ao longo da história da arte, como o
+      <EM ID="gtqqq-9" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO"  >Arts and Crafts</EM>
+      na
+      <EM ID="gtqqq-10" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-9 gtqqq-9" TIPOREL="LOCAL**pratica_se**gtqqq-9**ABSTRACCAO LOCAL**local_nascimento_de**gtqqq-9**PESSOA">Inglaterra</EM>
+      vitoriana, dadaístas, situacionistas,
+      <EM ID="gtqqq-158" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA"  >Fluxus</EM>
+      , numa lista quase infinita de grupos dos mais diversos tipos. No
+      <EM ID="gtqqq-12" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-2" TIPOREL="ident">Brasil</EM>
+      , eles remontam
+      <EM ID="gtqqq-159" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao século dezenove</EM>
+      , com o grupo dos românticos em
+      <EM ID="gtqqq-13" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-2" TIPOREL="incluido">São Paulo</EM>
+      , os grupelhos de poetas simbolistas, os modernistas
+      <EM ID="gtqqq-168" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >da década de 1920</EM>
+      , o grupo antropofágico, os concretistas
+      <EM ID="gtqqq-169" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >nos anos 1950</EM>
+      , o coletivo
+      <EM ID="gtqqq-163" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Rex</EM>
+      de artistas
+      <EM ID="gtqqq-170" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na década seguinte</EM>
+      ,
+      <EM ID="gtqqq-164" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">3Nós3</EM>
+      e
+      <EM ID="gtqqq-165" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Manga Rosa</EM>
+      <EM ID="gtqqq-171" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na década de 1970</EM>
+      ,
+      <EM ID="gtqqq-166" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Tupi Não Dá</EM>
+      , ou os mais recentes
+      <EM ID="gtqqq-167" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Neo-Tao</EM>
+      e
+      <EM ID="gtqqq-172" CATEG="PESSOA|ABSTRACCAO" TIPO="GRUPOMEMBRO|DISCIPLINA" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Mico</EM>
+      , entre inúmeros outros.
+    
+    
+      O que diferencia a atual voga de movimentações coletivas no
+      <EM ID="gtqqq-173" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-2" TIPOREL="ident">Brasil</EM>
+      são o caráter político de boa parte delas, assim como o uso que muitas fazem da internet, seja via listas de discussão, websites, fotologs e blogs ou simplesmente comunicação e ações planejadas por e-mail.
+    
+    
+      Na
+      <EM ID="gtqqq-174" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-10 gtqqq-248 gtqqq-6" TIPOREL="inclui sede_de local_nascimento_de">Europa</EM>
+      e nos
+      <EM ID="gtqqq-175" CATEG="LOCAL" TIPO="HUMANO"  >EUA</EM>
+      , a fusão de arte e política já estava presente nos dadaístas e surrealistas, e representou o ponto fundamental dos situacionistas no pós-guerra, e desde então
+      essa mescla tem se dado em vários grupos que atuam na fronteira ativismo/arte, como o
+      <EM ID="gtqqq-177" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Arte &amp; Linguagem</EM>
+      ,
+      <EM ID="gtqqq-180" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Art Workers Coalition</EM>
+      ,
+      <EM ID="gtqqq-182" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Black Mask</EM>
+      , neoístas,
+      <EM ID="gtqqq-183" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Gran Fury</EM>
+      ,
+      <EM ID="gtqqq-184" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Group Material</EM>
+      ,
+      <EM ID="gtqqq-185" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">PAD/D</EM>
+      ,
+      <EM ID="gtqqq-186" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Guerrilla Girls</EM>
+      , ou os mais recentes
+      <EM ID="gtqqq-187" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-174 gtqqq-174" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-174**LOCAL PESSOA**natural_de**gtqqq-174**LOCAL">Luther Blissett Project</EM>
+      ,
+      <EM ID="gtqqq-188" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">RTmark</EM>
+      ,
+      <EM ID="gtqqq-189" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-174 gtqqq-174" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-174**LOCAL PESSOA**natural_de**gtqqq-174**LOCAL">Etoy</EM>
+      ,
+      <EM ID="gtqqq-191" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-175 gtqqq-175" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-175**LOCAL PESSOA**natural_de**gtqqq-175**LOCAL">Critical Art Ensemble</EM>
+      , boa parte destes últimos atuando diretamente com alta tecnologia, no que se tem atualmente denominado de mídia tática.
+    
+    
+      Se essa junção sempre esteve presente lá fora, o atual beco sem saída do neoliberalismo parece haver despertado a consciência de vários grupos no
+      <EM ID="gtqqq-192" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-2" TIPOREL="ident">Brasil</EM>
+      , que passaram a criar fora das instituições estabelecidas com performances, intervenções urbanas, festas, tortadas, filmagens in loco de protestos e manifestações, ocupações, trabalhos com movimentos sociais, culture jamming e ativismo de mídia. À diferença dos coletivos high tech europeus e americanos, os coletivos brasileiros atuam nos interstícios das práticas tradicionais da cultura instituída, em ações até agora de um víes mais low tech.
+    
+    
+      Mesmo assim, a maioria deles surgem ou agem graças à internet. Alguns, como o
+      <EM ID="gtqqq-194" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Expressão Sarcástica</EM>
+      ,
+      <EM ID="gtqqq-195" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Vitoriamario</EM>
+      ,
+      <EM ID="gtqqq-196" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Poro</EM>
+      ,
+      <EM ID="gtqqq-197" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">TEMP</EM>
+      ,
+      <EM ID="gtqqq-199" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">BaseV</EM>
+      , ou
+      <EM ID="gtqqq-200" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Cocadaboa</EM>
+      , possuem seus próprios sites. Outros, como o
+      <EM ID="gtqqq-203" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">CORO</EM>
+      , um grupo que pretende mapear todos os coletivos em ação no
+      <EM ID="gtqqq-204" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-2" TIPOREL="ident">Brasil</EM>
+      , ou a
+      <EM ID="gtqqq-205" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO" COREL="gtqqq-2 gtqqq-2" TIPOREL="ABSTRACCAO**praticado_em**gtqqq-2**LOCAL PESSOA**natural_de**gtqqq-2**LOCAL">Universidade do Fora</EM>
+      , entre outros, funcionam com lista de discussão. Blogs também hospedam grupos com identidade virtual à
+      <EM ID="gtqqq-206" CATEG="ABSTRACCAO|ABSTRACCAO" TIPO="IDEIA|DISCIPLINA" COREL="gtqqq-187" TIPOREL="ABSTRACCAO**ident**gtqqq-187**ABSTRACCAO">Luther Blissett</EM>
+      , como o
+      <EM ID="gtqqq-207" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtqqq-2" TIPOREL="natural_de">Ari Almeida</EM>
+      ou
+      <EM ID="gtqqq-208" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtqqq-2" TIPOREL="natural_de">Timóteo Pinto</EM>
+      , enquanto os fotologs tem servido como meio de divulgação de coletivos como o
+      <EM ID="gtqqq-209" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="gtqqq-2" TIPOREL="praticado_em">Radioatividade</EM>
+      , ou grupos do stencil e do sticker (adesivo) como
+      <EM ID="gtqqq-212" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="gtqqq-2" TIPOREL="praticado_em">Faca</EM>
+      ,
+      <EM ID="gtqqq-213" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="gtqqq-2" TIPOREL="praticado_em">Coletivo Rua</EM>
+      ,
+      <EM ID="gtqqq-214" CATEG="ABSTRACCAO" TIPO="DISCIPLINA" COREL="gtqqq-2" TIPOREL="praticado_em">SHN</EM>
+      , entre dezenas de outros.
+    
+    Se a tecnologia não é fundamento básico destes grupos para ações tipo hacktivismo, net arte ou similares, é por meio dela, contudo, que se dá a dinâmica de ação e propagação das atividades destes grupos na vida real. Pois uma palavra-chave de todos estes coletivos é a colaboração. Espécie de buzzword atualmente, a colaboração, bem como termos irmãos como livre cooperação, comunidade, interação e rede são senhas para uma transformação que está se dando em escala global.
+    
+      Foi a colaboração que permitiu o surgimento de movimentos massivos como os protestos "anti-globalização", bem como a organização de festas-protesto como as do
+      <EM ID="gtqqq-215" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  >Reclaim the Streets</EM>
+      , ou ainda a publicação aberta da rede
+    <EM ID="gtqqq-216" CATEG="ORGANIZACAO|ABSTRACCAO" TIPO="INSTITUICAO|DISCIPLINA"  >Indymedia</EM>
+      . A divisão de tarefas, o compartilhamento de valores e a liderança coletiva caracterizam em grande parte essas organizações cuja tradução mais exata é a filosofia do open source.
+    
+    
+      Inicialmente restrita ao círculo de programadores e geeks, a idéia da criação coletiva e distribuída que caracteriza as comunidades
+      <EM ID="gtqqq-217" CATEG="ABSTRACCAO|PESSOA" TIPO="DISCIPLINA|GRUPOMEMBRO"  >Linux</EM>
+      e software livre tem virado fonte de inspiração para grupos os mais diversos que estão se voltando para este modo de trabalho como um modelo viável e menos restritivo, não-hierárquico.
+    
+    
+      Tive recentemente a oportunidade de participar de uma conferência sobre o tema na
+      universidade de
+        <EM ID="gtqqq-220" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-175" TIPOREL="incluido">Buffalo</EM>
+        ,
+      <EM ID="gtqqq-221" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-175 gtqqq-220" TIPOREL="incluido inclui">NY</EM>
+      . Chamada "
+      <EM ID="gtqqq-222" CATEG="ABSTRACCAO" TIPO="NOME"  >Redes, arte e colaboração</EM>
+      " ("
+      <EM ID="gtqqq-223" CATEG="ABSTRACCAO" TIPO="NOME" COREL="gtqqq-222" TIPOREL="ident">Networks, art and collaboration</EM>
+      "), e organizada pelo artista e professor de novas mídias
+      <EM ID="gtqqq-224" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-174 gtqqq-221" TIPOREL="natural_de residente_de">Trebor Scholz</EM>
+      e por
+      <EM ID="gtqqq-225" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-174" TIPOREL="natural_de">Geert Lovink</EM>
+      , net crítico e teórico de mídia tática, a conferência teve o mérito de reunir diversos ativistas, teóricos e artistas que trabalham colaborativamente, e pautou por abordar diversas facetas da questão, como o conflito com os interesses financeiros das grandes instituições do capitalismo, os conflitos internos dentro da dinâmica coletiva, ou as diversas iniciativas em áreas que vão das artes à educação, da criação em rede à distribuição livre de conhecimento.
+    
+    
+      O tema é quente o bastante para gerar
+      <EM ID="gtqqq-227" CATEG="TEMPO" TIPO="DURACAO"  >semanas</EM>
+      de debates acalorados, mas aqui se limitou
+      <EM ID="gtqqq-226" CATEG="TEMPO" TIPO="DURACAO"  >a um final de semana</EM>
+      onde se sucederam mesas abertas, performances e apresentações de projetos. Teóricos e historiadores de arte ativista em coletivos como
+      <EM ID="gtqqq-228" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-221" TIPOREL="residente_de">Gregory Sholette</EM>
+      ,
+      <EM ID="gtqqq-229" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-10" TIPOREL="natural_de">Alan Moore</EM>
+      e
+      <EM ID="gtqqq-230" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-175" TIPOREL="natural_de">Brian Holmes</EM>
+      , grupos como
+      <EM ID="gtqqq-231" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtqqq-191" TIPOREL="PESSOA**ident**gtqqq-191**PESSOA">Critical Art Ensemble</EM>
+      e
+      <EM ID="gtqqq-232" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="gtqqq-186" TIPOREL="PESSOA**ident**gtqqq-186**PESSOA">Guerrilla Girls</EM>
+      , net críticos como
+      <EM ID="gtqqq-233" CATEG="PESSOA" TIPO="INDIVIDUAL"  >McKenzie Wark</EM>
+      , ou o teórico maior da colaboração online, o alemão
+      <EM ID="gtqqq-234" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-174" TIPOREL="natural_de">Cristoph Spehr</EM>
+      , estiveram presentes.
+      <EM ID="gtqqq-235" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-234" TIPOREL="ident">Spehr</EM>
+      , autor do cultuado livro 
+      <EM ID="gtqqq-236" CATEG="OBRA" TIPO="REPRODUZIDA"  >Die Aliens sind unter uns!</EM>  
+      ("
+      <EM ID="gtqqq-237" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="gtqqq-234" TIPOREL="obra_de">"Os alienígenas estão entre nós!</EM>
+      "), tem servido como o melhor tradutor da mecânica funcional do código aberto (open source) para o campo da política, da organização social, e da economia.
+    
+    
+      Entre alguns pontos fundamentais,
+      <EM ID="gtqqq-238" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-234" TIPOREL="ident">Spehr</EM>
+      defende a noção de que as relações devem se basear na liberdade e igualdade de uns para com os outros e com a cooperação; que regras devem ser estabelecidas, negociadas (e cumpridas) para que a cooperação funcione; que conflitos que surjam ao longo dessas negociações podem construir o respeito mútuo, a independência na cooperação e nos tornar mais fortes; e que organização, lealdade para com as pessoas, não com as instituições, e auto-confiança, são elementos essenciais.
+    
+    
+      Em seu livro, num estilo que remixa ensaio e ficção científica, grupos colaborativos independentes e autônomos seriam os grandes monstros que ameaçam o atual estágio do neo-liberalismo corporativo. Espécie de alienígenas no meio da lógica capitalista da competitividade e das redes de "cooperação forçada", os coletivos colaborativos autônomos atuam numa esfera que transcende a mercantilização e podem efetuar uma troca auto-sustentável que, se aplicada em larga escala - o que para muitos é pura utopia - , correria o risco de transformar totalmente a paisagem social, econômica e política do planeta. Comunismo open source? Talvez, pelo menos é o que
+      <EM ID="gtqqq-239" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-234" TIPOREL="ident">Spehr</EM>
+      acredita, com um otimismo desafiante, o mesmo que o faz organizar a conferência anual "
+      <EM ID="gtqqq-240" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO" COREL="gtqqq-234" TIPOREL="ter_participacao_de">Out of This World</EM>
+      em
+      <EM ID="gtqqq-241" CATEG="LOCAL" TIPO="HUMANO" COREL="gtqqq-174" TIPOREL="incluido">Bremen</EM>
+      , onde junta programadores, ativistas, escritores de ficção científica, filósofos e teóricos para debater a aplicação do código aberto à transformação social visando o futuro.
+    
+    
+      Por outro lado, o capitalismo há muito já aprendeu a trabalhar em rede. O fenômeno dos coletivos de livre cooperação na esfera artístico-ativista encontra seu paralelo nos grupos criativos de trabalho descentralizado e flexível produzindo para o mercado. Como diz o teórico
+      <EM ID="gtqqq-243" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-230" TIPOREL="ident">Brian Holmes</EM>
+      num ensaio sobre a questão (2), esse tipo de organização característica da produção imaterial no atual estágio capitalista do pós-fordismo, seria o da "personalidade flexível", adaptativa e versátil em sua atuação profissional, a qual, obviamente não excluiria sob hipótese alguma a competição ou o controle pela vigilância, ainda que à distância. Para combatê-la, só um ativismo "flexível" que, mesmo por sua característica cooperativa e autônoma, se adaptasse à configuração de um mundo cada vez mais baseado em redes, distribuído em setores terceirizados, "aparentemente" independentes.
+    
+    
+      Em se tratando da internet, o crescente uso das redes de compartilhamento peer-to-peer, weblogs, software livre, listas de discussão, publicações abertas tipo slashdot, wiki ou
+      <EM ID="gtqqq-244" CATEG="COISA" TIPO="CLASSE"  >Indymedia</EM>
+      , as bibliotecas online de livre acesso, foruns e todas as outras formas operacionais das comunidades na rede estariam abrindo o caminho para essa transformação pelo trabalho colaborativo que os ativistas e coletivos <EM ID="gtqqq-245" CATEG="TEMPO" TIPO="GENERICO"  >de hoje</EM> usam como tática de resistência e cuja disseminação compartilhada podem ter consequências ainda imprevisíveis.
+    
+    
+      Como diz
+      <EM ID="gtqqq-2450" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="gtqqq-174" TIPOREL="natural_de">Geert Lovink</EM>
+      em seu último livro,
+      <EM ID="gtqqq-246" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="gtqqq-2450" TIPOREL="obra_de">My First Recession</EM>
+      , a cultura da internet "é um meio global no qual redes sociais são moldadas por uma mistura de regras implícitas, redes informais, conhecimento, convenções e rituais coletivos" (3). Procurar entender o atual fenômeno dos coletivos ignorando essa dinâmica de código e cultura, ou seja, modus operandi, instrumentos, ativismos e lutas democráticas face a uma crescente repressão na guerra global do capital, equivaleria a esquecer por completo a senha <EM ID="gtqqq-117" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >na hora</EM> de logar. Esqueceu sua senha?
+    
+  

@@ -1,0 +1,9 @@
+$S-1
+Diário=de=Notícias	 [Diário=de=Notícias] <media> PROP M S @P< ORG O
+$, O
+Joaquim=de=Seabra=Pessoa	 [Joaquim=de=Seabra=Pessoa] <hum> PROP M S @<SC O
+38	 [38] <card> <np-close> NUM M/F P @N<PRED O
+$, O
+natural	 [natural] <jh> ADJ M S @<SC O
+de	 [de] PRP @A< O
+Lisboa	 [Lisboa] <civ> PROP F S @P< LOCAL O

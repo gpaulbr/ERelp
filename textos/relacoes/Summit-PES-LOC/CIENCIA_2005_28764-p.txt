@@ -1,0 +1,86 @@
+$S-3
+Para 	[para]   PRP @ADVL>  
+Greg=Laden 	[Greg=Laden] <hum>   PROP M S @P<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=de=Minnesota 	[Universidade=de=Minnesota] <inst>   PROP F S @P<  ORG
+$, 
+e 	[e] <cjt-head> KC @NPHR  
+Richard=Wrangham 	[Richard=Wrangham] <cjt-head> <hum>   PROP M S @SUBJ>  PES
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Harvard 	[Universidade=Harvard] <inst>   PROP F S @P<  
+$, 
+raízes 	[raiz] <anbo> <ac-cat> <Labs> <np-close> N F P @N<PRED  
+$, 
+tubérculos 	[tubérculo] <cjt-head> <anbo> <sick-c> N M P @SUBJ>  
+e 	[e] <cjt> KC @NPHR  
+outros 	[outro] <diff> <KOMP> DET M P @>N  
+Usos 	[uso] <prop>   <act> <ac> N M P @SUBJ>  
+$( 
+sigla 	[sigla] <cjt> <ac-sign> N F S @SUBJ>  
+em 	[em] <np-close> PRP @N<  
+inglês 	[inglês] <Hnat> <ling> N M S @P<  
+para 	[para] <np-close> PRP @N<  
+órgãos 	[órgão] <anorg> <tool-mus> <tool> <HH> <cc-r> N M P @P<  
+subterrâneos 	[subterrâneo] <nh> <np-close> ADJ M P @N<  
+de 	[de] <np-close> PRP @N<  
+armazenamento 	[armazenamento] <*2> <act> N M S @P<    
+de 	[de] <sam-> <np-close> PRP @N<  
+as 	[o] <-sam> <artd> DET F P @>N  
+plantas 	[planta] <Btree> <an> <pict> N F P @P<  
+$) 
+permitiram 	[permitir] <vH> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <artd> DET M P @>N  
+primeiros 	[primeiro] <NUM-ord> <jh> ADJ M P @>N  
+hominídeos 	[hominídeo] <H> N M P @SUBJ>  
+$, 
+como 	[como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+são 	[ser] <vK> <mv> <np-close> V PR 3P IND VFIN @FS-N<  
+conhecidos 	[conhecido] <jh> ADJ M P @<SC  
+os 	[o] <artd> DET M P @>N  
+ancestrais 	[ancestrais] <HH> N M P @<SUBJ  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+homem 	[homem] <Hattr> N M S @P<  
+$, 
+saíssem 	[sair] <mv> V IMPF 3P SUBJ VFIN @FS-<ACC  
+de 	[de] <sam-> PRP @<SA  
+a 	[o] <-sam> <artd> DET F S @>N  
+mata 	[mata] <BB> N F S @P<  
+fechada 	[fechado] <np-close> ADJ F S @N<  
+e 	[e] <cjt> KC @NPHR  
+colonizassem 	[colonizar] <vH> <fmc> <mv> V IMPF 3P SUBJ VFIN @FS-<ACC  
+ambientes 	[ambiente] <Labs> <sit> N M P @<ACC  
+abertos 	[abrir] <vH> <np-close> V PCP M P @N<  
+a=partir=de 	[a=partir=de] PRP @<ADVL  
+uns 	[um] <quant> DET M P @>N  
+6milhões   	[6milhões] <card> NUM M P @P<  
+de 	[de] PRP @<ADVL  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+atrás 	[atrás] <np-close> ADV @N<  
+$. 
+</s>
+
+$S-8
+É 	[é] <foc>   ADV @FOC>  
+aí 	[aí] <kc> ADV @ADVL>  
+que 	[que] <foc> ADV @<FOC  
+a 	[o] <artd> DET F S @>N  
+seleção 	[seleção] <act> <HH> <coll-sem> N F S @SUBJ>  
+geralmente 	[geralmente] ADV @ADVL>  
+vai 	[ir] <clb-fs> <aux> <quote> V PR 3S IND VFIN @FS-ACC  
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+forte 	[forte] <jh> ADJ F S @<SC  
+$, 
+explicou 	[explicar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+Laden 	[Laden] <hum>   PROP M/F S @<SUBJ  PES
+a 	[a] <sam-> PRP @<PIV  
+a 	[o] <-sam> <artd> DET F S @>N  
+Folha 	[Folha] <media>   PROP F S @P<  ORG
+$. 
+</s>

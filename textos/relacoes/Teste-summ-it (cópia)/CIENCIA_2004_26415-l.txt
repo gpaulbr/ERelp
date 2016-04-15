@@ -1,0 +1,46 @@
+$S-3 
+Estamos 	[estar] <clb-fs>   <aux> <quote> V PR 1P IND VFIN @FS-ACC 
+recolhendo 	[recolher] <clb> <vH> <mv> V GER @ICL-AUX<  
+amostras 	[amostra] <cc> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+coprólitos 	[coprolito] <cc-stone> N M P @P<  
+fezes 	[fez] <cloH-hat> N M P @<PRED  
+fossilizadas 	[fossilizar] V PCP F P @<PRED  
+de 	[de] <np-close> PRP @N<  
+duas 	[dois] <card> NUM F P @>N  
+cavernas 	[caverna] <Lopening> N F P @P<  
+em 	[em] <np-close> PRP @N<  
+Israel 	[Israel] <civ>   PROP M S @P<  LOCAL
+com 	[com] PRP @<ADVL  
+40mil 	[40mil] <cjt-head> <card> NUM M/F P @P<  
+anos 	[ano] <cjt> <dur> <temp> <per> <unit> N M P @P<  
+$, 
+onde 	[onde] <clb> <clb-fs> <rel> <ks> ADV @SA>  
+provavelmente 	[provavelmente] ADV @ADVL>  
+Cro-Magnons 	[Cro-Magnons] <hum>   PROP M/F S @SUBJ>  ORG 
+os 	[o] <artd> DET M P @>N  
+primeiros 	[primeiro] <NUM-ord> <jh> ADJ M P @<PRED  
+humanos 	[humano] <np-close> ADJ M P @N<  
+modernos 	[moderno] <np-long> ADJ M P @N<   
+e 	[e] KC @NPHR  
+neandertais 	[neandertal] <Hnat> N M/F P @SUBJ>  
+viveram 	[viver] <vH> <mv> V PS/MQP 3P IND VFIN @FS-<ADVL  
+lado=a=lado 	[lado=a=lado] ADV @<ADVL   
+$, 
+contou 	[contar] <vH> <fmc> <mv> <v-quote> V PS 3S IND VFIN @FS-STA  
+o 	[o] <artd> DET M S @>N  
+pesquisador 	[pesquisador] <Hprof> N M S @<SUBJ  
+durante 	[durante] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+reunião 	[reunião] <occ> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+AAAS 	[AAAS] <org>   PROP F S @P<  
+$( 
+Associação=Americana 	[Associação=Americana] <org>   <np-close> PROP F S @N<PRED  
+para 	[para] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+Avanço=da=Ciência 	[Avanço=da=Ciência] <inst>   PROP M S @P<  
+$) 
+$. 
+</s>

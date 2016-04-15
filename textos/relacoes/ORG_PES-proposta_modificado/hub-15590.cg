@@ -1,0 +1,33 @@
+$S-1
+Álvares=Pereira	 [Álvares=Pereira] <hum> PROP M/F S @SUBJ> PES O
+toma	 [tomar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+o	 [o] <artd> DET M S @>N O
+controlo	 [controlo] <am> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+a	 [o] <artd> <-sam> DET F S @>N O
+situação	 [situação] <sit> N F S @P< O
+em	 [em] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+terreno	 [terreno] <L> <Ltop> N M S @P< O
+e	 [e] <co-fin> <co-fmc> KC @CO O
+inicia	 [iniciar] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA O
+uma	 [um] <arti> DET F S @>N O
+série	 [série] <coll> N F S @<ACC O
+de	 [de] <np-close> PRP @N< O
+cercos	 [cerco] <act-d> <Lbar> N M P @P< O
+a	 [a] <np-close> PRP @N< O
+cidades	 [cidade] <Lciv> N F P @P< O
+leais	 [leal] <jh> ADJ M/F P @<PRED O
+a	 [o] <artd> DET F S @>N O
+Castela	 [Castela] <top> <np-close> PROP F S @APP ORG O
+$, O
+localizadas	 [localizar] <vH> <mv> V PCP F P @ICL-N<PRED O
+principalmente	 [principalmente] ADV @>P O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+Norte	 [norte] <prop> <dir> N M S @P< O
+de	 [de] <sam-> <np-close> PRP @N< O 
+o	 [o] <artd> <-sam> DET M S @>N O
+país	 [país] <Lciv> N M S @P< O
+$. O
+</s>

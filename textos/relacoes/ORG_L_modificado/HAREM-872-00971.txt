@@ -1,0 +1,57 @@
+$S-7
+Em	 [em] <*> PRP @ADVL>  O
+Dublin	 [Dublin] <civ> <*> PROP M S @P< LOCAL O
+$, O
+a	 [o] <artd> DET F S @>N REL
+maior	 [grande] <n> <KOMP> <jh> ADJ F S @SUBJ> REL
+é	 [ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA REL
+a	 [o] <artd> DET F S @>N REL
+Eason=and=Son	 [Eason=and=Son] <org> <*> PROP F S @<SC ORG O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+tem	 [ter] <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+uma	 [um] <arti> DET F S @>N  O
+variedade	 [variedade] <am> <meta> N F S @<ACC  O
+enorme	 [enorme] <np-close> ADJ F S @N<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+literatura	 [literatura] <domain> <sem-r> N F S @P<  O
+irlandesa	 [irlandês] <nat> <jh> <np-close> ADJ F S @N<  O
+$. O
+</s>
+
+$S-13
+Em	 [em] <*> PRP @ADVL>  O
+Waterford	 [Waterford] <civ> <*> PROP M S @P< LOCAL O
+$, O
+visite	 [visitar] <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FS-STA REL
+a	 [o] <artd> DET F S @>N REL
+fábrica	 [fábrica] <build> N F S @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+cristais	 [cristal] <cc-stone> <mat> N M P @P<  O
+Waterford	 [Waterford] <inst> <*> <np-long> PROP M/F S @N< ORG O
+$( O
+Waterford=Crystal=Factory	 [Waterford=Crystal=Factory] <inst> <*> <np-close> PROP M/F S @N<PRED  O
+$) O
+$, O
+que	 [que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  O
+foi	 [ser] <aux> <np-close> V PS 3S IND VFIN @FS-N<  O
+fundada	 [fundar] <vH> <mv> V PCP F S @ICL-AUX<  O
+em	 [em] PRP @<ADVL  O
+1783	 [1783] <card> <date> <year> NUM M/F P @P<  O
+e	 [e] KC @NPHR  O
+fica	 [ficar] <vK> <fmc> <mv> <np-close> V PR 3S IND VFIN @FS-N<  O
+a	 [a] PRP @<SC  O
+2,5	 [2,5] <card> NUM M P @>N  O
+km	 [km] <unit> N M P @P<  O
+a	 [a] <sam-> PRP @<PIV  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+sul	 [sul] <dir> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+centro	 [centro] <Labs> <inst> <Ltop> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+cidade	 [cidade] <Lciv> N F S @P<  O
+$. O
+</s>

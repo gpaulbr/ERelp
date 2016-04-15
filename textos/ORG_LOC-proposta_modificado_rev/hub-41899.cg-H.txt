@@ -1,0 +1,10 @@
+$S-1
+Dinastia=de=Avis	 [Dinastia=de=Avis] <org> PROP M S @SUBJ> ORG O
+$, O
+popular	 [popular] <H> <np-close> N M S @N<PRED O
+entre	 [entre] PRP @ADVL> O
+o=povo	 [o=povo] <HH> N M S @P< O
+após	 [após] <np-close> PRP @N< O
+ter	 [ter] <aux> V INF @ICL-P< O
+guiado	 [guiar] <vH> <mv> V PCP @ICL-AUX< O
+Portugal	 [Portugal] <civ> PROP M S @<ACC LOCAL O

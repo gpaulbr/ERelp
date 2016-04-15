@@ -1,0 +1,65 @@
+
+    
+      História protege
+      <EM ID="hub-398-214" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Briosa</EM>
+    
+    
+      CONIMBRICENSES VENCEU NA
+      <EM ID="hub-398-215" CATEG="LOCAL" TIPO="HUMANO"  >FIGUEIRA DA FOZ</EM>
+      NAS DUAS ÚLTIMAS ÉPOCAS
+    
+    
+      <EM ID="hub-398-217" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >Naval</EM>
+      e
+      <EM ID="hub-398-218" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO"  >Académica</EM>
+      não podem deixar
+      <EM ID="hub-398-219" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >amanhã</EM>
+      de olhar para a tradição. É que a
+      <EM ID="hub-398-220" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-398-214 hub-398-218" TIPOREL="ident PESSOA**ident**hub-398-218**PESSOA">Briosa</EM>
+      venceu sempre na
+      <EM ID="hub-398-222" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO" COREL="hub-398-215" TIPOREL="ident">Figueira da Foz</EM>
+      (
+      <EM ID="hub-398-223" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2005/06</EM>
+      :
+      <EM ID="hub-398-224" CATEG="VALOR" TIPO="CLASSIFICACAO"  >1-0</EM>
+      e
+      <EM ID="hub-398-225" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2006/07</EM>
+      :
+      <EM ID="hub-398-226" CATEG="VALOR" TIPO="CLASSIFICACAO"  >1-0</EM>
+      ) mas, por outro lado, a
+      <EM ID="hub-398-227" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-398-217" TIPOREL="PESSOA**ident**hub-398-217**PESSOA">Naval</EM>
+      também costuma brilhar em
+      <EM ID="hub-398-228" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO" COREL="hub-398-218" TIPOREL="LOCAL**sede_de**hub-398-218**ORGANIZACAO">Coimbra</EM>
+      --
+      <EM ID="hub-398-229" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2005/06</EM>
+      :
+      <EM ID="hub-398-230" CATEG="VALOR" TIPO="CLASSIFICACAO"  >2-2</EM>
+      e
+      <EM ID="hub-398-231" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >2006/07</EM>
+      :
+      <EM ID="hub-398-233" CATEG="VALOR" TIPO="CLASSIFICACAO"  >2-1</EM>
+      ) e,
+      <EM ID="hub-398-234" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >neste momento</EM>
+      , até está mais bem posicionada na
+      <EM ID="hub-398-235" CATEG="ACONTECIMENTO|LOCAL" TIPO="ORGANIZADO|VIRTUAL" COREL="hub-398-214 hub-398-220" TIPOREL="ACONTECIMENTO**ter_participacao_de**hub-398-214**PESSOA ACONTECIMENTO**ter_participacao_de**hub-398-220**PESSOA">Liga</EM>
+      .
+    
+    
+      <EM ID="hub-398-236" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >No ano passado</EM>
+      ,
+      <EM ID="hub-398-237" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-398-214 hub-398-218" TIPOREL="incluido PESSOA**vinculo_inst**hub-398-218**ORGANIZACAO">Joeano</EM>
+      marcou o golo do triunfo na
+      <EM ID="hub-398-238" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO"  >Figueira da Foz</EM>
+      , mas
+      <EM ID="hub-398-239" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-398-214 hub-398-218 hub-398-237" TIPOREL="incluido PESSOA**vinculo_inst**hub-398-218**ORGANIZACAO relacao_profissional">Domingos</EM>
+      desvaloriza tudo isso. «A história nem sempre se repete e não há jogos iguais. Aliás, a
+      <EM ID="hub-398-241" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-398-217" TIPOREL="PESSOA**ident**hub-398-217**PESSOA">Naval</EM>
+      fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na
+      <EM ID="hub-398-242" CATEG="LOCAL|LOCAL" TIPO="HUMANO|HUMANO" COREL="hub-398-238 hub-398-215" TIPOREL="ident LOCAL**ident**hub-398-215**LOCAL">Figueira da Foz</EM>
+      , «mais adeptos da
+      <EM ID="hub-398-243" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-398-214" TIPOREL="ident">Académica</EM>
+      do que da
+      <EM ID="hub-398-244" CATEG="PESSOA" TIPO="GRUPOMEMBRO" COREL="hub-398-217" TIPOREL="PESSOA**ident**hub-398-217**PESSOA">Naval</EM>
+      ».
+    
+  

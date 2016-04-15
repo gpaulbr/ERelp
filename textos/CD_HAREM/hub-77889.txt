@@ -1,0 +1,65 @@
+
+    
+      <EM ID="hub-77889-606" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  >China</EM>
+      vai desenvolver nova geração de telemóveis
+      <EM ID="hub-77889-607" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >em 2008</EM>
+    
+    
+      A
+      <EM ID="hub-77889-608" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-77889-606" TIPOREL="ident">China</EM>
+      vai desenvolver telemóveis de banda larga «de nova geração»
+      <EM ID="hub-77889-609" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-77889-607" TIPOREL="ident">em 2008</EM>
+      , informa
+      <EM ID="hub-77889-610" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      a imprensa estatal.
+    
+    
+      O
+      <EM ID="hub-77889-611" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-77889-606" TIPOREL="incluido">Conselho de Estado</EM>
+      aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais
+      <EM ID="hub-77889-612" CATEG="COISA" TIPO="CLASSE"  >TD-SCDMA</EM>
+      . A estreia poderá acontecer durante os
+      <EM ID="hub-77889-614" CATEG="ACONTECIMENTO" TIPO="ORGANIZADO"  >Jogos Olímpicos de 2008</EM> 
+      .
+    
+    
+      O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o
+      <EM ID="hub-77889-616" CATEG="PESSOA" TIPO="CARGO" COREL="hub-77889-606" TIPOREL="vinculo_inst">ministro da Indústria da Informação</EM>
+      ,
+      <EM ID="hub-77889-617" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-77889-616" TIPOREL="ident">Wang Xundong</EM>
+      , citado pela agência
+      <EM ID="hub-77889-618" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >Xinhua</EM>
+      .
+    
+    
+      Segundo
+      <EM ID="hub-77889-619" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-77889-616" TIPOREL="ident">Wang</EM>
+      , este será um dos principais temas da pesquisa tecnológica chinesa
+      <EM ID="hub-77889-621" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-77889-607" TIPOREL="ident">em 2008</EM>
+      , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros.
+    
+    
+      A tecnologia
+      <EM ID="hub-77889-622" CATEG="COISA" TIPO="CLASSE" COREL="hub-77889-612" TIPOREL="ident">TD-SCDMA</EM>
+      é desenvolvida integralmente pela
+      <EM ID="hub-77889-623" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO" COREL="hub-77889-606" TIPOREL="ident">China</EM>
+      , em oposição aos padrões norte-americanos (
+      <EM ID="hub-77889-624" CATEG="COISA" TIPO="CLASSE"  >CDMA 2000</EM>
+      ) e europeus (
+      <EM ID="hub-77889-625" CATEG="COISA" TIPO="CLASSE"  >WCDMA</EM>
+      ).
+    
+    
+      Ainda não há data para a concessão de licenças para telemóveis
+      <EM ID="hub-77889-626" CATEG="COISA" TIPO="CLASSE"  >3G</EM>
+      , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país:
+      <EM ID="hub-77889-627" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >China Telecom</EM>
+      ,
+      <EM ID="hub-77889-628" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >China Netcom</EM>
+      ,
+      <EM ID="hub-77889-629" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >China Mobile</EM>
+      e
+      <EM ID="hub-77889-630" CATEG="ORGANIZACAO" TIPO="EMPRESA"  >China Unicom</EM>
+      .
+    
+  

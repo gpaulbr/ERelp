@@ -1,0 +1,102 @@
+$S-3
+O	 [o] <*> <artd> DET M S @>N  O
+diretor	 [diretor] <Hprof> N M S @SUBJ>  O
+Aloysio=Legey	 [Aloysio=Legey] <hum> <*> <np-close> PROP M S @N< PES O
+deixou	 [deixar] <fmc> <mv> V PS 3S IND VFIN @FS-STA REL
+o	 [o] <artd> DET M S @>N REL
+comando	 [comando] <act-s> <activity> <HH> N M S @<ACC REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+o	 [o] <-sam> <artd> DET M S @>N REL
+Megatom	 [Megatom] <inst> <*> PROP M S @P< REL
+para	 [para] PRP @<ADVL REL
+cuidar	 [cuidar] <vH> <mv> V INF @ICL-P< REL
+de	 [de] <sam-> PRP @<PIV REL
+os	 [o] <-sam> <artd> DET M P @>N REL
+especiais	 [especial] <n> <nh> ADJ M P @P< REL
+de	 [de] <np-close> PRP @N< REL
+fim	 [fim] <temp> <event> <sem-c> N M S @P< REL
+de	 [de] <np-close> PRP @N< REL
+ano	 [ano] <dur> <temp> <per> <unit> N M S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Globo	 [Globo] <media> <newlex> <*> PROP F S @P<	ORG O
+$. O
+</s>
+
+$S-4
+Mario=Lúcio=Vaz	 [Mario=Lúcio=Vaz] <hum> <*> PROP M S @SUBJ> PES O
+$, O
+diretor	 [diretor] <Hprof> N M S @SUBJ> REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <-sam> <artd> DET F S @>N REL
+Central=Globo=de=Controle=de=Qualidade	 [Central=Globo=de=Controle=de=Qualidade] <inst> <*> PROP M S @P< ORG O
+assumiu	 [assumir] <vH> <fmc> <mv> V PS 3S IND VFIN @FS-STA  O
+a	 [o] <artd> DET F S @>N  O
+supervisão	 [supervisão] <activity> N F S @<ACC  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+humorístico	 [humorístico] <n> <jh> ADJ M S @P<  O
+$. O
+</s>
+
+$S-10
+Os	 [o] <*> <artd> DET M P @>N  O
+censores	 [censor] <Hprof> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Zé=Gregori	 [Zé=Gregori] <hum> <*> PROP M S @P< PES O
+elaboram	 [elaborar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+um	 [um] <arti> DET M S @>N  O
+ofício	 [ofício] <pos-soc> <ac> <cc-r> <occ> N M S @<ACC  O
+advertindo	 [advertir] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Rede=Record	 [Rede=Record] <media> <*> PROP F S @<ACC ORG O
+por=causa=de	 [por=causa=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+exibição	 [exibição] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+filme	 [filme] <sem-w> <cc> N M S @P<  O
+Fogo	 [Fogo] <tit> <*> <np-close> PROP M S @N<  O
+contra	 [contra] <np-long> PRP @N<  O
+Fogo	 [fogo] <prop> <*> <cc-fire> <process> <L> <act-d> <activity> N M S @P<  O
+em	 [em] PRP @<ADVL  O
+horário	 [horário] <cc-r> N M S @P<  O
+impróprio	 [impróprio] <nh> <np-close> ADJ M S @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+último	 [último] <NUM-ord> ADJ M S @>N  O
+domingo	 [domingo] <temp> N M S @P<  O
+$. O
+</s>
+
+$S-11
+Ministério=da=Justiça	 [Ministério=da=Justiça] <org> <*> PROP M S @SUBJ> ORG O
+recua	 [recuar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  O
+Os	 [o] <*> <artd> DET M P @>N  O
+censores	 [censor] <Hprof> N M P @<ACC  O
+de	 [de] <np-close> PRP @N<  O
+Zé=Gregori	 [Zé=Gregori] <hum> <*> PROP M S @P< PES O
+elaboram	 [elaborar] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  O
+um	 [um] <arti> DET M S @>N  O
+ofício	 [ofício] <pos-soc> <ac> <cc-r> <occ> N M S @<ACC  O
+advertindo	 [advertir] <clb> <vH> <mv> V GER @ICL-<ADVL  O
+a	 [o] <artd> DET F S @>N  O
+Rede=Record	 [Rede=Record] <media> <*> PROP F S @<ACC  O
+por=causa=de	 [por=causa=de] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+exibição	 [exibição] <act> N F S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+filme	 [filme] <sem-w> <cc> N M S @P<  O
+Fogo	 [Fogo] <tit> <*> <np-close> PROP M S @N<  O
+contra	 [contra] <np-long> PRP @N<  O
+Fogo	 [fogo] <prop> <*> <cc-fire> <process> <L> <act-d> <activity> N M S @P<  O
+em	 [em] PRP @<ADVL  O
+horário	 [horário] <cc-r> N M S @P<  O
+impróprio	 [impróprio] <nh> <np-close> ADJ M S @N<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+último	 [último] <NUM-ord> ADJ M S @>N  O
+domingo	 [domingo] <temp> N M S @P<  O
+$. O
+</s>

@@ -1,0 +1,30 @@
+$S-17
+Para 	[para]   PRP @ADVL>   O
+Ida=Sano=Martins 	[Ida=Sano=Martins] <hum>   PROP F S @P<   O
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+estuda 	[estudar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<   O
+a 	[o] <artd> DET F S @>N   O
+fisiologia 	[fisiologia] <domain> N F S @<ACC   O
+de 	[de] <np-close> PRP @N<   O
+venenos 	[veneno] <cm> <ac-cat> N M P @P<   O
+em 	[em] <sam-> PRP @<ADVL   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Instituto=Butantan 	[Instituto=Butantan] <inst>   PROP M S @P<  ORG O
+$, 
+em 	[em] PRP @<ADVL   O
+São=Paulo 	[São=Paulo] <hum>   <newlex> PROP M S @P<  LOCAL O
+$, 
+a 	[o] <artd> DET F S @>N   O
+estratégia 	[estratégia] <sem-c> N F S @SUBJ>   O
+poderia 	[poder] <fmc> <aux> V COND 3S VFIN @FS-STA   O
+vencer 	[vencer] <vH> <mv> V INF @ICL-AUX<   O
+algumas 	[algum] <quant> DET F P @>N   O
+limitações 	[limitação] <act> N F P @<ACC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+os 	[o] <-sam> <artd> DET M P @>N   O
+soros 	[soro] <drink> <cm-liq> N M P @P<   O
+antiofídicos 	[antiofídico] <nh> <np-close> ADJ M P @N<   O
+atuais 	[atual] <nh> <np-long> ADJ M P @N<   O
+$. 
+</s>

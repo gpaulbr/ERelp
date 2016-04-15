@@ -1,0 +1,30 @@
+$S-1
+Em	 [em] PRP @ADVL> O
+1517	 [1517] <card> <year> <date> NUM M/F S @P< O
+foi	 [ser] <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA O
+a	 [o] <artd> DET F S @>N O
+Sevilha	 [Sevilha] <org> PROP F S @<SC O
+com	 [com] <np-close> PRP @N< O
+Rui=Faleiro	 [Rui=Faleiro] <hum> PROP M S @P< PES O
+$, O
+tendo	 [ter] <clb> <aux> V GER @ICL-<ADVL O
+encontrado	 [encontrar] <vH> <mv> V PCP @ICL-AUX< O
+em	 [em] <sam-> PRP @<ADVL O
+o	 [o] <artd> <-sam> DET M S @>N O
+feitor	 [feitor] <Hprof> N M S @P< REL
+de	 [de] <sam-> <np-close> PRP @N< REL
+a	 [o] <artd> <-sam> DET F S @>N O
+Casa=de=la=Contratación	 [Casa=de=la=Contratación] <inst> PROP F S @P< ORG O
+de	 [de] <sam-> PRP @<SC O
+a	 [o] <artd> <-sam> DET F S @>N O
+cidade	 [cidade] <Lciv> N F S @P< O
+um	 [um] <arti> DET M S @>N O
+adepto	 [adepto] <H> N M S @<ACC O
+de	 [de] <sam-> <np-close> PRP @N< O
+o	 [o] <artd> <-sam> DET M S @>N O
+projecto	 [projecto] <sem-c> N M S @P< O
+que	 [que] <clb> <interr> <quant> ADV @>A O
+entretanto	 [entretanto] <kc> ADV @ADVL> O
+concebera	 [conceber] <fmc> <vH> <mv> V MQP 1/3S IND VFIN @FS-STA O
+$: O
+</s>

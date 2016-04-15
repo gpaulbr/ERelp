@@ -1,0 +1,100 @@
+
+    
+      «
+      <EM ID="hub-57257-245" CATEG="OBRA" TIPO="REPRODUZIDA"  >Call girl</EM>
+      » estreia
+      <EM ID="hub-57257-246" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >hoje</EM>
+      em
+      <EM ID="hub-57257-247" CATEG="VALOR" TIPO="QUANTIDADE"  >40</EM>
+      salas de cinema
+    
+    
+      O filme «
+      <EM ID="hub-57257-248" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-57257-245" TIPOREL="ident">Call girl</EM>
+      », de
+      <EM ID="hub-57257-249" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="autor_de">António-Pedro Vasconcelos</EM>
+      , estreia
+      <EM ID="hub-57257-250" CATEG="TEMPO" TIPO="TEMPO_CALEND" COREL="hub-57257-246" TIPOREL="ident">hoje</EM>
+      em quarenta salas de cinema, mostrando uma intriga policial que envolve uma mulher fatal e um autarca escrupuloso que se deixa corromper.
+    
+    
+      <EM ID="hub-57257-251" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Soraia Chaves</EM>
+      veste a pele de mulher fatal e no papel do autarca corrompido está
+      <EM ID="hub-57257-252" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Nicolau Breyner</EM>
+      , aos quais se juntam dois inspectores de polícia, os actores
+      <EM ID="hub-57257-253" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Ivo Canelas</EM>
+      e
+      <EM ID="hub-57257-254" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">José Raposo</EM>
+      , e aquele que alicia à corrupção, interpretado por
+      <EM ID="hub-57257-255" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Joaquim de Almeida</EM>
+      .
+    
+    
+      «
+      <EM ID="hub-57257-256" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-57257-245" TIPOREL="ident">Call girl</EM>
+      » podia ser uma variação moderna de
+      <EM ID="hub-57257-257" CATEG="OBRA" TIPO="REPRODUZIDA"  >Anjo Azul</EM>
+      , de
+      <EM ID="hub-57257-258" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-257" TIPOREL="autor_de">Josef von Sternberg</EM>
+      , disse o realizador à agência
+      <EM ID="hub-57257-259" CATEG="PESSOA" TIPO="GRUPOMEMBRO"  >Lusa</EM>
+      , acompanhando «o percurso da decadência, da perdição», do autarca alentejano <EM ID="hub-57257-6" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >até ao momento</EM> em que aceita dinheiro em troca de um favor.
+    
+    
+      «Neste caso a personagem é corrompida, no outro  [
+      <EM ID="hub-57257-260" CATEG="OBRA" TIPO="REPRODUZIDA"  >Anjo azul</EM> 
+      ]  perde toda a dignidade e reputação», compara
+      <EM ID="hub-57257-261" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-249" TIPOREL="ident">António-Pedro Vasconcelos</EM>
+      , até porque é um tema «recorrente na literatura e na ficção ocidental».
+    
+    
+      «
+      <EM ID="hub-57257-262" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-57257-245" TIPOREL="ident">Call girl</EM>
+      », cujo argumento o realizador escreveu
+      <EM ID="hub-57257-263" CATEG="TEMPO" TIPO="DURACAO"  >ao longo de dois anos</EM>
+      em parceria com
+      <EM ID="hub-57257-264" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="autor_de">Tiago Santos</EM>
+      , é uma história sobre o poder do dinheiro e da sedução, sobre a corrupção no meio político e a prostituição de luxo.
+    
+    
+      A fotografia é de
+      <EM ID="hub-57257-265" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="autor_de">José António Loureiro</EM>
+      , a produção de
+      <EM ID="hub-57257-266" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="autor_de">Tino Navarro</EM>
+      e do elenco fazem ainda parte
+      <EM ID="hub-57257-267" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Virgílio Castelo</EM>
+      ,
+      <EM ID="hub-57257-268" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Custódia Gallego</EM>
+      ,
+      <EM ID="hub-57257-269" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">Sofia Grilo</EM>
+      ou
+      <EM ID="hub-57257-270" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-245" TIPOREL="participante_em">José Eduardo</EM>
+      .
+    
+    
+      «
+      <EM ID="hub-57257-271" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-57257-245" TIPOREL="ident">Call Girl</EM>
+      » é uma co-produção luso-brasileira da
+      <EM ID="hub-57257-272" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-57257-245" TIPOREL="produtor_de">MGN Filmes</EM>
+      e da
+      <EM ID="hub-57257-273" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-57257-245" TIPOREL="produtor_de">Lagoa Cultural</EM>
+      , e conta ainda com a participação financeira dos institutos do cinema de
+      <EM ID="hub-57257-274" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-57257-272" TIPOREL="sede_de">Portugal</EM>
+      e do
+      <EM ID="hub-57257-275" CATEG="LOCAL" TIPO="HUMANO" COREL="hub-57257-275" TIPOREL="sede_de">Brasil</EM>
+      e da estação de televisão
+      <EM ID="hub-57257-276" CATEG="ORGANIZACAO" TIPO="EMPRESA" COREL="hub-57257-274 hub-57257-245" TIPOREL="ocorre_em produtor_de">TVI</EM>
+      .
+    
+    
+      «
+      <EM ID="hub-57257-277" CATEG="OBRA" TIPO="REPRODUZIDA" COREL="hub-57257-245" TIPOREL="ident">Call Girl</EM>
+      » é o sétimo filme de
+      <EM ID="hub-57257-278" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-57257-249" TIPOREL="ident">António-Pedro Vasconcelos</EM>
+      ,
+      <EM ID="hub-57257-279" CATEG="VALOR" TIPO="QUANTIDADE"  >68 anos</EM>
+      , e o último de produção nacional a estrear
+      <EM ID="hub-57257-280" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >este ano</EM>
+      nas salas de cinema.
+    
+  

@@ -1,0 +1,21 @@
+$S-2
+A 	[o]   <artd> DET F S @>N   O
+conclusão 	[conclusão] <sem-c> N F S @SUBJ>   O
+é 	[ser] <vK> <fmc> <mv> V PR 3S IND VFIN @FS-STA   O
+de 	[de] <cjt-head> PRP @<SC   O
+Barry=Ellman 	[Barry=Ellman] <hum>   PROP M S @P<  PES O
+$, 
+de 	[de] <cjt> <sam-> PRP @<SC   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Centro 	[Centro] <inst> <newlex>   PROP M S @P<   O
+para 	[para] PRP @<ADVL   O
+Estudos=Urbanos 	[Estudos=Urbanos] <cjt-head> <tit>   PROP M/F S @P<   O
+e 	[e] KC @NPHR   O
+Comunitários 	[Comunitários] <cjt> <hum>   PROP M/F S @P<   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+Universidade=de=Toronto 	[Universidade=de=Toronto] <inst>   PROP F S @P<  ORG O
+$, 
+Canadá 	[Canadá] <civ>   <np-close> PROP M S @N<   O
+$. 
+</s>

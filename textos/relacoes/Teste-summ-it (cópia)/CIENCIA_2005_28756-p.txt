@@ -1,0 +1,25 @@
+$S-3
+Marcelo=Tejedor 	[Marcelo=Tejedor] <hum>   PROP M S @SUBJ>  PES
+$, 
+paleontólogo 	[paleontólogo] <Hprof> <np-close> N M S @APP  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=Nacional=da=Patagônia 	[Universidade=Nacional=da=Patagônia] <inst>   PROP F S @P<  ORG
+$, 
+esboça 	[esboçar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+sorriso 	[sorriso] <act-d> N M S @<ACC  
+meio 	[meio] <quant> <det> ADV @<ADVL @>A  
+sem 	[sem] PRP @<ADVL  
+graça 	[graça] <am> N F S @P<  
+quando 	[quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+lhe 	[ele] PERS M/F 3S DAT @DAT>  
+perguntam 	[perguntar] <vH> <mv> V PR 3P IND VFIN @FS-<ADVL  
+se 	[se] <clb> <clb-fs> KS @SUB  
+não 	[não] ADV @ADVL>  
+é 	[ser] <vK> <mv> V PR 3S IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+situação 	[situação] <sit> N F S @<SC  
+frustrante 	[frustrante] <nh> <np-close> ADJ F S @N<  
+$. 
+</s>

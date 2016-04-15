@@ -1,0 +1,89 @@
+
+    
+      Terá ainda que se esperar para ver outros resultados do
+      <EM ID="hub-2701-237" CATEG="OBRA" TIPO="PLANO"  >Plano Tecnológico</EM>
+      , mas este perdeu dinâmica
+      <EM ID="hub-2701-238" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no último ano</EM>
+      .
+    
+    
+      6. Quanto às «
+      <EM ID="hub-2701-239" CATEG="OBRA" TIPO="PLANO"  >Novas Oportunidades</EM>
+      » foram
+      <EM ID="hub-2701-240" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >no seu início</EM>
+      um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade. Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado. Esta é a parte difícil, mas a que justifica o projecto. E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo. Vamos ver.
+    
+    
+      7. No
+      <EM ID="hub-2701-243" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PSD</EM>
+      deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do
+      <EM ID="hub-2701-244" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PS</EM>
+      . Ora, para fazer a mesma política, os eleitores preferem o
+      <EM ID="hub-2701-245" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-244" TIPOREL="ident">PS</EM>
+      como mais eficaz e mais credível.
+    
+    
+      Com
+      <EM ID="hub-2701-246" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Marques Mendes</EM>
+      , o
+      <EM ID="hub-2701-247" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-243 hub-2701-246" TIPOREL="ident vinculo_inst">PSD</EM>
+      esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia
+      <EM ID="hub-2701-248" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Saint Just</EM>
+      ), perdeu-se o pouco que se tinha adquirido voltando o partido <EM ID="hub-2701-2520" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >ao dia anterior</EM> da derrota
+      <EM ID="hub-2701-249" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >de 2005</EM>
+      .
+      <EM ID="hub-2701-250" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-2701-246" TIPOREL="ident">Mendes</EM>
+      não conseguiu impor-se, mas os seus esforços foram no sentido certo.
+      <EM ID="hub-2701-251" CATEG="PESSOA" TIPO="INDIVIDUAL"  >Menezes</EM>
+      também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado. O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve
+      <EM ID="hub-2701-252" CATEG="TEMPO" TIPO="TEMPO_CALEND"  >desde 2005</EM>
+      .
+    
+    
+      8. O
+      <EM ID="hub-2701-253" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PP</EM>
+      já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece. E no entanto, a retirada do
+      <EM ID="hub-2701-254" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-243" TIPOREL="ident">PSD</EM>
+      da oposição poderia ser uma oportunidade e o
+      <EM ID="hub-2701-255" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-253" TIPOREL="ident">PP</EM>
+      tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco. Mas não chega.
+      <EM ID="hub-2701-256" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-2701-253" TIPOREL="vinculo_inst">Portas</EM>
+      reduziu o partido a si próprio, e dar atenção ao
+      <EM ID="hub-2701-257" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-253" TIPOREL="ident">PP</EM>
+      é dar atenção a
+      <EM ID="hub-2701-258" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-2701-256" TIPOREL="ident">Portas</EM>
+      e cada vez menos pessoas o fazem.
+    
+    
+      9. O
+      <EM ID="hub-2701-259" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >PCP</EM>
+      teve um bom ano, o problema do
+      <EM ID="hub-2701-260" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-259" TIPOREL="ident">PCP</EM>
+      é que ninguém dá por ela disso. O
+      <EM ID="hub-2701-261" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-259" TIPOREL="ident">PCP</EM>
+      é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na
+      <EM ID="hub-2701-262" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >UGT</EM>
+      do que na
+      <EM ID="hub-2701-263" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >CGTP</EM>
+      . Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas. O problema do
+      <EM ID="hub-2701-264" CATEG="ORGANIZACAO" TIPO="INSTITUICAO" COREL="hub-2701-259" TIPOREL="ident">PCP</EM>
+      é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
+    
+    
+      10. O
+      <EM ID="hub-2701-265" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  >BE</EM>
+      está em crise. Deixou-se enredar com o
+      <EM ID="hub-2701-266" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO" COREL="hub-2701-244" TIPOREL="ORGANIZACAO**ident**hub-2701-244**ORGANIZACAO">PS</EM>
+      em
+      <EM ID="hub-2701-267" CATEG="LOCAL" TIPO="HUMANO"  >Lisboa</EM>
+      , o pior sítio para alguém se enredar com o
+      <EM ID="hub-2701-268" CATEG="ORGANIZACAO|PESSOA" TIPO="INSTITUICAO|GRUPOMEMBRO" COREL="hub-2701-244" TIPOREL="ORGANIZACAO**ident**hub-2701-244**ORGANIZACAO">PS</EM>
+      . Deixou-se reduzir a
+      <EM ID="hub-2701-269" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-2701-265" TIPOREL="vinculo_inst">Louçã</EM>
+      e
+      <EM ID="hub-2701-270" CATEG="PESSOA" TIPO="INDIVIDUAL" COREL="hub-2701-269" TIPOREL="ident">Louçã</EM>
+      fixou-se num discurso cujo esgotamento irrita mais do que cansa. Para a contestação social o
+      <EM ID="hub-2701-271" CATEG="PESSOA|ORGANIZACAO" TIPO="GRUPOMEMBRO|INSTITUICAO" COREL="hub-2701-259 hub-2701-259" TIPOREL="PESSOA**vinculo_inst**hub-2701-259**ORGANIZACAO ORGANIZACAO**ident**hub-2701-259**ORGANIZACAO">PCP</EM>
+      é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
+    
+  

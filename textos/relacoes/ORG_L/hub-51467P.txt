@@ -1,0 +1,48 @@
+$S-7
+Em	 [em] <*> PRP @ADVL>  O
+declarações	 [declaração] <act-s> <act> N F P @P<  O
+a	 [a] <sam-> PRP @ADVL>  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+agência	 [agência] <HH> N F S @P<  O
+Lusa	 [Lusa] <org> <*> <np-close> PROP F S @N<  O
+$, O
+António=Fontes	 [António=Fontes] <hum> <*> <np-close> PROP M S @APP PES O
+$, O
+de	 [de] <sam-> PRP @ADVL> B-REL
+a	 [o] <-sam> <artd> DET F S @>N I-REL
+AIPAN	 [AIPAN] <org> <*> PROP F S @P< ORG O
+$, O
+disse	 [dizer] <vH> <fmc> <mv> V PS 1/3S IND VFIN @FS-STA  O
+que	 [que] <clb> <clb-fs> KS @SUB  O
+o	 [o] <artd> DET M S @>N  O
+preço	 [preço] <f-q> N M S @SUBJ>  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+pão	 [pão] <food-c-h> N M S @P<  O
+terá	 [ter] <aux> V FUT 3S IND VFIN @FS-<ACC  O
+de	 [de] PRP @PRT-AUX<  O
+aumentar	 [aumentar] <mv> V INF @ICL-AUX<  O
+para	 [para] PRP @<ADVL  O
+fazer	 [fazer] <mv> V INF @ICL-P<  O
+face=a	 [face=a] <sam-> PRP @<ADVL  O
+a	 [o] <artd> <-sam> DET F S @>N  O
+subida	 [subida] <process> <act> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+92	 [92] <card> NUM M P @>N  O
+$%	 [%] N M P @P<  O
+registada	 [registar] <vH> <np-long> V PCP F S @N<  O
+ao=longo=de	 [ao=longo=de] PRP @<ADVL  O
+2007	 [2007] <card> <date> <year> NUM M/F P @P<  O
+em	 [em] <sam-> PRP @<ADVL  O
+o	 [o] <-sam> <artd> DET M S @>N  O
+preço	 [preço] <f-q> N M S @P<  O
+de	 [de] <sam-> <np-close> PRP @N<  O
+a	 [o] <-sam> <artd> DET F S @>N  O
+matéria-prima	 [matéria-prima] <mat> N F S @P<  O
+de	 [de] <np-close> PRP @N<  O
+base	 [base] <Labs> N F S @P<  O
+$( O
+farinha	 [farinha] <food-h> <np-close> N F S @N<PRED  O
+$) O
+$. O
+</s>

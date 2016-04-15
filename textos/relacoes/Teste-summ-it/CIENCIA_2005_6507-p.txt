@@ -1,0 +1,43 @@
+$S-2
+Foi 	[ser]   <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA   O
+o 	[o] <artd> DET M S @>N   O
+principal 	[principal] <SUP> <jh> ADJ M S @>N   O
+cientista 	[cientista] <Hprof> N M S @<SC   O
+ligado 	[ligar] <mv> <np-close> V PCP M S @ICL-N<   O
+a 	[a] <sam-> PRP @<PIV   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+satélite 	[satélite] <Vair> N M S @P<   O
+Cobe 	[Cobe] <brand>   <np-close> PROP M S @N<  ORG O
+$( 
+Cosmic=Background=Explorer 	[Cosmic=Background=Explorer] <top>   <np-close> PROP M/F S @N<PRED   O
+$) 
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+em 	[em] PRP @ADVL>   O
+1992 	[1992] <card> <date> <year> NUM M/F S @P<   O
+revelou 	[revelar] <mv> <np-close> V PS 3S IND VFIN @FS-N<   O
+flutuações 	[flutuação] <act> N F P @<ACC   O
+de 	[de] <np-close> PRP @N<    O
+temperatura 	[temperatura] <f-q> N F S @P<    O
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+radiação 	[radiação] <act> N F S @P<   O
+em 	[em] <sam-> PRP @<ADVL   O
+a 	[o] <-sam> <artd> DET F S @>N   O
+verdade 	[verdade] <percep-f> <ac> N F S @P<   O
+um 	[um] <arti> DET M S @>N   O
+eco 	[eco] <percep-l> N M S @<OC   O
+de 	[de] <sam-> <np-close> PRP @N<   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Big=Bang 	[Big=Bang] <occ>   PROP M S @P<  PES O
+$, 
+explosão 	[explosão] <event> <np-close> N F S @N<PRED   O
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>   O
+teria 	[ter] <mv> <np-close> V COND 3S VFIN @FS-N<   O
+dado 	[dado] <cjt-head> <cc> <ac> N M S @<ACC   O
+origem 	[origem] <cjt> <Labs> <f-h> N F S @<ACC   O
+a 	[a] <sam-> PRP @<ADVL   O
+o 	[o] <-sam> <artd> DET M S @>N   O
+Universo 	[universo] <prop>   <Ltop> N M S @P<   O
+$. 
+</s>

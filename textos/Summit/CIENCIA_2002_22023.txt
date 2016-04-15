@@ -1,0 +1,491 @@
+$S-1
+A 	[o] <*> <artd> DET F S @>N  
+maioria 	[maioria] <HH> N F S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+cientistas 	[cientista] <Hprof> N M P @P<  
+concorda 	[concordar] <vH> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+os 	[o] <clb> <artd> DET M P @>N  
+asteróides 	[asteróide] <Lstar> N M P @SUBJ>  
+com 	[com] <np-close> PRP @N<  
+mais=de 	[mais=de] <quant> ADV @>A  
+um 	[um] <card> NUM M S @>N  
+quilômetro 	[quilômetro] <unit> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+diâmetro 	[diâmetro] <percep-f> N M S @P<  
+$, 
+capazes 	[capaz] <np-close> ADJ M/F P @N<PRED  
+de 	[de] PRP @A<  
+destruir 	[destruir] <mv> V INF @ICL-P<  
+civilizações 	[civilização] <HH> N F P @<ACC  
+inteiras 	[inteiro] <jh> <np-close> ADJ F P @N<  
+$, 
+são 	[ser] <vK> <mv> V PR 3P IND VFIN @FS-<ACC  
+uma 	[um] <arti> DET F S @>N  
+preocupação 	[preocupação] <sem-c> N F S @<SC  
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  
+só 	[só] ADV @ADVL>  
+se 	[se] PERS M/F 3S/P ACC @SUBJ>  
+justifica 	[justificar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+a 	[a] PRP @<ADVL  
+cada 	[cada] <quant> DET M S @>N  
+punhado 	[punhado] <amount> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+dezenas=de 	[dezenas=de] <quant> DET M/F P @P<  
+$milhões  
+de 	[de] <np-close> PRP @N<  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$. 
+</s>
+
+$S-2
+Mas 	[mas] <cjt-head> <*> KC @NPHR  
+novos 	[novo] <jh> ADJ M P @>N  
+cálculos 	[cálculo] <sem-c> N M P @SUBJ>  
+mostram 	[mostrar] <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+bólidos 	[bólido] <clb> <cc-stone> N M P @SUBJ>  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+modestos 	[modesto] ADJ M P @<PRED  
+$, 
+com 	[com] PRP @<PRED  
+50 	[50] <card> NUM M P @>N  
+metros 	[metro] <unit> <ac-cat> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+diâmetro 	[diâmetro] <cjt-head> <percep-f> N M S @P<  
+e 	[e] <cjt> KC @NPHR  
+a 	[o] <artd> DET F S @>N  
+capacidade 	[capacidade] <cjt> <am> <percep-f> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+destruir 	[destruir] <mv> V INF @ICL-P<  
+uma 	[um] <arti> DET F S @>N  
+cidade 	[cidade] <Lciv> N F S @<ACC  
+$, 
+despencam 	[despencar] <mv> V PR 3P IND VFIN @FS-<ACC  
+de 	[de] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+céu 	[céu] <Ltop> N M S @P<  
+uma=vez 	[uma=vez] ADV @<ADVL  
+por 	[por] PRP @<ADVL  
+milênio 	[milênio] <per> N M S @P<  
+$. 
+</s>
+
+$S-3
+Em 	[em] <*> <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+verdade 	[verdade] <percep-f> <ac> N F S @P<  
+$, 
+trata- 	[tratar] <hyfen> <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+se 	[se] PERS M/F 3S ACC @<ACC-PASS  
+de 	[de] PRP @<OC  
+boa 	[bom] <jh> ADJ F S @>N  
+notícia 	[notícia] <sem-r> <sem-s> N F S @P<  
+$. 
+</s>
+
+$S-4
+Estimativas 	[estimativa] <*> <act> N F P @SUBJ>  
+anteriores 	[anterior] <nh> <np-close> ADJ F P @N<  
+sugeriam 	[sugerir] <vH> <fmc> <mv> V IMPF 3P IND VFIN @FS-STA  
+que 	[que] <clb> <clb-fs> KS @SUB  
+um 	[um] <arti> DET M S @>N  
+evento 	[evento] <event> <occ> N M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+esses 	[esse] <dem> <-sam> DET M P @P<  
+ocorresse 	[ocorrer] <vN> <mv> V IMPF 3S SUBJ VFIN @FS-<ACC  
+em 	[em] PRP @<ADVL  
+média 	[média] <Labs> <amount> N F S @P<  
+a 	[a] PRP @<PIV  
+cada 	[cada] <quant> DET M S @>N  
+200 	[200] <card> NUM M P @>N  
+ou 	[ou] KC @NPHR  
+300 	[300] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$. 
+</s>
+
+$S-5
+Os 	[o] <*> <artd> DET M P @>N  
+novos 	[novo] <jh> ADJ M P @>N  
+cálculos 	[cálculo] <sem-c> N M P @SUBJ>  
+$, 
+aprimorados 	[aprimorado] <nh> <np-close> ADJ M P @N<PRED  
+com 	[com] <np-close> PRP @ADVL> @N<PRED  
+o 	[o] <artd> DET M S @>N  
+uso 	[uso] <act> <ac> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+informação 	[informação] <ac> N F S @P<  
+antes 	[antes] ADV @ADVL>  
+mantida 	[manter] <vH> V PCP F S @>N  
+secreta 	[secreta] <Hprof> N M S @<PRED  
+por 	[por] <sam-> PRP @ADVL>  
+o 	[o] <-sam> <artd> DET M S @>N  
+governo 	[governo] <HH> N M S @P<  
+americano 	[americano] <nat> <jh> <np-close> ADJ M S @N<  
+$, 
+oferecem 	[oferecer] <vH> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+uma 	[um] <arti> DET F S @>N  
+estimativa 	[estimativa] <act> N F S @<ACC  
+mais 	[mais] <quant> <KOMP> ADV @>A  
+precisa 	[preciso] <nh> <np-close> ADJ F S @N<  
+sobre 	[sobre] PRP @<ADVL  
+a 	[o] <artd> DET F S @>N  
+periodicidade 	[periodicidade] <percep-f> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+esses 	[esse] <dem> <-sam> DET M P @>N  
+episódios 	[episódio] <event> N M P @P<  
+$. 
+</s>
+
+$S-6
+Durante 	[durante] <*> PRP @ADVL>  
+os 	[o] <artd> DET M P @>N  
+últimos 	[último] <NUM-ord> ADJ M P @>N  
+oito 	[oito] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$, 
+uma 	[um] <arti> DET F S @>N  
+rede 	[rede] <con> <HH> <furn> <Lh> <coll-sem> N F S @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+satélites 	[satélite] <Vair> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+Departamento=de=Defesa=dos=Eua 	[Departamento=de=Defesa=dos=Eua] <inst> <*> PROP M S @P<  
+tem 	[ter] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+monitorado 	[monitorar] <vH> <mv> V PCP @ICL-AUX<  
+a 	[o] <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @<ACC  
+terrestre 	[terrestre] <nh> <np-close> ADJ F S @N<  
+com 	[com] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+objetivo 	[objetivo] <sem-c> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+detectar 	[detectar] <vH> <mv> V INF @ICL-P<  
+explosões 	[explosão] <event> N F P @<ACC  
+$_  
+obviamente 	[obviamente] ADV @<ADVL  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+tentativa 	[tentativa] <act-d> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+monitorar 	[monitorar] <vH> <mv> V INF @ICL-P<  
+o 	[o] <artd> DET M S @>N  
+uso 	[uso] <act> <ac> N M S @<ACC  
+de 	[de] <np-close> PRP @N<  
+armamento 	[armamento] <act> N M S @P<  
+nuclear 	[nuclear] <nh> <np-close> ADJ M S @N<  
+ao=redor=de 	[ao=redor=de] <sam-> <np-long> PRP @N<  
+o 	[o] <artd> <-sam> DET M S @>N  
+globo 	[globo] <geom> <Ltop> <cc-h> <tool> N M S @P<  
+$. 
+</s>
+
+$S-7
+Registros 	[registro] <*> <cc-r> N M P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+bomba=atômica 	[bomba=atômica] <tool> N F S @P<  
+nunca 	[nunca] ADV @ADVL>  
+apareceram 	[aparecer] <cjt-head> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+$, 
+mas 	[mas] <cjt-head> KC @NPHR  
+$, 
+em 	[em] PRP @ADVL>  
+compensação 	[compensação] <act> <mon> N F S @P<  
+$, 
+o 	[o] <artd> DET M S @>N  
+sistema 	[sistema] <ac> N M S @SUBJ>  
+foi 	[ser] <cjt> <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+capaz 	[capaz] ADJ M S @<SC  
+de 	[de] PRP @A<  
+apontar 	[apontar] <vH> <mv> V INF @ICL-P<  
+diversos 	[diversos] <quant> DET M P @>N  
+eventos 	[evento] <event> <occ> N M P @<ACC  
+de 	[de] <np-close> PRP @N<  
+explosões 	[explosão] <event> N F P @P<  
+$_  
+todas 	[todo] <quant> DET F P @>A  
+causadas 	[causar] <mv> <np-close> V PCP F P @ICL-N<  
+por 	[por] <sam-> PRP @<PASS  
+a 	[o] <-sam> <artd> DET F S @>N  
+entrada 	[entrada] <Lh> <cc-r> <mon> <act> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+pequenos 	[pequeno] ADJ M P @>N  
+asteróides 	[asteróide] <Lstar> N M P @P<  
+em 	[em] <sam-> <np-long> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+Terra 	[Terra] <cjt-head> <org> <newlex> <*> PROP F S @P<  
+e 	[e] <cjt> KC @NPHR  
+sua 	[seu] <poss 3S> DET F S @>N  
+subsequente 	[subsequente] <jh> ADJ F S @>N  
+quebra 	[quebra] <cjt> <event> <sick-c> <mon> <act> N F S @P<  
+por 	[por] <sam-> PRP @<ADVL  
+o 	[o] <-sam> <artd> DET M S @>N  
+atrito 	[atrito] <process> N M S @P<  
+com 	[com] PRP @<ADVL  
+o 	[o] <artd> DET M S @>N  
+ar 	[ar] <cm-gas> <f-an> <ac> N M S @P<  
+$. 
+</s>
+
+$S-8
+Para 	[para] <*> PRP @ADVL>  
+os 	[o] <artd> DET M P @>N  
+militares 	[militar] N M P @P<  
+a 	[o] <artd> DET F S @>N  
+coisa 	[coisa] <cc> <ac> N F S @SUBJ>  
+acabou 	[acabar] <cjt-head> <fmc> <aux> V PS 3S IND VFIN @FS-STA  
+não 	[não] ADV @ADVL>  
+sendo 	[ser] <clb> <vK> <mv> V GER @ICL-AUX<  
+lá 	[lá] ADV @<ADVL  
+muito 	[muito] <quant> ADV @>A  
+útil 	[útil] <nh> ADJ F S @<SC  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+os 	[o] <artd> DET M P @>N  
+dados 	[dado] <cc> <ac> N M P @SUBJ>  
+se 	[se] <refl> PERS M/F 3P ACC @ACC>  
+tornaram 	[tornar] <cjt> <fmc> <mv> V PS/MQP 3P IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+prato 	[prato] <con> <food-h> <tool-mus> N M S @<OC  
+cheio 	[cheio] <np-close> ADJ M S @N<  
+para 	[para] PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+astrônomos 	[astrônomo] <Hprof> N M P @P<  
+$. 
+</s>
+
+$S-9
+$"  
+Em 	[em] <*> <*1> PRP @ADVL>  
+oito 	[oito] <card> NUM M P @>N  
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  
+$, 
+detectamos 	[detectar] <vH> <fmc> <mv> V PR 1P IND VFIN @FS-STA  
+mais=de 	[mais=de] <quant> ADV @>A  
+300 	[300] <card> NUM M P @>N  
+eventos 	[evento] <event> <occ> N M P @<ACC  
+$, 
+graças=a 	[graças=a] <sam-> PRP @<ADVL  
+o 	[o] <artd> <-sam> DET M S @>N  
+nosso 	[nosso] <poss 1P> DET M S @>N  
+sistema 	[sistema] <ac> N M S @P<  
+de 	[de] <np-close> PRP @N<  
+calibragem 	[calibragem] <act> N F S @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+dados 	[dado] <cc> <ac> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+satélite 	[satélite] <*2> <Vair> N M S @P<  
+$"  
+$, 
+conta 	[conta] <sem-c> <sem-r> <con> <cc> <domain> <np-close> N F S @N<PRED  
+Douglas=Revelle 	[Douglas=Revelle] <tit> <*> <np-close> PROP M S @N<  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+o 	[o] <-sam> <artd> DET M S @>N  
+Laboratório=Nacional=de=Los=Alamos 	[Laboratório=Nacional=de=Los=Alamos] <inst> <*> PROP M S @P<  
+$, 
+um 	[um] <card> <np-close> NUM M S @N<PRED  
+de 	[de] <sam-> <np-close> PRP @N<  
+os 	[o] <-sam> <artd> DET M P @>N  
+autores 	[autor] <Hprof> N M P @P<  
+de 	[de] <sam-> <np-close> PRP @N<  
+o 	[o] <-sam> <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @P<  
+$, 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+está 	[estar] <vK> <mv> <np-close> V PR 3S IND VFIN @FS-N<  
+publicado 	[publicar] <vH> <mv> V PCP M S @ICL-<SC  
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+edição 	[edição] <act> <cc-r> N F S @P<  
+de 	[de] <np-close> PRP @N<  
+hoje 	[hoje] ADV @<ADVL  
+de 	[de] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+revista 	[revista] <act> <sem-r> <occ> N F S @P<  
+britânica 	[britânico] <nat> <jh> <np-close> ADJ F S @N<  
+$"  
+Nature 	[Nature] <media> <*> <*1> <*2> <np-close> PROP F S @N<  
+$"  
+$( 
+www.nature.com 	[www.nature.com] <np-close> N M S @N<PRED  
+$) 
+$. 
+</s>
+
+$S-10
+Incidências 	[incidência] <*> <am> N F P @SUBJ>  
+de 	[de] <np-close> PRP @N<  
+rochas 	[rocha] <mat> <cc-stone> N F P @P<  
+espaciais 	[espacial] <nh> <np-close> ADJ F P @N<  
+de 	[de] <np-close> PRP @N<  
+poucos 	[pouco] <quant> DET M P @>N  
+metros 	[metro] <unit> <ac-cat> N M P @P<  
+de 	[de] <np-close> PRP @N<  
+diâmetro 	[diâmetro] <percep-f> N M S @P<  
+em 	[em] <sam-> <np-close> PRP @N<  
+a 	[o] <-sam> <artd> DET F S @>N  
+atmosfera 	[atmosfera] <Ltop> <sit> <unit> N F S @P<  
+acontecem 	[acontecer] <vN> <fmc> <mv> V PR 3P IND VFIN @FS-STA  
+com 	[com] PRP @<ADVL  
+razoável 	[razoável] ADJ F S @>N  
+frequência 	[frequência] <am> N F S @P<  
+$_  
+anualmente 	[anualmente] ADV @<ADVL  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+os 	[o] <artd> DET M P @>N  
+pesquisadores 	[pesquisador] <asarg> <Hprof> N M P @P<  
+$. 
+</s>
+
+$S-11
+$"  
+Esses 	[esse] <*> <*1> <dem> DET M P @>N  
+corpos 	[corpo] <anmov> <HH> <build> <part-build> <ac-sign> N M P @SUBJ>  
+medidos 	[medir] <vH> <mv> <np-close> V PCP M P @ICL-N<  
+em 	[em] PRP @<ADVL  
+metros 	[metro] <unit> <ac-cat> N M P @P<  
+são 	[ser] <clb-fs> <vK> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+interessantes 	[interessante] <jh> ADJ M P @<SC  
+cientificamente 	[científico] <nh> ADV @<ADVL  
+$, 
+mas 	[mas] <clb> KC @NPHR  
+não 	[não] ADV @ADVL>  
+oferecem 	[oferecer] <clb-fs> <vH> <mv> <quote> V PR 3P IND VFIN @FS-ACC>>  
+absolutamente 	[absolutamente] ADV @<ADVL  
+nenhum 	[nenhum] <quant> DET M S @>N  
+perigo 	[perigo] <ac> <sit> N M S @<ACC  
+a 	[a] <sam-> PRP @<PIV  
+os 	[o] <-sam> <artd> DET M P @>N  
+humanos 	[humano] <n> <*2> <jh> ADJ M P @P<  
+$"  
+$, 
+diz 	[dizer] <vH> <fmc> <mv> <v-quote> V PR 3S IND VFIN @FS-STA  
+Robert=Jedicke 	[Robert=Jedicke] <hum> <*> PROP M S @<SUBJ  
+$, 
+de 	[de] <sam-> <np-close> PRP @N<PRED  
+a 	[o] <-sam> <artd> DET F S @>N  
+Universidade=do=Arizona 	[Universidade=do=Arizona] <inst> <*> PROP F S @P<  
+$, 
+escolhido 	[escolhido] <H> <np-close> N M S @N<PRED  
+por 	[por] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+$"  
+Nature 	[Nature] <media> <*> <*1> <*2> PROP F S @P<  
+$"  
+para 	[para] PRP @<ADVL  
+comentar 	[comentar] <vH> <mv> <v-quote> V INF @ICL-P<  
+o 	[o] <artd> DET M S @>N  
+estudo 	[estudo] <sem-r> <per> <sem-l> <activity> N M S @<ACC  
+$. 
+</s>
+
+$S-12
+A 	[o] <*> <artd> DET F S @>N  
+ameaça 	[ameaça] <act-s> <sit> N F S @SUBJ>  
+só 	[só] ADV @ADVL>  
+existe 	[existir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  
+quando 	[quando] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  
+os 	[o] <artd> DET M P @>N  
+bólidos 	[bólido] <cc-stone> N M P @SUBJ>  
+têm 	[ter] <mv> V PR 3P IND VFIN @FS-<ADVL  
+50 	[50] <card> NUM M P @>N  
+metros 	[metro] <unit> <ac-cat> N M P @<ACC  
+ou 	[ou] KC @NPHR  
+mais 	[mais] <quant> <KOMP> ADV @<ADVL  
+$. 
+</s>
+
+$S-13
+Foi 	[ser] <*> <vK> <fmc> <mv> V PS 3S IND VFIN @FS-STA  
+um 	[um] <arti> DET M S @>N  
+meteoro 	[meteoro] <cc-stone> N M S @<SC  
+de 	[de] <sam-> <np-close> PRP @N<  
+esse 	[esse] <dem> <-sam> DET M S @>N  
+tipo 	[tipo] <meta> <H> <ac-sign> N M S @P<  
+$( 
+ou 	[ou] KC @NPHR  
+um 	[um] <arti> DET M S @>N  
+disco=voador 	[disco=voador] <Vair> <np-close> N M S @N<PRED  
+$, 
+segundo 	[segundo] <com> <adv-rel> PRP @<ADVL  
+fãs 	[fã] <asarg> <H> N M/F P @P<  
+de 	[de] <np-close> PRP @N<  
+ufologia 	[ufologia] <DERS> N F S @P<  
+$) 
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  
+explodiu 	[explodir] <mv> <np-close> V PS 3S IND VFIN @FS-N<  
+sobre 	[sobre] PRP @<ADVL  
+Tunguska 	[Tunguska] <hum> <*> PROP M/F S @P<  
+$, 
+em 	[em] <sam-> PRP @<ADVL  
+a 	[o] <-sam> <artd> DET F S @>N  
+Sibéria 	[Sibéria] <civ> <*> PROP F S @P<  
+$, 
+em 	[em] PRP @<ADVL  
+1908 	[1908] <card> <date> <year> NUM M/F S @P<  
+$, 
+destruindo 	[destruir] <clb> <mv> V GER @ICL-<ADVL  
+centenas 	[centena] <amount> N F P @<ACC  
+de 	[de] <np-close> PRP @N<  
+quilômetros 	[quilômetro] <unit> N M P @P<  
+quadrados 	[quadrado] <nh> <np-close> ADJ M P @N<  
+de 	[de] <np-close> PRP @N<  
+floresta 	[floresta] <BB> N F S @P<  
+$. 
+</s>
+
+$S-14
+Se 	[se] <clb> <clb-fs> <*> KS @SUB  
+um 	[um] <card> NUM M S @SUBJ>  
+de 	[de] <sam-> <np-close> PRP @N<  
+esses 	[esse] <dem> <-sam> DET M P @P<  
+explodisse 	[explodir] <mv> V IMPF 3S SUBJ VFIN @FS-ADVL>  
+sobre 	[sobre] PRP @<ADVL  
+uma 	[um] <arti> DET F S @>N  
+região 	[região] <L> <Ltop> N F S @P<  
+habitada 	[habitar] <vH> <np-close> V PCP F S @N<  
+$, 
+poderia 	[poder] <fmc> <aux> V COND 3S VFIN @FS-STA  
+matar 	[matar] <mv> V INF @ICL-AUX<  
+$milhões  
+$. 
+</s>
+
+$S-15
+Felizmente 	[felizmente] <*> ADV @ADVL>  
+$, 
+com 	[com] PRP @PRED> @ADVL>  
+base 	[base] <Labs> N F S @P<  
+em 	[em] <sam-> PRP @ADVL>  
+a 	[o] <-sam> <artd> DET F S @>N  
+nova 	[novo] <jh> ADJ F S @>N  
+estimativa 	[estimativa] <act> N F S @P<  
+$, 
+parece 	[parecer] <fmc> <aux> V PR 3S IND VFIN @FS-STA  
+haver 	[haver] <mv> V INF @ICL-AUX<  
+ainda 	[ainda] ADV @>N  
+nove 	[nove] <card> NUM M P @>N  
+séculos 	[século] <dur> <per> N M P @<ADVL  
+para 	[para] PRP @<ADVL  
+catalogar 	[catalogar] <cjt-head> <vH> <mv> V INF @ICL-P<  
+os 	[o] <artd> DET M P @>N  
+pedregulhos 	[pedregulho] <Ltop> N M P @<ACC  
+espaciais 	[espacial] <nh> <np-close> ADJ M P @N<  
+e 	[e] KC @NPHR  
+se 	[se] <refl> PERS M/F 3S/P ACC @ACC>  
+preparar 	[preparar] <cjt> <vH> <mv> V INF @ICL-P<  
+para 	[para] PRP @<PIV  
+futuras 	[futuro] ADJ F P @>N  
+colisões 	[colisão] <event> N F P @P<  
+$. 
+</s>
+
+$S-16

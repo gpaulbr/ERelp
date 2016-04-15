@@ -1,0 +1,6 @@
+$S-1
+Afeganistão	 [afeganistão] <civ> PROP F S @P< LOCAL O
+$, O
+o	 [o] <artd> DET M S @>N REL
+governo	 [governo] <HH> N M S @<ACC REL
+Talibã	 [Talibã] <org> <np-close> PROP M S @N< ORG O
