@@ -1,0 +1,341 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Jornal_Bom_Dia	[]	prop	M=S	O	NP	O
+0	1	-	[]	-	-	-	O	O
+0	2	O	[o]	art	M=S	-	NP	SUBJ
+0	3	diário	[diário]	n	M=S	O	NP	SUBJ
+0	4	de	[de]	prp	-	-	PP	SUBJ
+0	5	o	[o]	art	M=S	-	NP	SUBJ
+0	6	Médio_Piracicaba__Maguila	[]	prop	M=S	O	NP	SUBJ
+0	7	participa	[participar]	v-fin	PR=3S=IND	-	VP	P
+0	8	de	[de]	prp	-	-	PP	PIV
+0	9	o	[o]	art	M=S	-	NP	PIV
+0	10	Casseta	[]	prop	M=S	O	NP	PIV
+0	11	&amp	[]	v-fin	PR=3S=IND	-	VP	P
+0	12	;	[;]	;	-	-	O	O
+
+1	0	Planeta	[planeta]	n	M=S	O	NP	O
+1	1	O	[o]	art	M=S	-	NP	SUBJ
+1	2	ex-boxeador	[]	n	M=S	O	NP	SUBJ
+1	3	Adílson_Maguila	[]	prop	M=S	O	NP	SUBJ
+1	4	gravou	[gravar]	v-fin	PS=3S=IND	-	VP	P
+1	5	em	[em]	prp	-	-	PP	ADVL
+1	6	a	[o]	art	F=S	-	NP	ADVL
+1	7	terça-feira	[terça-feira]	n	F=S	O	NP	ADVL
+1	8	uma	[um]	art	F=S	-	NP	ACC
+1	9	participação	[participação, participar]	n	F=S	O	NP	ACC
+1	10	especial	[especial]	adj	F=S	-	NP	ACC
+1	11	em	[em]	prp	-	-	PP	ADVL
+1	12	o	[o]	art	M=S	-	NP	ADVL
+1	13	quadro	[quadro]	n	M=S	O	NP	ADVL
+1	14	Mundo_Bombado	[]	prop	M=S	O	NP	ADVL
+1	15	,	[]	,	-	-	O	ADVL
+1	16	de	[de]	prp	-	-	PP	ADVL
+1	17	o	[o]	art	M=S	-	NP	ADVL
+1	18	programa	[programa]	n	M=S	O	NP	ADVL
+1	19	Casseta	[]	prop	M=S	O	NP	ADVL
+1	20	&amp	[]	v-fin	PR=3S=IND	-	VP	P
+1	21	;	[;]	;	-	-	O	O
+
+2	0	Planeta	[planeta]	n	M=S	O	NP	O
+2	1	Urgente	[]	prop	M=S	O	NP	O
+2	2	!	[]	!	-	-	O	O
+2	3	.	[.]	.	-	-	O	O
+
+3	0	.	[.]	.	-	-	O	O
+
+4	0	Maguila	[]	prop	F=S	O	NP	SUBJ
+4	1	interpretou	[interpretar]	v-fin	PS=3S=IND	-	VP	P
+4	2	Dr._Maguilovitch	[]	prop	M=S	O	NP	ACC
+4	3	,	[]	,	-	-	O	O
+4	4	um	[um]	art	M=S	-	NP	SUBJ
+4	5	psicanalista	[psicanalista]	n	M=S	O	NP	SUBJ
+4	6	que	[que]	pron-indp	M=S	O	NP	SUBJ
+4	7	cura	[curar]	v-fin	PR=3S=IND	-	VP	P
+4	8	Maçaranduba	[]	prop	M=S	O	NP	ACC
+4	9	(	[(]	(	-	-	O	ACC
+4	10	Claudio_Manuel	[]	prop	M=S	O	NP	ACC
+4	11	)	[)]	)	-	-	O	ACC
+4	12	de	[de]	prp	-	-	PP	ACC
+4	13	um	[um]	art	M=S	-	NP	ACC
+4	14	um	[um]	art	M=S	-	NP	ACC
+4	15	princípio	[princípio]	n	M=S	O	NP	ACC
+4	16	de	[de]	prp	-	-	PP	ACC
+4	17	depressão	[depressão]	n	F=S	O	NP	ACC
+4	18	detectado	[]	v-pcp	M=S	-	VP	P
+4	19	por	[por]	prp	-	-	PP	O
+4	20	Montanha	[]	prop	F=S	O	NP	O
+4	21	(	[(]	(	-	-	O	O
+4	22	Bussunda	[]	prop	F=S	O	NP	O
+4	23	)	[)]	)	-	-	O	O
+4	24	.	[.]	.	-	-	O	O
+
+5	0	.	[.]	.	-	-	O	O
+
+6	0	Depois	[depois]	adv	-	-	ADVP	ADVL
+6	1	de	[de]	prp	-	-	PP	ADVL
+6	2	muito	[muito]	pron-det	M=S	O	NP	ADVL
+6	3	esforço	[esforço]	n	M=S	-	NP	ADVL
+6	4	,	[]	,	-	-	O	O
+6	5	o	[o]	art	M=S	-	NP	SUBJ
+6	6	doutor	[doutor]	n	M=S	O	NP	SUBJ
+6	7	faz	[fazer]	v-fin	PR=3S=IND	-	VP	P
+6	8	uma	[um]	art	F=S	-	NP	ACC
+6	9	regressão	[regressão]	n	F=S	O	NP	ACC
+6	10	em	[em]	prp	-	-	PP	ADVL
+6	11	Maçaranduba	[]	prop	M=S	O	NP	ADVL
+6	12	,	[]	,	-	-	O	ADVL
+6	13	que	[que]	pron-indp	M=S	O	NP	SUBJ
+6	14	resolve	[resolver]	v-fin	PR=3S=IND	-	VP	P
+6	15	sua	[sua]	pron-det	F=S	O	NP	ACC
+6	16	crise	[crise]	n	F=S	-	NP	ACC
+6	17	existencial	[existencial]	adj	F=S	-	NP	ACC
+6	18	e	[e]	conj-c	-	-	O	O
+6	19	volta	[voltar]	v-fin	PR=3S=IND	-	VP	P
+6	20	a	[a]	prp	-	-	VP	P
+6	21	ter	[ter]	v-inf	-	-	VP	P
+6	22	a	[o]	art	F=S	-	NP	ACC
+6	23	sua	[sua]	pron-det	F=S	-	NP	ACC
+6	24	velha	[velha, velho]	adj	F=S	-	NP	ACC
+6	25	agressividade	[agressivo]	n	F=S	-	NP	ACC
+6	26	Mudanças	[]	prop	F=P	-	NP	ACC
+6	27	em	[em]	prp	-	-	PP	ADVL
+6	28	o	[o]	art	M=S	-	NP	ADVL
+6	29	Megatom	[]	prop	M=S	-	NP	ADVL
+6	30	O	[o]	art	M=S	-	NP	SUBJ
+6	31	diretor	[diretor]	n	M=S	-	NP	SUBJ
+6	32	Aloysio_Legey	[]	prop	M=S	-	NP	SUBJ
+6	33	deixou	[deixar]	v-fin	PS=3S=IND	-	VP	P
+6	34	o	[o]	art	M=S	-	NP	ACC
+6	35	comando	[comando]	n	M=S	-	NP	ACC
+6	36	de	[de]	prp	-	-	PP	ACC
+6	37	o	[o]	art	M=S	-	NP	ACC
+6	38	Megatom	[]	n	M=S	-	NP	ACC
+6	39	para	[para]	prp	-	-	PP	ADVL
+6	40	cuidar	[cuidar]	v-inf	-	-	VP	P
+6	41	de	[de]	prp	-	-	PP	PIV
+6	42	os	[o]	art	M=P	-	NP	PIV
+6	43	especiais	[especial]	adj	M=P	-	NP	PIV
+6	44	de	[de]	prp	-	-	PP	PIV
+6	45	fim	[fim]	n	M=S	-	NP	PIV
+6	46	de	[de]	prp	-	-	PP	PIV
+6	47	ano	[ano]	n	M=S	-	NP	PIV
+6	48	de	[de]	prp	-	-	PP	PIV
+6	49	a	[o]	art	F=S	-	NP	PIV
+6	50	Globo	[Globo]	prop	-	-	NP	PIV
+6	51	.	[.]	.	-	-	O	O
+
+7	0	.	[.]	.	-	-	O	O
+
+8	0	Mario_Lúcio_Vaz	[]	prop	M=S	-	NP	SUBJ
+8	1	,	[]	,	-	-	O	SUBJ
+8	2	diretor	[diretor]	n	M=S	-	NP	SUBJ
+8	3	de	[de]	prp	-	-	PP	SUBJ
+8	4	a	[o]	art	F=S	-	NP	SUBJ
+8	5	Central_Globo_de_Controle_de_Qualidade	[]	n	M=S	-	NP	SUBJ
+8	6	assumiu	[assumir]	v-fin	PS=3S=IND	-	VP	P
+8	7	a	[o]	art	F=S	-	NP	ACC
+8	8	supervisão	[supervisão]	n	F=S	-	NP	ACC
+8	9	de	[de]	prp	-	-	PP	ACC
+8	10	o	[o]	art	M=S	-	NP	ACC
+8	11	humorístico	[humorístico]	adj	M=S	-	NP	ACC
+8	12	.	[.]	.	-	-	O	O
+
+9	0	.	[.]	.	-	-	O	O
+
+10	0	Note	[]	n	F=S	-	NP	O
+10	1	&amp	[]	prop	F=S	-	NP	O
+10	2	;	[;]	;	-	-	O	O
+
+11	0	Anote	[]	prop	M=S	-	NP	O
+11	1	:	[:]	:	-	-	O	O
+
+12	0	pressão	[pressão]	n	F=S	-	NP	SUBJ
+12	1	Continua	[continuar]	v-fin	PR=3S=IND	-	VP	P
+12	2	baixa	[baixo]	adj	F=S	-	NP	SC
+12	3	a	[o]	art	F=S	-	NP	SUBJ
+12	4	audiência	[audiência]	n	F=S	-	NP	SUBJ
+12	5	de	[de]	prp	-	-	PP	SUBJ
+12	6	o	[o]	art	M=S	-	NP	SUBJ
+12	7	Nota	[]	prop	M=S	-	NP	SUBJ
+12	8	&amp	[]	v-fin	PR=3S=IND	-	VP	P
+12	9	;	[;]	;	-	-	O	O
+
+13	0	Anote	[]	prop	M=S	-	NP	O
+13	1	.	[.]	.	-	-	O	O
+
+14	0	.	[.]	.	-	-	O	O
+
+15	0	Como	[como]	adv	-	-	ADVP	ADVL
+15	1	prevíamos	[prever]	v-fin	IMPF=1P=IND	-	VP	P
+15	2	,	[]	,	-	-	O	O
+15	3	a	[o]	art	F=S	-	NP	SUBJ
+15	4	entrada	[entrada]	n	F=S	-	NP	SUBJ
+15	5	de	[de]	prp	-	-	PP	SUBJ
+15	6	Claudete_Troiano	[]	prop	M=S	-	NP	SUBJ
+15	7	não	[não]	adv	-	-	ADVP	ADVL
+15	8	provocou	[provocar]	v-fin	PS=3S=IND	-	VP	P
+15	9	uma	[um]	art	F=S	-	NP	ACC
+15	10	melhoria	[melhoria]	n	F=S	-	NP	ACC
+15	11	em	[em]	prp	-	-	PP	ACC
+15	12	os	[o]	art	M=P	-	NP	ACC
+15	13	índices	[índice]	n	M=P	-	NP	ACC
+15	14	,	[]	,	-	-	O	ACC
+15	15	que	[que]	pron-indp	M=S	-	NP	SUBJ
+15	16	continua	[continuar]	v-fin	PR=3S=IND	-	VP	P
+15	17	estacionado	[estacionar]	v-pcp	M=S	-	VP	P
+15	18	em	[em]	prp	-	-	PP	ADVL
+15	19	os	[o]	art	M=P	-	NP	ADVL
+15	20	4	[]	num	M=P	-	NP	ADVL
+15	21	pontos	[ponto]	n	M=P	-	NP	ADVL
+15	22	.	[.]	.	-	-	O	O
+
+16	0	.	[.]	.	-	-	O	O
+
+17	0	Acontece	[acontecer]	v-fin	PR=3S=IND	-	VP	P
+17	1	que	[que]	conj-s	-	-	O	ACC
+17	2	a	[o]	art	F=S	-	NP	SUBJ
+17	3	Record	[]	prop	F=S	-	NP	SUBJ
+17	4	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+17	5	pagando	[pagar]	v-ger	-	-	VP	P
+17	6	um	[um]	art	M=S	-	NP	ACC
+17	7	salário	[salário]	n	M=S	-	NP	ACC
+17	8	de	[de]	prp	-	-	PP	ACC
+17	9	R$	[]	n	M=P	-	NP	ACC
+17	10	300	[]	num	M=P	-	NP	ACC
+17	11	mil	[]	n	M=P	-	NP	ACC
+17	12	para	[para]	prp	-	-	PP	ACC
+17	13	a	[o]	art	F=S	-	NP	ACC
+17	14	experiência	[experiência]	n	F=S	-	NP	ACC
+17	15	apresentado	[apresentar]	v-pcp	M=S	-	NP	ACC
+17	16	,	[]	,	-	-	O	O
+17	17	e	[e]	conj-c	-	-	O	O
+17	18	espera	[esperar]	v-fin	PR=3S=IND	-	VP	P
+17	19	o	[o]	art	M=S	-	NP	ACC
+17	20	retorno	[retorno]	n	M=S	-	NP	ACC
+17	21	.	[.]	.	-	-	O	O
+
+18	0	.	[.]	.	-	-	O	O
+
+19	0	Para	[para]	prp	-	-	PP	ADVL
+19	1	piorar	[piorar]	v-inf	-	-	VP	P
+19	2	,	[]	,	-	-	O	O
+19	3	muitos	[muito]	pron-det	M=P	-	NP	SUBJ
+19	4	espectadores	[]	n	M=P	-	NP	SUBJ
+19	5	querem	[querer]	v-fin	PR=3P=IND	-	VP	P
+19	6	a	[o]	art	F=S	-	NP	ACC
+19	7	volta	[volta]	n	F=S	-	NP	ACC
+19	8	de	[de]	prp	-	-	PP	ACC
+19	9	Cátia_Fonseca	[]	prop	F=S	-	NP	ACC
+19	10	.	[.]	.	-	-	O	O
+
+20	0	.	[.]	.	-	-	O	O
+
+21	0	Claudete	[]	prop	M=S	-	NP	SUBJ
+21	1	afirma	[afirmar]	v-fin	PR=3S=IND	-	VP	P
+21	2	que	[que]	conj-s	-	-	O	ACC
+21	3	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+21	4	tranqüila	[]	adj	F=S	-	NP	SC
+21	5	,	[]	,	-	-	O	O
+21	6	mas	[mas]	conj-c	-	-	O	O
+21	7	a	[o]	art	F=S	-	NP	SUBJ
+21	8	pressão	[pressão]	n	F=S	-	NP	SUBJ
+21	9	sobre	[sobre]	prp	-	-	PP	SUBJ
+21	10	ela	[ele]	pron-pers	F=3S=NOM	-	NP	SUBJ
+21	11	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+21	12	cada	[cada]	pron-det	F=S	-	NP	SC
+21	13	vez	[vez]	n	F=S	-	NP	SC
+21	14	maior	[maior]	adj	F=S	-	NP	SC
+21	15	.	[.]	.	-	-	O	O
+
+22	0	.	[.]	.	-	-	O	O
+
+23	0	Ministério_da_Justiça_recua_Os	[]	prop	M=S	-	NP	O
+23	1	censores	[censor]	n	M=P	-	NP	O
+23	2	de	[de]	prp	-	-	PP	O
+23	3	Zé_Gregori	[]	prop	M=S	-	NP	O
+23	4	elaboram	[elaborar]	v-fin	PR=3P=IND	-	VP	P
+23	5	um	[um]	art	M=S	-	NP	SUBJ
+23	6	ofício	[ofício]	n	M=S	-	NP	SUBJ
+23	7	advertindo	[advertir]	v-ger	-	-	VP	P
+23	8	a	[a]	prp	-	-	PP	PIV
+23	9	Rede_Record	[]	prop	M=S	-	NP	PIV
+23	10	por_causa_da	[]	prp	-	-	PP	ADVL
+23	11	a	[o]	art	F=S	-	NP	ADVL
+23	12	exibição	[exibir]	n	F=S	-	NP	ADVL
+23	13	de	[de]	prp	-	-	PP	ADVL
+23	14	o	[o]	art	M=S	-	NP	ADVL
+23	15	filme	[filme]	n	M=S	-	NP	ADVL
+23	16	Fogo	[]	prop	M=S	-	NP	ADVL
+23	17	contra	[contra]	prp	-	-	PP	ADVL
+23	18	Fogo	[]	prop	M=S	-	NP	ADVL
+23	19	em	[em]	prp	-	-	PP	ADVL
+23	20	horário	[horário]	n	M=S	-	NP	ADVL
+23	21	impróprio	[impróprio]	adj	M=S	-	NP	ADVL
+23	22	em	[em]	prp	-	-	PP	ADVL
+23	23	o	[o]	art	M=S	-	NP	ADVL
+23	24	último	[último]	adj	M=S	-	NP	ADVL
+23	25	domingo	[domingo]	n	M=S	-	NP	ADVL
+23	26	.	[.]	.	-	-	O	O
+
+24	0	.	[.]	.	-	-	O	O
+
+25	0	Entretanto	[entretanto]	adv	-	-	ADVP	ADVL
+25	1	,	[]	,	-	-	O	O
+25	2	o	[o]	art	M=S	-	NP	SUBJ
+25	3	Ministério_da_Justiça	[]	prop	M=S	-	NP	SUBJ
+25	4	decidiu	[decidir]	v-fin	PS=3S=IND	-	VP	P
+25	5	não	[não]	adv	-	-	ADVP	ADVL
+25	6	enviar	[enviar]	v-inf	-	-	VP	P
+25	7	o	[o]	art	M=S	-	NP	ACC
+25	8	ofício	[ofício]	n	M=S	-	NP	ACC
+25	9	para	[para]	prp	-	-	PP	ACC
+25	10	a	[o]	art	F=S	-	NP	ACC
+25	11	emissora	[emissora, emissor]	n	F=S	-	NP	ACC
+25	12	.	[.]	.	-	-	O	O
+
+26	0	.	[.]	.	-	-	O	O
+
+27	0	Aparentemente	[aparente]	adv	-	-	ADVP	ADVL
+27	1	,	[]	,	-	-	O	O
+27	2	censores	[censor]	n	M=P	-	NP	SUBJ
+27	3	e	[e]	conj-c	-	-	NP	SUBJ
+27	4	chefes	[chefe]	n	M=P	-	NP	SUBJ
+27	5	de	[de]	prp	-	-	PP	SUBJ
+27	6	o	[o]	art	M=S	-	NP	SUBJ
+27	7	ministério	[ministério]	n	M=S	-	NP	SUBJ
+27	8	não	[não]	adv	-	-	ADVP	ADVL
+27	9	estão	[estar]	v-fin	PR=3P=IND	-	VP	P
+27	10	falando	[falar]	v-ger	-	-	VP	P
+27	11	a	[o]	art	F=S	-	NP	ACC
+27	12	mesma	[mesmo]	pron-det	F=S	-	NP	ACC
+27	13	língua	[língua]	n	F=S	-	NP	ACC
+27	14	.	[.]	.	-	-	O	O
+
+28	0	.	[.]	.	-	-	O	O
+
+29	0	Vale	[valar, valer]	v-fin	PR=3S=IND	-	VP	P
+29	1	destacar	[destacar]	v-inf	-	-	VP	P
+29	2	que	[que]	conj-s	-	-	O	ACC
+29	3	o	[o]	art	M=S	-	NP	SUBJ
+29	4	PSDB	[]	prop	M=S	-	NP	SUBJ
+29	5	vinha	[vir]	v-fin	IMPF=3S=IND	-	VP	P
+29	6	negociando	[negociar]	v-ger	-	-	VP	P
+29	7	um	[um]	art	M=S	-	NP	ACC
+29	8	acordo	[acordo]	n	M=S	-	NP	ACC
+29	9	com	[com]	prp	-	-	PP	ACC
+29	10	a	[o]	art	F=S	-	NP	ACC
+29	11	Igreja_Universal	[]	prop	F=S	-	NP	ACC
+29	12	.	[.]	.	-	-	O	O
+
+30	0	Melhor	[]	n	M=S	-	NP	O
+30	1	resolução	[resolução]	n	F=S	-	NP	O
+30	2	800x600	[]	num	F=P	-	NP	O
+30	3	16	[]	num	M=P	-	NP	O
+30	4	bit's	[]	n	M=P	-	NP	O
+30	5	©	[]	prp	-	-	PP	O
+30	6	copyright	[copyright]	n	M=S	-	NP	O
+30	7	2000	[]	num	M=P	-	NP	O
+30	8	,	[]	,	-	-	O	O
+30	9	Jornal_Bom_Dia_Todos_os_Direitos_Reservados	[]	prop	M=S	-	NP	O
+30	10	.	[.]	.	-	-	O	O
+

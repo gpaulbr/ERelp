@@ -1,0 +1,439 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Locais	[local]	adj	M=P	-	NP	O
+0	1	de	[de]	prp	-	-	PP	O
+0	2	Escalada	[]	prop	F=S	O	NP	O
+0	3	-	[]	-	-	-	O	O
+0	4	Gruta	[]	prop	F=S	O	NP	O
+0	5	de	[de]	prp	-	-	PP	O
+0	6	o	[o]	art	M=S	-	NP	O
+0	7	Baú	[]	prop	M=S	O	NP	O
+0	8	-	[]	-	-	-	O	O
+0	9	Lagoa_Santa	[]	prop	F=S	O	NP	O
+0	10	-	[]	-	-	-	O	O
+0	11	MG	[]	prop	M=S	O	NP	O
+0	12	.	[.]	.	-	-	O	O
+
+1	0	Gruta	[]	prop	F=S	O	NP	O
+1	1	de	[de]	prp	-	-	PP	O
+1	2	o	[o]	art	M=S	-	NP	O
+1	3	Baú	[]	prop	M=S	O	NP	O
+1	4	-	[]	-	-	-	O	O
+1	5	Lagoa_Santa	[]	prop	F=S	O	NP	O
+1	6	-	[]	-	-	-	O	O
+1	7	MG	[]	prop	M=S	O	NP	O
+1	8	Como	[como]	conj-s	-	-	O	ADVL
+1	9	chegar	[]	v-fin	FUT=3S=SUBJ	-	VP	P
+1	10	Chegando	[chegar]	v-ger	-	-	VP	P
+1	11	a	[o]	art	F=S	-	NP	ACC
+1	12	Belo_Horizonte	[]	prop	F=S	O	NP	ACC
+1	13	,	[]	,	-	-	O	O
+1	14	deve	[dever]	v-fin	PR=3S=IND	-	VP	P
+1	15	-se	[]	pron-pers	M=3S=ACC	O	NP	ACC
+1	16	pegar	[pegar]	v-inf	-	-	NP	ACC
+1	17	a	[a]	prp	-	-	PP	PIV
+1	18	Av._Cristiano_Machado	[]	prop	M=S	O	NP	PIV
+1	19	que	[que]	pron-indp	M=S	O	NP	SUBJ
+1	20	desemboca	[desembocar]	v-fin	PR=3S=IND	-	VP	P
+1	21	em	[em]	prp	-	-	PP	ADVL
+1	22	a	[o]	art	F=S	-	NP	ADVL
+1	23	rodovia	[rodovia]	n	F=S	O	NP	ADVL
+1	24	para	[para]	prp	-	-	PP	ADVL
+1	25	a	[o]	art	F=S	-	NP	ADVL
+1	26	cidade	[cidade]	n	F=S	O	NP	ADVL
+1	27	de	[de]	prp	-	-	PP	ADVL
+1	28	Pedro_Leopoldo	[]	prop	M=S	O	NP	ADVL
+1	29	.	[.]	.	-	-	O	O
+
+2	0	.	[.]	.	-	-	O	O
+
+3	0	Depois	[depois]	adv	-	-	ADVP	ADVL
+3	1	,	[]	,	-	-	O	O
+3	2	deve	[dever]	v-fin	PR=3S=IND	-	VP	P
+3	3	-se	[]	pron-pers	M=3S=ACC	O	NP	SUBJ
+3	4	perguntar	[perguntar]	v-inf	-	-	NP	SUBJ
+3	5	como	[como]	adv	-	-	ADVP	ADVL
+3	6	chegar	[]	v-fin	FUT=3S=SUBJ	-	VP	P
+3	7	a	[a]	prp	-	-	PP	PIV
+3	8	o	[o]	art	M=S	-	NP	PIV
+3	9	bairro	[bairro]	n	M=S	O	NP	PIV
+3	10	de	[de]	prp	-	-	PP	PIV
+3	11	Fidalgo	[]	prop	M=S	O	NP	PIV
+3	12	.	[.]	.	-	-	O	O
+
+4	0	.	[.]	.	-	-	O	O
+
+5	0	em	[em]	prp	-	-	PP	ADVL
+5	1	a	[o]	art	F=S	-	NP	ADVL
+5	2	estrada	[estrada]	n	F=S	O	NP	ADVL
+5	3	que	[que]	pron-indp	F=S	O	NP	SUBJ
+5	4	leva	[levar]	v-fin	PR=3S=IND	-	VP	P
+5	5	a	[a]	prp	-	-	PP	PIV
+5	6	o	[o]	art	M=S	-	NP	PIV
+5	7	bairro	[bairro]	n	M=S	O	NP	PIV
+5	8	remoto	[remoto]	adj	M=S	-	NP	PIV
+5	9	de	[de]	prp	-	-	PP	PIV
+5	10	Fidalgo	[]	prop	M=S	O	NP	PIV
+5	11	,	[]	,	-	-	O	O
+5	12	aparecerão	[aparecer]	v-fin	FUT=3P=IND	-	VP	P
+5	13	formações	[formação, formar]	n	F=P	O	NP	ACC
+5	14	a	[a]	prp	-	-	PP	ACC
+5	15	a	[o]	art	F=S	-	NP	ACC
+5	16	esquerda	[esquerda]	n	F=S	O	NP	ACC
+5	17	.	[.]	.	-	-	O	O
+
+6	0	.	[.]	.	-	-	O	O
+
+7	0	Após	[após]	prp	-	-	PP	ADVL
+7	1	avistar	[avistar]	v-inf	-	-	VP	P
+7	2	um	[um]	art	M=S	-	NP	ACC
+7	3	formação	[formação, formar]	n	F=S	O	NP	ACC
+7	4	de	[de]	prp	-	-	PP	ACC
+7	5	calcáreo	[]	n	M=S	O	NP	ACC
+7	6	parecida	[parecer]	v-pcp	F=S	-	VP	P
+7	7	com	[com]	prp	-	-	PP	PIV
+7	8	um	[um]	art	M=S	-	NP	PIV
+7	9	fechadura	[fechadura]	n	F=S	O	NP	PIV
+7	10	e	[e]	conj-c	-	-	O	O
+7	11	depois	[depois]	adv	-	-	NP	ADVL
+7	12	um	[um]	art	M=S	-	NP	ADVL
+7	13	campinho	[]	n	M=S	O	NP	ADVL
+7	14	,	[]	,	-	-	O	O
+7	15	existe	[existir]	v-fin	PR=3S=IND	-	VP	P
+7	16	a	[o]	art	F=S	-	NP	ACC
+7	17	entrada	[entrada]	n	F=S	O	NP	ACC
+7	18	para	[para]	prp	-	-	PP	ACC
+7	19	a	[o]	art	F=S	-	NP	ACC
+7	20	fazendo	[fazer]	v-ger	-	-	NP	ACC
+7	21	.	[.]	.	-	-	O	O
+
+8	0	.	[.]	.	-	-	O	O
+
+9	0	De	[de]	prp	-	-	PP	ADVL
+9	1	ônibus	[ônibus]	n	M=S	O	NP	ADVL
+9	2	de	[de]	prp	-	-	PP	ADVL
+9	3	São_Paulo	[]	prop	M=S	O	NP	ADVL
+9	4	até	[até]	prp	-	-	PP	ADVL
+9	5	a	[o]	art	F=S	-	NP	ADVL
+9	6	Gruta	[gruta]	n	F=S	O	NP	ADVL
+9	7	de	[de]	prp	-	-	PP	ADVL
+9	8	o	[o]	art	M=S	-	NP	ADVL
+9	9	Baú	[]	prop	M=S	O	NP	ADVL
+9	10	envolve	[envolver]	v-fin	PR=3S=IND	-	VP	P
+9	11	um	[um]	art	M=S	-	NP	ACC
+9	12	trecho	[trecho]	n	M=S	O	NP	ACC
+9	13	até	[até]	prp	-	-	PP	ADVL
+9	14	Belo_Horizonte	[]	prop	M=S	O	NP	ADVL
+9	15	.	[.]	.	-	-	O	O
+
+10	0	.	[.]	.	-	-	O	O
+
+11	0	A	[o]	art	F=S	-	NP	SUBJ
+11	1	passagem	[passagem]	n	F=S	O	NP	SUBJ
+11	2	custa	[custar]	v-fin	PR=3S=IND	-	VP	P
+11	3	cerca_de	[]	adv	-	-	NP	ACC
+11	4	R$	[]	n	M=P	O	NP	ACC
+11	5	23,00	[]	num	M=P	-	NP	ACC
+11	6	até	[até]	prp	-	-	PP	ADVL
+11	7	BH	[]	prop	M=S	O	NP	ADVL
+11	8	.	[.]	.	-	-	O	O
+
+12	0	.	[.]	.	-	-	O	O
+
+13	0	De	[de]	prp	-	-	PP	ADVL
+13	1	lá	[lá]	adv	-	-	PP	ADVL
+13	2	,	[]	,	-	-	O	O
+13	3	existem	[existir]	v-fin	PR=3P=IND	-	VP	P
+13	4	ônibus	[ônibus]	n	M=P	O	NP	ACC
+13	5	diários	[diário]	adj	M=P	-	NP	ACC
+13	6	a	[a]	prp	-	-	PP	ADVL
+13	7	cada	[cada]	pron-det	F=S	O	NP	ADVL
+13	8	hora	[hora]	n	F=S	-	NP	ADVL
+13	9	de	[de]	prp	-	-	PP	ADVL
+13	10	a	[o]	art	F=S	-	NP	ADVL
+13	11	Viação_Unir	[]	prop	F=S	O	NP	ADVL
+13	12	(	[(]	(	-	-	O	ADVL
+13	13	R$2,25	[]	prop	M=S	O	NP	ADVL
+13	14	)	[)]	)	-	-	O	ADVL
+13	15	para	[para]	prp	-	-	PP	ADVL
+13	16	a	[o]	art	F=S	-	NP	ADVL
+13	17	cidade	[cidade]	n	F=S	O	NP	ADVL
+13	18	de	[de]	prp	-	-	PP	ADVL
+13	19	Pedro_Leopoldo	[]	prop	M=S	O	NP	ADVL
+13	20	.	[.]	.	-	-	O	O
+
+14	0	.	[.]	.	-	-	O	O
+
+15	0	Deve	[dever]	v-fin	PR=3S=IND	-	VP	P
+15	1	-se	[]	pron-pers	M/F=3S/P=ACC	O	NP	ACC
+15	2	pegar	[pegar]	v-inf	-	-	NP	ACC
+15	3	então	[então]	adv	-	-	ADVP	ADVL
+15	4	,	[]	,	-	-	O	O
+15	5	um	[um]	art	M=S	-	NP	ACC
+15	6	ônibus	[ônibus]	n	M=S	O	NP	ACC
+15	7	urbano	[urbano]	adj	M=S	-	NP	ACC
+15	8	para	[para]	prp	-	-	PP	ACC
+15	9	o	[o]	art	M=S	-	NP	ACC
+15	10	bairro	[bairro]	n	M=S	O	NP	ACC
+15	11	de	[de]	prp	-	-	PP	ACC
+15	12	Fidalgo	[]	prop	M=S	O	NP	ACC
+15	13	.	[.]	.	-	-	O	O
+
+16	0	.	[.]	.	-	-	O	O
+
+17	0	Peça	[peça]	n	F=S	O	NP	O
+17	1	para	[para]	prp	-	-	PP	O
+17	2	o	[o]	art	M=S	-	NP	O
+17	3	motorista	[motorista, motora]	n	M=S	O	NP	O
+17	4	te	[te]	pron-pers	M=S	O	NP	ACC
+17	5	deixar	[deixar]	v-inf	-	-	VP	P
+17	6	em	[em]	prp	-	-	PP	ADVL
+17	7	a	[o]	art	F=S	-	NP	ADVL
+17	8	graut	[]	n	F=S	O	NP	ADVL
+17	9	de	[de]	prp	-	-	PP	ADVL
+17	10	o	[o]	art	M=S	-	NP	ADVL
+17	11	Baú	[]	prop	M=S	O	NP	ADVL
+17	12	.	[.]	.	-	-	O	O
+
+18	0	.	[.]	.	-	-	O	O
+
+19	0	em	[em]	prp	-	-	PP	ADVL
+19	1	a	[o]	art	F=S	-	NP	ADVL
+19	2	estrada	[estrada]	n	F=S	O	NP	ADVL
+19	3	que	[que]	pron-indp	F=S	O	NP	SUBJ
+19	4	leva	[levar]	v-fin	PR=3S=IND	-	VP	P
+19	5	a	[a]	prp	-	-	PP	PIV
+19	6	o	[o]	art	M=S	-	NP	PIV
+19	7	bairro	[bairro]	n	M=S	O	NP	PIV
+19	8	remoto	[remoto]	adj	M=S	-	NP	PIV
+19	9	de	[de]	prp	-	-	PP	PIV
+19	10	Fidalgo	[]	prop	M=S	O	NP	PIV
+19	11	,	[]	,	-	-	O	O
+19	12	aparecerão	[aparecer]	v-fin	FUT=3P=IND	-	VP	P
+19	13	formações	[formação, formar]	n	F=P	O	NP	ACC
+19	14	a	[a]	prp	-	-	PP	ACC
+19	15	a	[o]	art	F=S	-	NP	ACC
+19	16	esquerda	[esquerda]	n	F=S	O	NP	ACC
+19	17	.	[.]	.	-	-	O	O
+
+20	0	.	[.]	.	-	-	O	O
+
+21	0	Após	[após]	prp	-	-	PP	ADVL
+21	1	avistar	[avistar]	v-inf	-	-	VP	P
+21	2	um	[um]	art	M=S	-	NP	ACC
+21	3	formação	[formação, formar]	n	F=S	O	NP	ACC
+21	4	de	[de]	prp	-	-	PP	ACC
+21	5	calcáreo	[]	n	M=S	O	NP	ACC
+21	6	parecida	[parecer]	v-pcp	F=S	-	VP	P
+21	7	com	[com]	prp	-	-	PP	PIV
+21	8	um	[um]	art	M=S	-	NP	PIV
+21	9	fechadura	[fechadura]	n	F=S	O	NP	PIV
+21	10	e	[e]	conj-c	-	-	O	O
+21	11	depois	[depois]	adv	-	-	NP	ADVL
+21	12	um	[um]	art	M=S	-	NP	ADVL
+21	13	campinho	[]	n	M=S	O	NP	ADVL
+21	14	,	[]	,	-	-	O	O
+21	15	existe	[existir]	v-fin	PR=3S=IND	-	VP	P
+21	16	a	[o]	art	F=S	-	NP	ACC
+21	17	entrada	[entrada]	n	F=S	O	NP	ACC
+21	18	para	[para]	prp	-	-	PP	ACC
+21	19	a	[o]	art	F=S	-	NP	ACC
+21	20	fazendo	[fazer]	v-ger	-	-	NP	ACC
+21	21	.	[.]	.	-	-	O	O
+
+22	0	.	[.]	.	-	-	O	O
+
+23	0	Entrando	[entrar]	v-ger	-	-	VP	P
+23	1	em	[em]	prp	-	-	PP	ADVL
+23	2	a	[o]	art	F=S	-	NP	ADVL
+23	3	fazenda	[fazenda]	n	F=S	O	NP	ADVL
+23	4	,	[]	,	-	-	O	O
+23	5	as	[o]	art	F=P	-	NP	SUBJ
+23	6	vias	[via]	n	F=P	O	NP	SUBJ
+23	7	de	[de]	prp	-	-	PP	SUBJ
+23	8	o	[o]	art	M=S	-	NP	SUBJ
+23	9	Baú	[]	prop	M=S	O	NP	SUBJ
+23	10	se	[se]	pron-pers	M=3P=ACC	O	NP	ACC
+23	11	encontram	[encontrar]	v-fin	PR=3P=IND	-	VP	P
+23	12	em	[em]	prp	-	-	PP	ADVL
+23	13	as	[o]	art	F=P	-	NP	ADVL
+23	14	paredes	[parede]	n	F=P	O	NP	ADVL
+23	15	a	[a]	prp	-	-	PP	ADVL
+23	16	a	[o]	art	F=S	-	NP	ADVL
+23	17	esquerda	[esquerda]	n	F=S	O	NP	ADVL
+23	18	.	[.]	.	-	-	O	O
+
+24	0	.	[.]	.	-	-	O	O
+
+25	0	Onde_Ficar_Os	[]	adv	-	-	NP	SUBJ
+25	1	escaladores	[escalar]	n	M=P	O	NP	SUBJ
+25	2	locais	[local]	adj	M=P	-	NP	SUBJ
+25	3	geralmente	[geral]	adv	-	-	ADVP	ADVL
+25	4	ficam	[ficar]	v-fin	PR=3P=IND	-	VP	P
+25	5	em	[em]	prp	-	-	PP	PIV
+25	6	o	[o]	art	M=S	-	NP	PIV
+25	7	rancho	[rancho]	n	M=S	O	NP	PIV
+25	8	,	[]	,	-	-	O	PIV
+25	9	que	[que]	pron-indp	F=S	O	NP	SUBJ
+25	10	se	[se]	pron-pers	F=3S=ACC	O	NP	ACC
+25	11	encontra	[encontrar]	v-fin	PR=3S=IND	-	VP	P
+25	12	continuando	[continuar]	v-ger	-	-	VP	P
+25	13	a	[a]	prp	-	-	PP	PIV
+25	14	descer	[descer]	v-inf	-	-	VP	P
+25	15	a	[o]	art	F=S	-	NP	ACC
+25	16	estrada	[estrada]	n	F=S	O	NP	ACC
+25	17	de	[de]	prp	-	-	PP	ACC
+25	18	a	[o]	art	F=S	-	NP	ACC
+25	19	fazenda	[fazenda]	n	F=S	O	NP	ACC
+25	20	.	[.]	.	-	-	O	O
+
+26	0	.	[.]	.	-	-	O	O
+
+27	0	O	[o]	art	M=S	-	NP	SUBJ
+27	1	rancho	[rancho]	n	M=S	O	NP	SUBJ
+27	2	só	[só]	adv	-	-	ADVP	ADVL
+27	3	oferece	[oferecer]	v-fin	PR=3S=IND	-	VP	P
+27	4	chão	[chão]	n	M=S	O	NP	ACC
+27	5	e	[e]	conj-c	-	-	O	ACC
+27	6	teto	[teto]	n	M=S	O	NP	ACC
+27	7	,	[]	,	-	-	O	O
+27	8	sendo	[ser]	v-ger	-	-	VP	P
+27	9	que	[que]	conj-s	-	-	O	ACC
+27	10	a	[o]	art	F=S	-	NP	SUBJ
+27	11	água	[água]	n	F=S	O	NP	SUBJ
+27	12	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+27	13	precária	[precário]	adj	F=S	-	NP	SC
+27	14	,	[]	,	-	-	O	O
+27	15	tornado	[tornar]	v-pcp	M=S	-	VP	P
+27	16	recomendável	[recomendar]	adj	M=S	-	NP	SC
+27	17	levar	[levar]	v-inf	-	-	VP	P
+27	18	água	[água]	n	F=S	-	NP	ACC
+27	19	.	[.]	.	-	-	O	O
+
+28	0	.	[.]	.	-	-	O	O
+
+29	0	Vias	[]	prop	F=P	-	NP	O
+29	1	As	[o]	art	F=P	-	NP	SUBJ
+29	2	vias	[via]	n	F=P	-	NP	SUBJ
+29	3	de	[de]	prp	-	-	PP	SUBJ
+29	4	o	[o]	art	M=S	-	NP	SUBJ
+29	5	Baú	[]	prop	M=S	-	NP	SUBJ
+29	6	são	[ser]	v-fin	PR=3P=IND	-	VP	P
+29	7	demais	[demais]	pron-det	M=P	-	NP	SC
+29	8	!	[]	!	-	-	O	O
+
+30	0	.	[.]	.	-	-	O	O
+
+31	0	Existem	[existir]	v-fin	PR=3P=IND	-	VP	P
+31	1	várias	[]	pron-det	F=P	-	NP	ACC
+31	2	vias-escola	[]	n	F=P	-	NP	ACC
+31	3	,	[]	,	-	-	O	ACC
+31	4	com	[com]	prp	-	-	PP	ACC
+31	5	baixos	[baixo]	adj	M=P	-	NP	ACC
+31	6	níveis	[nível]	n	M=P	-	NP	ACC
+31	7	de	[de]	prp	-	-	PP	ACC
+31	8	dificuldade	[dificuldade]	n	F=S	-	NP	ACC
+31	9	técnica/física	[]	adj	F=S	-	NP	ACC
+31	10	(	[(]	(	-	-	O	ACC
+31	11	entre	[entre]	prp	-	-	PP	ACC
+31	12	4	[]	num	M=P	-	NP	ACC
+31	13	a	[a]	prp	-	-	PP	ACC
+31	14	6º	[]	num	M=P	-	NP	ACC
+31	15	grau	[grau]	n	M=S	-	NP	ACC
+31	16	)	[)]	)	-	-	O	ACC
+31	17	,	[]	,	-	-	O	ACC
+31	18	e	[e]	conj-c	-	-	O	ACC
+31	19	médios	[médio]	adj	M=P	-	NP	ACC
+31	20	p/	[]	n	M=P	-	NP	ACC
+31	21	altos	[alto]	adj	M=P	-	NP	ACC
+31	22	níveis	[nível]	n	M=P	-	NP	ACC
+31	23	(	[(]	(	-	-	O	ACC
+31	24	7	[]	num	M=P	-	NP	ACC
+31	25	em	[em]	prp	-	-	PP	ACC
+31	26	diante	[diante]	adv	-	-	NP	ACC
+31	27	)	[)]	)	-	-	O	ACC
+31	28	.	[.]	.	-	-	O	O
+
+32	0	.	[.]	.	-	-	O	O
+
+33	0	A	[o]	art	F=S	-	NP	SUBJ
+33	1	maioria	[maioria]	n	F=S	-	NP	SUBJ
+33	2	de	[de]	prp	-	-	PP	SUBJ
+33	3	as	[o]	art	F=P	-	NP	SUBJ
+33	4	vias	[via]	n	F=P	-	NP	SUBJ
+33	5	são	[ser]	v-fin	PR=3P=IND	-	VP	P
+33	6	grampeadas	[]	n	F=P	-	NP	SC
+33	7	,	[]	,	-	-	O	O
+33	8	mas	[mas]	conj-c	-	-	O	O
+33	9	,	[]	,	-	-	O	O
+33	10	existe	[existir]	v-fin	PR=3S=IND	-	VP	P
+33	11	a	[o]	art	F=S	-	NP	SUBJ
+33	12	possibilidade	[possibilidade, possível]	n	F=S	-	NP	SUBJ
+33	13	de	[de]	prp	-	-	PP	SUBJ
+33	14	se	[se]	pron-pers	M=3S=ACC	-	NP	ACC
+33	15	praticar	[praticar]	v-inf	-	-	VP	P
+33	16	escalada	[escalar]	v-pcp	F=S	-	O	OC
+33	17	móvel	[móvel]	n	M=S	-	NP	SC
+33	18	e	[e]	conj-c	-	-	O	SC
+33	19	solo	[solo]	n	M=S	-	NP	SC
+33	20	.	[.]	.	-	-	O	O
+
+34	0	.	[.]	.	-	-	O	O
+
+35	0	Você	[você]	pron-pers	M/F=3S=NOM	-	NP	SUBJ
+35	1	poderá	[poder]	v-fin	FUT=3S=IND	-	VP	P
+35	2	pernoitar	[pernoitar]	v-inf	-	-	VP	P
+35	3	(	[(]	(	-	-	O	O
+35	4	recomendamos	[recomendar]	v-fin	PR=1P=IND	-	VP	P
+35	5	comunicar	[comunicar]	v-inf	-	-	VP	P
+35	6	o	[o]	art	M=S	-	NP	ACC
+35	7	proprietário	[proprietário]	n	M=S	-	NP	ACC
+35	8	)	[)]	)	-	-	O	O
+35	9	ou	[ou]	conj-c	-	-	O	O
+35	10	bivacar	[]	v-inf	-	-	VP	P
+35	11	em	[em]	prp	-	-	PP	ADVL
+35	12	as	[o]	art	F=P	-	NP	ADVL
+35	13	moitas	[moita]	n	F=P	-	NP	ADVL
+35	14	.	[.]	.	-	-	O	O
+
+36	0	.	[.]	.	-	-	O	O
+
+37	0	Quando	[quando]	adv	-	-	ADVP	ADVL
+37	1	for	[ir, ser]	v-fin	FUT=3S=SUBJ	-	VP	P
+37	2	a	[a]	prp	-	-	PP	PIV
+37	3	o	[o]	art	M=S	-	NP	PIV
+37	4	Baú	[]	prop	M=S	-	NP	PIV
+37	5	,	[]	,	-	-	O	O
+37	6	não	[não]	adv	-	-	ADVP	ADVL
+37	7	deixe	[deixar]	v-fin	PR=3S=SUBJ	-	VP	P
+37	8	de	[de]	prp	-	-	VP	P
+37	9	ver	[ver]	v-inf	-	-	VP	P
+37	10	a	[o]	art	F=S	-	NP	ACC
+37	11	"	["]	"	-	-	NP	ACC
+37	12	FECHADURA	[]	prop	F=S	-	NP	ACC
+37	13	"	["]	"	-	-	O	ACC
+37	14	e	[e]	conj-c	-	-	O	ACC
+37	15	a	[o]	art	F=S	-	NP	ACC
+37	16	"	["]	"	-	-	NP	ACC
+37	17	ONDA	[]	prop	F=S	-	NP	ACC
+37	18	"	["]	"	-	-	O	ACC
+37	19	,	[]	,	-	-	O	ACC
+37	20	uma	[um]	art	F=S	-	NP	ACC
+37	21	formação	[formação, formar]	n	F=S	-	NP	ACC
+37	22	rochosa	[rochoso]	adj	F=S	-	NP	ACC
+37	23	muito	[muito]	adv	-	-	NP	ACC
+37	24	radical	[radical]	adj	M=S	-	NP	ACC
+37	25	,	[]	,	-	-	O	O
+37	26	em	[em]	prp	-	-	PP	ADVL
+37	27	o	[o]	art	M=S	-	NP	ADVL
+37	28	formato	[formato]	n	M=S	-	NP	ADVL
+37	29	de	[de]	prp	-	-	PP	ADVL
+37	30	uma	[um]	art	F=S	-	NP	ADVL
+37	31	onda	[onda]	n	F=S	-	NP	ADVL
+37	32	,	[]	,	-	-	O	ADVL
+37	33	onde	[onde]	adv	-	-	ADVP	ADVL
+37	34	há	[haver]	v-fin	PR=3S=IND	-	VP	P
+37	35	belas	[belo]	n	F=P	-	NP	ACC
+37	36	vias	[via]	n	F=P	-	NP	ACC
+37	37	negativas...	[]	adj	F=P	-	NP	ACC
+37	38	.	[.]	.	-	-	O	O
+

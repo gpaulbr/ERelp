@@ -1,0 +1,433 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	RCM	[]	prop	M=S	O	NP	SUBJ	-	-
+0	1	-	[]	-	-	-	O	SUBJ	-	-
+0	2	Rádio_do_Concelho_de_Mafra	[]	prop	M=S	O	NP	SUBJ	-	-
+0	3	.	[.]	.	-	-	O	O	-	-
+
+1	0	Entrada	[entrada]	n	F=S	O	NP	O	-	-
+1	1	Sobre	[sobre]	prp	-	-	PP	O	-	-
+1	2	a	[o]	art	F=S	-	NP	O	-	-
+1	3	RCM	[]	prop	F=S	O	NP	O	-	-
+1	4	Links_Opinião	[]	prop	M=S	O	NP	O	-	-
+1	5	.	[.]	.	-	-	O	O	-	-
+
+2	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+2	1	Primavera	[]	prop	F=S	O	NP	SUBJ	-	-
+2	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+2	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+2	4	Guerra	[]	prop	F=S	O	NP	SUBJ	-	-
+2	5	.	[.]	.	-	-	O	O	-	-
+
+3	0	Definir	[]	prop	M=S	O	NP	O	-	-
+3	1	como	[como]	adv	-	-	O	OC	-	-
+3	2	Homepage_Adicionar	[]	prop	M=S	O	NP	SC	-	-
+3	3	a	[a]	prp	-	-	PP	SC	-	-
+3	4	Favoritos	[]	prop	M=S	O	NP	SC	-	-
+3	5	.	[.]	.	-	-	O	O	-	-
+
+4	0	Guerra	[]	prop	F=S	O	NP	O	-	-
+4	1	em	[em]	prp	-	-	PP	O	-	-
+4	2	o	[o]	art	M=S	-	NP	O	-	-
+4	3	Iraque	[Iraque]	prop	M=S	O	NP	O	-	-
+4	4	.	[.]	.	-	-	O	O	-	-
+
+5	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+5	1	guerra	[guerra]	n	F=S	O	NP	SUBJ	-	-
+5	2	em	[em]	prp	-	-	PP	SUBJ	-	-
+5	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+5	4	Iraque	[Iraque]	prop	M=S	O	NP	SUBJ	-	-
+5	5	está	[estar]	v-fin	PR=3S=IND	-	VP	P	-	-
+5	6	a	[a]	prp	-	-	VP	P	-	-
+5	7	mobilizar	[mobilizar]	v-inf	-	-	VP	P	-	-
+5	8	e	[e]	conj-c	-	-	O	O	-	-
+5	9	a	[a]	prp	-	-	PP	ADVL	-	-
+5	10	apaixonar	[apaixonar]	v-inf	-	-	VP	P	-	-
+5	11	a	[o]	art	F=S	-	NP	ACC	-	-
+5	12	opinião	[opinião]	n	F=S	O	NP	ACC	-	-
+5	13	pública	[público]	adj	F=S	-	NP	ACC	-	-
+5	14	mundial	[mundial]	adj	F=S	-	NP	ACC	-	-
+5	15	.	[.]	.	-	-	O	O	-	-
+
+6	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+6	1	RCM	[]	prop	F=S	O	NP	SUBJ	-	-
+6	2	gostaria	[gostar]	v-fin	COND=3S	-	VP	P	-	-
+6	3	de	[de]	prp	-	-	PP	PIV	-	-
+6	4	ouvir	[ouvir]	v-inf	-	-	VP	P	-	-
+6	5	o	[o]	art	M=S	-	NP	ACC	-	-
+6	6	Concelho	[]	prop	M=S	O	NP	ACC	-	-
+6	7	de	[de]	prp	-	-	PP	ACC	-	-
+6	8	Mafra	[Mafra]	prop	M=S	O	NP	ACC	-	-
+6	9	sobre	[sobre]	prp	-	-	PP	ACC	-	-
+6	10	um	[um]	art	M=S	-	NP	ACC	-	-
+6	11	assunto	[assunto]	n	M=S	O	NP	ACC	-	-
+6	12	de	[de]	prp	-	-	PP	ACC	-	-
+6	13	vital	[vital]	adj	F=S	-	NP	ACC	-	-
+6	14	importância	[importância]	n	F=S	O	NP	ACC	-	-
+6	15	para	[para]	prp	-	-	PP	ACC	-	-
+6	16	toda	[todo]	pron-det	F=S	O	NP	ACC	-	-
+6	17	a	[o]	art	F=S	-	NP	ACC	-	-
+6	18	comunidade	[comunidade]	n	F=S	-	NP	ACC	-	-
+6	19	internacional	[internacional]	adj	F=S	-	NP	ACC	-	-
+6	20	;	[;]	;	-	-	O	O	-	-
+
+7	0	consulte	[consultar]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+7	1	a	[o]	art	F=S	-	NP	ACC	-	-
+7	2	página	[página]	n	F=S	O	NP	ACC	-	-
+7	3	de	[de]	prp	-	-	PP	ACC	-	-
+7	4	Opinião	[opinião]	n	F=S	O	NP	ACC	-	-
+7	5	e	[e]	conj-c	-	-	O	O	-	-
+7	6	diga	[dizer]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+7	7	-nos	[]	pron-pers	M/F=1P=ACC	O	NP	O	-	-
+7	8	o	[]	pron-det	M=S	-	NP	SUBJ	-	-
+7	9	que	[que]	pron-indp	M=S	O	NP	SUBJ	-	-
+7	10	pensa	[pensar]	v-fin	PR=3S=IND	-	VP	P	-	-
+7	11	sobre	[sobre]	prp	-	-	PP	PIV	-	-
+7	12	este	[este]	pron-det	M=S	O	NP	PIV	-	-
+7	13	conflito	[conflito]	n	M=S	-	NP	PIV	-	-
+7	14	.	[.]	.	-	-	O	O	-	-
+
+8	0	.	[.]	.	-	-	O	O	-	-
+
+9	0	Formação_Profissional	[]	prop	F=S	O	NP	SUBJ	-	-
+9	1	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+9	2	a	[o]	art	F=S	-	NP	SC	-	-
+9	3	melhor	[melhor]	adj	F=S	-	NP	SC	-	-
+9	4	opção	[opção]	n	F=S	O	NP	SC	-	-
+9	5	.	[.]	.	-	-	O	O	-	-
+
+10	0	Os	[o]	art	M=P	-	NP	SUBJ	-	-
+10	1	alunos	[aluno]	n	M=P	O	NP	SUBJ	-	-
+10	2	com	[com]	prp	-	-	PP	SUBJ	-	-
+10	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+10	4	12º	[]	adj	M=S	-	NP	SUBJ	-	-
+10	5	ano	[ano]	n	M=S	O	NP	SUBJ	-	-
+10	6	que	[que]	pron-indp	M=S	O	NP	SUBJ	-	-
+10	7	não	[não]	adv	-	-	ADVP	ADVL	-	-
+10	8	querem	[querer]	v-fin	PR=3P=IND	-	VP	P	-	-
+10	9	seguir	[seguir]	v-inf	-	-	VP	P	-	-
+10	10	o	[o]	art	M=S	-	NP	ACC	-	-
+10	11	Ensino_Superior	[]	n	M=S	O	NP	ACC	-	-
+10	12	devem	[dever]	v-fin	PR=3P=IND	-	VP	P	-	-
+10	13	apostar	[apostar]	v-inf	-	-	VP	P	-	-
+10	14	em	[em]	prp	-	-	PP	ADVL	-	-
+10	15	a	[o]	art	F=S	-	NP	ADVL	-	-
+10	16	formação	[formação, formar]	n	F=S	O	NP	ADVL	-	-
+10	17	profissional	[profissional]	adj	F=S	-	NP	ADVL	-	-
+10	18	antes	[antes]	adv	-	-	ADVP	ADVL	-	-
+10	19	de	[de]	prp	-	-	PP	ADVL	-	-
+10	20	começarem	[começar]	v-fin	FUT=3P=SUBJ	-	VP	P	-	-
+10	21	a	[a]	prp	-	-	VP	P	-	-
+10	22	trabalhar	[trabalhar]	v-inf	-	-	VP	P	-	-
+10	23	.	[.]	.	-	-	O	O	-	-
+
+11	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+11	1	mensagem	[mensagem]	n	F=S	O	NP	SUBJ	-	-
+11	2	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+11	3	deixada	[deixar]	v-pcp	F=S	-	VP	P	-	-
+11	4	por	[por]	prp	-	-	PP	O	-	-
+11	5	a	[o]	art	F=S	-	NP	O	-	-
+11	6	orientadora	[orientador, orientar]	n	F=S	O	NP	O	-	-
+11	7	de	[de]	prp	-	-	PP	O	-	-
+11	8	o	[o]	art	M=S	-	NP	O	-	-
+11	9	workshop	[workshop]	n	M=S	O	NP	O	-	-
+11	10	de	[de]	prp	-	-	PP	O	-	-
+11	11	Técnicas_de_Procura_de_Emprego	[]	n	M=S	O	NP	O	-	-
+11	12	,	[]	,	-	-	O	O	-	-
+11	13	terça-feira	[terça-feira]	n	F=S	O	NP	O	-	-
+11	14	,	[]	,	-	-	O	O	-	-
+11	15	em	[em]	prp	-	-	PP	ADVL	-	-
+11	16	Mafra	[Mafra]	prop	M=S	O	NP	ADVL	-	-
+11	17	.	[.]	.	-	-	O	O	-	-
+
+12	0	.	[.]	.	-	-	O	O	-	-
+
+13	0	9-4-2003	[]	num	M=P	-	NP	O	-	-
+13	1	18:36	[]	num	M=P	-	NP	O	-	-
+13	2	0	[]	num	M=P	-	NP	O	-	-
+13	3	Comentários	[comentário]	n	M=P	O	NP	O	-	-
+13	4	.	[.]	.	-	-	O	O	-	-
+
+14	0	?	[?]	?	-	-	O	O	-	-
+14	1	Paz	[]	prop	M=S	O	NP	SUBJ	-	-
+14	2	sim	[sim]	adv	-	-	ADVP	ADVL	-	-
+14	3	,	[]	,	-	-	O	O	-	-
+14	4	Guerra	[]	prop	M=S	O	NP	O	-	-
+14	5	não	[não]	adv	-	-	NP	O	-	-
+14	6	!	[]	!	-	-	O	O	-	-
+14	7	?	[?]	?	-	-	O	O	-	-
+
+15	0	.	[.]	.	-	-	O	O	-	-
+
+16	0	Os	[o]	art	M=P	-	NP	SUBJ	-	-
+16	1	alunos	[aluno]	n	M=P	O	NP	SUBJ	-	-
+16	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+16	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+16	4	Escola_Secundária_José_Saramago	[]	prop	F=S	O	NP	SUBJ	-	-
+16	5	juntaram	[juntar]	v-fin	MQP=3P=IND	-	VP	P	-	-
+16	6	-se	[]	pron-pers	F=3S=ACC	O	NP	ACC	-	-
+16	7	contra	[contra]	prp	-	-	PP	ADVL	-	-
+16	8	a	[o]	art	F=S	-	NP	ADVL	-	-
+16	9	Guerra	[]	prop	F=S	O	NP	ADVL	-	-
+16	10	e	[e]	conj-c	-	-	O	ADVL	-	-
+16	11	a	[o]	art	F=S	-	NP	ADVL	-	-
+16	12	violência	[violência]	n	F=S	O	NP	ADVL	-	-
+16	13	.	[.]	.	-	-	O	O	-	-
+
+17	0	em	[em]	prp	-	-	PP	ADVL	-	-
+17	1	o	[o]	art	M=S	-	NP	ADVL	-	-
+17	2	21º	[]	adj	M=S	-	NP	ADVL	-	-
+17	3	dia	[dia]	n	M=S	O	NP	ADVL	-	-
+17	4	de	[de]	prp	-	-	PP	ADVL	-	-
+17	5	confrontos	[confronto]	n	M=P	O	NP	ADVL	-	-
+17	6	em	[em]	prp	-	-	PP	ADVL	-	-
+17	7	o	[o]	art	M=S	-	NP	ADVL	-	-
+17	8	Iraque	[Iraque]	prop	M=S	O	NP	ADVL	-	-
+17	9	,	[]	,	-	-	O	ADVL	-	-
+17	10	alunos	[aluno]	n	M=P	O	NP	ADVL	-	-
+17	11	e	[e]	conj-c	-	-	O	ADVL	-	-
+17	12	professores	[professor]	n	M=P	O	NP	ADVL	-	-
+17	13	percorreram	[percorrer]	v-fin	MQP=3P=IND	-	VP	P	-	-
+17	14	algumas	[algum]	pron-det	F=P	O	NP	ACC	-	-
+17	15	ruas	[rua]	n	F=P	-	NP	ACC	-	-
+17	16	de	[de]	prp	-	-	PP	ACC	-	-
+17	17	a	[o]	art	F=S	-	NP	ACC	-	-
+17	18	vila	[vila]	n	F=S	O	NP	ACC	-	-
+17	19	de	[de]	prp	-	-	PP	ACC	-	-
+17	20	Mafra	[Mafra]	prop	M=S	O	NP	ACC	-	-
+17	21	,	[]	,	-	-	O	O	-	-
+17	22	distribuíram	[distribuir]	v-fin	MQP=3P=IND	-	VP	P	-	-
+17	23	folhetos	[folheto]	n	M=P	O	NP	ACC	-	-
+17	24	e	[e]	conj-c	-	-	O	O	-	-
+17	25	soltaram	[soltar]	v-fin	MQP=3P=IND	-	VP	P	-	-
+17	26	pombas	[pombo]	n	F=P	O	NP	ACC	-	-
+17	27	brancas	[branco]	adj	F=P	-	NP	ACC	-	-
+17	28	a	[a]	prp	-	-	PP	ACC	-	-
+17	29	favor	[favor]	n	M=S	O	NP	ACC	-	-
+17	30	de	[de]	prp	-	-	PP	ACC	-	-
+17	31	a	[o]	art	F=S	-	NP	ACC	-	-
+17	32	Paz	[]	prop	F=S	O	NP	ACC	-	-
+17	33	.	[.]	.	-	-	O	O	-	-
+
+18	0	.	[.]	.	-	-	O	O	-	-
+
+19	0	9-4-2003	[]	num	M=P	-	NP	O	-	-
+19	1	18:34	[]	num	M=P	-	NP	O	-	-
+19	2	0	[]	num	M=P	-	NP	O	-	-
+19	3	Comentários	[comentário]	n	M=P	O	NP	O	-	-
+19	4	.	[.]	.	-	-	O	O	-	-
+
+20	0	Crescimento	[crescer]	n	M=S	O	NP	O	-	-
+20	1	de	[de]	prp	-	-	PP	O	-	-
+20	2	o	[o]	art	M=S	-	NP	O	-	-
+20	3	concelho	[concelho]	n	M=S	O	NP	O	-	-
+20	4	faz	[fazer]	v-fin	PR=3S=IND	-	VP	P	-	-
+20	5	disparar	[disparar]	v-inf	-	-	VP	P	-	-
+20	6	desemprego	[desemprego]	n	M=S	O	NP	ACC	-	-
+20	7	.	[.]	.	-	-	O	O	-	-
+
+21	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+21	1	director	[]	n	M=S	O	NP	SUBJ	-	-
+21	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+21	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+21	4	Centro_de_Emprego_de_Torres_Vedras	[]	prop	M=S	O	NP	SUBJ	-	-
+21	5	justifica	[justificar]	v-fin	PR=3S=IND	-	VP	P	-	-
+21	6	o	[o]	art	M=S	-	NP	ACC	-	-
+21	7	aumento	[aumento]	n	M=S	O	NP	ACC	-	-
+21	8	de	[de]	prp	-	-	PP	ACC	-	-
+21	9	o	[o]	art	M=S	-	NP	ACC	-	-
+21	10	desemprego	[desemprego]	n	M=S	O	NP	ACC	-	-
+21	11	em	[em]	prp	-	-	PP	ADVL	-	-
+21	12	o	[o]	art	M=S	-	NP	ADVL	-	-
+21	13	concelho	[concelho]	n	M=S	O	NP	ADVL	-	-
+21	14	de	[de]	prp	-	-	PP	ADVL	-	-
+21	15	Mafra	[Mafra]	prop	M=S	O	NP	ADVL	-	-
+21	16	com	[com]	prp	-	-	PP	ADVL	-	-
+21	17	a	[o]	art	F=S	-	NP	ADVL	-	-
+21	18	procura	[procura]	n	F=S	O	NP	ADVL	-	-
+21	19	crescente	[crescente, crescer]	adj	F=S	-	NP	ADVL	-	-
+21	20	de	[de]	prp	-	-	PP	ADVL	-	-
+21	21	que	[que]	conj-s	-	-	PP	ADVL	-	-
+21	22	este	[este]	pron-det	M=S	O	NP	SUBJ	-	-
+21	23	concelho	[concelho]	n	M=S	-	NP	SUBJ	-	-
+21	24	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+21	25	alvo	[alvo]	n	M=S	O	NP	SC	-	-
+21	26	por	[por]	prp	-	-	PP	SC	-	-
+21	27	parte	[parte]	n	F=S	O	NP	SC	-	-
+21	28	de	[de]	prp	-	-	PP	SC	-	-
+21	29	pessoas	[pessoa]	n	F=P	O	NP	SC	-	-
+21	30	de	[de]	prp	-	-	PP	SC	-	-
+21	31	a	[o]	art	F=S	-	NP	SC	-	-
+21	32	Grande_Lisboa	[]	prop	F=S	O	NP	SC	-	-
+21	33	que	[que]	pron-indp	F=S	-	NP	SUBJ	-	-
+21	34	vêm	[vir]	v-fin	PR=3P=IND	-	VP	P	-	-
+21	35	residir	[residir]	v-inf	-	-	VP	P	-	-
+21	36	para	[para]	prp	-	-	PP	ADVL	-	-
+21	37	Mafra	[Mafra]	prop	M=S	-	NP	ADVL	-	-
+21	38	e	[e]	conj-c	-	-	O	O	-	-
+21	39	continuam	[continuar]	v-fin	PR=3P=IND	-	VP	P	-	-
+21	40	a	[a]	prp	-	-	VP	P	-	-
+21	41	trabalhar	[trabalhar]	v-inf	-	-	VP	P	-	-
+21	42	em	[em]	prp	-	-	PP	ADVL	-	-
+21	43	a	[o]	art	F=S	-	NP	ADVL	-	-
+21	44	capital	[capital]	n	F=S	-	NP	ADVL	-	-
+21	45	.	[.]	.	-	-	O	O	-	-
+
+22	0	.	[.]	.	-	-	O	O	-	-
+
+23	0	9-4-2003	[]	num	M=P	-	NP	O	-	-
+23	1	18:28	[]	num	M=P	-	NP	O	-	-
+23	2	0	[]	num	M=P	-	NP	O	-	-
+23	3	Comentários	[comentário]	n	M=P	-	NP	O	-	-
+23	4	.	[.]	.	-	-	O	O	-	-
+
+24	0	Jornadas	[]	prop	F=P	-	NP	O	-	-
+24	1	de	[de]	prp	-	-	PP	O	-	-
+24	2	a	[o]	art	F=S	-	NP	O	-	-
+24	3	Juventude	[]	prop	F=S	-	NP	O	-	-
+24	4	animam	[animar]	v-fin	PR=3P=IND	-	VP	P	-	-
+24	5	mês	[mês]	n	M=S	-	NP	ACC	-	-
+24	6	de	[de]	prp	-	-	PP	ACC	-	-
+24	7	Abril	[]	prop	M=S	-	NP	ACC	-	-
+24	8	.	[.]	.	-	-	O	O	-	-
+
+25	0	Teatro	[]	prop	M=S	-	NP	SUBJ	-	-
+25	1	,	[]	,	-	-	O	SUBJ	-	-
+25	2	cinema	[cinema]	n	M=S	-	NP	SUBJ	-	-
+25	3	,	[]	,	-	-	O	SUBJ	-	-
+25	4	desporto	[desporto]	n	M=S	-	NP	SUBJ	-	-
+25	5	,	[]	,	-	-	O	SUBJ	-	-
+25	6	pintura	[pintura]	n	F=S	-	NP	SUBJ	-	-
+25	7	,	[]	,	-	-	O	SUBJ	-	-
+25	8	música	[música, músico]	n	F=S	-	NP	SUBJ	-	-
+25	9	e	[e]	conj-c	-	-	NP	SUBJ	-	-
+25	10	workshops	[workshop]	n	M=P	-	NP	SUBJ	-	-
+25	11	de	[de]	prp	-	-	PP	SUBJ	-	-
+25	12	orientação	[orientação, orientar]	n	F=S	-	NP	SUBJ	-	-
+25	13	profissional	[profissional]	adj	F=S	-	NP	SUBJ	-	-
+25	14	dominam	[dominar]	v-fin	PR=3P=IND	-	VP	P	-	-
+25	15	o	[o]	art	M=S	-	NP	ACC	-	-
+25	16	programa	[programa]	n	M=S	-	NP	ACC	-	-
+25	17	comemorativo	[comemorativo]	adj	M=S	-	NP	ACC	-	-
+25	18	de	[de]	prp	-	-	PP	ACC	-	-
+25	19	o	[o]	art	M=S	-	NP	ACC	-	-
+25	20	Mês_da_Juventude	[]	prop	M=S	-	NP	ACC	-	-
+25	21	,	[]	,	-	-	O	ACC	-	-
+25	22	em	[em]	prp	-	-	PP	ACC	-	-
+25	23	uma	[um]	art	F=S	-	NP	ACC	-	-
+25	24	iniciativa	[iniciativa]	n	F=S	-	NP	ACC	-	-
+25	25	de	[de]	prp	-	-	PP	ACC	-	-
+25	26	a	[o]	art	F=S	-	NP	ACC	-	-
+25	27	Câmara_Municipal_de_Mafra	[]	n	F=S	-	NP	ACC	-	-
+25	28	.	[.]	.	-	-	O	O	-	-
+
+26	0	.	[.]	.	-	-	O	O	-	-
+
+27	0	28-3-2003	[]	num	M=P	-	NP	O	-	-
+27	1	11:31	[]	num	M=P	-	NP	O	-	-
+27	2	0	[]	num	M=P	-	NP	O	-	-
+27	3	Comentários	[comentário]	n	M=P	-	NP	O	-	-
+27	4	.	[.]	.	-	-	O	O	-	-
+
+28	0	Cavalos	[]	prop	M=P	-	NP	SUBJ	-	-
+28	1	dão	[dar]	v-fin	PR=3P=IND	-	VP	P	-	-
+28	2	espectáculo	[]	n	M=S	-	NP	ACC	-	-
+28	3	em	[em]	prp	-	-	PP	ADVL	-	-
+28	4	a	[o]	art	F=S	-	NP	ADVL	-	-
+28	5	Semana_Equestre	[]	prop	F=S	-	NP	ADVL	-	-
+28	6	.	[.]	.	-	-	O	O	-	-
+
+29	0	De	[de]	prp	-	-	PP	ADVL	-	-
+29	1	entre	[entre]	prp	-	-	PP	ADVL	-	-
+29	2	as	[o]	art	F=P	-	NP	ADVL	-	-
+29	3	iniciativas	[iniciativa]	n	F=P	-	NP	ADVL	-	-
+29	4	de	[de]	prp	-	-	PP	ADVL	-	-
+29	5	este	[este]	pron-det	M=S	-	NP	ADVL	-	-
+29	6	fim-de-semana	[]	n	M=S	-	NP	ADVL	-	-
+29	7	,	[]	,	-	-	O	O	-	-
+29	8	há	[haver]	v-fin	PR=3S=IND	-	VP	P	-	-
+29	9	uma	[um]	art	F=S	-	NP	ACC	-	-
+29	10	que	[que]	pron-indp	F=S	-	NP	ACC	-	-
+29	11	merece	[merecer]	v-fin	PR=3S=IND	-	VP	P	-	-
+29	12	destaque	[destaque]	n	M=S	-	NP	ACC	-	-
+29	13	:	[:]	:	-	-	O	O	-	-
+
+30	0	o	[o]	art	M=S	-	NP	SUBJ	-	-
+30	1	espectáculo	[]	n	M=S	-	NP	SUBJ	-	-
+30	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+30	3	bem	[bem]	adv	-	-	PP	SUBJ	-	-
+30	4	cavalgar	[cavalgar]	v-inf	-	-	VP	P	-	-
+30	5	a	[o]	art	F=S	-	NP	ACC	-	-
+30	6	toda	[todo]	pron-det	F=S	-	NP	ACC	-	-
+30	7	a	[o]	art	F=S	-	NP	ACC	-	-
+30	8	sela	[sela]	n	F=S	-	NP	ACC	-	-
+30	9	.	[.]	.	-	-	O	O	-	-
+
+31	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+31	1	Semana_Equestre_Militar	[]	prop	F=S	-	NP	SUBJ	-	-
+31	2	está	[estar]	v-fin	PR=3S=IND	-	VP	P	-	-
+31	3	de	[de]	prp	-	-	PP	SC	-	-
+31	4	volta	[volta]	n	F=S	-	NP	SC	-	-
+31	5	a	[a]	prp	-	-	PP	SC	-	-
+31	6	o	[o]	art	M=S	-	NP	SC	-	-
+31	7	Centro_Militar_de_Mafra	[]	prop	M=S	-	NP	SC	-	-
+31	8	com	[com]	prp	-	-	PP	SC	-	-
+31	9	a	[o]	art	F=S	-	NP	SC	-	-
+31	10	presença	[presença]	n	F=S	-	NP	SC	-	-
+31	11	de	[de]	prp	-	-	PP	SC	-	-
+31	12	mais	[mais]	adv	-	-	PP	SC	-	-
+31	13	de	[de]	prp	-	-	PP	SC	-	-
+31	14	duzentos	[duzentos]	num	M=P	-	NP	SC	-	-
+31	15	cavaleiros	[cavaleiro]	n	M=P	-	NP	SC	-	-
+31	16	.	[.]	.	-	-	O	O	-	-
+
+32	0	.	[.]	.	-	-	O	O	-	-
+
+33	0	28-3-2003	[]	num	M=P	-	NP	O	-	-
+33	1	11:27	[]	num	M=P	-	NP	O	-	-
+33	2	0	[]	num	M=P	-	NP	O	-	-
+33	3	Comentários	[comentário]	n	M=P	-	NP	O	-	-
+33	4	.	[.]	.	-	-	O	O	-	-
+
+34	0	Ampliar_Foto	[]	prop	M=S	-	NP	O	-	-
+34	1	.	[.]	.	-	-	O	O	-	-
+
+35	0	EDITORIAL_EDITORIAL	[]	n	M=S	-	NP	O	-	-
+35	1	.	[.]	.	-	-	O	O	-	-
+
+36	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+36	1	Primavera	[]	prop	F=S	-	NP	SUBJ	-	-
+36	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+36	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+36	4	Guerra	[]	prop	F=S	-	NP	SUBJ	-	-
+36	5	.	[.]	.	-	-	O	O	-	-
+
+37	0	9-4-2003	[]	num	M=P	-	NP	SUBJ	-	-
+37	1	17:44	[]	num	M=P	-	NP	SUBJ	-	-
+37	2	Topo	[topo]	n	M=S	-	NP	SUBJ	-	-
+37	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+37	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+37	5	página	[página]	n	F=S	-	NP	SUBJ	-	-
+37	6	.	[.]	.	-	-	O	O	-	-
+
+38	0	Entrada_Contactos_Publicidade_Browser	[]	prop	F=S	-	NP	O	-	-
+38	1	:	[:]	:	-	-	O	O	-	-
+
+39	0	I.Explorer	[]	prop	M=S	-	NP	O	-	-
+39	1	?	[?]	?	-	-	O	O	-	-
+
+40	0	Definição	[definição, definir]	n	F=S	-	NP	O	-	-
+40	1	:	[:]	:	-	-	O	O	-	-
+
+41	0	800x600	[]	num	M=P	-	NP	O	-	-
+41	1	.	[.]	.	-	-	O	O	-	-
+
+42	0	Webmaster	[]	prop	M=S	-	NP	O	-	-
+42	1	RCM	[]	prop	M=S	-	NP	SUBJ	-	-
+42	2	Inscreva	[inscrever]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+42	3	-se	[]	pron-pers	F=3S=ACC	-	NP	ACC	-	-
+42	4	aqui	[aqui]	adv	-	-	ADVP	ADVL	-	-
+42	5	em	[em]	prp	-	-	PP	ADVL	-	-
+42	6	o	[o]	art	M=S	-	NP	ADVL	-	-
+42	7	Guia_Comercial	[]	prop	M=S	-	NP	ADVL	-	-
+42	8	.	[.]	.	-	-	O	O	-	-
+

@@ -1,0 +1,380 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	New	[]	prop	M=S	O	NP	SUBJ	-	-
+0	1	Page	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+0	2	1	[]	num	M=S	-	NP	ACC	-	-
+0	3	.	[.]	.	-	-	O	O	-	-
+
+1	0	Pesquisa...	[]	n	M=S	O	NP	O	-	-
+1	1	.	[.]	.	-	-	O	O	-	-
+
+2	0	Origem	[]	prop	F=S	O	NP	O	-	-
+2	1	de	[de]	prp	-	-	PP	O	-	-
+2	2	o	[o]	art	M=S	-	NP	O	-	-
+2	3	Metodismo	[metodismo]	n	M=S	O	NP	O	-	-
+2	4	.	[.]	.	-	-	O	O	-	-
+
+3	0	Metodismo_Português	[]	prop	M=S	O	NP	O	-	-
+3	1	.	[.]	.	-	-	O	O	-	-
+
+4	0	Princípios_Básicos	[]	prop	M=S	O	NP	O	-	-
+4	1	.	[.]	.	-	-	O	O	-	-
+
+5	0	Estrutura	[estrutura]	n	F=S	O	NP	O	-	-
+5	1	.	[.]	.	-	-	O	O	-	-
+
+6	0	Hinário	[]	prop	M=S	O	NP	O	-	-
+6	1	.	[.]	.	-	-	O	O	-	-
+
+7	0	Comunidades_Locais	[]	prop	M=S	O	NP	O	-	-
+7	1	.	[.]	.	-	-	O	O	-	-
+
+8	0	Obra_Social	[]	prop	F=S	O	NP	O	-	-
+8	1	.	[.]	.	-	-	O	O	-	-
+
+9	0	Trigésimo	[]	prop	M=S	O	NP	O	-	-
+9	1	Aniversário	[]	prop	M=S	O	NP	O	-	-
+9	2	de	[de]	prp	-	-	PP	O	-	-
+9	3	John_Wesley	[]	prop	M=S	O	NP	O	-	-
+9	4	.	[.]	.	-	-	O	O	-	-
+
+10	0	Dia_do_Culto	[]	n	F=S	O	NP	O	-	-
+10	1	de	[de]	prp	-	-	PP	O	-	-
+10	2	o	[o]	art	M=S	-	NP	O	-	-
+10	3	Pacto	[pacto]	n	M=S	O	NP	O	-	-
+10	4	com	[com]	prp	-	-	PP	O	-	-
+10	5	Deus	[Deus]	prop	M=S	O	NP	O	-	-
+10	6	.	[.]	.	-	-	O	O	-	-
+
+11	0	2003	[]	num	M=P	-	NP	SUBJ	-	-
+11	1	-	[]	-	-	-	NP	SUBJ	-	-
+11	2	Um_Tempo_Oportuno	[]	prop	M=S	O	NP	SUBJ	-	-
+11	3	,	[]	,	-	-	O	SUBJ	-	-
+11	4	C._Sousa	[]	prop	M=S	O	NP	APP	-	-
+11	5	.	[.]	.	-	-	O	O	-	-
+
+12	0	em	[em]	prp	-	-	PP	ADVL	-	-
+12	1	o	[o]	art	M=S	-	NP	ADVL	-	-
+12	2	dia	[dia]	n	M=S	O	NP	ADVL	-	-
+12	3	25	[]	num	M=P	-	NP	ADVL	-	-
+12	4	de	[de]	prp	-	-	PP	ADVL	-	-
+12	5	Dezembro	[dezembro]	n	M=S	O	NP	ADVL	-	-
+12	6	de	[de]	prp	-	-	PP	ADVL	-	-
+12	7	1747	[]	num	M=P	-	NP	ADVL	-	-
+12	8	,	[]	,	-	-	O	O	-	-
+12	9	John_Wesley	[]	prop	M=S	O	NP	SUBJ	-	-
+12	10	fez	[fazer]	v-fin	PS=3S=IND	-	VP	P	-	-
+12	11	um	[um]	art	M=S	-	NP	ACC	-	-
+12	12	apelo	[apelo]	n	M=S	O	NP	ACC	-	-
+12	13	a	[a]	prp	-	-	PP	PIV	-	-
+12	14	todos	[todo]	pron-det	M=P	O	NP	PIV	-	-
+12	15	os	[o]	art	M=P	-	NP	PIV	-	-
+12	16	metodistas	[metodista]	n	M=P	-	NP	PIV	-	-
+12	17	para	[para]	prp	-	-	PP	PIV	-	-
+12	18	renovarem	[renovar]	v-fin	FUT=3P=SUBJ	-	VP	P	-	-
+12	19	o	[o]	art	M=S	-	NP	ACC	-	-
+12	20	seu	[seu]	pron-det	M=S	O	NP	ACC	-	-
+12	21	pacto	[pacto]	n	M=S	-	NP	ACC	-	-
+12	22	com	[com]	prp	-	-	PP	PIV	-	-
+12	23	Deus	[Deus]	prop	M=S	O	NP	PIV	-	-
+12	24	.	[.]	.	-	-	O	O	-	-
+
+13	0	.	[.]	.	-	-	O	O	-	-
+
+14	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+14	1	primeiro	[primeiro]	adj	M=S	-	NP	SUBJ	-	-
+14	2	culto	[culto]	n	M=S	O	NP	SUBJ	-	-
+14	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+14	4	o	[o]	art	M=S	-	NP	SUBJ	-	-
+14	5	Pacto	[pacto]	n	M=S	O	NP	SUBJ	-	-
+14	6	com	[com]	prp	-	-	PP	SUBJ	-	-
+14	7	Deus	[Deus]	prop	M=S	O	NP	SUBJ	-	-
+14	8	,	[]	,	-	-	O	SUBJ	-	-
+14	9	organizado	[organizar]	v-pcp	M=S	-	VP	P	-	-
+14	10	por	[por]	prp	-	-	PP	O	-	-
+14	11	Wesley	[]	prop	M=S	O	NP	O	-	-
+14	12	,	[]	,	-	-	O	O	-	-
+14	13	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+14	14	celebrado	[celebrar]	v-pcp	M=S	-	VP	P	-	-
+14	15	em	[em]	prp	-	-	PP	ADVL	-	-
+14	16	o	[o]	art	M=S	-	NP	ADVL	-	-
+14	17	ano	[ano]	n	M=S	O	NP	ADVL	-	-
+14	18	de	[de]	prp	-	-	PP	ADVL	-	-
+14	19	1755	[]	num	M=P	-	NP	ADVL	-	-
+14	20	.	[.]	.	-	-	O	O	-	-
+
+15	0	Desde	[desde]	prp	-	-	PP	ADVL	-	-
+15	1	aquele	[aquele]	pron-det	M=S	O	NP	ADVL	-	-
+15	2	ano	[ano]	n	M=S	-	NP	ADVL	-	-
+15	3	tem	[ter]	v-fin	PR=3S=IND	-	VP	P	-	-
+15	4	continuado	[continuar]	v-pcp	M=S	-	VP	P	-	-
+15	5	este	[este]	pron-det	M=S	O	NP	SUBJ	-	-
+15	6	serviço	[serviço]	n	M=S	-	NP	SUBJ	-	-
+15	7	em	[em]	prp	-	-	PP	SUBJ	-	-
+15	8	a	[o]	art	F=S	-	NP	SUBJ	-	-
+15	9	Igreja	[igreja]	n	F=S	O	NP	SUBJ	-	-
+15	10	Metodista	[]	prop	F=S	O	NP	SUBJ	-	-
+15	11	(	[(]	(	-	-	O	SUBJ	-	-
+15	12	primeiro	[primeiro]	adj	M=S	-	NP	SUBJ	-	-
+15	13	Domingo	[]	prop	M=S	O	NP	SUBJ	-	-
+15	14	de	[de]	prp	-	-	PP	SUBJ	-	-
+15	15	cada	[cada]	pron-det	M=S	O	NP	SUBJ	-	-
+15	16	ano	[ano]	n	M=S	-	NP	SUBJ	-	-
+15	17	)	[)]	)	-	-	O	SUBJ	-	-
+15	18	,	[]	,	-	-	O	O	-	-
+15	19	sendo	[ser]	v-ger	-	-	VP	P	-	-
+15	20	uma	[um]	art	F=S	-	NP	ACC	-	-
+15	21	rica	[rico]	adj	F=S	-	NP	ACC	-	-
+15	22	fonte	[fonte]	n	F=S	O	NP	ACC	-	-
+15	23	de	[de]	prp	-	-	PP	ACC	-	-
+15	24	bênção	[bênção]	n	F=S	O	NP	ACC	-	-
+15	25	para	[para]	prp	-	-	PP	ACC	-	-
+15	26	os	[o]	pron-det	M=P	-	NP	ACC	-	-
+15	27	que	[que]	pron-indp	M=P	O	NP	SUBJ	-	-
+15	28	o	[o]	art	M=S	-	NP	SC	-	-
+15	29	usam	[usar]	v-fin	PR=3P=IND	-	VP	P	-	-
+15	30	.	[.]	.	-	-	O	O	-	-
+
+16	0	.	[.]	.	-	-	O	O	-	-
+
+17	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+17	1	Conselho_Europeu_Metodista	[]	prop	M=S	O	NP	SUBJ	-	-
+17	2	reuniu	[reunir]	v-fin	PS=3S=IND	-	VP	P	-	-
+17	3	em	[em]	prp	-	-	PP	ADVL	-	-
+17	4	o	[o]	art	M=S	-	NP	ADVL	-	-
+17	5	passado	[passado]	n	M=S	O	NP	ADVL	-	-
+17	6	mês	[mês]	n	M=S	O	NP	ACC	-	-
+17	7	de	[de]	prp	-	-	PP	ACC	-	-
+17	8	Setembro	[setembro]	n	M=S	O	NP	ACC	-	-
+17	9	em	[em]	prp	-	-	PP	ADVL	-	-
+17	10	Stuttgart	[]	prop	M=S	O	NP	ADVL	-	-
+17	11	,	[]	,	-	-	O	ADVL	-	-
+17	12	Alemanha	[Alemanha]	prop	F=S	O	NP	ADVL	-	-
+17	13	.	[.]	.	-	-	O	O	-	-
+
+18	0	.	[.]	.	-	-	O	O	-	-
+
+19	0	De	[de]	prp	-	-	PP	ADVL	-	-
+19	1	Portugal	[Portugal]	prop	M=S	O	NP	ADVL	-	-
+19	2	a	[a]	prp	-	-	PP	ADVL	-	-
+19	3	a	[o]	art	F=S	-	NP	ADVL	-	-
+19	4	Rússia	[Rússia]	prop	F=S	O	NP	ADVL	-	-
+19	5	,	[]	,	-	-	O	ADVL	-	-
+19	6	40	[]	num	M=P	-	NP	ADVL	-	-
+19	7	Metodistas	[metodista]	n	M=P	O	NP	ADVL	-	-
+19	8	partilharam	[partilhar]	v-fin	MQP=3P=IND	-	VP	P	-	-
+19	9	as	[o]	art	F=P	-	NP	ACC	-	-
+19	10	suas	[sua]	pron-det	F=P	O	NP	ACC	-	-
+19	11	experiências	[experiência]	n	F=P	-	NP	ACC	-	-
+19	12	e	[e]	conj-c	-	-	O	O	-	-
+19	13	perspectivaram	[]	v-fin	PS/MQP=3P=IND	-	VP	P	-	-
+19	14	o	[o]	art	M=S	-	NP	ACC	-	-
+19	15	futuro	[futuro]	n	M=S	O	NP	ACC	-	-
+19	16	de	[de]	prp	-	-	PP	ACC	-	-
+19	17	a	[o]	art	F=S	-	NP	ACC	-	-
+19	18	missão	[missão]	n	F=S	O	NP	ACC	-	-
+19	19	em	[em]	prp	-	-	PP	ACC	-	-
+19	20	a	[o]	art	F=S	-	NP	ACC	-	-
+19	21	Europa	[Europa]	prop	-	O	NP	ACC	-	-
+19	22	.	[.]	.	-	-	O	O	-	-
+
+20	0	.	[.]	.	-	-	O	O	-	-
+
+21	0	"	["]	"	-	-	O	O	-	-
+21	1	Não	[não]	adv	-	-	ADVP	ADVL	-	-
+21	2	se	[se]	pron-pers	M/F=3S/P=ACC	O	NP	SUBJ	-	-
+21	3	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+21	4	perder	[perder]	v-inf	-	-	VP	P	-	-
+21	5	de	[de]	prp	-	-	PP	PIV	-	-
+21	6	vista	[vista]	n	F=S	O	NP	PIV	-	-
+21	7	a	[a]	prp	-	-	PP	PIV	-	-
+21	8	nossa	[nosso]	pron-det	F=S	O	NP	PIV	-	-
+21	9	realidade	[real]	n	F=S	-	NP	PIV	-	-
+21	10	,	[]	,	-	-	O	O	-	-
+21	11	ou_seja	[]	adv	-	-	ADVP	ADVL	-	-
+21	12	,	[]	,	-	-	O	O	-	-
+21	13	todos	[todo]	pron-det	M=P	O	NP	SUBJ	-	-
+21	14	nós	[nós]	pron-pers	M/F=1P=NOM	O	NP	SUBJ	-	-
+21	15	constituímos	[constituir]	v-fin	PR=1P=IND	-	VP	P	-	-
+21	16	a	[o]	art	F=S	-	NP	ACC	-	-
+21	17	grande	[grande]	adj	F=S	-	NP	ACC	-	-
+21	18	família	[família]	n	F=S	O	NP	ACC	-	-
+21	19	humana	[humano]	adj	F=S	-	NP	ACC	-	-
+21	20	.	[.]	.	-	-	O	O	-	-
+
+22	0	Já	[já]	adv	-	-	ADVP	ADVL	-	-
+22	1	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+22	2	tempo	[tempo]	n	M=S	O	NP	SC	-	-
+22	3	de	[de]	prp	-	-	PP	SC	-	-
+22	4	sabermos	[saber]	v-inf	1P	-	VP	P	-	-
+22	5	cuidar	[cuidar]	v-inf	-	-	VP	P	-	-
+22	6	uns	[um]	pron-det	M=P	O	NP	ACC	-	-
+22	7	.	[.]	.	-	-	O	O	-	-
+
+23	0	de	[de]	prp	-	-	PP	ADVL	-	-
+23	1	os	[o]	art	M=P	-	NP	ADVL	-	-
+23	2	outros	[outro]	pron-det	M=P	O	NP	ADVL	-	-
+23	3	,	[]	,	-	-	O	ADVL	-	-
+23	4	de	[de]	prp	-	-	PP	ADVL	-	-
+23	5	tal	[tal]	pron-det	F=S	O	NP	ADVL	-	-
+23	6	forma	[forma]	n	F=S	-	NP	ADVL	-	-
+23	7	que	[que]	pron-indp	F=S	O	NP	ACC	-	-
+23	8	a	[o]	art	F=S	-	NP	SUBJ	-	-
+23	9	vida	[vida]	n	F=S	O	NP	SUBJ	-	-
+23	10	seja	[ser]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+23	11	uma	[um]	art	F=S	-	NP	ACC	-	-
+23	12	alegria	[alegria]	n	F=S	O	NP	ACC	-	-
+23	13	para	[para]	prp	-	-	PP	ACC	-	-
+23	14	todos	[todo]	pron-det	M=P	O	NP	ACC	-	-
+23	15	e	[e]	conj-c	-	-	O	ACC	-	-
+23	16	todas	[todo]	pron-det	F=P	O	NP	ACC	-	-
+23	17	.	[.]	.	-	-	O	O	-	-
+
+24	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+24	1	paz	[paz]	n	F=S	O	NP	SUBJ	-	-
+24	2	precisa	[precisar]	v-fin	PR=3S=IND	-	VP	P	-	-
+24	3	de	[de]	prp	-	-	PP	PIV	-	-
+24	4	uma	[um]	art	F=S	-	NP	PIV	-	-
+24	5	oportunidade	[oportunidade, oportuno]	n	F=S	O	NP	PIV	-	-
+24	6	para	[para]	prp	-	-	PP	PIV	-	-
+24	7	poder	[poder]	n	M=S	O	NP	PIV	-	-
+24	8	ser	[ser]	v-inf	-	-	VP	P	-	-
+24	9	uma	[um]	art	F=S	-	NP	SC	-	-
+24	10	realidade	[real]	n	F=S	O	NP	SC	-	-
+24	11	.	[.]	.	-	-	O	SC	-	-
+24	12	"	["]	"	-	-	NP	SC	-	-
+24	13	(	[(]	(	-	-	O	SC	-	-
+24	14	Bispo_Sifredo	[]	prop	M=S	O	NP	SC	-	-
+24	15	)	[)]	)	-	-	O	SC	-	-
+24	16	.	[.]	.	-	-	O	O	-	-
+
+25	0	-	[]	-	-	-	O	O	-	-
+25	1	Carta	[]	prop	F=S	O	NP	SUBJ	-	-
+25	2	a	[a]	prp	-	-	PP	SUBJ	-	-
+25	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+25	4	Primeiro_Ministro	[]	n	M=S	O	NP	SUBJ	-	-
+25	5	.	[.]	.	-	-	O	O	-	-
+
+26	0	-	[]	-	-	-	O	O	-	-
+26	1	A	[o]	art	F=S	-	NP	SUBJ	-	-
+26	2	Paz	[]	prop	F=S	O	NP	SUBJ	-	-
+26	3	precisa	[precisar]	v-fin	PR=3S=IND	-	VP	P	-	-
+26	4	de	[de]	prp	-	-	PP	PIV	-	-
+26	5	uma	[um]	art	F=S	-	NP	PIV	-	-
+26	6	Oportunidade	[oportunidade, oportuno]	n	F=S	O	NP	PIV	-	-
+26	7	.	[.]	.	-	-	O	O	-	-
+
+27	0	-	[]	-	-	-	O	O	-	-
+27	1	Manifesto_Ecuménico_Jovem	[]	prop	M=S	O	NP	SUBJ	-	-
+27	2	contra	[contra]	prp	-	-	PP	SUBJ	-	-
+27	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+27	4	guerra	[guerra]	n	F=S	O	NP	SUBJ	-	-
+27	5	.	[.]	.	-	-	O	O	-	-
+
+28	0	-	[]	-	-	-	O	O	-	-
+28	1	World_Council_of_Churches	[]	prop	M=S	O	NP	SUBJ	-	-
+28	2	-	[]	-	-	-	O	SUBJ	-	-
+28	3	"	["]	"	-	-	NP	SUBJ	-	-
+28	4	Wars	[]	prop	M=S	O	NP	SUBJ	-	-
+28	5	cannot	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+28	6	be	[]	n	M=S	O	NP	ACC	-	-
+28	7	won	[]	prop	M=S	O	NP	ACC	-	-
+28	8	,	[]	,	-	-	O	O	-	-
+28	9	only	[]	prop	M=S	O	NP	SUBJ	-	-
+28	10	peace	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+28	11	can	[]	n	M=S	O	NP	ACC	-	-
+28	12	"	["]	"	-	-	NP	ACC	-	-
+28	13	.	[.]	.	-	-	O	O	-	-
+
+29	0	-	[]	-	-	-	O	O	-	-
+29	1	World_Alliance_of_Reformed_Churches	[]	prop	M=S	O	NP	SUBJ	-	-
+29	2	-	[]	-	-	-	O	O	-	-
+29	3	condena	[condenar]	v-fin	PR=3S=IND	-	VP	P	-	-
+29	4	a	[o]	art	F=S	-	NP	ACC	-	-
+29	5	guerra	[guerra]	n	F=S	O	NP	ACC	-	-
+29	6	em	[em]	prp	-	-	PP	ADVL	-	-
+29	7	o	[o]	art	M=S	-	NP	ADVL	-	-
+29	8	Iraque	[Iraque]	prop	M=S	O	NP	ADVL	-	-
+29	9	.	[.]	.	-	-	O	O	-	-
+
+30	0	Departamentos	[]	prop	M=S	O	NP	O	-	-
+30	1	.	[.]	.	-	-	O	O	-	-
+
+31	0	Federação	[federar]	n	F=S	O	NP	O	-	-
+31	1	de	[de]	prp	-	-	PP	O	-	-
+31	2	Mulheres	[mulher]	n	F=P	O	NP	O	-	-
+31	3	.	[.]	.	-	-	O	O	-	-
+
+32	0	Juventude	[]	prop	M=S	O	NP	O	-	-
+32	1	.	[.]	.	-	-	O	O	-	-
+
+33	0	Comissões	[]	prop	M=S	O	NP	O	-	-
+33	1	.	[.]	.	-	-	O	O	-	-
+
+34	0	Evangelização	[evangelização, evangelizar]	n	F=S	O	NP	SUBJ	-	-
+34	1	e	[e]	conj-c	-	-	O	SUBJ	-	-
+34	2	Educ.	[]	prop	M=S	O	NP	SUBJ	-	-
+34	3	.	[.]	.	-	-	O	O	-	-
+
+35	0	Liturgia	[]	prop	F=S	O	NP	O	-	-
+35	1	.	[.]	.	-	-	O	O	-	-
+
+36	0	Textos	[texto]	n	M=P	O	NP	O	-	-
+36	1	.	[.]	.	-	-	O	O	-	-
+
+37	0	Documentos	[documento]	n	M=P	O	NP	O	-	-
+37	1	.	[.]	.	-	-	O	O	-	-
+
+38	0	Artigos	[artigo]	n	M=P	O	NP	O	-	-
+38	1	.	[.]	.	-	-	O	O	-	-
+
+39	0	Estudos_Bíblicos	[]	n	M=P	O	NP	O	-	-
+39	1	.	[.]	.	-	-	O	O	-	-
+
+40	0	Diversos	[]	prop	M=S	O	NP	O	-	-
+40	1	.	[.]	.	-	-	O	O	-	-
+
+41	0	Calendário	[calendário]	n	M=S	O	NP	O	-	-
+41	1	.	[.]	.	-	-	O	O	-	-
+
+42	0	Leccionário	[]	n	M=S	O	NP	O	-	-
+42	1	.	[.]	.	-	-	O	O	-	-
+
+43	0	Leituras_Diárias	[]	n	F=P	O	NP	O	-	-
+43	1	de	[de]	prp	-	-	PP	O	-	-
+43	2	a	[o]	art	F=S	-	NP	O	-	-
+43	3	Ibra	[]	prop	F=S	O	NP	O	-	-
+43	4	.	[.]	.	-	-	O	O	-	-
+
+44	0	Televisão	[]	prop	M=S	O	NP	O	-	-
+44	1	.	[.]	.	-	-	O	O	-	-
+
+45	0	Arquivo_Fotográfico	[]	prop	M=S	O	NP	O	-	-
+45	1	.	[.]	.	-	-	O	O	-	-
+
+46	0	Comentários	[comentário]	n	M=P	O	NP	O	-	-
+46	1	.	[.]	.	-	-	O	O	-	-
+
+47	0	Links	[link]	n	M=P	O	NP	O	-	-
+47	1	.	[.]	.	-	-	O	O	-	-
+
+48	0	I	[]	adj	M/F=S	-	NP	O	-	-
+48	1	de...	[]	n	-	O	NP	O	-	-
+48	2	.	[.]	.	-	-	O	O	-	-
+
+49	0	Uma	[um]	art	F=S	-	NP	SUBJ	-	-
+49	1	nova	[nova, novo]	adj	F=S	-	NP	SUBJ	-	-
+49	2	versão	[versão]	n	F=S	O	NP	SUBJ	-	-
+49	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+49	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+49	5	Bíblia_Metodismo_no_Brasil_História_Bíblica_Consulte	[]	prop	F=S	O	NP	SUBJ	-	-
+49	6	o	[o]	art	M=S	-	NP	SUBJ	-	-
+49	7	texto	[texto]	n	M=S	O	NP	SUBJ	-	-
+49	8	Bíblico	[]	prop	M=S	O	NP	SUBJ	-	-
+49	9	.	[.]	.	-	-	O	O	-	-
+
+50	0	Copyright	[]	prop	M=S	O	NP	O	-	-
+50	1	2002	[]	num	M=P	-	NP	O	-	-
+50	2	-	[]	-	-	-	NP	O	-	-
+50	3	Igreja_Evangélica_Metodista_Portuguesa	[]	prop	F=S	-	NP	O	-	-
+50	4	.	[.]	.	-	-	O	O	-	-
+

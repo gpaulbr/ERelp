@@ -1,0 +1,486 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Concurso_Para_Auditor_Fiscal	[]	prop	M=S	O	NP	O
+0	1	de	[de]	prp	-	-	PP	O
+0	2	o	[o]	art	M=S	-	NP	O
+0	3	INSS	[]	prop	M=S	O	NP	O
+0	4	.	[.]	.	-	-	O	O
+
+1	0	Já	[já]	adv	-	-	ADVP	ADVL
+1	1	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+1	2	pronta	[pronto]	adj	F=S	-	NP	SC
+1	3	a	[o]	art	F=S	-	NP	SUBJ
+1	4	minuta	[minuta]	n	F=S	O	NP	SUBJ
+1	5	de	[de]	prp	-	-	PP	SUBJ
+1	6	o	[o]	art	M=S	-	NP	SUBJ
+1	7	edital	[edital]	n	M=S	O	NP	SUBJ
+1	8	de	[de]	prp	-	-	PP	SUBJ
+1	9	o	[o]	art	M=S	-	NP	SUBJ
+1	10	concurso	[concurso]	n	M=S	O	NP	SUBJ
+1	11	para	[para]	prp	-	-	PP	SUBJ
+1	12	auditor	[auditor]	n	M=S	O	NP	SUBJ
+1	13	fiscal	[fiscal]	adj	M=S	-	NP	SUBJ
+1	14	de	[de]	prp	-	-	PP	SUBJ
+1	15	o	[o]	art	M=S	-	NP	SUBJ
+1	16	INSS	[]	prop	M=S	O	NP	SUBJ
+1	17	,	[]	,	-	-	O	SUBJ
+1	18	que	[que]	pron-indp	M=S	O	NP	SUBJ
+1	19	oferecerá	[oferecer]	v-fin	FUT=3S=IND	-	VP	P
+1	20	150	[]	num	F=P	-	NP	ACC
+1	21	vagas	[vaga, vago]	n	F=P	O	NP	ACC
+1	22	,	[]	,	-	-	O	ACC
+1	23	prometidas	[prometer]	v-pcp	F=S	-	VP	P
+1	24	por	[por]	prp	-	-	PP	O
+1	25	o	[o]	art	M=S	-	NP	O
+1	26	governo	[governo]	n	M=S	O	NP	O
+1	27	federal	[federal]	adj	M=S	-	NP	O
+1	28	,	[]	,	-	-	O	O
+1	29	conforme	[]	adv	-	-	ADVP	ADVL
+1	30	revelou	[revelar]	v-fin	PS=3S=IND	-	VP	P
+1	31	o	[o]	art	M=S	-	NP	ACC
+1	32	chefe	[chefe]	n	M=S	O	NP	ACC
+1	33	de	[de]	prp	-	-	PP	ACC
+1	34	Divisão	[]	prop	M=S	O	NP	ACC
+1	35	em	[em]	prp	-	-	PP	ACC
+1	36	a	[o]	art	F=S	-	NP	ACC
+1	37	Coordenação_Geral	[]	prop	F=S	O	NP	ACC
+1	38	de	[de]	prp	-	-	PP	ACC
+1	39	o	[o]	art	M=S	-	NP	ACC
+1	40	INSS	[]	prop	M=S	-	NP	ACC
+1	41	,	[]	,	-	-	O	ACC
+1	42	Maurílio_Gonçalves_Dias	[]	prop	M=S	-	NP	ACC
+1	43	.	[.]	.	-	-	O	O
+
+2	0	.	[.]	.	-	-	O	O
+
+3	0	O	[o]	art	M=S	-	NP	SUBJ
+3	1	INSS	[]	prop	M=S	-	NP	SUBJ
+3	2	aguarda	[aguardar]	v-fin	PR=3S=IND	-	VP	P
+3	3	apenas	[apenas]	adv	-	-	NP	ACC
+3	4	a	[o]	art	F=S	-	NP	ACC
+3	5	autorização	[autorizar]	n	F=S	-	NP	ACC
+3	6	oficial	[oficial]	adj	F=S	-	NP	ACC
+3	7	,	[]	,	-	-	O	O
+3	8	para	[para]	prp	-	-	PP	ADVL
+3	9	dar	[dar]	v-inf	-	-	VP	P
+3	10	início	[início]	n	M=S	-	NP	ACC
+3	11	a	[a]	prp	-	-	PP	PIV
+3	12	o	[o]	art	M=S	-	NP	PIV
+3	13	processo	[processo]	n	M=S	-	NP	PIV
+3	14	seletivo	[seletivo]	adj	M=S	-	NP	PIV
+3	15	.	[.]	.	-	-	O	O
+
+4	0	.	[.]	.	-	-	O	O
+
+5	0	em	[em]	prp	-	-	PP	ADVL
+5	1	o	[o]	art	M=S	-	NP	ADVL
+5	2	dia	[dia]	n	M=S	-	NP	ADVL
+5	3	30	[]	num	M=P	-	NP	ADVL
+5	4	de	[de]	prp	-	-	PP	ADVL
+5	5	junho	[junho]	n	M=S	-	NP	ADVL
+5	6	,	[]	,	-	-	O	O
+5	7	a	[a]	prp	-	-	PP	ADVL
+5	8	Comissão_de_Controle_e_Gestão_Fiscal	[]	prop	M=S	-	NP	ADVL
+5	9	,	[]	,	-	-	O	ADVL
+5	10	de	[de]	prp	-	-	PP	ADVL
+5	11	o	[o]	art	M=S	-	NP	ADVL
+5	12	Ministério_da_Fazenda	[]	prop	M=S	-	NP	ADVL
+5	13	,	[]	,	-	-	O	O
+5	14	publicou	[publicar]	v-fin	PS=3S=IND	-	VP	P
+5	15	,	[]	,	-	-	O	O
+5	16	em	[em]	prp	-	-	PP	ADVL
+5	17	o	[o]	art	M=S	-	NP	ADVL
+5	18	Diário_Oficial	[]	prop	M=S	-	NP	ADVL
+5	19	,	[]	,	-	-	O	O
+5	20	uma	[um]	art	F=S	-	NP	ACC
+5	21	recomendação	[recomendação, recomendar]	n	F=S	-	NP	ACC
+5	22	a	[a]	prp	-	-	PP	ACC
+5	23	o	[o]	art	M=S	-	NP	ACC
+5	24	Ministério_de_Orçamento_e_Gestão	[]	prop	M=S	-	NP	ACC
+5	25	,	[]	,	-	-	O	O
+5	26	por	[por]	prp	-	-	PP	O
+5	27	a	[o]	art	F=S	-	NP	O
+5	28	autorização	[autorizar]	n	F=S	-	NP	O
+5	29	para	[para]	prp	-	-	PP	O
+5	30	a	[o]	art	F=S	-	NP	O
+5	31	abertura	[abertura]	n	F=S	-	NP	O
+5	32	de	[de]	prp	-	-	PP	O
+5	33	concursos	[concurso]	n	M=P	-	NP	O
+5	34	.	[.]	.	-	-	O	O
+
+6	0	.	[.]	.	-	-	O	O
+
+7	0	em	[em]	prp	-	-	PP	ADVL
+7	1	o	[o]	art	M=S	-	NP	ADVL
+7	2	total	[total]	n	M=S	-	NP	ADVL
+7	3	,	[]	,	-	-	O	O
+7	4	a	[o]	art	F=S	-	NP	SUBJ
+7	5	oferta	[oferta]	n	F=S	-	NP	SUBJ
+7	6	será	[ser]	v-fin	FUT=3S=IND	-	VP	P
+7	7	de	[de]	prp	-	-	PP	PIV
+7	8	3.728	[]	num	F=P	-	NP	PIV
+7	9	vagas	[vaga, vago]	n	F=P	-	NP	PIV
+7	10	,	[]	,	-	-	O	O
+7	11	em	[em]	prp	-	-	PP	ADVL
+7	12	carreiras	[carreira]	n	F=P	-	NP	ADVL
+7	13	de	[de]	prp	-	-	PP	ADVL
+7	14	nível	[nível]	n	M=S	-	NP	ADVL
+7	15	superior	[superior]	adj	M=S	-	NP	ADVL
+7	16	,	[]	,	-	-	O	O
+7	17	conforme	[]	adv	-	-	O	ADVL
+7	18	promessa	[promessa]	n	F=S	-	NP	SUBJ
+7	19	feita	[fazer]	v-pcp	F=S	-	VP	P
+7	20	em	[em]	prp	-	-	PP	ADVL
+7	21	o	[o]	art	M=S	-	NP	ADVL
+7	22	dia	[dia]	n	M=S	-	NP	ADVL
+7	23	30	[]	num	M=P	-	NP	ADVL
+7	24	de	[de]	prp	-	-	PP	ADVL
+7	25	maio	[maio, maio]	n	M=S	-	NP	ADVL
+7	26	.	[.]	.	-	-	O	O
+
+8	0	.	[.]	.	-	-	O	O
+
+9	0	Uma	[um]	art	F=S	-	NP	SUBJ
+9	1	fonte	[fonte]	n	F=S	-	NP	SUBJ
+9	2	de	[de]	prp	-	-	PP	SUBJ
+9	3	o	[o]	art	M=S	-	NP	SUBJ
+9	4	INSS	[]	prop	M=S	-	NP	SUBJ
+9	5	disse	[dizer]	v-fin	PS=3S=IND	-	VP	P
+9	6	que	[que]	conj-s	-	-	O	ACC
+9	7	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+9	8	grande	[grande]	adj	M=S	-	NP	SC
+9	9	a	[o]	art	F=S	-	NP	SUBJ
+9	10	possibilidade	[possibilidade, possível]	n	F=S	-	NP	SUBJ
+9	11	de	[de]	prp	-	-	PP	SUBJ
+9	12	a	[o]	art	F=S	-	NP	SUBJ
+9	13	Universidade_de_Brasília	[]	prop	F=S	-	NP	SUBJ
+9	14	(	[(]	(	-	-	O	SUBJ
+9	15	UnB	[]	prop	F=S	-	NP	APP
+9	16	)	[)]	)	-	-	O	O
+9	17	organizar	[organizar]	v-inf	-	-	VP	P
+9	18	o	[o]	art	M=S	-	NP	ACC
+9	19	seu	[seu]	pron-det	M=S	-	NP	ACC
+9	20	concurso	[concurso]	n	M=S	-	NP	ACC
+9	21	.	[.]	.	-	-	O	O
+
+10	0	.	[.]	.	-	-	O	O
+
+11	0	A	[o]	art	F=S	-	NP	SUBJ
+11	1	instituição	[instituição, instituir]	n	F=S	-	NP	SUBJ
+11	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+11	3	a	[o]	art	F=S	-	NP	SC
+11	4	mesma	[mesmo]	pron-det	F=S	-	NP	SC
+11	5	que	[que]	pron-indp	F=S	-	NP	SUBJ
+11	6	coordenou	[coordenar]	v-fin	PS=3S=IND	-	VP	P
+11	7	o	[o]	art	M=S	-	NP	ACC
+11	8	último	[último]	adj	M=S	-	NP	ACC
+11	9	processo	[processo]	n	M=S	-	NP	ACC
+11	10	seletivo	[seletivo]	adj	M=S	-	NP	ACC
+11	11	de	[de]	prp	-	-	PP	ACC
+11	12	o	[o]	art	M=S	-	NP	ACC
+11	13	INSS	[]	prop	M=S	-	NP	ACC
+11	14	,	[]	,	-	-	O	ACC
+11	15	realizado	[realizar]	v-pcp	M=S	-	VP	P
+11	16	em	[em]	prp	-	-	PP	ADVL
+11	17	1998	[]	num	M=P	-	NP	ADVL
+11	18	.	[.]	.	-	-	O	O
+
+12	0	.	[.]	.	-	-	O	O
+
+13	0	Para	[para]	prp	-	-	PP	ADVL
+13	1	participar	[participar]	v-inf	-	-	VP	P
+13	2	de	[de]	prp	-	-	PP	PIV
+13	3	o	[o]	art	M=S	-	NP	PIV
+13	4	concurso	[concurso]	n	M=S	-	NP	PIV
+13	5	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+13	6	necessário	[necessário]	adj	M=S	-	NP	SC
+13	7	ter	[ter]	v-inf	-	-	VP	P
+13	8	concluído	[concluir]	v-pcp	M=S	-	VP	P
+13	9	curso	[curso]	n	M=S	-	NP	ACC
+13	10	superior	[superior]	adj	M=S	-	NP	ACC
+13	11	em	[em]	prp	-	-	PP	ADVL
+13	12	qualquer	[qualquer]	pron-det	M=S	-	NP	ADVL
+13	13	área	[área]	n	F=S	-	NP	ADVL
+13	14	.	[.]	.	-	-	O	O
+
+14	0	.	[.]	.	-	-	O	O
+
+15	0	A	[o]	art	F=S	-	NP	SUBJ
+15	1	remuneração	[remuneração, remunerar]	n	F=S	-	NP	SUBJ
+15	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+15	3	de	[de]	prp	-	-	PP	SC
+15	4	R$2.409,66	[]	prop	M=S	-	NP	SC
+15	5	,	[]	,	-	-	O	O
+15	6	podendo	[poder]	v-ger	-	-	VP	P
+15	7	chegar	[chegar]	v-inf	-	-	VP	P
+15	8	a	[a]	prp	-	-	PP	PIV
+15	9	R$3.613	[]	prop	M=S	-	NP	PIV
+15	10	,	[]	,	-	-	O	PIV
+15	11	com	[com]	prp	-	-	PP	PIV
+15	12	a	[o]	art	F=S	-	NP	PIV
+15	13	Gratificação	[gratificar]	n	F=S	-	NP	PIV
+15	14	de	[de]	prp	-	-	PP	PIV
+15	15	Desempenho	[desempenho]	n	M=S	-	NP	PIV
+15	16	por	[por]	prp	-	-	PP	ADVL
+15	17	Atividade_Tributária	[]	prop	M=S	-	NP	ADVL
+15	18	(	[(]	(	-	-	O	ADVL
+15	19	GDAT	[]	prop	M=S	-	NP	ADVL
+15	20	)	[)]	)	-	-	O	ADVL
+15	21	,	[]	,	-	-	O	ADVL
+15	22	obtida	[obter]	v-pcp	F=S	-	VP	P
+15	23	em	[em]	prp	-	-	PP	ADVL
+15	24	função	[função]	n	F=S	-	NP	ADVL
+15	25	de	[de]	prp	-	-	PP	ADVL
+15	26	o	[o]	art	M=S	-	NP	ADVL
+15	27	alcance	[alcance]	n	M=S	-	NP	ADVL
+15	28	de	[de]	prp	-	-	PP	ADVL
+15	29	as	[o]	art	F=P	-	NP	ADVL
+15	30	metas	[meta]	n	F=P	-	NP	ADVL
+15	31	de	[de]	prp	-	-	PP	ADVL
+15	32	arrecadação	[arrecadar]	n	F=S	-	NP	ADVL
+15	33	e	[e]	conj-c	-	-	O	ADVL
+15	34	de	[de]	prp	-	-	PP	ADVL
+15	35	os	[o]	art	M=P	-	NP	ADVL
+15	36	resultados	[]	n	M=P	-	NP	ADVL
+15	37	obtidos	[obter]	v-pcp	M=P	-	VP	P
+15	38	com	[com]	prp	-	-	PP	PIV
+15	39	a	[o]	art	F=S	-	NP	PIV
+15	40	fiscalização	[fiscalizar]	n	F=S	-	NP	PIV
+15	41	.	[.]	.	-	-	O	O
+
+16	0	.	[.]	.	-	-	O	O
+
+17	0	O	[o]	art	M=S	-	NP	SUBJ
+17	1	diretor	[diretor]	n	M=S	-	NP	SUBJ
+17	2	de	[de]	prp	-	-	PP	SUBJ
+17	3	Arrecadação_Fiscal	[]	prop	M=S	-	NP	SUBJ
+17	4	de	[de]	prp	-	-	PP	SUBJ
+17	5	o	[o]	art	M=S	-	NP	SUBJ
+17	6	INSS	[]	prop	M=S	-	NP	SUBJ
+17	7	,	[]	,	-	-	O	SUBJ
+17	8	Luiz_Alberto_Lazinho	[]	prop	M=S	-	NP	APP
+17	9	,	[]	,	-	-	O	O
+17	10	acredita	[acreditar]	v-fin	PR=3S=IND	-	VP	P
+17	11	que	[que]	conj-s	-	-	O	ACC
+17	12	o	[o]	art	M=S	-	NP	SUBJ
+17	13	conteúdo	[conteúdo]	n	M=S	-	NP	SUBJ
+17	14	programático	[programático]	adj	M=S	-	NP	SUBJ
+17	15	de	[de]	prp	-	-	PP	SUBJ
+17	16	as	[o]	art	F=P	-	NP	SUBJ
+17	17	provas	[prova]	n	F=P	-	NP	SUBJ
+17	18	seguirá	[seguir]	v-fin	FUT=3S=IND	-	VP	P
+17	19	o	[o]	art	M=S	-	NP	ACC
+17	20	modelo	[modelo]	n	M=S	-	NP	ACC
+17	21	de	[de]	prp	-	-	PP	ACC
+17	22	o	[o]	art	M=S	-	NP	ACC
+17	23	último	[último]	adj	M=S	-	NP	ACC
+17	24	processo	[processo]	n	M=S	-	NP	ACC
+17	25	seletivo	[seletivo]	adj	M=S	-	NP	ACC
+17	26	,	[]	,	-	-	O	ACC
+17	27	realizado	[realizar]	v-pcp	M=S	-	VP	P
+17	28	em	[em]	prp	-	-	PP	ADVL
+17	29	1998	[]	num	M=P	-	NP	ADVL
+17	30	.	[.]	.	-	-	O	O
+
+18	0	.	[.]	.	-	-	O	O
+
+19	0	"	["]	"	-	-	VP	P
+19	1	Os	[o]	art	M=P	-	NP	SUBJ
+19	2	candidatos	[candidato]	n	M=P	-	NP	SUBJ
+19	3	devem	[dever]	v-fin	PR=3P=IND	-	VP	P
+19	4	dar	[dar]	v-inf	-	-	VP	P
+19	5	especial	[especial]	adj	F=S	-	NP	ACC
+19	6	atenção	[atenção]	n	F=S	-	NP	ACC
+19	7	a	[a]	prp	-	-	PP	ACC
+19	8	Contabilidade	[contabilidade]	n	F=S	-	NP	ACC
+19	9	,	[]	,	-	-	O	ACC
+19	10	Direito_Tributário	[]	prop	M=S	-	NP	ACC
+19	11	e	[e]	conj-c	-	-	O	ACC
+19	12	Legislação_Previdenciária	[]	prop	M=S	-	NP	ACC
+19	13	"	["]	"	-	-	O	ADVL
+19	14	,	[]	,	-	-	O	O
+19	15	sugeriu	[sugerir]	v-fin	PS=3S=IND	-	VP	P
+19	16	Luiz_Alberto_Lazinho	[]	prop	M=S	-	NP	SUBJ
+19	17	.	[.]	.	-	-	O	O
+
+20	0	.	[.]	.	-	-	O	O
+
+21	0	Para	[para]	prp	-	-	PP	ADVL
+21	1	aqueles	[aquele]	pron-det	M=P	-	NP	ADVL
+21	2	que	[que]	pron-indp	M=P	-	NP	SUBJ
+21	3	vão	[ir]	v-fin	PR=3P=IND	-	VP	P
+21	4	participar	[participar]	v-inf	-	-	VP	P
+21	5	de	[de]	prp	-	-	PP	PIV
+21	6	o	[o]	art	M=S	-	NP	PIV
+21	7	processo	[processo]	n	M=S	-	NP	PIV
+21	8	seletivo	[seletivo]	adj	M=S	-	NP	PIV
+21	9	,	[]	,	-	-	O	O
+21	10	o	[o]	art	M=S	-	NP	SUBJ
+21	11	professor	[professor]	n	M=S	-	NP	SUBJ
+21	12	de	[de]	prp	-	-	PP	SUBJ
+21	13	Direito_Previdenciário_Fábio_Zambite	[]	n	M=S	-	NP	SUBJ
+21	14	dá	[dar]	v-fin	PR=3S=IND	-	VP	P
+21	15	uma	[um]	art	F=S	-	NP	ACC
+21	16	dica	[dica]	n	F=S	-	NP	ACC
+21	17	importante	[importante, importar]	adj	F=S	-	NP	ACC
+21	18	:	[:]	:	-	-	O	O
+
+22	0	os	[o]	art	M=P	-	NP	SUBJ
+22	1	candidatos	[candidato]	n	M=P	-	NP	SUBJ
+22	2	devem	[dever]	v-fin	PR=3P=IND	-	VP	P
+22	3	estudar	[estudar]	v-inf	-	-	VP	P
+22	4	com	[com]	prp	-	-	PP	ADVL
+22	5	bastante	[]	pron-det	F=S	-	NP	ADVL
+22	6	atenção	[atenção]	n	F=S	-	NP	ADVL
+22	7	o	[o]	art	M=S	-	NP	ACC
+22	8	Decreto	[decreto]	n	M=S	-	NP	ACC
+22	9	3.048/99	[]	num	M=P	-	NP	ACC
+22	10	,	[]	,	-	-	O	ACC
+22	11	que	[que]	pron-indp	F=S	-	NP	SUBJ
+22	12	aprova	[aprovar]	v-fin	PR=3S=IND	-	VP	P
+22	13	o	[o]	art	M=S	-	NP	ACC
+22	14	Regulamento	[regulamento, regular]	n	M=S	-	NP	ACC
+22	15	de	[de]	prp	-	-	PP	ACC
+22	16	a	[o]	art	F=S	-	NP	ACC
+22	17	Previdência_Social	[]	prop	F=S	-	NP	ACC
+22	18	.	[.]	.	-	-	O	O
+
+23	0	.	[.]	.	-	-	O	O
+
+24	0	"	["]	"	-	-	VP	P
+24	1	A	[o]	art	F=S	-	NP	SUBJ
+24	2	Legislação	[legislação, legislar]	n	F=S	-	NP	SUBJ
+24	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+24	4	muito	[muito]	adv	-	-	NP	SC
+24	5	extensa	[extenso]	adj	F=S	-	NP	SC
+24	6	.	[.]	.	-	-	O	O
+
+25	0	.	[.]	.	-	-	O	O
+
+26	0	a	[a]	prp	-	-	PP	ADVL
+26	1	o	[o]	art	M=S	-	NP	ADVL
+26	2	invés	[invés]	n	M=S	-	NP	ADVL
+26	3	de	[de]	prp	-	-	PP	ADVL
+26	4	estudar	[estudar]	v-inf	-	-	VP	P
+26	5	as	[o]	art	F=P	-	NP	ACC
+26	6	Leis_de_Custeio	[]	prop	F=P	-	NP	ACC
+26	7	e	[e]	conj-c	-	-	O	ACC
+26	8	de	[de]	prp	-	-	PP	ACC
+26	9	Benefícios	[benefício]	n	M=P	-	NP	ACC
+26	10	,	[]	,	-	-	O	O
+26	11	além_do	[]	prp	-	-	PP	ADVL
+26	12	o	[o]	art	M=S	-	NP	ADVL
+26	13	Regulamento	[regulamento, regular]	n	M=S	-	NP	ADVL
+26	14	de	[de]	prp	-	-	PP	ADVL
+26	15	a	[o]	art	F=S	-	NP	ADVL
+26	16	Previdência_Social	[]	prop	F=S	-	NP	ADVL
+26	17	sugiro	[sugerir]	v-fin	PR=1S=IND	-	VP	P
+26	18	que	[que]	conj-s	-	-	O	ACC
+26	19	o	[o]	art	M=S	-	NP	SUBJ
+26	20	candidato	[candidato]	n	M=S	-	NP	SUBJ
+26	21	estude	[estudar]	v-fin	PR=3S=SUBJ	-	VP	P
+26	22	diretamente	[direto]	adv	-	-	ADVP	ADVL
+26	23	o	[o]	art	M=S	-	NP	ACC
+26	24	Decreto	[decreto]	n	M=S	-	NP	ACC
+26	25	3.048/99	[]	num	M=P	-	NP	ACC
+26	26	,	[]	,	-	-	O	ACC
+26	27	que	[que]	pron-indp	F=S	-	NP	SUBJ
+26	28	reproduz	[reproduzir]	v-fin	PR=3S=IND	-	VP	P
+26	29	o	[]	pron-det	M=S	-	NP	SC
+26	30	que	[que]	pron-indp	M=S	-	NP	ACC
+26	31	dizem	[dizer]	v-fin	PR=3P=IND	-	VP	P
+26	32	essas	[esse]	pron-det	F=P	-	NP	SUBJ
+26	33	leis	[lei]	n	F=P	-	NP	SUBJ
+26	34	.	[.]	.	-	-	O	O
+
+27	0	.	[.]	.	-	-	O	O
+
+28	0	Assim	[assim]	adv	-	-	ADVP	ADVL
+28	1	,	[]	,	-	-	O	O
+28	2	o	[o]	art	M=S	-	NP	SUBJ
+28	3	candidato	[candidato]	n	M=S	-	NP	SUBJ
+28	4	ganha	[ganhar]	v-fin	PR=3S=IND	-	VP	P
+28	5	tempo	[tempo]	n	M=S	-	NP	ACC
+28	6	em	[em]	prp	-	-	PP	ADVL
+28	7	a	[o]	art	F=S	-	NP	ADVL
+28	8	hora	[hora]	n	F=S	-	NP	ADVL
+28	9	de	[de]	prp	-	-	PP	ADVL
+28	10	estudar	[estudar]	v-inf	-	-	VP	P
+28	11	"	["]	"	-	-	O	O
+28	12	,	[]	,	-	-	O	O
+28	13	orienta	[orientar]	v-fin	PR=3S=IND	-	VP	P
+28	14	.	[.]	.	-	-	O	O
+
+29	0	.	[.]	.	-	-	O	O
+
+30	0	Outra	[outro]	pron-det	F=S	-	NP	SUBJ
+30	1	sugestão	[sugestão]	n	F=S	-	NP	SUBJ
+30	2	de	[de]	prp	-	-	PP	SUBJ
+30	3	o	[o]	art	M=S	-	NP	SUBJ
+30	4	professor	[professor]	n	M=S	-	NP	SUBJ
+30	5	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+30	6	que	[que]	conj-s	-	-	O	SC
+30	7	os	[o]	art	M=P	-	NP	SUBJ
+30	8	concorrentes	[concorrente]	n	M=P	-	NP	SUBJ
+30	9	analisem	[analisar]	v-fin	PR=3P=SUBJ	-	VP	P
+30	10	com	[com]	prp	-	-	PP	ADVL
+30	11	especial	[especial]	adj	F=S	-	NP	ADVL
+30	12	atenção	[atenção]	n	F=S	-	NP	ADVL
+30	13	a	[a]	prp	-	-	PP	ADVL
+30	14	Lei	[lei]	n	F=S	-	NP	ADVL
+30	15	9.876/99	[]	adj	F=S	-	NP	ADVL
+30	16	,	[]	,	-	-	O	ADVL
+30	17	que	[que]	pron-indp	F=S	-	NP	SUBJ
+30	18	introduz	[introduzir]	v-fin	PR=3S=IND	-	VP	P
+30	19	alterações	[alterar]	n	F=P	-	NP	ACC
+30	20	em	[em]	prp	-	-	PP	ADVL
+30	21	a	[o]	art	F=S	-	NP	ADVL
+30	22	Previdência_Social	[]	prop	F=S	-	NP	ADVL
+30	23	.	[.]	.	-	-	O	O
+
+31	0	.	[.]	.	-	-	O	O
+
+32	0	"	["]	"	-	-	O	O
+32	1	Uma	[um]	art	F=S	-	NP	SUBJ
+32	2	de	[de]	prp	-	-	PP	SUBJ
+32	3	essas	[esse]	pron-det	F=P	-	NP	SUBJ
+32	4	alterações	[alterar]	n	F=P	-	NP	SUBJ
+32	5	diz	[dizer]	v-fin	PR=3S=IND	-	VP	P
+32	6	respeito	[respeito]	n	M=S	-	NP	ACC
+32	7	a	[a]	prp	-	-	PP	ACC
+32	8	a	[o]	art	F=S	-	NP	ACC
+32	9	mudança	[mudança]	n	F=S	-	NP	ACC
+32	10	em	[em]	prp	-	-	PP	ACC
+32	11	o	[o]	art	M=S	-	NP	ACC
+32	12	cálculo	[cálculo]	n	M=S	-	NP	ACC
+32	13	de	[de]	prp	-	-	PP	ACC
+32	14	as	[o]	art	F=P	-	NP	ACC
+32	15	aposentadorias	[aposentadoria]	n	F=P	-	NP	ACC
+32	16	.	[.]	.	-	-	O	O
+
+33	0	.	[.]	.	-	-	O	O
+
+34	0	Essa	[esse]	pron-det	F=S	-	NP	SUBJ
+34	1	lei	[lei]	n	F=S	-	NP	SUBJ
+34	2	também	[também]	adv	-	-	ADVP	ADVL
+34	3	cria	[criar, crer]	v-fin	PR=3S=IND	-	VP	P
+34	4	o	[o]	art	M=S	-	NP	ACC
+34	5	fator	[fator]	n	M=S	-	NP	ACC
+34	6	previdenciário	[]	adj	M=S	-	NP	ACC
+34	7	,	[]	,	-	-	O	ACC
+34	8	que	[que]	pron-indp	M=S	-	NP	SUBJ
+34	9	certamente	[certo]	adv	-	-	ADVP	ADVL
+34	10	será	[ser]	v-fin	FUT=3S=IND	-	VP	P
+34	11	uma	[um]	art	F=S	-	NP	SC
+34	12	de	[de]	prp	-	-	PP	SC
+34	13	as	[o]	art	F=P	-	NP	SC
+34	14	questões	[questão]	n	F=P	-	NP	SC
+34	15	de	[de]	prp	-	-	PP	SC
+34	16	a	[o]	art	F=S	-	NP	SC
+34	17	prova	[prova]	n	F=S	-	NP	SC
+34	18	"	["]	"	-	-	O	O
+34	19	,	[]	,	-	-	O	O
+34	20	disse	[dizer]	v-fin	PS=3S=IND	-	VP	P
+34	21	.	[.]	.	-	-	O	O
+
+35	0	.	[.]	.	-	-	O	O
+

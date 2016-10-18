@@ -1,0 +1,40 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	MONEY	[]	prop	M=S	O	NP	O
+0	1	1	[]	num	M=S	-	NP	O
+0	2	.	[.]	.	-	-	O	O
+
+1	0	O	[o]	art	M=S	-	NP	SUBJ
+1	1	escritor	[escritor]	n	M=S	O	NP	SUBJ
+1	2	Clive_Cussler	[]	prop	M=S	O	NP	SUBJ
+1	3	,	[]	,	-	-	O	SUBJ
+1	4	autor	[autor]	n	M=S	O	NP	SUBJ
+1	5	de	[de]	prp	-	-	PP	SUBJ
+1	6	as	[o]	art	F=P	-	NP	SUBJ
+1	7	aventuras	[aventura]	n	F=P	O	NP	SUBJ
+1	8	de	[de]	prp	-	-	PP	SUBJ
+1	9	Dirk_Pitt	[]	prop	M=S	O	NP	SUBJ
+1	10	,	[]	,	-	-	O	O
+1	11	assinou	[assinar]	v-fin	PS=3S=IND	-	VP	P
+1	12	um	[um]	art	M=S	-	NP	ACC
+1	13	contrato	[contrato]	n	M=S	O	NP	ACC
+1	14	de	[de]	prp	-	-	PP	ACC
+1	15	US$	[]	n	M=P	O	NP	ACC
+1	16	14	[]	num	M=P	-	NP	ACC
+1	17	milhões	[]	n	M=P	O	NP	ACC
+1	18	com	[com]	prp	-	-	PP	ACC
+1	19	a	[o]	art	F=S	-	NP	ACC
+1	20	Simon	[Simon]	prop	-	O	NP	ACC
+1	21	&amp	[]	prop	F=S	O	NP	ACC
+1	22	;	[;]	;	-	-	O	O
+
+2	0	Schuster	[]	prop	M=S	O	NP	O
+2	1	para	[para]	prp	-	-	PP	O
+2	2	a	[o]	art	F=S	-	NP	O
+2	3	publicação	[publicar]	n	F=S	O	NP	O
+2	4	de	[de]	prp	-	-	PP	O
+2	5	dois	[dois]	num	M=P	-	NP	O
+2	6	livros	[livro]	n	M=P	O	NP	O
+2	7	.	[.]	.	-	-	O	O
+
+3	0	.	[.]	.	-	-	O	O
+

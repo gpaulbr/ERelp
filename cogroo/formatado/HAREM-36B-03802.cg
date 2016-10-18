@@ -1,0 +1,683 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+0	1	cão	[cão]	n	M=S	O	NP	SUBJ	-	-
+0	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+0	3	um	[um]	art	M=S	-	NP	SC	-	-
+0	4	mamífero	[mamífero]	adj	M=S	-	NP	SC	-	-
+0	5	,	[]	,	-	-	O	O	-	-
+0	6	sendo	[ser]	v-ger	-	-	VP	P	-	-
+0	7	também	[também]	adv	-	-	ADVP	ADVL	-	-
+0	8	um	[um]	art	M=S	-	NP	ACC	-	-
+0	9	animal	[animal]	n	M=S	O	NP	ACC	-	-
+0	10	doméstico	[doméstico]	adj	M=S	-	NP	ACC	-	-
+0	11	e	[e]	conj-c	-	-	NP	ACC	-	-
+0	12	comumente	[]	adv	-	-	NP	ACC	-	-
+0	13	chamado	[]	adj	M=S	-	NP	ACC	-	-
+0	14	de	[de]	prp	-	-	PP	ACC	-	-
+0	15	CACHORRO	[cachorro]	n	M=S	O	NP	ACC	-	-
+0	16	.	[.]	.	-	-	O	O	-	-
+
+1	0	É	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+1	1	o	[o]	art	M=S	-	NP	SC	-	-
+1	2	mais	[mais]	adv	-	-	NP	SC	-	-
+1	3	antigo	[antigo]	adj	M=S	-	NP	SC	-	-
+1	4	de	[de]	prp	-	-	PP	SC	-	-
+1	5	os	[o]	art	M=P	-	NP	SC	-	-
+1	6	animais	[animal]	n	M=P	O	NP	SC	-	-
+1	7	domesticados	[domesticar]	v-pcp	M=P	-	NP	SC	-	-
+1	8	,	[]	,	-	-	O	SC	-	-
+1	9	com	[com]	prp	-	-	PP	SC	-	-
+1	10	indícios	[indício]	n	M=P	O	NP	SC	-	-
+1	11	de	[de]	prp	-	-	PP	SC	-	-
+1	12	domesticação	[domesticar]	n	F=S	O	NP	SC	-	-
+1	13	hÁ	[]	prp	-	-	PP	SC	-	-
+1	14	12.000	[]	num	M=P	-	NP	SC	-	-
+1	15	ou	[ou]	conj-c	-	-	NP	SC	-	-
+1	16	14.000	[]	num	M=P	-	NP	SC	-	-
+1	17	anos	[ano]	n	M=P	O	NP	SC	-	-
+1	18	,	[]	,	-	-	O	O	-	-
+1	19	entre	[entre]	prp	-	-	PP	ADVL	-	-
+1	20	os	[o]	art	M=P	-	NP	ADVL	-	-
+1	21	povos	[povo]	n	M=P	O	NP	ADVL	-	-
+1	22	asiáticos	[asiático]	adj	M=P	-	NP	ADVL	-	-
+1	23	.	[.]	.	-	-	O	O	-	-
+
+2	0	.	[.]	.	-	-	O	O	-	-
+
+3	0	.	[.]	.	-	-	O	O	-	-
+
+4	0	.	[.]	.	-	-	O	O	-	-
+
+5	0	Como	[como]	adv	-	-	O	SC	-	-
+5	1	animal	[animal]	n	M=S	O	NP	SC	-	-
+5	2	de	[de]	prp	-	-	PP	SC	-	-
+5	3	temperamento	[temperar]	n	M=S	O	NP	SC	-	-
+5	4	relativamente	[relativo]	adv	-	-	NP	SC	-	-
+5	5	dócil	[dócil]	adj	M=S	-	NP	SC	-	-
+5	6	,	[]	,	-	-	O	O	-	-
+5	7	o	[o]	art	M=S	-	NP	SUBJ	-	-
+5	8	cão	[cão]	n	M=S	O	NP	SUBJ	-	-
+5	9	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+5	10	ser	[ser]	v-inf	-	-	VP	P	-	-
+5	11	treinado	[treinar]	v-pcp	M=S	-	VP	P	-	-
+5	12	para	[para]	prp	-	-	PP	ADVL	-	-
+5	13	executar	[executar]	v-inf	-	-	VP	P	-	-
+5	14	grande	[grande]	adj	M=S	-	NP	ACC	-	-
+5	15	número	[número]	n	M=S	O	NP	ACC	-	-
+5	16	de	[de]	prp	-	-	PP	ACC	-	-
+5	17	tarefas	[tarefa]	n	F=P	O	NP	ACC	-	-
+5	18	úteis	[útil]	adj	F=P	-	NP	ACC	-	-
+5	19	a	[a]	prp	-	-	PP	ACC	-	-
+5	20	o	[o]	art	M=S	-	NP	ACC	-	-
+5	21	homem	[homem]	n	M=S	O	NP	ACC	-	-
+5	22	,	[]	,	-	-	O	O	-	-
+5	23	como	[como]	adv	-	-	ADVP	ADVL	-	-
+5	24	cuidar	[cuidar]	v-inf	-	-	VP	P	-	-
+5	25	de	[de]	prp	-	-	PP	PIV	-	-
+5	26	rebanhos	[rebanho]	n	M=P	O	NP	PIV	-	-
+5	27	,	[]	,	-	-	O	O	-	-
+5	28	caçar	[caçar]	v-inf	-	-	VP	P	-	-
+5	29	,	[]	,	-	-	O	O	-	-
+5	30	vigiar	[vigiar]	v-inf	-	-	VP	P	-	-
+5	31	propriedades	[propriedade]	n	F=P	O	NP	ACC	-	-
+5	32	,	[]	,	-	-	O	O	-	-
+5	33	guiar	[guiar]	v-inf	-	-	VP	P	-	-
+5	34	cegos	[cego]	adj	M=P	-	NP	SC	-	-
+5	35	e	[e]	conj-c	-	-	O	O	-	-
+5	36	até	[até]	prp	-	-	PP	ADVL	-	-
+5	37	puxar	[puxar]	v-inf	-	-	VP	P	-	-
+5	38	pequenos	[pequeno]	adj	M=P	-	NP	ACC	-	-
+5	39	trenós	[trenó]	n	M=P	O	NP	ACC	-	-
+5	40	.	[.]	.	-	-	O	O	-	-
+
+6	0	a	[a]	prp	-	-	PP	ADVL	-	-
+6	1	o	[o]	art	M=S	-	NP	ADVL	-	-
+6	2	longo	[longo]	adj	M=S	-	NP	ADVL	-	-
+6	3	de	[de]	prp	-	-	PP	ADVL	-	-
+6	4	os	[o]	art	M=P	-	NP	ADVL	-	-
+6	5	séculos	[século]	n	M=P	O	NP	ADVL	-	-
+6	6	,	[]	,	-	-	O	O	-	-
+6	7	selecionando	[selecionar]	v-ger	-	-	VP	P	-	-
+6	8	os	[o]	art	M=P	-	NP	ACC	-	-
+6	9	cães	[cão]	n	M=P	O	NP	ACC	-	-
+6	10	por	[por]	prp	-	-	PP	ACC	-	-
+6	11	suas	[sua]	pron-det	F=P	O	NP	ACC	-	-
+6	12	aptidões	[aptidão]	n	F=P	-	NP	ACC	-	-
+6	13	,	[]	,	-	-	O	ACC	-	-
+6	14	características	[característica]	n	F=P	O	NP	ACC	-	-
+6	15	físicas	[físico]	adj	F=P	-	NP	ACC	-	-
+6	16	ou	[ou]	conj-c	-	-	O	ACC	-	-
+6	17	tipo	[tipo]	n	M=S	O	NP	ACC	-	-
+6	18	de	[de]	prp	-	-	PP	ACC	-	-
+6	19	comportamento	[comportar]	n	M=S	O	NP	ACC	-	-
+6	20	,o	[]	adj	M=S	-	NP	ACC	-	-
+6	21	homem	[homem]	n	M=S	O	NP	SUBJ	-	-
+6	22	desenvoveu	[]	v-fin	PS=3S=IND	-	VP	P	-	-
+6	23	uma	[um]	art	F=S	-	NP	ACC	-	-
+6	24	grande	[grande]	adj	F=S	-	NP	ACC	-	-
+6	25	variedade	[variedade]	n	F=S	O	NP	ACC	-	-
+6	26	de	[de]	prp	-	-	PP	ACC	-	-
+6	27	raças	[raça]	n	F=P	O	NP	ACC	-	-
+6	28	caninas	[canino]	adj	F=P	-	NP	ACC	-	-
+6	29	,	[]	,	-	-	O	ACC	-	-
+6	30	que	[que]	pron-indp	M=S	O	NP	SUBJ	-	-
+6	31	atualmente	[atual]	adv	-	-	ADVP	ADVL	-	-
+6	32	são	[ser]	v-fin	PR=3P=IND	-	VP	P	-	-
+6	33	classificadas	[classificar]	v-pcp	F=P	-	VP	P	-	-
+6	34	em	[em]	prp	-	-	PP	ADVL	-	-
+6	35	diferentes	[diferente]	adj	F=P	-	NP	ADVL	-	-
+6	36	categorias	[categoria]	n	F=P	O	NP	ADVL	-	-
+6	37	.	[.]	.	-	-	O	O	-	-
+
+7	0	.	[.]	.	-	-	O	O	-	-
+
+8	0	.	[.]	.	-	-	O	O	-	-
+
+9	0	.	[.]	.	-	-	O	O	-	-
+
+10	0	De_acordo	[]	adv	-	-	ADVP	ADVL	-	-
+10	1	com	[com]	prp	-	-	PP	ADVL	-	-
+10	2	a	[o]	art	F=S	-	NP	ADVL	-	-
+10	3	CBKC	[]	prop	F=S	O	NP	ADVL	-	-
+10	4	(	[(]	(	-	-	O	ADVL	-	-
+10	5	Confederação_Brasileira_de_Cinofilia	[]	prop	F=S	O	NP	APP	-	-
+10	6	)	[)]	)	-	-	O	O	-	-
+10	7	,	[]	,	-	-	O	O	-	-
+10	8	órgão	[órgão]	n	M=S	O	NP	O	-	-
+10	9	filiado	[filiar]	v-pcp	M=S	-	VP	P	-	-
+10	10	a	[a]	prp	-	-	PP	PIV	-	-
+10	11	o	[o]	art	M=S	-	NP	PIV	-	-
+10	12	FCI	[]	prop	M=S	O	NP	PIV	-	-
+10	13	(	[(]	(	-	-	O	PIV	-	-
+10	14	Fédération_Cynologique_Internationale	[]	prop	M=S	O	NP	APP	-	-
+10	15	)	[)]	)	-	-	O	O	-	-
+10	16	,	[]	,	-	-	O	O	-	-
+10	17	existem	[existir]	v-fin	PR=3P=IND	-	VP	P	-	-
+10	18	onze	[onze]	num	M=P	-	NP	SUBJ	-	-
+10	19	grupos	[grupo]	n	M=P	O	NP	SUBJ	-	-
+10	20	de	[de]	prp	-	-	PP	SUBJ	-	-
+10	21	raças	[raça]	n	F=P	O	NP	SUBJ	-	-
+10	22	em	[em]	prp	-	-	PP	SUBJ	-	-
+10	23	o	[o]	art	M=S	-	NP	SUBJ	-	-
+10	24	Brasil	[Brasil]	prop	M=S	O	NP	SUBJ	-	-
+10	25	.	[.]	.	-	-	O	O	-	-
+
+11	0	São	[ser]	v-fin	PR=3P=IND	-	VP	O	-	-
+11	1	eles	[ele]	pron-pers	M=3P=NOM	O	NP	ACC	-	-
+11	2	:	[:]	:	-	-	O	O	-	-
+
+12	0	.	[.]	.	-	-	O	O	-	-
+
+13	0	.	[.]	.	-	-	O	O	-	-
+
+14	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+14	1	1	[]	num	M=S	-	NP	O	-	-
+14	2	:	[:]	:	-	-	O	O	-	-
+
+15	0	Cães_Pastorese_Boiadeiros	[]	prop	M=S	O	NP	SUBJ	-	-
+15	1	(	[(]	(	-	-	O	SUBJ	-	-
+15	2	Exceto_Boiadeiros_Suíços	[]	prop	M=S	O	NP	SUBJ	-	-
+15	3	)	[)]	)	-	-	O	SUBJ	-	-
+15	4	.	[.]	.	-	-	O	O	-	-
+
+16	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+16	1	2	[]	num	M=P	-	NP	O	-	-
+16	2	:	[:]	:	-	-	O	O	-	-
+
+17	0	Pinscher	[]	prop	M=S	O	NP	SUBJ	-	-
+17	1	e	[e]	conj-c	-	-	O	SUBJ	-	-
+17	2	Schnauzer	[]	prop	M=S	O	NP	SUBJ	-	-
+17	3	,	[]	,	-	-	O	SUBJ	-	-
+17	4	Molossóides	[]	prop	M=S	O	NP	SUBJ	-	-
+17	5	,	[]	,	-	-	O	SUBJ	-	-
+17	6	Boiadeirose_Montanheses_Suíçose	[]	prop	M=S	O	NP	SUBJ	-	-
+17	7	raças	[raça]	n	F=P	O	NP	SUBJ	-	-
+17	8	assemelhadas	[assemelhar]	v-pcp	F=P	-	NP	SUBJ	-	-
+17	9	.	[.]	.	-	-	O	O	-	-
+
+18	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+18	1	3	[]	num	M=P	-	NP	O	-	-
+18	2	:	[:]	:	-	-	O	O	-	-
+
+19	0	Terriers	[]	prop	M=S	O	NP	O	-	-
+19	1	.	[.]	.	-	-	O	O	-	-
+
+20	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+20	1	4	[]	num	M=P	-	NP	O	-	-
+20	2	:	[:]	:	-	-	O	O	-	-
+
+21	0	Dachshunds	[]	prop	M=S	O	NP	O	-	-
+21	1	.	[.]	.	-	-	O	O	-	-
+
+22	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+22	1	5	[]	num	M=P	-	NP	O	-	-
+22	2	:	[:]	:	-	-	O	O	-	-
+
+23	0	Spitze	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+23	1	cães	[cão]	n	M=P	O	NP	ACC	-	-
+23	2	de	[de]	prp	-	-	PP	ACC	-	-
+23	3	o	[o]	art	M=S	-	NP	ACC	-	-
+23	4	tipo	[tipo]	n	M=S	O	NP	ACC	-	-
+23	5	primitivo	[primitivo]	adj	M=S	-	NP	ACC	-	-
+23	6	.	[.]	.	-	-	O	O	-	-
+
+24	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+24	1	6	[]	num	M=P	-	NP	O	-	-
+24	2	:	[:]	:	-	-	O	O	-	-
+
+25	0	Sabujos_Farejadorese_Raças_Assemelhadas	[]	n	M=S	O	NP	O	-	-
+25	1	.	[.]	.	-	-	O	O	-	-
+
+26	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+26	1	7	[]	num	M=P	-	NP	O	-	-
+26	2	:	[:]	:	-	-	O	O	-	-
+
+27	0	Cães_Apontadores	[]	n	F=P	O	NP	O	-	-
+27	1	.	[.]	.	-	-	O	O	-	-
+
+28	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+28	1	8	[]	num	M=P	-	NP	O	-	-
+28	2	:	[:]	:	-	-	O	O	-	-
+
+29	0	Cães_D'água	[]	n	F=S	O	NP	O	-	-
+29	1	,	[]	,	-	-	O	O	-	-
+29	2	Levantadores	[levantar]	n	M=P	O	NP	O	-	-
+29	3	e	[e]	conj-c	-	-	O	O	-	-
+29	4	Retrievers	[]	prop	M=S	O	NP	O	-	-
+29	5	.	[.]	.	-	-	O	O	-	-
+
+30	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+30	1	9	[]	num	M=P	-	NP	O	-	-
+30	2	:	[:]	:	-	-	O	O	-	-
+
+31	0	Cães	[cão]	n	M=P	O	NP	O	-	-
+31	1	de	[de]	prp	-	-	PP	O	-	-
+31	2	Companhia	[]	prop	M=S	O	NP	O	-	-
+31	3	.	[.]	.	-	-	O	O	-	-
+
+32	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+32	1	10	[]	num	M=P	-	NP	O	-	-
+32	2	:	[:]	:	-	-	O	O	-	-
+
+33	0	Lebréis	[]	n	M=P	O	NP	O	-	-
+33	1	de	[de]	prp	-	-	PP	O	-	-
+33	2	Pêlo_Longo	[]	prop	M=S	O	NP	O	-	-
+33	3	ou	[ou]	conj-c	-	-	O	O	-	-
+33	4	Franj	[]	prop	M=S	O	NP	O	-	-
+33	5	.	[.]	.	-	-	O	O	-	-
+
+34	0	Grupo	[grupo]	n	M=S	O	NP	O	-	-
+34	1	11	[]	num	M=P	-	NP	O	-	-
+34	2	:	[:]	:	-	-	O	O	-	-
+
+35	0	Raças	[]	prop	M=S	O	NP	SUBJ	-	-
+35	1	não	[não]	adv	-	-	ADVP	ADVL	-	-
+35	2	reconhecidas	[reconhecer]	v-pcp	F=S	-	VP	P	-	-
+35	3	por	[por]	prp	-	-	PP	O	-	-
+35	4	a	[o]	art	F=S	-	NP	O	-	-
+35	5	FCI	[]	prop	F=S	O	NP	O	-	-
+35	6	,	[]	,	-	-	O	O	-	-
+35	7	como	[como]	adv	-	-	O	O	-	-
+35	8	American_Pit_Bull_Terrier	[]	prop	M=S	O	NP	SUBJ	-	-
+35	9	,	[]	,	-	-	O	SUBJ	-	-
+35	10	Ovelheiro_Gaúcho	[]	prop	M=S	O	NP	SUBJ	-	-
+35	11	e	[e]	conj-c	-	-	O	SUBJ	-	-
+35	12	o	[o]	art	M=S	-	NP	SUBJ	-	-
+35	13	Bulldogue_Americano	[]	prop	M=S	O	NP	SUBJ	-	-
+35	14	,	[]	,	-	-	O	SUBJ	-	-
+35	15	entre	[entre]	prp	-	-	PP	SUBJ	-	-
+35	16	outros	[outro]	pron-det	M=P	O	NP	SUBJ	-	-
+35	17	.	[.]	.	-	-	O	O	-	-
+
+36	0	.	[.]	.	-	-	O	O	-	-
+
+37	0	.	[.]	.	-	-	O	O	-	-
+
+38	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+38	1	onça	[onça]	n	F=S	O	NP	SUBJ	-	-
+38	2	,	[]	,	-	-	O	SUBJ	-	-
+38	3	ou	[ou]	conj-c	-	-	O	SUBJ	-	-
+38	4	jaguar	[jaguar]	n	M=S	O	NP	SUBJ	-	-
+38	5	,	[]	,	-	-	O	SUBJ	-	-
+38	6	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+38	7	um	[um]	art	M=S	-	NP	SC	-	-
+38	8	mamífero	[mamífero]	adj	M=S	-	NP	SC	-	-
+38	9	(	[(]	(	-	-	O	SC	-	-
+38	10	Panthera	[]	prp	-	-	PP	SC	-	-
+38	11	onca	[]	prop	F=S	O	NP	SC	-	-
+38	12	)	[)]	)	-	-	O	SC	-	-
+38	13	,	[]	,	-	-	O	SC	-	-
+38	14	de	[de]	prp	-	-	PP	SC	-	-
+38	15	a	[o]	art	F=S	-	NP	SC	-	-
+38	16	ordem	[ordem]	n	F=S	O	NP	SC	-	-
+38	17	de	[de]	prp	-	-	PP	SC	-	-
+38	18	os	[o]	art	M=P	-	NP	SC	-	-
+38	19	carnívoros	[carnívoro]	adj	M=P	-	NP	SC	-	-
+38	20	,	[]	,	-	-	O	SC	-	-
+38	21	família	[família]	n	F=S	O	NP	SC	-	-
+38	22	de	[de]	prp	-	-	PP	SC	-	-
+38	23	os	[o]	art	M=P	-	NP	SC	-	-
+38	24	felídeos	[]	n	M=P	O	NP	SC	-	-
+38	25	,	[]	,	-	-	O	SC	-	-
+38	26	encontrado	[encontrar]	v-pcp	M=S	-	VP	P	-	-
+38	27	em	[em]	prp	-	-	PP	ADVL	-	-
+38	28	todo	[todo]	pron-det	M=S	O	NP	ADVL	-	-
+38	29	o	[o]	art	M=S	-	NP	ADVL	-	-
+38	30	continente	[continente]	n	M=S	-	NP	ADVL	-	-
+38	31	americano	[americano]	adj	M=S	-	NP	ADVL	-	-
+38	32	,	[]	,	-	-	O	ADVL	-	-
+38	33	de	[de]	prp	-	-	PP	ADVL	-	-
+38	34	os	[o]	art	M=P	-	NP	ADVL	-	-
+38	35	EUA	[EUA]	prop	M=P	O	NP	ADVL	-	-
+38	36	a	[a]	prp	-	-	PP	ADVL	-	-
+38	37	a	[o]	art	F=S	-	NP	ADVL	-	-
+38	38	Argentina	[Argentina]	prop	F=S	O	NP	ADVL	-	-
+38	39	e	[e]	conj-c	-	-	O	ADVL	-	-
+38	40	em	[em]	prp	-	-	PP	ADVL	-	-
+38	41	todo	[todo]	pron-det	M=S	-	NP	ADVL	-	-
+38	42	o	[o]	art	M=S	-	NP	ADVL	-	-
+38	43	Brasil	[Brasil]	prop	M=S	-	NP	ADVL	-	-
+38	44	.	[.]	.	-	-	O	O	-	-
+
+39	0	Atinge	[]	prop	M=S	-	NP	O	-	-
+39	1	até	[até]	prp	-	-	PP	O	-	-
+39	2	1,80m	[]	num	M=P	-	NP	O	-	-
+39	3	de	[de]	prp	-	-	PP	O	-	-
+39	4	o	[o]	art	M=S	-	NP	O	-	-
+39	5	focinho	[focinho]	n	M=S	-	NP	O	-	-
+39	6	a	[a]	prp	-	-	PP	O	-	-
+39	7	a	[o]	art	F=S	-	NP	O	-	-
+39	8	ponta	[ponta]	n	F=S	-	NP	O	-	-
+39	9	de	[de]	prp	-	-	PP	O	-	-
+39	10	a	[o]	art	F=S	-	NP	O	-	-
+39	11	cauda	[cauda]	n	F=S	-	NP	O	-	-
+39	12	,	[]	,	-	-	O	O	-	-
+39	13	e	[e]	conj-c	-	-	O	O	-	-
+39	14	65	[]	num	M=P	-	NP	SUBJ	-	-
+39	15	cm	[centímetro]	n	M=S	-	NP	SUBJ	-	-
+39	16	de	[de]	prp	-	-	PP	SUBJ	-	-
+39	17	altura	[altura]	n	F=S	-	NP	SUBJ	-	-
+39	18	.	[.]	.	-	-	O	O	-	-
+
+40	0	Noctívaga	[noctívago]	n	F=S	-	NP	O	-	-
+40	1	,	[]	,	-	-	O	O	-	-
+40	2	a	[o]	art	F=S	-	NP	SUBJ	-	-
+40	3	onça	[onça]	n	F=S	-	NP	SUBJ	-	-
+40	4	vive	[viver]	v-fin	PR=3S=IND	-	VP	P	-	-
+40	5	em	[em]	prp	-	-	PP	ADVL	-	-
+40	6	matas	[mata]	n	F=P	-	NP	ADVL	-	-
+40	7	,	[]	,	-	-	O	ADVL	-	-
+40	8	em_geral	[]	adv	-	-	NP	ADVL	-	-
+40	9	próxima	[próximo]	adj	F=S	-	NP	ADVL	-	-
+40	10	a	[a]	prp	-	-	PP	ADVL	-	-
+40	11	rios	[rio]	n	M=P	-	NP	ADVL	-	-
+40	12	,	[]	,	-	-	O	O	-	-
+40	13	e	[e]	conj-c	-	-	O	O	-	-
+40	14	preda	[]	n	F=S	-	NP	O	-	-
+40	15	animais	[animal]	adj	M=P	-	NP	O	-	-
+40	16	como	[como]	adv	-	-	O	ADVL	-	-
+40	17	antas	[anta]	n	F=P	-	NP	SUBJ	-	-
+40	18	,	[]	,	-	-	O	O	-	-
+40	19	preguiças	[preguiçar]	v-fin	F=P	-	VP	P	-	-
+40	20	e	[e]	conj-c	-	-	O	O	-	-
+40	21	jacarés	[jacaré]	n	M=P	-	NP	O	-	-
+40	22	.	[.]	.	-	-	O	O	-	-
+
+41	0	.	[.]	.	-	-	O	O	-	-
+
+42	0	.	[.]	.	-	-	O	O	-	-
+
+43	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+43	1	capivara	[]	n	F=S	-	NP	SUBJ	-	-
+43	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+43	3	o	[o]	art	M=S	-	NP	SC	-	-
+43	4	maior	[maior]	adj	M=S	-	NP	SC	-	-
+43	5	entre	[entre]	prp	-	-	PP	SC	-	-
+43	6	os	[o]	art	M=P	-	NP	SC	-	-
+43	7	roedores	[roer]	n	M=P	-	NP	SC	-	-
+43	8	de	[de]	prp	-	-	PP	SC	-	-
+43	9	o	[o]	art	M=S	-	NP	SC	-	-
+43	10	mundo	[mundo]	n	M=S	-	NP	SC	-	-
+43	11	.	[.]	.	-	-	O	O	-	-
+
+44	0	.	[.]	.	-	-	O	O	-	-
+
+45	0	.	[.]	.	-	-	O	O	-	-
+
+46	0	Ela	[ele]	pron-pers	F=3S=NOM	-	NP	SUBJ	-	-
+46	1	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+46	2	ser	[ser]	v-inf	-	-	VP	P	-	-
+46	3	encontrada	[encontrar]	v-pcp	F=S	-	VP	P	-	-
+46	4	em	[em]	prp	-	-	PP	ADVL	-	-
+46	5	certas	[certo]	pron-det	F=P	-	NP	ADVL	-	-
+46	6	áreas	[área]	n	F=P	-	NP	ADVL	-	-
+46	7	de	[de]	prp	-	-	PP	ADVL	-	-
+46	8	a	[o]	art	F=S	-	NP	ADVL	-	-
+46	9	América_Central	[]	prop	F=S	-	NP	ADVL	-	-
+46	10	e	[e]	conj-c	-	-	O	ADVL	-	-
+46	11	de	[de]	prp	-	-	PP	ADVL	-	-
+46	12	o	[o]	art	M=S	-	NP	ADVL	-	-
+46	13	Sul	[sul]	n	M=S	-	NP	ADVL	-	-
+46	14	,	[]	,	-	-	O	ADVL	-	-
+46	15	próximas	[próximo]	adj	F=P	-	NP	ADVL	-	-
+46	16	a	[a]	prp	-	-	PP	ADVL	-	-
+46	17	rios	[rio]	n	M=P	-	NP	ADVL	-	-
+46	18	e	[e]	conj-c	-	-	O	ADVL	-	-
+46	19	lagos	[lago]	n	M=P	-	NP	ADVL	-	-
+46	20	.	[.]	.	-	-	O	O	-	-
+
+47	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+47	1	capivara	[]	n	F=S	-	NP	SUBJ	-	-
+47	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+47	3	uma	[um]	art	F=S	-	NP	SC	-	-
+47	4	excelente	[excelente]	adj	F=S	-	NP	SC	-	-
+47	5	nadadora	[nadador, nadar]	n	F=S	-	NP	SC	-	-
+47	6	e	[e]	conj-c	-	-	O	O	-	-
+47	7	inclusive	[inclusive]	adv	-	-	ADVP	ADVL	-	-
+47	8	possui	[possuir]	v-fin	PR=3S=IND	-	VP	P	-	-
+47	9	pés	[pé]	n	M=P	-	NP	ACC	-	-
+47	10	com	[com]	prp	-	-	PP	ACC	-	-
+47	11	pequenas	[pequeno]	adj	F=P	-	NP	ACC	-	-
+47	12	membranas	[membrana]	n	F=P	-	NP	ACC	-	-
+47	13	.	[.]	.	-	-	O	O	-	-
+
+48	0	Ela	[ele]	pron-pers	F=3S=NOM	-	NP	SUBJ	-	-
+48	1	se	[se]	pron-pers	F=3S=ACC	-	NP	ACC	-	-
+48	2	reproduz	[reproduzir]	v-fin	PR=3S=IND	-	VP	P	-	-
+48	3	em	[em]	prp	-	-	PP	ADVL	-	-
+48	4	a	[o]	art	F=S	-	NP	ADVL	-	-
+48	5	água	[água]	n	F=S	-	NP	ADVL	-	-
+48	6	e	[e]	conj-c	-	-	O	O	-	-
+48	7	também	[também]	adv	-	-	ADVP	ADVL	-	-
+48	8	usa	[usar]	v-fin	PR=3S=IND	-	VP	P	-	-
+48	9	a	[o]	art	F=S	-	NP	ACC	-	-
+48	10	água	[água]	n	F=S	-	NP	ACC	-	-
+48	11	como	[como]	adv	-	-	O	OC	-	-
+48	12	defesa	[defesa]	n	F=S	-	NP	SC	-	-
+48	13	,	[]	,	-	-	O	O	-	-
+48	14	escondendo	[esconder]	v-ger	-	-	VP	P	-	-
+48	15	-se	[]	pron-pers	M=3P=ACC	-	NP	ACC	-	-
+48	16	de	[de]	prp	-	-	PP	PIV	-	-
+48	17	seus	[seu]	pron-det	M=P	-	NP	PIV	-	-
+48	18	predadores	[predador]	adj	M=P	-	NP	PIV	-	-
+48	19	.	[.]	.	-	-	O	O	-	-
+
+49	0	Ela	[ele]	pron-pers	F=3S=NOM	-	NP	SUBJ	-	-
+49	1	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+49	2	permanecer	[permanecer]	v-inf	-	-	VP	P	-	-
+49	3	submersa	[submerso]	adj	F=S	-	NP	SC	-	-
+49	4	por	[por]	prp	-	-	PP	ADVL	-	-
+49	5	alguns	[algum]	pron-det	M=P	-	NP	ADVL	-	-
+49	6	minutos	[minuto]	n	M=P	-	NP	ADVL	-	-
+49	7	.	[.]	.	-	-	O	O	-	-
+
+50	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+50	1	capivara	[]	n	F=S	-	NP	SUBJ	-	-
+50	2	também	[também]	adv	-	-	ADVP	ADVL	-	-
+50	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+50	4	conhecida	[conhecer]	v-pcp	F=S	-	VP	P	-	-
+50	5	por	[por]	prp	-	-	PP	PIV	-	-
+50	6	dormir	[dormir]	v-inf	-	-	VP	P	-	-
+50	7	submersa	[submerso]	adj	F=S	-	NP	SC	-	-
+50	8	com	[com]	prp	-	-	PP	SC	-	-
+50	9	apenas	[apenas]	adv	-	-	NP	SC	-	-
+50	10	o	[o]	art	M=S	-	NP	SC	-	-
+50	11	focinho	[focinho]	n	M=S	-	NP	SC	-	-
+50	12	fora_d'água	[]	prp	-	-	PP	SC	-	-
+50	13	.	[.]	.	-	-	O	O	-	-
+
+51	0	.	[.]	.	-	-	O	O	-	-
+
+52	0	.	[.]	.	-	-	O	O	-	-
+
+53	0	em	[em]	prp	-	-	PP	ADVL	-	-
+53	1	as	[o]	art	F=P	-	NP	ADVL	-	-
+53	2	regiões	[região]	n	F=P	-	NP	ADVL	-	-
+53	3	a	[a]	prp	-	-	PP	ADVL	-	-
+53	4	o	[o]	art	M=S	-	NP	ADVL	-	-
+53	5	longo	[longo]	adj	M=S	-	NP	ADVL	-	-
+53	6	de	[de]	prp	-	-	PP	ADVL	-	-
+53	7	o	[o]	art	M=S	-	NP	ADVL	-	-
+53	8	Rio_Paraná	[]	prop	M=S	-	NP	ADVL	-	-
+53	9	em	[em]	prp	-	-	PP	ADVL	-	-
+53	10	o	[o]	art	M=S	-	NP	ADVL	-	-
+53	11	sul	[sul]	n	M=S	-	NP	ADVL	-	-
+53	12	de	[de]	prp	-	-	PP	ADVL	-	-
+53	13	o	[o]	art	M=S	-	NP	ADVL	-	-
+53	14	Brasil	[Brasil]	prop	M=S	-	NP	ADVL	-	-
+53	15	e	[e]	conj-c	-	-	O	ADVL	-	-
+53	16	norte	[]	adj	M=S	-	NP	ADVL	-	-
+53	17	de	[de]	prp	-	-	PP	ADVL	-	-
+53	18	a	[o]	art	F=S	-	NP	ADVL	-	-
+53	19	Argentina	[Argentina]	prop	F=S	-	NP	ADVL	-	-
+53	20	,	[]	,	-	-	O	O	-	-
+53	21	as	[o]	art	F=P	-	NP	SUBJ	-	-
+53	22	capivaras	[]	n	F=P	-	NP	SUBJ	-	-
+53	23	são	[ser]	v-fin	PR=3P=IND	-	VP	P	-	-
+53	24	frequentemente	[frequente]	adv	-	-	NP	SC	-	-
+53	25	capturadas	[capturar]	v-pcp	F=P	-	NP	SC	-	-
+53	26	e	[e]	conj-c	-	-	NP	SC	-	-
+53	27	aprisionadas	[aprisionar]	v-pcp	F=P	-	NP	SC	-	-
+53	28	para	[para]	prp	-	-	PP	SC	-	-
+53	29	criações	[criação, criar]	n	F=P	-	NP	SC	-	-
+53	30	em	[em]	prp	-	-	PP	SC	-	-
+53	31	cativeiro	[cativeiro]	n	M=S	-	NP	SC	-	-
+53	32	ou	[ou]	conj-c	-	-	O	SC	-	-
+53	33	para	[para]	prp	-	-	PP	SC	-	-
+53	34	serem	[ser]	v-inf	3P	-	VP	P	-	-
+53	35	abatidas	[abater]	v-pcp	F=S	-	VP	P	-	-
+53	36	como	[como]	adv	-	-	O	SC	-	-
+53	37	carne	[carne]	n	F=S	-	NP	SC	-	-
+53	38	de	[de]	prp	-	-	PP	SC	-	-
+53	39	caça	[caça]	n	F=S	-	NP	SC	-	-
+53	40	.	[.]	.	-	-	O	O	-	-
+
+54	0	Seu	[seu]	pron-det	M=S	-	NP	SUBJ	-	-
+54	1	nome	[nome]	n	M=S	-	NP	SUBJ	-	-
+54	2	espanhol	[espanhol]	adj	M=S	-	NP	SUBJ	-	-
+54	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+54	4	Carpincho	[]	prop	M=S	-	NP	SC	-	-
+54	5	.	[.]	.	-	-	O	O	-	-
+
+55	0	.	[.]	.	-	-	O	O	-	-
+
+56	0	.	[.]	.	-	-	O	O	-	-
+
+57	0	Quando	[quando]	adv	-	-	ADVP	ADVL	-	-
+57	1	os	[o]	art	M=P	-	NP	SUBJ	-	-
+57	2	missionários	[missionário]	n	M=P	-	NP	SUBJ	-	-
+57	3	espanhóis	[espanhol]	adj	M=P	-	NP	SUBJ	-	-
+57	4	encontraram	[encontrar]	v-fin	PS=3P=IND	-	VP	P	-	-
+57	5	a	[a]	prp	-	-	PP	PIV	-	-
+57	6	capivara	[]	n	F=S	-	NP	PIV	-	-
+57	7	em	[em]	prp	-	-	PP	ADVL	-	-
+57	8	o	[o]	art	M=S	-	NP	ADVL	-	-
+57	9	Brasil	[Brasil]	prop	M=S	-	NP	ADVL	-	-
+57	10	durante	[durante]	prp	-	-	PP	ADVL	-	-
+57	11	o	[o]	art	M=S	-	NP	ADVL	-	-
+57	12	século	[século]	n	M=S	-	NP	ADVL	-	-
+57	13	XVI	[XVI]	prop	-	-	NP	ADVL	-	-
+57	14	,	[]	,	-	-	O	O	-	-
+57	15	eles	[ele]	pron-pers	M=3P=NOM	-	NP	SUBJ	-	-
+57	16	escreveram	[escrever]	v-fin	PS=3P=IND	-	VP	P	-	-
+57	17	a	[a]	prp	-	-	PP	PIV	-	-
+57	18	o	[o]	art	M=S	-	NP	PIV	-	-
+57	19	papa	[papa]	n	M=S	-	NP	PIV	-	-
+57	20	perguntando	[perguntar]	v-ger	-	-	VP	P	-	-
+57	21	-	[]	-	-	-	O	O	-	-
+57	22	aqui	[aqui]	adv	-	-	ADVP	ADVL	-	-
+57	23	existe	[existir]	v-fin	PR=3S=IND	-	VP	P	-	-
+57	24	um	[um]	art	M=S	-	NP	ACC	-	-
+57	25	animal	[animal]	n	M=S	-	NP	ACC	-	-
+57	26	com	[com]	prp	-	-	PP	ACC	-	-
+57	27	escamas	[escama]	n	F=P	-	NP	ACC	-	-
+57	28	mas	[mas]	conj-c	-	-	O	ACC	-	-
+57	29	que	[que]	conj-s	-	-	O	ACC	-	-
+57	30	também	[também]	adv	-	-	ADVP	ADVL	-	-
+57	31	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+57	32	peludo	[peludo]	n	M=S	-	NP	SC	-	-
+57	33	,	[]	,	-	-	O	O	-	-
+57	34	passa	[passar]	v-fin	PR=3S=IND	-	VP	P	-	-
+57	35	a	[o]	art	F=S	-	NP	ACC	-	-
+57	36	maior	[maior]	adj	F=S	-	NP	ACC	-	-
+57	37	parte	[parte]	n	F=S	-	NP	ACC	-	-
+57	38	de	[de]	prp	-	-	PP	ACC	-	-
+57	39	o	[o]	art	M=S	-	NP	ACC	-	-
+57	40	tempo	[tempo]	n	M=S	-	NP	ACC	-	-
+57	41	em	[em]	prp	-	-	PP	ACC	-	-
+57	42	a	[o]	art	F=S	-	NP	ACC	-	-
+57	43	água	[água]	n	F=S	-	NP	ACC	-	-
+57	44	mas	[mas]	conj-c	-	-	O	O	-	-
+57	45	ocasionalmente	[ocasional]	adv	-	-	ADVP	ADVL	-	-
+57	46	vem	[vir]	v-fin	PR=3S=IND	-	VP	P	-	-
+57	47	para	[para]	prp	-	-	PP	ADVL	-	-
+57	48	terra	[terra]	n	F=S	-	NP	ADVL	-	-
+57	49	;	[;]	;	-	-	O	O	-	-
+
+58	0	devemos	[dever]	v-fin	PR=1P=IND	-	VP	P	-	-
+58	1	classificá	[]	v-inf	-	-	VP	P	-	-
+58	2	-lo	[]	pron-pers	-	-	NP	ACC	-	-
+58	3	como	[como]	adv	-	-	O	ADVL	-	-
+58	4	um	[um]	art	M=S	-	NP	SUBJ	-	-
+58	5	peixe	[peixe]	n	M=S	-	NP	SUBJ	-	-
+58	6	(	[(]	(	-	-	O	SUBJ	-	-
+58	7	e	[e]	conj-c	-	-	O	SUBJ	-	-
+58	8	assim	[assim]	adv	-	-	NP	SUBJ	-	-
+58	9	os	[o]	art	M=P	-	NP	SUBJ	-	-
+58	10	índios	[índio]	n	M=P	-	NP	SUBJ	-	-
+58	11	podem	[poder, podar]	v-fin	PR=3P=IND	-	VP	P	-	-
+58	12	continuar	[continuar]	v-inf	-	-	VP	P	-	-
+58	13	a	[a]	prp	-	-	PP	PIV	-	-
+58	14	comê	[]	v-inf	-	-	VP	P	-	-
+58	15	-lo	[]	pron-pers	-	-	NP	ACC	-	-
+58	16	durante	[durante]	prp	-	-	PP	ADVL	-	-
+58	17	a	[o]	art	F=S	-	NP	ADVL	-	-
+58	18	Semana_Santa	[]	prop	F=S	-	NP	ADVL	-	-
+58	19	)	[)]	)	-	-	O	ADVL	-	-
+58	20	?	[?]	?	-	-	O	O	-	-
+
+59	0	Não	[não]	adv	-	-	ADVP	ADVL	-	-
+59	1	havendo	[haver]	v-ger	-	-	VP	P	-	-
+59	2	uma	[um]	art	F=S	-	NP	ACC	-	-
+59	3	descricão	[]	n	F=S	-	NP	ACC	-	-
+59	4	clara	[claro]	adj	F=S	-	NP	ACC	-	-
+59	5	de	[de]	prp	-	-	PP	ACC	-	-
+59	6	o	[o]	art	M=S	-	NP	ACC	-	-
+59	7	animal	[animal]	n	M=S	-	NP	ACC	-	-
+59	8	(	[(]	(	-	-	O	ACC	-	-
+59	9	e	[e]	conj-c	-	-	O	O	-	-
+59	10	não	[não]	adv	-	-	ADVP	ADVL	-	-
+59	11	querendo	[querer]	v-ger	-	-	VP	P	-	-
+59	12	que	[que]	conj-s	-	-	O	ACC	-	-
+59	13	os	[o]	art	M=P	-	NP	SUBJ	-	-
+59	14	requerentes	[requerer]	adj	M=P	-	NP	SUBJ	-	-
+59	15	morressem	[morrer]	v-fin	IMPF=3P=SUBJ	-	VP	P	-	-
+59	16	de	[de]	prp	-	-	PP	PIV	-	-
+59	17	fome	[fome]	n	F=S	-	NP	PIV	-	-
+59	18	)	[)]	)	-	-	O	O	-	-
+59	19	,	[]	,	-	-	O	O	-	-
+59	20	o	[o]	art	M=S	-	NP	SUBJ	-	-
+59	21	Papa	[papa]	n	M=S	-	NP	SUBJ	-	-
+59	22	concordou	[concordar]	v-fin	PS=3S=IND	-	VP	P	-	-
+59	23	em	[em]	prp	-	-	PP	PIV	-	-
+59	24	declará	[]	v-inf	FUT=3S=IND	-	VP	P	-	-
+59	25	-lo	[]	pron-pers	-	-	NP	ACC	-	-
+59	26	como	[como]	adv	-	-	ADVP	ADVL	-	-
+59	27	peixe	[peixe]	n	M=S	-	NP	SUBJ	-	-
+59	28	,	[]	,	-	-	O	O	-	-
+59	29	e	[e]	conj-c	-	-	O	O	-	-
+59	30	ainda	[ainda]	adv	-	-	ADVP	ADVL	-	-
+59	31	hoje	[hoje]	adv	-	-	ADVP	ADVL	-	-
+59	32	classificado	[classificar]	v-pcp	M=S	-	VP	P	-	-
+59	33	assim	[assim]	adv	-	-	ADVP	ADVL	-	-
+59	34	.	[.]	.	-	-	O	O	-	-
+
+60	0	.	[.]	.	-	-	O	O	-	-
+
+61	0	.	[.]	.	-	-	O	O	-	-
+
+62	0	.	[.]	.	-	-	O	O	-	-
+
+63	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+63	1	Uacari-Branco	[]	prop	M=S	-	NP	SUBJ	-	-
+63	2	(	[(]	(	-	-	O	SUBJ	-	-
+63	3	nome	[nome]	n	M=S	-	NP	SUBJ	-	-
+63	4	científico	[científico]	adj	M=S	-	NP	SUBJ	-	-
+63	5	:	[:]	:	-	-	O	O	-	-
+
+64	0	Cacajau	[]	prop	M=S	-	NP	O	-	-
+64	1	calvus	[]	n	M=P	-	NP	O	-	-
+64	2	)	[)]	)	-	-	O	O	-	-
+64	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+64	4	um	[um]	art	M=S	-	NP	SC	-	-
+64	5	macaco	[macaco]	adj	M=S	-	NP	SC	-	-
+64	6	encontrado	[encontrar]	v-pcp	M=S	-	VP	P	-	-
+64	7	originariamente	[originário]	adv	-	-	ADVP	ADVL	-	-
+64	8	em	[em]	prp	-	-	PP	ADVL	-	-
+64	9	a	[o]	art	F=S	-	NP	ADVL	-	-
+64	10	Amazônia	[]	prop	F=S	-	NP	ADVL	-	-
+64	11	brasileira	[brasileiro]	adj	F=S	-	NP	ADVL	-	-
+64	12	.	[.]	.	-	-	O	O	-	-
+
+65	0	.	[.]	.	-	-	O	O	-	-
+

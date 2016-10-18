@@ -1,0 +1,110 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	de	[de]	prp	-	-	PP	ADVL	-	-
+0	1	a	[o]	art	F=S	-	NP	ADVL	-	-
+0	2	Reportagem	[reportagem]	n	F=S	O	NP	ADVL	-	-
+0	3	Local	[local]	adj	F=S	-	NP	ADVL	-	-
+0	4	.	[.]	.	-	-	O	O	-	-
+
+1	0	Uma	[um]	art	F=S	-	NP	SUBJ	-	-
+1	1	boa	[boa]	adj	F=S	-	NP	SUBJ	-	-
+1	2	opção	[opção]	n	F=S	O	NP	SUBJ	-	-
+1	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+1	4	programas	[programa]	n	M=P	O	NP	SUBJ	-	-
+1	5	para	[para]	prp	-	-	PP	SUBJ	-	-
+1	6	quem	[quem]	pron-indp	M/F=S	O	NP	SUBJ	-	-
+1	7	tem	[ter]	v-fin	PR=3S=IND	-	VP	P	-	-
+1	8	drive	[drive]	n	F=S	O	NP	ACC	-	-
+1	9	de	[de]	prp	-	-	PP	ACC	-	-
+1	10	CD-ROM	[]	prop	M=S	O	NP	ACC	-	-
+1	11	em	[em]	prp	-	-	PP	ACC	-	-
+1	12	o	[o]	art	M=S	-	NP	ACC	-	-
+1	13	computador	[computador, computar]	n	M=S	O	NP	ACC	-	-
+1	14	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+1	15	a	[o]	art	F=S	-	NP	SC	-	-
+1	16	linha	[linha]	n	F=S	O	NP	SC	-	-
+1	17	de	[de]	prp	-	-	PP	SC	-	-
+1	18	fotos	[foto]	n	F=P	O	NP	SC	-	-
+1	19	de	[de]	prp	-	-	PP	SC	-	-
+1	20	a	[o]	art	F=S	-	NP	SC	-	-
+1	21	Corel	[]	prop	F=S	O	NP	SC	-	-
+1	22	.	[.]	.	-	-	O	O	-	-
+
+2	0	.	[.]	.	-	-	O	O	-	-
+
+3	0	Composta	[compor]	v-pcp	F=S	-	VP	P	-	-
+3	1	por	[por]	prp	-	-	PP	O	-	-
+3	2	250	[]	num	M=P	-	NP	O	-	-
+3	3	títulos	[título]	n	M=P	O	NP	O	-	-
+3	4	em	[em]	prp	-	-	PP	O	-	-
+3	5	CD	[CD]	prop	M=S	O	NP	O	-	-
+3	6	,	[]	,	-	-	O	O	-	-
+3	7	a	[o]	art	F=S	-	NP	O	-	-
+3	8	linha	[linha]	n	F=S	O	NP	O	-	-
+3	9	Corel_Photo_CD	[]	prop	F=S	O	NP	O	-	-
+3	10	funciona	[funcionar]	v-fin	PR=3S=IND	-	VP	P	-	-
+3	11	em	[em]	prp	-	-	PP	ADVL	-	-
+3	12	PC	[]	prop	M=S	O	NP	ADVL	-	-
+3	13	e	[e]	conj-c	-	-	O	ADVL	-	-
+3	14	Macintosh	[Macintosh]	prop	F=S	O	NP	ADVL	-	-
+3	15	.	[.]	.	-	-	O	O	-	-
+
+4	0	.	[.]	.	-	-	O	O	-	-
+
+5	0	Entre	[entre]	prp	-	-	PP	ADVL	-	-
+5	1	os	[o]	art	M=P	-	NP	ADVL	-	-
+5	2	títulos	[título]	n	M=P	O	NP	ADVL	-	-
+5	3	disponíveis	[disponível]	adj	M=P	-	NP	ADVL	-	-
+5	4	em	[em]	prp	-	-	PP	ADVL	-	-
+5	5	o	[o]	art	M=S	-	NP	ADVL	-	-
+5	6	Brasil	[Brasil]	prop	M=S	O	NP	ADVL	-	-
+5	7	estão	[estar]	v-fin	PR=3P=IND	-	VP	P	-	-
+5	8	"	["]	"	-	-	O	SUBJ	-	-
+5	9	Fireworks	[]	prop	M=S	O	NP	SUBJ	-	-
+5	10	"	["]	"	-	-	NP	SUBJ	-	-
+5	11	,	[]	,	-	-	O	SUBJ	-	-
+5	12	com	[com]	prp	-	-	PP	SUBJ	-	-
+5	13	fotos	[foto]	n	F=P	O	NP	SUBJ	-	-
+5	14	de	[de]	prp	-	-	PP	SUBJ	-	-
+5	15	fogos	[fogo]	n	M=P	O	NP	SUBJ	-	-
+5	16	de	[de]	prp	-	-	PP	SUBJ	-	-
+5	17	artifício	[artifício]	n	M=S	O	NP	SUBJ	-	-
+5	18	,	[]	,	-	-	O	SUBJ	-	-
+5	19	"	["]	"	-	-	NP	SUBJ	-	-
+5	20	The_Artic	[]	prop	M=S	O	NP	SUBJ	-	-
+5	21	"	["]	"	-	-	NP	SUBJ	-	-
+5	22	(	[(]	(	-	-	O	SUBJ	-	-
+5	23	neve	[neve]	n	F=S	O	NP	SUBJ	-	-
+5	24	e	[e]	conj-c	-	-	NP	SUBJ	-	-
+5	25	gelo	[gelo]	n	M=S	O	NP	SUBJ	-	-
+5	26	)	[)]	)	-	-	O	SUBJ	-	-
+5	27	e	[e]	conj-c	-	-	O	SUBJ	-	-
+5	28	"	["]	"	-	-	NP	SUBJ	-	-
+5	29	Aviation_Photography	[]	prop	M=S	O	NP	SUBJ	-	-
+5	30	"	["]	"	-	-	NP	SUBJ	-	-
+5	31	(	[(]	(	-	-	O	SUBJ	-	-
+5	32	aviões	[avião]	n	M=P	O	NP	SUBJ	-	-
+5	33	)	[)]	)	-	-	O	SUBJ	-	-
+5	34	.	[.]	.	-	-	O	O	-	-
+
+6	0	.	[.]	.	-	-	O	O	-	-
+
+7	0	Cada	[cada]	pron-det	M=S	O	NP	SUBJ	-	-
+7	1	CD	[CD]	prop	M=S	-	NP	SUBJ	-	-
+7	2	,	[]	,	-	-	O	SUBJ	-	-
+7	3	com	[com]	prp	-	-	PP	SUBJ	-	-
+7	4	cem	[cem]	num	F=P	-	NP	SUBJ	-	-
+7	5	fotos	[foto]	n	F=P	O	NP	SUBJ	-	-
+7	6	de	[de]	prp	-	-	PP	SUBJ	-	-
+7	7	uso	[uso]	n	M=S	O	NP	SUBJ	-	-
+7	8	livre	[livre]	adj	M=S	-	NP	SUBJ	-	-
+7	9	,	[]	,	-	-	O	SUBJ	-	-
+7	10	custa	[custar]	v-fin	PR=3S=IND	-	VP	P	-	-
+7	11	R$	[]	n	M=P	O	NP	ACC	-	-
+7	12	29	[]	num	M=P	-	NP	ACC	-	-
+7	13	em	[em]	prp	-	-	PP	ADVL	-	-
+7	14	a	[o]	art	F=S	-	NP	ADVL	-	-
+7	15	CI-Compucenter	[]	prop	F=S	O	NP	ADVL	-	-
+7	16	.	[.]	.	-	-	O	O	-	-
+
+8	0	.	[.]	.	-	-	O	O	-	-
+

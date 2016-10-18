@@ -1,0 +1,100 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Incêndio	[]	prop	M=S	O	NP	SUBJ
+0	1	afecta	[]	v-fin	PR=3S=IND	-	VP	P
+0	2	restaurante	[restaurante]	n	M=S	O	NP	ACC
+0	3	.	[.]	.	-	-	O	O
+
+1	0	.	[.]	.	-	-	O	O
+
+2	0	Um	[um]	art	M=S	-	NP	SUBJ
+2	1	incêndio	[incêndio]	n	M=S	O	NP	SUBJ
+2	2	destruiu	[destruir]	v-fin	PS=3S=IND	-	VP	P
+2	3	parcialmente	[parcial]	adv	-	-	ADVP	ADVL
+2	4	um	[um]	art	M=S	-	NP	ACC
+2	5	restaurante	[restaurante]	n	M=S	O	NP	ACC
+2	6	ontem	[ontem]	adv	-	-	ADVP	ADVL
+2	7	de	[de]	prp	-	-	PP	ADVL
+2	8	madrugada	[madrugada]	n	F=S	O	NP	ADVL
+2	9	em	[em]	prp	-	-	PP	ADVL
+2	10	a	[o]	art	F=S	-	NP	ADVL
+2	11	zona	[zona]	n	F=S	O	NP	ADVL
+2	12	de	[de]	prp	-	-	PP	ADVL
+2	13	a	[o]	art	F=S	-	NP	ADVL
+2	14	Foz	[Foz]	prop	M=S	O	NP	ADVL
+2	15	,	[]	,	-	-	O	O
+2	16	em	[em]	prp	-	-	PP	ADVL
+2	17	a	[o]	art	F=S	-	NP	ADVL
+2	18	cidade	[cidade]	n	F=S	O	NP	ADVL
+2	19	de	[de]	prp	-	-	PP	ADVL
+2	20	o	[o]	art	M=S	-	NP	ADVL
+2	21	Porto	[porto]	n	M=S	O	NP	ADVL
+2	22	,	[]	,	-	-	O	O
+2	23	informaram	[informar]	v-fin	MQP=3P=IND	-	VP	P
+2	24	os	[o]	art	M=P	-	NP	ACC
+2	25	bombeiros	[bombeiro]	n	M=P	O	NP	ACC
+2	26	locais	[local]	adj	M=P	-	NP	ACC
+2	27	.	[.]	.	-	-	O	O
+
+3	0	.	[.]	.	-	-	O	O
+
+4	0	O	[o]	art	M=S	-	NP	SUBJ
+4	1	fogo	[fogo]	n	M=S	O	NP	SUBJ
+4	2	,	[]	,	-	-	O	SUBJ
+4	3	que	[que]	pron-indp	F=S	O	NP	SUBJ
+4	4	se	[se]	pron-pers	F=3S=ACC	O	NP	ACC
+4	5	iniciou	[iniciar]	v-fin	PS=3S=IND	-	VP	P
+4	6	cerca_das	[]	adv	-	-	ADVP	ADVL
+4	7	as	[o]	art	F=P	-	NP	ACC
+4	8	02h30	[]	num	F=P	-	NP	ACC
+4	9	horas	[hora]	n	F=P	O	NP	ACC
+4	10	e	[e]	conj-c	-	-	O	O
+4	11	só	[só]	adv	-	-	ADVP	ADVL
+4	12	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P
+4	13	dado	[dar]	v-pcp	M=S	-	VP	P
+4	14	como	[como]	adv	-	-	O	SC
+4	15	extinto	[extinto]	adj	M=S	-	NP	SC
+4	16	a	[a]	prp	-	-	PP	ADVL
+4	17	as	[o]	art	F=P	-	NP	ADVL
+4	18	05h20	[]	n	F=P	O	NP	ADVL
+4	19	,	[]	,	-	-	O	O
+4	20	ocorreu	[ocorrer]	v-fin	PS=3S=IND	-	VP	P
+4	21	em	[em]	prp	-	-	PP	ADVL
+4	22	o	[o]	art	M=S	-	NP	ADVL
+4	23	restaurante	[restaurante]	n	M=S	O	NP	ADVL
+4	24	"	["]	"	-	-	O	ADVL
+4	25	Porto_Fino	[]	prop	M=S	O	NP	ADVL
+4	26	"	["]	"	-	-	NP	ADVL
+4	27	,	[]	,	-	-	O	ADVL
+4	28	em	[em]	prp	-	-	PP	ADVL
+4	29	a	[o]	art	F=S	-	NP	ADVL
+4	30	rua	[rua]	n	F=S	O	NP	ADVL
+4	31	Padrão	[]	prop	F=S	O	NP	ADVL
+4	32	.	[.]	.	-	-	O	O
+
+5	0	.	[.]	.	-	-	O	O
+
+6	0	As	[o]	art	F=P	-	NP	SUBJ
+6	1	chamas	[chama]	n	F=P	O	NP	SUBJ
+6	2	,	[]	,	-	-	O	SUBJ
+6	3	cujas	[cujo]	pron-det	F=P	O	NP	SUBJ
+6	4	causas	[causa]	n	F=P	-	NP	SUBJ
+6	5	são	[ser]	v-fin	PR=3P=IND	-	VP	P
+6	6	ainda	[ainda]	adv	-	-	ADVP	ADVL
+6	7	desconhecidas	[conhecer]	v-pcp	F=S	-	ADVP	ADVL
+6	8	,	[]	,	-	-	O	O
+6	9	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P
+6	10	combatidas	[combater]	v-pcp	F=S	-	VP	P
+6	11	por	[por]	prp	-	-	PP	O
+6	12	44	[]	num	M=P	-	NP	O
+6	13	bombeiros	[bombeiro]	n	M=P	O	NP	O
+6	14	,	[]	,	-	-	O	O
+6	15	com	[com]	prp	-	-	PP	O
+6	16	o	[o]	art	M=S	-	NP	O
+6	17	apoio	[apoio]	n	M=S	O	NP	O
+6	18	de	[de]	prp	-	-	PP	O
+6	19	quinze	[quinze]	num	F=P	-	NP	O
+6	20	viaturas	[viatura]	n	F=P	O	NP	O
+6	21	.	[.]	.	-	-	O	O
+
+7	0	.	[.]	.	-	-	O	O
+

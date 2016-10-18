@@ -1,0 +1,1305 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Sua_Excelência_Senhor_Presidente	[]	adv	-	-	ADVP	ADVL
+0	1	de	[de]	prp	-	-	PP	ADVL
+0	2	a	[o]	art	F=S	-	NP	ADVL
+0	3	República	[república]	n	F=S	O	NP	ADVL
+0	4	.	[.]	.	-	-	O	O
+
+1	0	Sua_Excelência_Senhor_Presidente	[]	adv	-	-	ADVP	ADVL
+1	1	de	[de]	prp	-	-	PP	ADVL
+1	2	o	[o]	art	M=S	-	NP	ADVL
+1	3	Parlamento_Nacional	[]	prop	M=S	O	NP	ADVL
+1	4	.	[.]	.	-	-	O	O
+
+2	0	Senhor_Representante_Especial_do_Secretário-Geral	[]	prop	M=S	O	NP	O
+2	1	de	[de]	prp	-	-	PP	O
+2	2	a	[o]	art	F=S	-	NP	O
+2	3	ONU	[ONU]	prop	F=S	O	NP	O
+2	4	.	[.]	.	-	-	O	O
+
+3	0	Caros_Colegas_Membros	[]	n	M=P	O	NP	O
+3	1	de	[de]	prp	-	-	PP	O
+3	2	o	[o]	art	M=S	-	NP	O
+3	3	Governo	[governo]	n	M=S	O	NP	O
+3	4	.	[.]	.	-	-	O	O
+
+4	0	Senhor_Vice-Representante_Especial_do_Secretário-Geral	[]	prop	M=S	O	NP	O
+4	1	de	[de]	prp	-	-	PP	O
+4	2	a	[o]	art	F=S	-	NP	O
+4	3	ONU	[ONU]	prop	F=S	O	NP	O
+4	4	e	[e]	conj-c	-	-	O	O
+4	5	Representante_Residente	[]	prop	M=S	O	NP	O
+4	6	de	[de]	prp	-	-	PP	O
+4	7	o	[o]	art	M=S	-	NP	O
+4	8	Programa_de_Desenvolvimento_das_Nações_Unidas	[]	prop	M=S	O	NP	O
+4	9	.	[.]	.	-	-	O	O
+
+5	0	Senhores	[senhor]	n	M=P	O	NP	O
+5	1	Comandantes	[]	prop	M=P	O	NP	O
+5	2	de	[de]	prp	-	-	PP	O
+5	3	as	[o]	art	F=P	-	NP	O
+5	4	F-FDTL	[]	prop	F=P	O	NP	O
+5	5	e	[e]	conj-c	-	-	O	O
+5	6	de	[de]	prp	-	-	PP	O
+5	7	a	[o]	art	F=S	-	NP	O
+5	8	PNTL	[]	prop	F=S	O	NP	O
+5	9	.	[.]	.	-	-	O	O
+
+6	0	Senhores	[senhor]	n	M=P	O	NP	O
+6	1	Representantes	[]	prop	M=P	O	NP	O
+6	2	de	[de]	prp	-	-	PP	O
+6	3	o	[o]	art	M=S	-	NP	O
+6	4	Corpo_Diplomático	[]	prop	M=S	O	NP	O
+6	5	.	[.]	.	-	-	O	O
+
+7	0	Senhoras	[senhor]	n	F=P	O	NP	SUBJ
+7	1	e	[e]	conj-c	-	-	O	SUBJ
+7	2	Senhores	[senhor]	n	M=P	O	NP	SUBJ
+7	3	.	[.]	.	-	-	O	O
+
+8	0	.	[.]	.	-	-	O	O
+
+9	0	Uma	[um]	num	F=S	-	NP	ADVL
+9	1	vez	[vez]	n	F=S	O	NP	ADVL
+9	2	mais	[mais]	adv	-	-	ADVP	ADVL
+9	3	celebramos	[celebrar]	v-fin	PR=1P=IND	-	VP	P
+9	4	o	[o]	art	M=S	-	NP	SUBJ
+9	5	dia	[dia]	n	M=S	O	NP	SUBJ
+9	6	de	[de]	prp	-	-	PP	SUBJ
+9	7	os	[o]	art	M=P	-	NP	SUBJ
+9	8	Direitos_Humanos	[]	n	M=P	O	NP	SUBJ
+9	9	proclamado	[proclamar]	v-pcp	M=S	-	VP	P
+9	10	há	[]	prp	-	-	PP	ADVL
+9	11	cinquenta	[cinquenta]	num	M=P	-	NP	ADVL
+9	12	anos	[ano]	n	M=P	O	NP	ADVL
+9	13	atrás	[atrás]	adv	-	-	ADVP	ADVL
+9	14	.	[.]	.	-	-	O	O
+
+10	0	.	[.]	.	-	-	O	O
+
+11	0	.	[.]	.	-	-	O	O
+
+12	0	Este	[este]	pron-det	M=S	O	NP	SUBJ
+12	1	ano	[ano]	n	M=S	-	NP	SUBJ
+12	2	assinala	[assinalar]	v-fin	PR=3S=IND	-	VP	P
+12	3	-se	[]	pron-pers	M=3S=ACC	O	NP	O
+12	4	o	[o]	art	M=S	-	NP	SUBJ
+12	5	quinquagésimo_quinto	[]	prp	-	-	PP	SUBJ
+12	6	aniversário	[aniversário]	n	M=S	O	NP	SUBJ
+12	7	de	[de]	prp	-	-	PP	SUBJ
+12	8	a	[o]	art	F=S	-	NP	SUBJ
+12	9	Declaração_Universal_dos_Direitos_Humanos	[]	prop	F=S	O	NP	SUBJ
+12	10	adoptado	[]	v-pcp	M=S	-	VP	P
+12	11	por	[por]	prp	-	-	PP	O
+12	12	a	[o]	art	F=S	-	NP	O
+12	13	Assembleia_Geral_das_Nações_Unidas	[]	prop	F=S	O	NP	O
+12	14	em	[em]	prp	-	-	PP	ADVL
+12	15	10	[]	num	M=P	-	NP	ADVL
+12	16	de	[de]	prp	-	-	PP	ADVL
+12	17	Dezembro	[dezembro]	n	M=S	O	NP	ADVL
+12	18	de	[de]	prp	-	-	PP	ADVL
+12	19	1948	[]	num	M=P	-	NP	ADVL
+12	20	que	[que]	pron-indp	M=P	O	NP	SUBJ
+12	21	se	[se]	pron-pers	M=3S=ACC	O	NP	ACC
+12	22	tornou	[tornar]	v-fin	PS=3S=IND	-	VP	P
+12	23	o	[o]	art	M=S	-	NP	OC
+12	24	padrão	[padrão]	n	M=S	O	NP	OC
+12	25	universal	[universal]	adj	M=S	-	NP	OC
+12	26	para	[para]	prp	-	-	PP	ADVL
+12	27	a	[o]	art	F=S	-	NP	ADVL
+12	28	defesa	[defesa]	n	F=S	O	NP	ADVL
+12	29	e	[e]	conj-c	-	-	O	ADVL
+12	30	promoção	[promoção]	n	F=S	O	NP	ADVL
+12	31	de	[de]	prp	-	-	PP	ADVL
+12	32	os	[o]	art	M=P	-	NP	ADVL
+12	33	direitos	[direito]	n	M=P	O	NP	ADVL
+12	34	humanos	[humano]	adj	M=P	-	NP	ADVL
+12	35	em	[em]	prp	-	-	PP	ADVL
+12	36	todo	[todo]	pron-det	M=S	O	NP	ADVL
+12	37	o	[o]	art	M=S	-	NP	ADVL
+12	38	mundo	[mundo]	n	M=S	-	NP	ADVL
+12	39	.	[.]	.	-	-	O	O
+
+13	0	.	[.]	.	-	-	O	O
+
+14	0	.	[.]	.	-	-	O	O
+
+15	0	Durante	[]	prop	M=S	O	NP	O
+15	1	os	[o]	art	M=P	-	NP	SUBJ
+15	2	25	[]	num	M=P	-	NP	SUBJ
+15	3	anos	[ano]	n	M=P	O	NP	SUBJ
+15	4	de	[de]	prp	-	-	PP	SUBJ
+15	5	ocupação	[ocupação, ocupar]	n	F=S	O	NP	SUBJ
+15	6	estrangeira	[estrangeiro]	adj	F=S	-	NP	SUBJ
+15	7	de	[de]	prp	-	-	PP	SUBJ
+15	8	Timor-Leste	[]	n	M=S	O	NP	SUBJ
+15	9	o	[o]	art	M=S	-	NP	SUBJ
+15	10	desrespeito	[desrespeito]	n	M=S	O	NP	SUBJ
+15	11	por	[por]	prp	-	-	PP	SUBJ
+15	12	os	[o]	art	M=P	-	NP	SUBJ
+15	13	direitos	[direito]	n	M=P	O	NP	SUBJ
+15	14	humanos	[humano]	adj	M=P	-	NP	SUBJ
+15	15	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P
+15	16	uma	[um]	art	F=S	-	NP	SC
+15	17	constante	[constante]	n	F=S	O	NP	SC
+15	18	em	[em]	prp	-	-	PP	SC
+15	19	a	[o]	art	F=S	-	NP	SC
+15	20	vida	[vida]	n	F=S	O	NP	SC
+15	21	de	[de]	prp	-	-	PP	SC
+15	22	os	[o]	art	M=P	-	NP	SC
+15	23	timorenses	[timorense]	n	M=P	O	NP	SC
+15	24	.	[.]	.	-	-	O	O
+
+16	0	Por	[por]	prp	-	-	PP	ADVL
+16	1	isso	[isso]	pron-indp	M=S	O	NP	ADVL
+16	2	,	[]	,	-	-	O	O
+16	3	o	[o]	art	M=S	-	NP	SUBJ
+16	4	respeito	[respeito]	n	M=S	O	NP	SUBJ
+16	5	e	[e]	conj-c	-	-	O	SUBJ
+16	6	a	[o]	art	F=S	-	NP	SUBJ
+16	7	promoção	[promoção]	n	F=S	O	NP	SUBJ
+16	8	de	[de]	prp	-	-	PP	SUBJ
+16	9	os	[o]	art	M=P	-	NP	SUBJ
+16	10	direitos	[direito]	n	M=P	O	NP	SUBJ
+16	11	humanos	[humano]	adj	M=P	-	NP	SUBJ
+16	12	têm	[ter]	v-fin	PR=3P=IND	-	VP	P
+16	13	sido	[ser]	v-pcp	M=S	-	VP	P
+16	14	sempre	[sempre]	adv	-	-	ADVP	ADVL
+16	15	uma	[um]	art	F=S	-	NP	ACC
+16	16	preocupação	[preocupação, preocupar]	n	F=S	O	NP	ACC
+16	17	para	[para]	prp	-	-	PP	ACC
+16	18	os	[o]	art	M=P	-	NP	ACC
+16	19	timorenses	[timorense]	n	M=P	O	NP	ACC
+16	20	.	[.]	.	-	-	O	O
+
+17	0	Aliás	[aliás]	adv	-	-	ADVP	ADVL
+17	1	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P
+17	2	em	[em]	prp	-	-	PP	ADVL
+17	3	o	[o]	art	M=S	-	NP	ADVL
+17	4	passado	[passado]	n	M=S	O	NP	ADVL
+17	5	recente	[recente]	adj	M=S	-	NP	ADVL
+17	6	motivos	[motivo]	n	M=P	O	NP	ADVL
+17	7	de	[de]	prp	-	-	PP	ADVL
+17	8	a	[o]	art	F=S	-	NP	ADVL
+17	9	nossa	[nosso]	pron-det	F=S	O	NP	ADVL
+17	10	luta	[luta]	n	F=S	-	NP	ADVL
+17	11	de	[de]	prp	-	-	PP	ADVL
+17	12	libertação	[libertar]	n	F=S	O	NP	ADVL
+17	13	.	[.]	.	-	-	O	O
+
+18	0	.	[.]	.	-	-	O	O
+
+19	0	.	[.]	.	-	-	O	O
+
+20	0	O	[o]	art	M=S	-	NP	SUBJ
+20	1	povo	[povo]	n	M=S	O	NP	SUBJ
+20	2	de	[de]	prp	-	-	PP	SUBJ
+20	3	Timor-Leste	[]	n	M=S	O	NP	SUBJ
+20	4	entende	[entender]	v-fin	PR=3S=IND	-	VP	P
+20	5	as	[o]	art	F=P	-	NP	ACC
+20	6	ideias	[ideia]	n	F=P	O	NP	ACC
+20	7	básicas	[básico]	adj	F=P	-	NP	ACC
+20	8	de	[de]	prp	-	-	PP	ACC
+20	9	direitos	[direito]	n	M=P	O	NP	ACC
+20	10	humanos	[humano]	adj	M=P	-	NP	ACC
+20	11	quando	[quando]	adv	-	-	ADVP	ADVL
+20	12	pedem	[pedir]	v-fin	PR=3P=IND	-	VP	P
+20	13	mais	[mais]	adv	-	-	ADVP	ADVL
+20	14	segurança	[segurança]	n	F=S	O	NP	ACC
+20	15	,	[]	,	-	-	O	ACC
+20	16	liberdade	[liberdade]	n	F=S	O	NP	ACC
+20	17	,	[]	,	-	-	O	ACC
+20	18	igualdade	[igualdade]	n	F=S	O	NP	ACC
+20	19	e	[e]	conj-c	-	-	O	ACC
+20	20	justiça	[justiça]	n	F=S	O	NP	ACC
+20	21	bem	[bem]	adv	-	-	ADVP	ADVL
+20	22	como	[como]	adv	-	-	ADVP	ADVL
+20	23	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	O	NP	SC
+20	24	económico	[]	adj	M=S	-	NP	SC
+20	25	para	[para]	prp	-	-	PP	SC
+20	26	cada	[cada]	pron-det	M=S	O	NP	SC
+20	27	um	[um]	art	M=S	-	NP	SC
+20	28	de	[de]	prp	-	-	NP	SC
+20	29	eles	[ele]	pron-pers	M=3P=NOM	-	NP	SC
+20	30	e	[e]	conj-c	-	-	O	SC
+20	31	as	[o]	art	F=P	-	NP	SC
+20	32	suas	[sua]	pron-det	F=P	O	NP	SC
+20	33	famílias	[família]	n	F=P	-	NP	SC
+20	34	.	[.]	.	-	-	O	O
+
+21	0	.	[.]	.	-	-	O	O
+
+22	0	.	[.]	.	-	-	O	O
+
+23	0	Timor-Leste	[TIMOR-LESTE]	prop	M=S	O	NP	O
+23	1	como	[como]	adv	-	-	O	OC
+23	2	país	[país]	n	M=S	O	NP	SC
+23	3	independente	[independente]	adj	M=S	-	NP	SC
+23	4	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+23	5	empenhado	[empenhar]	v-pcp	M=S	-	VP	P
+23	6	em	[em]	prp	-	-	PP	ADVL
+23	7	o	[o]	art	M=S	-	NP	ADVL
+23	8	respeito	[respeito]	n	M=S	O	NP	ADVL
+23	9	,	[]	,	-	-	O	O
+23	10	em	[em]	prp	-	-	PP	ADVL
+23	11	a	[o]	art	F=S	-	NP	ADVL
+23	12	defesa	[defesa]	n	F=S	O	NP	ADVL
+23	13	e	[e]	conj-c	-	-	O	ADVL
+23	14	em	[em]	prp	-	-	PP	ADVL
+23	15	a	[o]	art	F=S	-	NP	ADVL
+23	16	promoção	[promoção]	n	F=S	O	NP	ADVL
+23	17	de	[de]	prp	-	-	PP	ADVL
+23	18	os	[o]	art	M=P	-	NP	ADVL
+23	19	direitos	[direito]	n	M=P	O	NP	ADVL
+23	20	humanos	[humano]	adj	M=P	-	NP	ADVL
+23	21	.	[.]	.	-	-	O	O
+
+24	0	em	[em]	prp	-	-	PP	ADVL
+24	1	o	[o]	art	M=S	-	NP	ADVL
+24	2	preâmbulo	[preâmbulo]	n	M=S	O	NP	ADVL
+24	3	e	[e]	conj-c	-	-	O	O
+24	4	nos	[nos]	pron-pers	M/F=1P=ACC	O	NP	ACC
+24	5	16.o	[]	v-fin	PR=1S=IND	-	VP	P
+24	6	a	[o]	art	F=S	-	NP	SUBJ
+24	7	73.o	[]	n	F=S	O	NP	SUBJ
+24	8	de	[de]	prp	-	-	PP	SUBJ
+24	9	a	[o]	art	F=S	-	NP	SUBJ
+24	10	nossa	[nosso]	pron-det	F=S	O	NP	SUBJ
+24	11	Constituição	[constituição, constituir]	n	F=S	-	NP	SUBJ
+24	12	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+24	13	explícito	[]	adv	-	-	ADVP	SC
+24	14	e	[e]	conj-c	-	-	O	SC
+24	15	inequívoco	[inequívoco]	adj	M=S	-	NP	SC
+24	16	o	[o]	art	M=S	-	NP	ACC
+24	17	apoio	[apoio]	n	M=S	O	NP	ACC
+24	18	a	[a]	prp	-	-	PP	ACC
+24	19	os	[o]	art	M=P	-	NP	ACC
+24	20	direitos	[direito]	n	M=P	O	NP	ACC
+24	21	,	[]	,	-	-	O	ACC
+24	22	deveres	[deveres]	n	M=P	O	NP	ACC
+24	23	,	[]	,	-	-	O	ACC
+24	24	liberdades	[liberdade]	n	F=P	O	NP	ACC
+24	25	e	[e]	conj-c	-	-	NP	ACC
+24	26	garantias	[garantia]	n	F=P	O	NP	ACC
+24	27	fundamentais	[fundamental]	adj	F=P	-	NP	ACC
+24	28	e	[e]	conj-c	-	-	O	ACC
+24	29	de	[de]	prp	-	-	PP	ACC
+24	30	outros	[outro]	pron-det	M=P	O	NP	ACC
+24	31	direitos	[direito]	n	M=P	-	NP	ACC
+24	32	análogos	[análogo]	adj	M=P	-	NP	ACC
+24	33	.	[.]	.	-	-	O	O
+
+25	0	.	[.]	.	-	-	O	O
+
+26	0	.	[.]	.	-	-	O	O
+
+27	0	O	[o]	art	M=S	-	NP	SUBJ
+27	1	Governo	[governo]	n	M=S	O	NP	SUBJ
+27	2	de	[de]	prp	-	-	PP	SUBJ
+27	3	a	[o]	art	F=S	-	NP	SUBJ
+27	4	República_Democrática_de_Timor-Leste	[]	n	F=S	O	NP	SUBJ
+27	5	tem	[ter]	v-fin	PR=3S=IND	-	VP	P
+27	6	reiterado	[reiterar]	v-pcp	M=S	-	O	O
+27	7	e	[e]	conj-c	-	-	O	O
+27	8	demonstrado	[demonstrar]	v-pcp	M=S	-	O	O
+27	9	o	[o]	art	M=S	-	NP	ACC
+27	10	seu	[seu]	pron-det	M=S	O	NP	ACC
+27	11	empenho	[empenho]	n	M=S	-	NP	ACC
+27	12	em	[em]	prp	-	-	PP	ACC
+27	13	criar	[criar]	v-inf	-	-	VP	P
+27	14	e	[e]	conj-c	-	-	O	O
+27	15	manter	[manter]	v-inf	-	-	VP	P
+27	16	um	[um]	art	M=S	-	NP	ACC
+27	17	ambiente	[ambiente]	n	M=S	O	NP	ACC
+27	18	seguro	[seguro]	adj	M=S	-	NP	ACC
+27	19	onde	[onde]	adv	-	-	ADVP	ADVL
+27	20	haja	[haver]	v-fin	PR=3S=SUBJ	-	VP	P
+27	21	o	[o]	art	M=S	-	NP	ACC
+27	22	respeito	[respeito]	n	M=S	O	NP	ACC
+27	23	por	[por]	prp	-	-	PP	ADVL
+27	24	os	[o]	art	M=P	-	NP	ADVL
+27	25	direitos	[direito]	n	M=P	O	NP	ADVL
+27	26	humanos	[humano]	adj	M=P	-	NP	ADVL
+27	27	,	[]	,	-	-	O	O
+27	28	considerando	[considerar]	v-ger	-	-	VP	P
+27	29	e	[e]	conj-c	-	-	O	O
+27	30	incluindo	[incluir]	v-ger	-	-	VP	P
+27	31	estes	[este]	pron-det	M=P	O	NP	ACC
+27	32	como	[como]	adv	-	-	NP	ACC
+27	33	aspectos	[aspecto]	n	M=P	O	NP	ACC
+27	34	nucleares	[nuclear]	adj	M=P	-	NP	ACC
+27	35	em	[em]	prp	-	-	PP	ACC
+27	36	a	[o]	art	F=S	-	NP	ACC
+27	37	política	[política, político]	n	F=S	O	NP	ACC
+27	38	de	[de]	prp	-	-	PP	ACC
+27	39	o	[o]	art	M=S	-	NP	ACC
+27	40	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	O	NP	ACC
+27	41	.	[.]	.	-	-	O	O
+
+28	0	.	[.]	.	-	-	O	O
+
+29	0	.	[.]	.	-	-	O	O
+
+30	0	Por_exemplo	[]	adv	-	-	ADVP	ADVL
+30	1	,	[]	,	-	-	O	O
+30	2	o	[o]	art	M=S	-	NP	SUBJ
+30	3	Plano_Nacional_de_Desenvolvimento	[]	n	M=S	O	NP	SUBJ
+30	4	elaborado	[elaborar]	v-pcp	M=S	-	VP	P
+30	5	entre	[entre]	prp	-	-	PP	ADVL
+30	6	Setembro	[setembro]	n	M=S	O	NP	ADVL
+30	7	de	[de]	prp	-	-	PP	ADVL
+30	8	2001	[]	num	M=P	-	NP	ADVL
+30	9	e	[e]	conj-c	-	-	O	ADVL
+30	10	Maio	[maio, maio]	n	M=S	O	NP	ADVL
+30	11	de	[de]	prp	-	-	PP	ADVL
+30	12	2002	[]	num	M=P	-	NP	ADVL
+30	13	através	[através]	adv	-	-	ADVP	ADVL
+30	14	de	[de]	prp	-	-	PP	ADVL
+30	15	um	[um]	art	M=S	-	NP	ADVL
+30	16	processo	[processo]	n	M=S	O	NP	ADVL
+30	17	participativo	[participativo]	adj	M=S	-	NP	ADVL
+30	18	em	[em]	prp	-	-	PP	ADVL
+30	19	o	[o]	art	M=S	-	NP	ADVL
+30	20	qual	[qual]	pron-det	M=S	O	NP	ADVL
+30	21	se	[se]	pron-pers	M=3S=ACC	O	NP	ACC
+30	22	destaca	[destacar]	v-fin	PR=3S=IND	-	VP	P
+30	23	o	[o]	art	M=S	-	NP	SUBJ
+30	24	"	["]	"	-	-	NP	SUBJ
+30	25	Road_Map	[]	prop	M=S	O	NP	SUBJ
+30	26	"	["]	"	-	-	O	SUBJ
+30	27	para	[para]	prp	-	-	PP	SUBJ
+30	28	o	[o]	art	M=S	-	NP	SUBJ
+30	29	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	O	NP	SUBJ
+30	30	de	[de]	prp	-	-	PP	SUBJ
+30	31	o	[o]	art	M=S	-	NP	SUBJ
+30	32	país	[país]	n	M=S	O	NP	SUBJ
+30	33	em	[em]	prp	-	-	PP	SUBJ
+30	34	os	[o]	art	M=P	-	NP	SUBJ
+30	35	próximos	[próximo]	adj	M=P	-	NP	SUBJ
+30	36	vinte	[vinte]	num	M=P	-	NP	SUBJ
+30	37	anos	[ano]	n	M=P	O	NP	SUBJ
+30	38	,	[]	,	-	-	O	O
+30	39	baseia	[basear]	v-fin	PR=3S=IND	-	VP	P
+30	40	-se	[]	pron-pers	M=3P=ACC	O	NP	ACC
+30	41	em	[em]	prp	-	-	PP	ADVL
+30	42	princípios	[princípio]	n	M=P	O	NP	ADVL
+30	43	fundamentais	[fundamental]	adj	M=P	-	NP	ADVL
+30	44	de	[de]	prp	-	-	PP	ADVL
+30	45	os	[o]	art	M=P	-	NP	ADVL
+30	46	direitos	[direito]	n	M=P	O	NP	ADVL
+30	47	humanos	[humano]	adj	M=P	-	NP	ADVL
+30	48	.	[.]	.	-	-	O	O
+
+31	0	.	[.]	.	-	-	O	O
+
+32	0	.	[.]	.	-	-	O	O
+
+33	0	em	[em]	prp	-	-	PP	ADVL
+33	1	a	[o]	art	F=S	-	NP	ADVL
+33	2	área	[área]	n	F=S	O	NP	ADVL
+33	3	de	[de]	prp	-	-	PP	ADVL
+33	4	a	[o]	art	F=S	-	NP	ADVL
+33	5	educação	[educar]	n	F=S	O	NP	ADVL
+33	6	o	[o]	art	M=S	-	NP	SUBJ
+33	7	Estado	[estado]	n	M=S	O	NP	SUBJ
+33	8	reconhece	[reconhecer]	v-fin	PR=3S=IND	-	VP	P
+33	9	e	[e]	conj-c	-	-	O	O
+33	10	garante	[garantir]	v-fin	PR=3S=IND	-	VP	P
+33	11	a	[a]	prp	-	-	PP	PIV
+33	12	o	[o]	art	M=S	-	NP	PIV
+33	13	cidadão	[cidadão]	n	M=S	O	NP	PIV
+33	14	o	[o]	art	M=S	-	NP	ACC
+33	15	direito	[direito]	n	M=S	O	NP	ACC
+33	16	a	[a]	prp	-	-	PP	ACC
+33	17	a	[o]	art	F=S	-	NP	ACC
+33	18	educação	[educar]	n	F=S	-	NP	ACC
+33	19	criando	[criar]	v-ger	-	-	VP	P
+33	20	um	[um]	art	M=S	-	NP	ACC
+33	21	sistema	[sistema]	n	M=S	-	NP	ACC
+33	22	público	[público]	adj	M=S	-	NP	ACC
+33	23	de	[de]	prp	-	-	PP	ACC
+33	24	ensino	[ensino]	n	M=S	-	NP	ACC
+33	25	básico	[básico]	adj	M=S	-	NP	ACC
+33	26	universal	[universal]	adj	M=S	-	NP	ACC
+33	27	.	[.]	.	-	-	O	O
+
+34	0	O	[o]	art	M=S	-	NP	SUBJ
+34	1	Estado	[estado]	n	M=S	-	NP	SUBJ
+34	2	promove	[promover]	v-fin	PR=3S=IND	-	VP	P
+34	3	a	[o]	art	F=S	-	NP	ACC
+34	4	literacia	[literacia]	n	F=S	-	NP	ACC
+34	5	,	[]	,	-	-	O	ACC
+34	6	aquisição	[aquisição]	n	F=S	-	NP	ACC
+34	7	de	[de]	prp	-	-	PP	ACC
+34	8	conhecimentos	[conhecer]	n	M=P	-	NP	ACC
+34	9	e	[e]	conj-c	-	-	O	ACC
+34	10	capacitação	[capacitar]	n	F=S	-	NP	ACC
+34	11	a	[a]	prp	-	-	PP	PIV
+34	12	os	[o]	art	M=P	-	NP	PIV
+34	13	cidadãos	[cidadão]	n	M=P	-	NP	PIV
+34	14	de	[de]	prp	-	-	PP	PIV
+34	15	forma	[forma]	n	F=S	-	NP	PIV
+34	16	a	[a]	prp	-	-	PP	PIV
+34	17	que	[que]	pron-indp	M=P	-	NP	PIV
+34	18	possam	[poder]	v-fin	PR=3P=SUBJ	-	VP	P
+34	19	participar	[participar]	v-inf	-	-	VP	P
+34	20	activamente	[]	adv	-	-	ADVP	ADVL
+34	21	em	[em]	prp	-	-	PP	ADVL
+34	22	o	[o]	art	M=S	-	NP	ADVL
+34	23	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	-	NP	ADVL
+34	24	económico	[]	adj	M=S	-	NP	ADVL
+34	25	,	[]	,	-	-	O	ADVL
+34	26	social	[social]	adj	M=S	-	NP	ADVL
+34	27	e	[e]	conj-c	-	-	NP	ADVL
+34	28	político	[político]	adj	M=S	-	NP	ADVL
+34	29	;	[;]	;	-	-	O	O
+
+35	0	.	[.]	.	-	-	O	O
+
+36	0	.	[.]	.	-	-	O	O
+
+37	0	Promove	[promover]	v-fin	PR=3S=IND	-	VP	P
+37	1	também	[também]	adv	-	-	ADVP	ADVL
+37	2	a	[o]	art	F=S	-	NP	ACC
+37	3	igualdade	[igualdade]	n	F=S	-	NP	ACC
+37	4	social	[social]	adj	F=S	-	NP	ACC
+37	5	e	[e]	conj-c	-	-	O	ACC
+37	6	a	[o]	art	F=S	-	NP	ACC
+37	7	unidade	[unidade, uno]	n	F=S	-	NP	ACC
+37	8	nacional	[nacional]	adj	F=S	-	NP	ACC
+37	9	,	[]	,	-	-	O	ACC
+37	10	factores	[]	n	M=P	-	NP	ACC
+37	11	pertinentes	[pertinente]	adj	M=P	-	NP	ACC
+37	12	a	[a]	prp	-	-	PP	ACC
+37	13	estabilidade	[estável]	n	F=S	-	NP	ACC
+37	14	de	[de]	prp	-	-	PP	ACC
+37	15	o	[o]	art	M=S	-	NP	ACC
+37	16	país	[país]	n	M=S	-	NP	ACC
+37	17	e	[e]	conj-c	-	-	O	ACC
+37	18	de	[de]	prp	-	-	PP	ACC
+37	19	cada	[cada]	pron-det	M=S	-	NP	ACC
+37	20	um	[um]	num	M=S	-	NP	ACC
+37	21	de	[de]	prp	-	-	PP	ACC
+37	22	os	[o]	art	M=P	-	NP	ACC
+37	23	cidadãos	[cidadão]	n	M=P	-	NP	ACC
+37	24	.	[.]	.	-	-	O	O
+
+38	0	.	[.]	.	-	-	O	O
+
+39	0	.	[.]	.	-	-	O	O
+
+40	0	Promove	[promover]	v-fin	PR=3S=IND	-	VP	P
+40	1	a	[o]	art	F=S	-	NP	ACC
+40	2	igualdade	[igualdade]	n	F=S	-	NP	ACC
+40	3	de	[de]	prp	-	-	PP	ACC
+40	4	o	[o]	art	M=S	-	NP	ACC
+40	5	género	[]	n	M=S	-	NP	ACC
+40	6	,	[]	,	-	-	O	ACC
+40	7	o	[o]	art	M=S	-	NP	ACC
+40	8	acesso	[acesso]	n	M=S	-	NP	ACC
+40	9	as	[o]	art	F=P	-	NP	ACC
+40	10	oportunidades	[oportunidade, oportuno]	n	F=P	-	NP	ACC
+40	11	,	[]	,	-	-	O	ACC
+40	12	serviços	[serviço]	n	M=P	-	NP	ACC
+40	13	,	[]	,	-	-	O	ACC
+40	14	bens	[bem]	n	M=P	-	NP	ACC
+40	15	e	[e]	conj-c	-	-	NP	ACC
+40	16	privilégios	[privilégio]	n	M=P	-	NP	ACC
+40	17	,	[]	,	-	-	O	ACC
+40	18	a_não-discriminação	[]	n	F=S	-	NP	ACC
+40	19	em	[em]	prp	-	-	PP	ACC
+40	20	o	[o]	art	M=S	-	NP	ACC
+40	21	trabalho	[trabalho]	n	M=S	-	NP	ACC
+40	22	e	[e]	conj-c	-	-	O	ACC
+40	23	em	[em]	prp	-	-	PP	ACC
+40	24	outras	[outro]	pron-det	F=P	-	NP	ACC
+40	25	oportunidades	[oportunidade, oportuno]	n	F=P	-	NP	ACC
+40	26	.	[.]	.	-	-	O	O
+
+41	0	.	[.]	.	-	-	O	O
+
+42	0	.	[.]	.	-	-	O	O
+
+43	0	Defende	[defender]	v-fin	PR=3S=IND	-	VP	P
+43	1	e	[e]	conj-c	-	-	O	O
+43	2	impulsiona	[impulsionar]	v-fin	PR=3S=IND	-	VP	P
+43	3	o	[o]	art	M=S	-	NP	ACC
+43	4	tratamento	[tratar]	n	M=S	-	NP	ACC
+43	5	igual	[igual]	adj	M=S	-	NP	ACC
+43	6	a	[a]	prp	-	-	PP	PIV
+43	7	os	[o]	art	M=P	-	NP	PIV
+43	8	diversos	[diverso]	adj	M=P	-	NP	PIV
+43	9	grupos	[grupo]	n	M=P	-	NP	PIV
+43	10	de	[de]	prp	-	-	PP	PIV
+43	11	as	[o]	art	F=P	-	NP	PIV
+43	12	populações	[população]	n	F=P	-	NP	PIV
+43	13	de	[de]	prp	-	-	PP	PIV
+43	14	áreas	[área]	n	F=P	-	NP	PIV
+43	15	diferentes	[diferente]	adj	F=P	-	NP	PIV
+43	16	;	[;]	;	-	-	O	O
+
+44	0	.	[.]	.	-	-	O	O
+
+45	0	.	[.]	.	-	-	O	O
+
+46	0	Tem	[ter]	v-fin	PR=3S=IND	-	VP	P
+46	1	feito	[fazer]	v-pcp	M=S	-	VP	P
+46	2	esforços	[esforço]	n	M=P	-	NP	SUBJ
+46	3	em	[em]	prp	-	-	PP	SUBJ
+46	4	o	[o]	art	M=S	-	NP	SUBJ
+46	5	sentido	[sentido]	n	M=S	-	NP	SUBJ
+46	6	de	[de]	prp	-	-	PP	SUBJ
+46	7	impregnar	[impregnar]	v-inf	-	-	VP	P
+46	8	a	[o]	art	F=S	-	NP	ACC
+46	9	honestidade	[honestidade, honesto]	n	F=S	-	NP	ACC
+46	10	,	[]	,	-	-	O	ACC
+46	11	imparcialidade	[imparcialidade, imparcial]	n	F=S	-	NP	ACC
+46	12	,	[]	,	-	-	O	ACC
+46	13	professionalismo	[]	n	M=S	-	NP	ACC
+46	14	,	[]	,	-	-	O	ACC
+46	15	integridade	[integridade]	n	F=S	-	NP	ACC
+46	16	,	[]	,	-	-	O	ACC
+46	17	empenho	[empenho]	n	M=S	-	NP	ACC
+46	18	,	[]	,	-	-	O	ACC
+46	19	dedicação	[dedicar]	n	F=S	-	NP	ACC
+46	20	a	[a]	prp	-	-	PP	ACC
+46	21	o	[o]	art	M=S	-	NP	ACC
+46	22	trabalho	[trabalho]	n	M=S	-	NP	ACC
+46	23	,	[]	,	-	-	O	ACC
+46	24	eficiência	[eficiência]	n	F=S	-	NP	ACC
+46	25	,	[]	,	-	-	O	ACC
+46	26	transparência	[transparência]	n	F=S	-	NP	ACC
+46	27	e	[e]	conj-c	-	-	NP	ACC
+46	28	responsabilidade	[responsabilidade, responsável]	n	F=S	-	NP	ACC
+46	29	em	[em]	prp	-	-	PP	ACC
+46	30	os	[o]	art	M=P	-	NP	ACC
+46	31	serviços	[serviço]	n	M=P	-	NP	ACC
+46	32	públicos	[público]	adj	M=P	-	NP	ACC
+46	33	;	[;]	;	-	-	O	O
+
+47	0	.	[.]	.	-	-	O	O
+
+48	0	.	[.]	.	-	-	O	O
+
+49	0	Tem	[ter]	v-fin	PR=3S=IND	-	VP	P
+49	1	promovido	[promover]	v-pcp	M=S	-	VP	P
+49	2	o	[o]	art	M=S	-	NP	ACC
+49	3	respeito	[respeito]	n	M=S	-	NP	ACC
+49	4	e	[e]	conj-c	-	-	NP	ACC
+49	5	preservação	[preservar]	n	F=S	-	NP	ACC
+49	6	de	[de]	prp	-	-	PP	ACC
+49	7	os	[o]	art	M=P	-	NP	ACC
+49	8	valores	[valor]	n	M=P	-	NP	ACC
+49	9	e	[e]	conj-c	-	-	NP	ACC
+49	10	culturas	[cultura]	n	F=P	-	NP	ACC
+49	11	de	[de]	prp	-	-	PP	ACC
+49	12	os	[o]	art	M=P	-	NP	ACC
+49	13	vários	[]	pron-det	M=P	-	NP	ACC
+49	14	grupos	[grupo]	n	M=P	-	NP	ACC
+49	15	que	[que]	pron-indp	M=P	-	NP	SUBJ
+49	16	constituem	[constituir]	v-fin	PR=3P=IND	-	VP	P
+49	17	a	[o]	art	F=S	-	NP	ACC
+49	18	sociedade	[sociedade]	n	F=S	-	NP	ACC
+49	19	timorense	[timorense]	adj	F=S	-	NP	ACC
+49	20	;	[;]	;	-	-	O	O
+
+50	0	.	[.]	.	-	-	O	O
+
+51	0	.	[.]	.	-	-	O	O
+
+52	0	A	[o]	art	F=S	-	NP	SUBJ
+52	1	democracia	[democracia]	n	F=S	-	NP	SUBJ
+52	2	,	[]	,	-	-	O	SUBJ
+52	3	soberania	[soberania]	n	F=S	-	NP	SUBJ
+52	4	,	[]	,	-	-	O	SUBJ
+52	5	respeito	[respeito]	n	M=S	-	NP	SUBJ
+52	6	de	[de]	prp	-	-	PP	SUBJ
+52	7	os	[o]	art	M=P	-	NP	SUBJ
+52	8	direitos	[direito]	n	M=P	-	NP	SUBJ
+52	9	humanos	[humano]	adj	M=P	-	NP	SUBJ
+52	10	e	[e]	conj-c	-	-	O	SUBJ
+52	11	o	[o]	art	M=S	-	NP	SUBJ
+52	12	princípio	[princípio]	n	M=S	-	NP	SUBJ
+52	13	de	[de]	prp	-	-	PP	SUBJ
+52	14	a	[o]	art	F=S	-	NP	SUBJ
+52	15	legalidade	[legalidade, legal]	n	F=S	-	NP	SUBJ
+52	16	,	[]	,	-	-	O	SUBJ
+52	17	igualdade	[igualdade]	n	F=S	-	NP	SUBJ
+52	18	perante	[perante]	prp	-	-	PP	SUBJ
+52	19	a	[o]	art	F=S	-	NP	SUBJ
+52	20	lei	[lei]	n	F=S	-	NP	SUBJ
+52	21	,	[]	,	-	-	O	SUBJ
+52	22	etc	[]	adv	-	-	ADVP	SUBJ
+52	23	.	[.]	.	-	-	O	O
+
+53	0	estão	[estar]	v-fin	PR=3P=IND	-	VP	P
+53	1	consagrados	[consagrar]	v-pcp	M=P	-	VP	P
+53	2	em	[em]	prp	-	-	PP	ADVL
+53	3	a	[o]	art	F=S	-	NP	ADVL
+53	4	Constituição	[constituição, constituir]	n	F=S	-	NP	ADVL
+53	5	.	[.]	.	-	-	O	O
+
+54	0	.	[.]	.	-	-	O	O
+
+55	0	.	[.]	.	-	-	O	O
+
+56	0	Como	[como]	adv	-	-	ADVP	ADVL
+56	1	devem	[dever]	v-fin	PR=3P=IND	-	VP	P
+56	2	recordar	[recordar]	v-inf	-	-	VP	P
+56	3	-se	[]	pron-pers	M=3S=ACC	-	NP	ACC
+56	4	reunimo	[]	v-pcp	M=S	-	NP	ACC
+56	5	-nos	[]	pron-pers	M=1P=ACC	-	NP	SUBJ
+56	6	em	[em]	prp	-	-	PP	ADVL
+56	7	10	[]	num	M=P	-	NP	ADVL
+56	8	de	[de]	prp	-	-	PP	ADVL
+56	9	Dezembro	[dezembro]	n	M=S	-	NP	ADVL
+56	10	de	[de]	prp	-	-	PP	ADVL
+56	11	o	[o]	art	M=S	-	NP	ADVL
+56	12	ano	[ano]	n	M=S	-	NP	ADVL
+56	13	passado	[passar]	v-pcp	M=S	-	NP	ADVL
+56	14	para	[para]	prp	-	-	PP	ADVL
+56	15	celebrarmos	[celebrar]	v-fin	FUT=1P=SUBJ	-	VP	P
+56	16	a	[o]	art	F=S	-	NP	ACC
+56	17	assinatura	[assinatura]	n	F=S	-	NP	ACC
+56	18	de	[de]	prp	-	-	PP	ACC
+56	19	Timor-Leste	[]	n	M=S	-	NP	ACC
+56	20	de	[de]	prp	-	-	PP	ACC
+56	21	os	[o]	art	M=P	-	NP	ACC
+56	22	tratados	[tratado]	n	M=P	-	NP	ACC
+56	23	e	[e]	conj-c	-	-	NP	ACC
+56	24	convenções	[convenção]	n	F=P	-	NP	ACC
+56	25	a	[a]	prp	-	-	PP	PIV
+56	26	os	[o]	art	M=P	-	NP	PIV
+56	27	quais	[qual]	pron-det	M=P	-	NP	PIV
+56	28	se	[se]	pron-pers	M=3S=ACC	-	NP	PIV
+56	29	obrigou	[obrigar]	v-fin	PS=3S=IND	-	VP	P
+56	30	.	[.]	.	-	-	O	O
+
+57	0	.	[.]	.	-	-	O	O
+
+58	0	.	[.]	.	-	-	O	O
+
+59	0	Hoje	[hoje]	adv	-	-	ADVP	ADVL
+59	1	,	[]	,	-	-	O	O
+59	2	temos	[ter]	v-fin	PR=1P=IND	-	VP	P
+59	3	razões	[razão]	n	F=P	-	NP	ACC
+59	4	para	[para]	prp	-	-	PP	ACC
+59	5	celebrar	[celebrar]	v-inf	-	-	VP	P
+59	6	este	[este]	pron-det	M=S	-	NP	ACC
+59	7	dia	[dia]	n	M=S	-	NP	ACC
+59	8	aquí	[]	adv	-	-	ADVP	ADVL
+59	9	em	[em]	prp	-	-	PP	ADVL
+59	10	Timor-Leste	[]	n	M=S	-	NP	ADVL
+59	11	.	[.]	.	-	-	O	O
+
+60	0	.	[.]	.	-	-	O	O
+
+61	0	.	[.]	.	-	-	O	O
+
+62	0	É	[ser]	v-fin	PR=3S=IND	-	VP	P
+62	1	justo	[justo]	n-adj	M=S	-	NP	SC
+62	2	dizer	[dizer]	v-inf	-	-	VP	P
+62	3	que	[que]	conj-s	-	-	O	ACC
+62	4	se	[se]	pron-pers	M=3P=ACC	-	NP	SUBJ
+62	5	verificaram	[verificar]	v-fin	MQP=3P=IND	-	VP	P
+62	6	avanços	[avanço]	n	M=P	-	NP	ACC
+62	7	significativos	[significativo]	adj	M=P	-	NP	ACC
+62	8	em	[em]	prp	-	-	PP	ADVL
+62	9	o	[o]	art	M=S	-	NP	ADVL
+62	10	sector	[sector]	n	M=S	-	NP	ADVL
+62	11	de	[de]	prp	-	-	PP	ADVL
+62	12	os	[o]	art	M=P	-	NP	ADVL
+62	13	direitos	[direito]	n	M=P	-	NP	ADVL
+62	14	humanos	[humano]	adj	M=P	-	NP	ADVL
+62	15	durante	[durante]	prp	-	-	PP	ADVL
+62	16	o	[o]	art	M=S	-	NP	ADVL
+62	17	corrente	[corrente, correr]	adj	M=S	-	NP	ADVL
+62	18	ano	[ano]	n	M=S	-	NP	ADVL
+62	19	.	[.]	.	-	-	O	O
+
+63	0	Os	[o]	art	M=P	-	NP	SUBJ
+63	1	direitos	[direito]	n	M=P	-	NP	SUBJ
+63	2	consagrados	[consagrar]	v-pcp	M=P	-	VP	P
+63	3	em	[em]	prp	-	-	PP	ADVL
+63	4	a	[o]	art	F=S	-	NP	ADVL
+63	5	Declaração	[declaração, declarar]	n	F=S	-	NP	ADVL
+63	6	Universal	[]	prop	F=S	-	NP	ADVL
+63	7	os_quais	[]	pron-indp	M=P	-	NP	ACC
+63	8	se	[se]	pron-pers	M=3P=ACC	-	NP	SUBJ
+63	9	incluem	[incluir]	v-fin	PR=3P=IND	-	VP	P
+63	10	os	[o]	art	M=P	-	NP	ACC
+63	11	direitos	[direito]	n	M=P	-	NP	ACC
+63	12	civis	[civil]	adj	M=P	-	NP	ACC
+63	13	,	[]	,	-	-	O	ACC
+63	14	políticos	[político]	adj	M=P	-	NP	ACC
+63	15	,	[]	,	-	-	O	ACC
+63	16	económicos	[]	adj	M=P	-	NP	ACC
+63	17	,	[]	,	-	-	O	ACC
+63	18	sociais	[social]	adj	M=P	-	NP	ACC
+63	19	e	[e]	conj-c	-	-	NP	ACC
+63	20	culturais	[cultural]	adj	M=P	-	NP	ACC
+63	21	são	[ser]	v-fin	PR=3P=IND	-	VP	P
+63	22	respeitados	[respeitar]	v-pcp	M=P	-	VP	P
+63	23	em	[em]	prp	-	-	PP	ADVL
+63	24	Timor-Leste	[]	n	M=S	-	NP	ADVL
+63	25	.	[.]	.	-	-	O	O
+
+64	0	.	[.]	.	-	-	O	O
+
+65	0	.	[.]	.	-	-	O	O
+
+66	0	O	[o]	art	M=S	-	NP	SUBJ
+66	1	direito	[direito]	n	M=S	-	NP	SUBJ
+66	2	a	[a]	prp	-	-	PP	SUBJ
+66	3	a	[o]	art	F=S	-	NP	SUBJ
+66	4	igualdade	[igualdade]	n	F=S	-	NP	SUBJ
+66	5	,	[]	,	-	-	O	SUBJ
+66	6	o	[o]	art	M=S	-	NP	SUBJ
+66	7	direito	[direito]	n	M=S	-	NP	SUBJ
+66	8	a	[a]	prp	-	-	PP	SUBJ
+66	9	a	[o]	art	F=S	-	NP	SUBJ
+66	10	vida	[vida]	n	F=S	-	NP	SUBJ
+66	11	,	[]	,	-	-	O	SUBJ
+66	12	a	[o]	art	F=S	-	NP	SUBJ
+66	13	liberdade	[liberdade]	n	F=S	-	NP	SUBJ
+66	14	e	[e]	conj-c	-	-	O	SUBJ
+66	15	segurança	[segurança]	n	F=S	-	NP	SUBJ
+66	16	e	[e]	conj-c	-	-	O	SUBJ
+66	17	integridade	[integridade]	n	F=S	-	NP	SUBJ
+66	18	pessoal	[pessoal]	adj	F=S	-	NP	SUBJ
+66	19	,	[]	,	-	-	O	SUBJ
+66	20	a	[o]	art	F=S	-	NP	SUBJ
+66	21	proibição	[proibição, proibir]	n	F=S	-	NP	SUBJ
+66	22	de	[de]	prp	-	-	PP	SUBJ
+66	23	a	[o]	art	F=S	-	NP	SUBJ
+66	24	tortura	[tortura]	n	F=S	-	NP	SUBJ
+66	25	,	[]	,	-	-	O	SUBJ
+66	26	de	[de]	prp	-	-	PP	SUBJ
+66	27	a	[o]	art	F=S	-	NP	SUBJ
+66	28	discriminação	[discriminar]	n	F=S	-	NP	SUBJ
+66	29	e	[e]	conj-c	-	-	O	SUBJ
+66	30	de	[de]	prp	-	-	PP	SUBJ
+66	31	tratamentos	[tratar]	n	M=P	-	NP	SUBJ
+66	32	degradantes	[degradante, degradar]	adj	M=P	-	NP	SUBJ
+66	33	,	[]	,	-	-	O	SUBJ
+66	34	o	[o]	art	M=S	-	NP	SUBJ
+66	35	direito	[direito]	n	M=S	-	NP	SUBJ
+66	36	a	[a]	prp	-	-	PP	SUBJ
+66	37	a	[o]	art	F=S	-	NP	SUBJ
+66	38	justiça	[justiça]	n	F=S	-	NP	SUBJ
+66	39	,	[]	,	-	-	O	SUBJ
+66	40	a	[o]	art	F=S	-	NP	SUBJ
+66	41	privacidade	[privacidade]	n	F=S	-	NP	SUBJ
+66	42	,	[]	,	-	-	O	SUBJ
+66	43	a	[o]	art	F=S	-	NP	SUBJ
+66	44	crença	[crença]	n	F=S	-	NP	SUBJ
+66	45	,	[]	,	-	-	O	SUBJ
+66	46	a	[o]	art	F=S	-	NP	SUBJ
+66	47	liberdade	[liberdade]	n	F=S	-	NP	SUBJ
+66	48	de	[de]	prp	-	-	PP	SUBJ
+66	49	opinião	[opinião]	n	F=S	-	NP	SUBJ
+66	50	,	[]	,	-	-	O	SUBJ
+66	51	de	[de]	prp	-	-	PP	SUBJ
+66	52	associação	[associação, associar]	n	F=S	-	NP	SUBJ
+66	53	,	[]	,	-	-	O	SUBJ
+66	54	a	[o]	art	F=S	-	NP	SUBJ
+66	55	segurança	[segurança]	n	F=S	-	NP	SUBJ
+66	56	social	[social]	adj	F=S	-	NP	SUBJ
+66	57	,	[]	,	-	-	O	SUBJ
+66	58	o	[o]	art	M=S	-	NP	SUBJ
+66	59	direito	[direito]	n	M=S	-	NP	SUBJ
+66	60	a	[a]	prp	-	-	PP	SUBJ
+66	61	o	[o]	art	M=S	-	NP	SUBJ
+66	62	trabalho	[trabalho]	n	M=S	-	NP	SUBJ
+66	63	e	[e]	conj-c	-	-	O	SUBJ
+66	64	a	[o]	art	F=S	-	NP	SUBJ
+66	65	educação	[educar]	n	F=S	-	NP	SUBJ
+66	66	,	[]	,	-	-	O	SUBJ
+66	67	estão	[estar]	v-fin	PR=3P=IND	-	VP	P
+66	68	entre	[entre]	prp	-	-	PP	ADVL
+66	69	outros	[outro]	pron-det	M=P	-	NP	ADVL
+66	70	consagrados	[consagrar]	v-pcp	M=P	-	VP	P
+66	71	em	[em]	prp	-	-	PP	ADVL
+66	72	a	[o]	art	F=S	-	NP	ADVL
+66	73	lei	[lei]	n	F=S	-	NP	ADVL
+66	74	fundamental	[fundamental]	adj	F=S	-	NP	ADVL
+66	75	de	[de]	prp	-	-	PP	ADVL
+66	76	Timor-Leste	[]	n	M=S	-	NP	ADVL
+66	77	.	[.]	.	-	-	O	O
+
+67	0	.	[.]	.	-	-	O	O
+
+68	0	.	[.]	.	-	-	O	O
+
+69	0	O	[o]	art	M=S	-	NP	SUBJ
+69	1	Conselho	[conselho]	n	M=S	-	NP	SUBJ
+69	2	de	[de]	prp	-	-	PP	SUBJ
+69	3	Ministros	[]	prop	M=S	-	NP	SUBJ
+69	4	aprovou	[aprovar]	v-fin	PS=3S=IND	-	VP	P
+69	5	o	[o]	art	M=S	-	NP	ACC
+69	6	projecto	[]	n	M=S	-	NP	ACC
+69	7	de	[de]	prp	-	-	PP	ACC
+69	8	lei	[lei]	n	F=S	-	NP	ACC
+69	9	sobre	[sobre]	prp	-	-	PP	ACC
+69	10	o	[o]	art	M=S	-	NP	ACC
+69	11	Provedor_de_Justiça	[]	prop	M=S	-	NP	ACC
+69	12	que	[que]	pron-indp	M=S	-	NP	SUBJ
+69	13	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+69	14	em	[em]	prp	-	-	PP	SA
+69	15	este	[este]	pron-det	M=S	-	NP	SA
+69	16	momento	[momento]	n	M=S	-	NP	SA
+69	17	em	[em]	prp	-	-	PP	ADVL
+69	18	o	[o]	art	M=S	-	NP	ADVL
+69	19	Parlamento_Nacional	[]	prop	M=S	-	NP	ADVL
+69	20	.	[.]	.	-	-	O	O
+
+70	0	É	[ser]	v-fin	PR=3S=IND	-	VP	P
+70	1	preocupação	[preocupação, preocupar]	n	F=S	-	NP	SC
+70	2	de	[de]	prp	-	-	PP	SC
+70	3	o	[o]	art	M=S	-	NP	SC
+70	4	Governo	[governo]	n	M=S	-	NP	SC
+70	5	promover	[promover]	v-inf	-	-	VP	P
+70	6	a	[o]	art	F=S	-	NP	ACC
+70	7	boa	[boa]	adj	F=S	-	NP	ACC
+70	8	governação	[governar]	n	F=S	-	NP	ACC
+70	9	.	[.]	.	-	-	O	O
+70	10	.	[.]	.	-	-	O	O
+
+71	0	.	[.]	.	-	-	O	O
+
+72	0	A	[o]	art	F=S	-	NP	SUBJ
+72	1	formação	[formação, formar]	n	F=S	-	NP	SUBJ
+72	2	e	[e]	conj-c	-	-	O	SUBJ
+72	3	o	[o]	art	M=S	-	NP	SUBJ
+72	4	treino	[treino]	n	M=S	-	NP	SUBJ
+72	5	de	[de]	prp	-	-	PP	SUBJ
+72	6	as	[o]	art	F=P	-	NP	SUBJ
+72	7	Falintil-Forças	[]	prop	F=P	-	NP	SUBJ
+72	8	de	[de]	prp	-	-	PP	SUBJ
+72	9	Defesa	[defesa]	n	F=S	-	NP	SUBJ
+72	10	de	[de]	prp	-	-	PP	SUBJ
+72	11	Timor-Leste	[]	n	M=S	-	NP	SUBJ
+72	12	,	[]	,	-	-	O	SUBJ
+72	13	de	[de]	prp	-	-	PP	SUBJ
+72	14	a	[o]	art	F=S	-	NP	SUBJ
+72	15	Polícia_Nacional_de_Timor-Leste	[]	n	F=S	-	NP	SUBJ
+72	16	e	[e]	conj-c	-	-	O	SUBJ
+72	17	de	[de]	prp	-	-	PP	SUBJ
+72	18	os	[o]	art	M=P	-	NP	SUBJ
+72	19	guardas	[guarda]	n	M=P	-	NP	SUBJ
+72	20	prisionais	[prisional]	adj	M=P	-	NP	SUBJ
+72	21	são	[ser]	v-fin	PR=3P=IND	-	VP	P
+72	22	orientados	[orientar]	v-pcp	M=P	-	VP	P
+72	23	por	[por]	prp	-	-	PP	O
+72	24	os	[o]	art	M=P	-	NP	O
+72	25	princípios	[princípio]	n	M=P	-	NP	O
+72	26	de	[de]	prp	-	-	PP	O
+72	27	os	[o]	art	M=P	-	NP	O
+72	28	direitos	[direito]	n	M=P	-	NP	O
+72	29	humanos	[humano]	adj	M=P	-	NP	O
+72	30	.	[.]	.	-	-	O	O
+
+73	0	O	[o]	art	M=S	-	NP	SUBJ
+73	1	mesmo	[mesmo]	pron-det	M=S	-	NP	SUBJ
+73	2	acontece	[acontecer]	v-fin	PR=3S=IND	-	VP	P
+73	3	com	[com]	prp	-	-	PP	ADVL
+73	4	o	[o]	art	M=S	-	NP	ADVL
+73	5	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	-	NP	ADVL
+73	6	e	[e]	conj-c	-	-	O	ADVL
+73	7	a	[o]	art	F=S	-	NP	ADVL
+73	8	implementação	[implementar]	n	F=S	-	NP	ADVL
+73	9	de	[de]	prp	-	-	PP	ADVL
+73	10	os	[o]	art	M=P	-	NP	ADVL
+73	11	programas	[programa]	n	M=P	-	NP	ADVL
+73	12	para	[para]	prp	-	-	PP	ADVL
+73	13	os	[o]	art	M=P	-	NP	ADVL
+73	14	direitos	[direito]	n	M=P	-	NP	ADVL
+73	15	de	[de]	prp	-	-	PP	ADVL
+73	16	as	[o]	art	F=P	-	NP	ADVL
+73	17	mulheres	[mulher]	n	F=P	-	NP	ADVL
+73	18	e	[e]	conj-c	-	-	O	ADVL
+73	19	de	[de]	prp	-	-	PP	ADVL
+73	20	as	[o]	art	F=P	-	NP	ADVL
+73	21	crianças	[criança]	n	F=P	-	NP	ADVL
+73	22	.	[.]	.	-	-	O	O
+
+74	0	É	[ser]	v-fin	PR=3S=IND	-	VP	P
+74	1	de	[de]	prp	-	-	PP	SC
+74	2	o	[o]	art	M=S	-	NP	SC
+74	3	interesse	[interesse]	n	M=S	-	NP	SC
+74	4	de	[de]	prp	-	-	PP	SC
+74	5	o	[o]	art	M=S	-	NP	SC
+74	6	Governo	[governo]	n	M=S	-	NP	SC
+74	7	que	[que]	pron-indp	M=S	-	NP	SUBJ
+74	8	haja	[haver]	v-fin	PR=3S=SUBJ	-	VP	P
+74	9	melhor	[melhor]	adj	F=S	-	NP	ACC
+74	10	aproximação	[aproximação, aproximar]	n	F=S	-	NP	ACC
+74	11	entre	[entre]	prp	-	-	PP	ACC
+74	12	as	[o]	art	F=P	-	NP	ACC
+74	13	instituições	[instituição, instituir]	n	F=P	-	NP	ACC
+74	14	de	[de]	prp	-	-	PP	ACC
+74	15	o	[o]	art	M=S	-	NP	ACC
+74	16	Governo	[governo]	n	M=S	-	NP	ACC
+74	17	e	[e]	conj-c	-	-	O	ACC
+74	18	as	[o]	art	F=P	-	NP	ACC
+74	19	ONGs	[]	prop	F=P	-	NP	ACC
+74	20	bem	[bem]	adv	-	-	ADVP	ADVL
+74	21	como	[como]	adv	-	-	ADVP	ADVL
+74	22	com	[com]	prp	-	-	PP	ADVL
+74	23	outras	[outro]	pron-det	F=P	-	NP	ADVL
+74	24	organizações	[organizar]	n	F=P	-	NP	ADVL
+74	25	.	[.]	.	-	-	O	O
+
+75	0	.	[.]	.	-	-	O	O
+
+76	0	.	[.]	.	-	-	O	O
+
+77	0	Contudo	[]	prop	M=S	-	NP	SUBJ
+77	1	,	[]	,	-	-	O	O
+77	2	existe	[existir]	v-fin	PR=3S=IND	-	VP	P
+77	3	um	[um]	art	M=S	-	NP	ACC
+77	4	certo	[certo]	adj	M=S	-	NP	ACC
+77	5	número	[número]	n	M=S	-	NP	ACC
+77	6	de	[de]	prp	-	-	PP	ACC
+77	7	áreas	[área]	n	F=P	-	NP	ACC
+77	8	que	[que]	pron-indp	F=P	-	NP	SUBJ
+77	9	necessitam	[necessitar]	v-fin	PR=3P=IND	-	VP	P
+77	10	de	[de]	prp	-	-	PP	PIV
+77	11	atenção	[atenção]	n	F=S	-	NP	PIV
+77	12	urgente	[urgente]	adj	F=S	-	NP	PIV
+77	13	.	[.]	.	-	-	O	O
+
+78	0	Como	[como]	adv	-	-	ADVP	ADVL
+78	1	por	[por]	prp	-	-	PP	ADVL
+78	2	exemplo	[exemplo]	n	M=S	-	NP	ADVL
+78	3	,	[]	,	-	-	O	O
+78	4	a	[o]	art	F=S	-	NP	SUBJ
+78	5	adaptação	[adaptação, adaptar]	n	F=S	-	NP	SUBJ
+78	6	de	[de]	prp	-	-	PP	SUBJ
+78	7	o	[o]	art	M=S	-	NP	SUBJ
+78	8	direito	[direito]	n	M=S	-	NP	SUBJ
+78	9	interno	[interno]	adj	M=S	-	NP	SUBJ
+78	10	a	[a]	prp	-	-	PP	SUBJ
+78	11	os	[o]	art	M=P	-	NP	SUBJ
+78	12	tratados	[tratado]	n	M=P	-	NP	SUBJ
+78	13	e	[e]	conj-c	-	-	NP	SUBJ
+78	14	convenções	[convenção]	n	F=P	-	NP	SUBJ
+78	15	de	[de]	prp	-	-	PP	SUBJ
+78	16	que	[que]	conj-s	-	-	PP	SUBJ
+78	17	Timor-Leste	[TIMOR-LESTE]	prop	M=S	-	NP	SUBJ
+78	18	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+78	19	parte	[parte]	n	F=S	-	NP	SC
+78	20	e	[e]	conj-c	-	-	O	O
+78	21	o	[o]	art	M=S	-	NP	SUBJ
+78	22	reforço	[reforço]	n	M=S	-	NP	SUBJ
+78	23	de	[de]	prp	-	-	PP	SUBJ
+78	24	o	[o]	art	M=S	-	NP	SUBJ
+78	25	sistema	[sistema]	n	M=S	-	NP	SUBJ
+78	26	judiciário	[judiciário]	adj	M=S	-	NP	SUBJ
+78	27	e	[e]	conj-c	-	-	NP	SUBJ
+78	28	prisional	[prisional]	adj	M=S	-	NP	SUBJ
+78	29	.	[.]	.	-	-	O	O
+
+79	0	.	[.]	.	-	-	O	O
+
+80	0	.	[.]	.	-	-	O	O
+
+81	0	O	[o]	art	M=S	-	NP	SUBJ
+81	1	Governo	[governo]	n	M=S	-	NP	SUBJ
+81	2	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+81	3	ciente	[ciente]	adj	M=S	-	NP	SC
+81	4	e	[e]	conj-c	-	-	O	O
+81	5	entende	[entender]	v-fin	PR=3S=IND	-	VP	P
+81	6	que	[que]	conj-s	-	-	O	ACC
+81	7	a	[o]	art	F=S	-	NP	SUBJ
+81	8	o	[o]	art	M=S	-	NP	SUBJ
+81	9	melhorar	[melhorar]	v-inf	-	-	VP	P
+81	10	a	[o]	art	F=S	-	NP	ACC
+81	11	opinião	[opinião]	n	F=S	-	NP	ACC
+81	12	pública	[público]	adj	F=S	-	NP	ACC
+81	13	e	[e]	conj-c	-	-	O	ACC
+81	14	de	[de]	prp	-	-	PP	ACC
+81	15	a	[o]	art	F=S	-	NP	ACC
+81	16	aceitação	[aceitar]	n	F=S	-	NP	ACC
+81	17	de	[de]	prp	-	-	PP	ACC
+81	18	os	[o]	art	M=P	-	NP	ACC
+81	19	seus	[seu]	pron-det	M=P	-	NP	ACC
+81	20	direitos	[direito]	n	M=P	-	NP	ACC
+81	21	e	[e]	conj-c	-	-	NP	ACC
+81	22	obrigações	[obrigar]	n	F=P	-	NP	ACC
+81	23	contribuirá	[contribuir]	v-fin	FUT=3S=IND	-	VP	P
+81	24	a	[a]	prp	-	-	PP	PIV
+81	25	o	[o]	art	M=S	-	NP	PIV
+81	26	fortalecimento	[fortalecer]	n	M=S	-	NP	PIV
+81	27	e	[e]	conj-c	-	-	O	O
+81	28	a	[o]	art	F=S	-	NP	O
+81	29	defesa	[defesa]	n	F=S	-	NP	O
+81	30	contra	[contra]	prp	-	-	PP	ADVL
+81	31	os	[o]	art	M=P	-	NP	ADVL
+81	32	abusos	[abuso]	n	M=P	-	NP	ADVL
+81	33	e	[e]	conj-c	-	-	NP	ADVL
+81	34	violações	[violar]	n	F=P	-	NP	ADVL
+81	35	de	[de]	prp	-	-	PP	ADVL
+81	36	os	[o]	art	M=P	-	NP	ADVL
+81	37	direitos	[direito]	n	M=P	-	NP	ADVL
+81	38	humanos	[humano]	adj	M=P	-	NP	ADVL
+81	39	.	[.]	.	-	-	O	O
+
+82	0	Esta	[este]	pron-det	F=S	-	NP	SUBJ
+82	1	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+82	2	a	[o]	art	F=S	-	NP	SC
+82	3	razão	[razão]	n	F=S	-	NP	SC
+82	4	de	[de]	prp	-	-	PP	SC
+82	5	a	[o]	art	F=S	-	NP	SC
+82	6	criação	[criação, criar]	n	F=S	-	NP	SC
+82	7	e	[e]	conj-c	-	-	O	SC
+82	8	de	[de]	prp	-	-	PP	SC
+82	9	o	[o]	art	M=S	-	NP	SC
+82	10	desenvolvimento	[desenvolvimento, desenvolver]	n	M=S	-	NP	SC
+82	11	de	[de]	prp	-	-	PP	SC
+82	12	mecanismos	[mecanismo]	n	M=P	-	NP	SC
+82	13	de	[de]	prp	-	-	PP	SC
+82	14	forma	[forma]	n	F=S	-	NP	SC
+82	15	a	[a]	prp	-	-	PP	SC
+82	16	assegurar	[assegurar]	v-inf	-	-	VP	P
+82	17	a	[o]	art	F=S	-	NP	ACC
+82	18	primazia	[primazia]	n	F=S	-	NP	ACC
+82	19	de	[de]	prp	-	-	PP	ACC
+82	20	os	[o]	art	M=P	-	NP	ACC
+82	21	direitos	[direito]	n	M=P	-	NP	ACC
+82	22	humanos	[humano]	adj	M=P	-	NP	ACC
+82	23	em	[em]	prp	-	-	PP	ADVL
+82	24	Timor-Leste	[]	n	M=S	-	NP	ADVL
+82	25	e	[e]	conj-c	-	-	O	ADVL
+82	26	também	[também]	adv	-	-	ADVP	ADVL
+82	27	de	[de]	prp	-	-	PP	ADVL
+82	28	combater	[combater]	v-inf	-	-	VP	P
+82	29	violações	[violar]	n	F=P	-	NP	ACC
+82	30	de	[de]	prp	-	-	PP	ACC
+82	31	direitos	[direito]	n	M=P	-	NP	ACC
+82	32	humanos	[humano]	adj	M=P	-	NP	ACC
+82	33	onde	[onde]	adv	-	-	ADVP	ADVL
+82	34	quer	[querer]	v-fin	PR=3S=IND	-	VP	P
+82	35	que	[que]	conj-s	-	-	O	ACC
+82	36	aconteçam	[acontecer]	v-fin	PR=3P=SUBJ	-	VP	P
+82	37	.	[.]	.	-	-	O	O
+
+83	0	.	[.]	.	-	-	O	O
+
+84	0	.	[.]	.	-	-	O	O
+
+85	0	O	[o]	art	M=S	-	NP	SUBJ
+85	1	Governo	[governo]	n	M=S	-	NP	SUBJ
+85	2	e	[e]	conj-c	-	-	O	SUBJ
+85	3	os	[o]	art	M=P	-	NP	SUBJ
+85	4	representantes	[representante]	n	M=P	-	NP	SUBJ
+85	5	de	[de]	prp	-	-	PP	SUBJ
+85	6	grupos	[grupo]	n	M=P	-	NP	SUBJ
+85	7	de	[de]	prp	-	-	PP	SUBJ
+85	8	direitos	[direito]	n	M=P	-	NP	SUBJ
+85	9	humanos	[humano]	adj	M=P	-	NP	SUBJ
+85	10	estão	[estar]	v-fin	PR=3P=IND	-	VP	P
+85	11	a	[a]	prp	-	-	VP	P
+85	12	elaborar	[elaborar]	v-inf	-	-	VP	P
+85	13	um	[um]	art	M=S	-	NP	ACC
+85	14	Plano_de_Acção_Nacional_de_Direitos_Humanos	[]	n	M=S	-	NP	ACC
+85	15	com	[com]	prp	-	-	PP	ACC
+85	16	o	[o]	art	M=S	-	NP	ACC
+85	17	objectivo	[]	n	M=S	-	NP	ACC
+85	18	de	[de]	prp	-	-	PP	ACC
+85	19	realizar	[realizar]	v-inf	-	-	VP	P
+85	20	através	[através]	adv	-	-	ADVP	ADVL
+85	21	de	[de]	prp	-	-	PP	ADVL
+85	22	acções	[]	n	F=P	-	NP	ADVL
+85	23	concretas	[concreto]	adj	F=P	-	NP	ADVL
+85	24	os	[o]	art	M=P	-	NP	ACC
+85	25	instrumentos	[instrumento]	n	M=P	-	NP	ACC
+85	26	ratificados	[ratificar]	v-pcp	M=P	-	VP	P
+85	27	em	[em]	prp	-	-	PP	ADVL
+85	28	2002	[]	num	M=P	-	NP	ADVL
+85	29	e	[e]	conj-c	-	-	O	ADVL
+85	30	2003	[]	num	M=P	-	NP	ADVL
+85	31	.	[.]	.	-	-	O	O
+
+86	0	Este	[este]	pron-det	M=S	-	NP	SUBJ
+86	1	Plano	[plano]	n	M=S	-	NP	SUBJ
+86	2	criará	[criar]	v-fin	FUT=3S=IND	-	VP	P
+86	3	estruturas	[estrutura]	n	F=P	-	NP	ACC
+86	4	apropriadas	[apropriar]	v-pcp	F=P	-	NP	ACC
+86	5	de	[de]	prp	-	-	PP	ACC
+86	6	forma	[forma]	n	F=S	-	NP	ACC
+86	7	a	[a]	prp	-	-	PP	PIV
+86	8	promover	[promover]	v-inf	-	-	VP	P
+86	9	e	[e]	conj-c	-	-	O	O
+86	10	tutelar	[tutelar]	v-inf	-	-	VP	P
+86	11	efectivamente	[]	adv	-	-	ADVP	ADVL
+86	12	os	[o]	art	M=P	-	NP	ACC
+86	13	direitos	[direito]	n	M=P	-	NP	ACC
+86	14	humanos	[humano]	adj	M=P	-	NP	ACC
+86	15	em	[em]	prp	-	-	PP	ADVL
+86	16	Timor-Leste	[TIMOR-LESTE]	prop	M=S	-	NP	ADVL
+86	17	identificando	[identificar]	v-ger	-	-	VP	P
+86	18	também	[também]	adv	-	-	ADVP	ADVL
+86	19	as	[o]	art	F=P	-	NP	SUBJ
+86	20	prioridades	[prioridade]	n	F=P	-	NP	SUBJ
+86	21	,	[]	,	-	-	O	O
+86	22	criando	[criar]	v-ger	-	-	VP	P
+86	23	programas	[programa]	n	M=P	-	NP	ACC
+86	24	e	[e]	conj-c	-	-	O	O
+86	25	fiscalizando	[fiscalizar]	v-ger	-	-	VP	P
+86	26	os	[o]	art	M=P	-	NP	ACC
+86	27	mecanismos	[mecanismo]	n	M=P	-	NP	ACC
+86	28	de	[de]	prp	-	-	PP	ACC
+86	29	forma	[forma]	n	F=S	-	NP	ACC
+86	30	consistente	[consistente]	adj	F=S	-	NP	ACC
+86	31	e	[e]	conj-c	-	-	O	ACC
+86	32	de	[de]	prp	-	-	PP	ACC
+86	33	harmonia	[harmonia]	n	F=S	-	NP	ACC
+86	34	com	[com]	prp	-	-	PP	ACC
+86	35	os	[o]	art	M=P	-	NP	ACC
+86	36	propósitos	[propósito]	n	M=P	-	NP	ACC
+86	37	políticos	[político]	adj	M=P	-	NP	ACC
+86	38	,	[]	,	-	-	O	ACC
+86	39	culturais	[cultural]	adj	M=P	-	NP	ACC
+86	40	,	[]	,	-	-	O	ACC
+86	41	legais	[legal]	adj	M=P	-	NP	ACC
+86	42	,	[]	,	-	-	O	ACC
+86	43	sociais	[social]	adj	M=P	-	NP	ACC
+86	44	e	[e]	conj-c	-	-	NP	ACC
+86	45	económicos	[]	adj	M=P	-	NP	ACC
+86	46	.	[.]	.	-	-	O	O
+
+87	0	.	[.]	.	-	-	O	O
+
+88	0	.	[.]	.	-	-	O	O
+
+89	0	O	[o]	art	M=S	-	NP	SUBJ
+89	1	Governo	[governo]	n	M=S	-	NP	SUBJ
+89	2	pretende	[pretender]	v-fin	PR=3S=IND	-	VP	P
+89	3	incentivar	[incentivar]	v-inf	-	-	VP	P
+89	4	,	[]	,	-	-	O	O
+89	5	em	[em]	prp	-	-	PP	ADVL
+89	6	o	[o]	art	M=S	-	NP	ADVL
+89	7	próximo	[próximo]	adj	M=S	-	NP	ADVL
+89	8	ano	[ano]	n	M=S	-	NP	ADVL
+89	9	,	[]	,	-	-	O	O
+89	10	diversidades	[diversidade, diverso]	n	F=P	-	NP	ACC
+89	11	sociais	[social]	adj	F=P	-	NP	ACC
+89	12	,	[]	,	-	-	O	ACC
+89	13	económicas	[]	adj	F=P	-	NP	ACC
+89	14	e	[e]	conj-c	-	-	NP	ACC
+89	15	culturais	[cultural]	adj	M=P	-	NP	ACC
+89	16	de	[de]	prp	-	-	PP	ACC
+89	17	acordo	[acordo]	n	M=S	-	NP	ACC
+89	18	com	[com]	prp	-	-	PP	O
+89	19	as	[o]	art	F=P	-	NP	O
+89	20	Convenções_das_Nações_Unidas	[]	n	F=P	-	NP	O
+89	21	sobre	[sobre]	prp	-	-	PP	O
+89	22	os	[o]	art	M=P	-	NP	O
+89	23	direitos	[direito]	n	M=P	-	NP	O
+89	24	económicos	[]	adj	M=P	-	NP	O
+89	25	,	[]	,	-	-	O	O
+89	26	sociais	[social]	adj	M=P	-	NP	O
+89	27	e	[e]	conj-c	-	-	NP	O
+89	28	culturais	[cultural]	adj	M=P	-	NP	O
+89	29	.	[.]	.	-	-	O	O
+
+90	0	em	[em]	prp	-	-	PP	ADVL
+90	1	o	[o]	art	M=S	-	NP	ADVL
+90	2	entanto	[entanto]	adv	-	-	NP	ADVL
+90	3	,	[]	,	-	-	O	O
+90	4	para	[para]	prp	-	-	PP	ADVL
+90	5	que	[que]	conj-s	-	-	PP	ADVL
+90	6	se	[se]	pron-pers	M/F=3S/P=ACC	-	NP	SUBJ
+90	7	possa	[poder]	v-fin	PR=3S=SUBJ	-	VP	P
+90	8	realizar	[realizar]	v-inf	-	-	VP	P
+90	9	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+90	10	necessário	[necessário]	adj	M=S	-	NP	SC
+90	11	que	[que]	conj-s	-	-	O	SUBJ
+90	12	haja	[haver]	v-fin	PR=3S=SUBJ	-	VP	P
+90	13	contribuição	[contribuição, contribuir]	n	F=S	-	NP	ACC
+90	14	de	[de]	prp	-	-	PP	ACC
+90	15	todos	[todo]	pron-det	M=P	-	NP	ACC
+90	16	.	[.]	.	-	-	O	O
+90	17	.	[.]	.	-	-	O	O
+
+91	0	.	[.]	.	-	-	O	O
+
+92	0	O	[o]	art	M=S	-	NP	SUBJ
+92	1	respeito	[respeito]	n	M=S	-	NP	SUBJ
+92	2	por	[por]	prp	-	-	PP	SUBJ
+92	3	os	[o]	art	M=P	-	NP	SUBJ
+92	4	direitos	[direito]	n	M=P	-	NP	SUBJ
+92	5	humanos	[humano]	adj	M=P	-	NP	SUBJ
+92	6	depende	[depender]	v-fin	PR=3S=IND	-	VP	P
+92	7	de	[de]	prp	-	-	PP	PIV
+92	8	cada	[cada]	pron-det	M=S	-	NP	PIV
+92	9	um	[um]	art	M=S	-	NP	PIV
+92	10	de	[de]	prp	-	-	PP	PIV
+92	11	nós	[nós]	pron-pers	M=1P=NOM	-	NP	PIV
+92	12	,	[]	,	-	-	O	PIV
+92	13	como	[como]	adv	-	-	NP	PIV
+92	14	indivíduos	[indivíduo]	adj	M=P	-	NP	PIV
+92	15	,	[]	,	-	-	O	PIV
+92	16	organizações	[organizar]	n	F=P	-	NP	PIV
+92	17	e	[e]	conj-c	-	-	O	PIV
+92	18	instituições	[instituição, instituir]	n	F=P	-	NP	PIV
+92	19	.	[.]	.	-	-	O	O
+
+93	0	Para	[para]	prp	-	-	PP	ADVL
+93	1	que	[que]	pron-indp	M=S	-	NP	SUBJ
+93	2	se	[se]	pron-pers	M=3S=ACC	-	NP	O
+93	3	torne	[tornar]	v-fin	PR=3S=SUBJ	-	VP	P
+93	4	realidade	[real]	n	F=S	-	NP	OC
+93	5	em	[em]	prp	-	-	PP	ADVL
+93	6	Timor-Leste	[TIMOR-LESTE]	prop	M=S	-	NP	ADVL
+93	7	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+93	8	necessário	[necessário]	adj	M=S	-	NP	SC
+93	9	que	[que]	conj-s	-	-	O	SUBJ
+93	10	cada	[cada]	pron-det	M=S	-	NP	SUBJ
+93	11	um	[um]	art	M=S	-	NP	SUBJ
+93	12	de	[de]	prp	-	-	PP	SUBJ
+93	13	nós	[nós]	pron-pers	M=1P=NOM	-	NP	SUBJ
+93	14	seja	[ser]	v-fin	PR=3S=SUBJ	-	VP	P
+93	15	um	[um]	art	M=S	-	NP	SC
+93	16	verdadeiro	[verdadeiro]	adj	M=S	-	NP	SC
+93	17	actor	[]	n	M=S	-	NP	SC
+93	18	em	[em]	prp	-	-	PP	SC
+93	19	o	[o]	art	M=S	-	NP	SC
+93	20	processo	[processo]	n	M=S	-	NP	SC
+93	21	.	[.]	.	-	-	O	O
+
+94	0	.	[.]	.	-	-	O	O
+
+95	0	.	[.]	.	-	-	O	O
+
+96	0	Vamos	[ir]	v-fin	PR=1P=IND	-	VP	P
+96	1	todos	[todo]	pron-det	M=P	-	NP	SUBJ
+96	2	celebrar	[celebrar]	v-inf	-	-	VP	P
+96	3	esta	[este]	pron-det	F=S	-	NP	ACC
+96	4	data	[data]	n	F=S	-	NP	ACC
+96	5	exercendo	[exercer]	v-ger	-	-	O	O
+96	6	e	[e]	conj-c	-	-	O	O
+96	7	gozando	[gozar]	v-ger	-	-	VP	P
+96	8	os	[o]	art	M=P	-	NP	ACC
+96	9	direitos	[direito]	n	M=P	-	NP	ACC
+96	10	a	[a]	prp	-	-	PP	ACC
+96	11	nós	[nós]	pron-pers	M=1P=NOM	-	NP	ACC
+96	12	inerentes	[inerente]	adj	M=P	-	NP	SUBJ
+96	13	não	[não]	adv	-	-	ADVP	ADVL
+96	14	esquecendo	[esquecer]	v-ger	-	-	VP	P
+96	15	contudo	[]	adv	-	-	ADVP	ADVL
+96	16	de	[de]	prp	-	-	PP	SA
+96	17	as	[o]	art	F=P	-	NP	SA
+96	18	nossas	[nosso]	pron-det	F=P	-	NP	SA
+96	19	obrigações	[obrigar]	n	F=P	-	NP	SA
+96	20	.	[.]	.	-	-	O	O
+
+97	0	.	[.]	.	-	-	O	O
+
+98	0	.	[.]	.	-	-	O	O
+
+99	0	Obrigado	[obrigar]	v-pcp	M=S	-	VP	P
+99	1	!	[]	!	-	-	O	O
+99	2	.	[.]	.	-	-	O	O
+

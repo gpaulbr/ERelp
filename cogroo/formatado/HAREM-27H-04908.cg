@@ -1,0 +1,67 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	PCP	[PCP]	prop	M=S	O	NP	O	-	-
+0	1	de	[de]	prp	-	-	PP	O	-	-
+0	2	Braga	[Braga]	prop	M=S	O	NP	O	-	-
+0	3	promove	[promover]	v-fin	PR=3S=IND	-	VP	P	-	-
+0	4	lanche	[lanche]	n	M=S	O	NP	ACC	-	-
+0	5	e	[e]	conj-c	-	-	O	ACC	-	-
+0	6	intervenção	[intervenção]	n	F=S	O	NP	ACC	-	-
+0	7	política	[político]	adj	F=S	-	NP	ACC	-	-
+0	8	.	[.]	.	-	-	O	O	-	-
+
+1	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+1	1	Comissão_Concelhia_de_Braga	[]	prop	F=S	O	NP	SUBJ	-	-
+1	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+1	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+1	4	PCP	[PCP]	prop	M=S	O	NP	SUBJ	-	-
+1	5	promove	[promover]	v-fin	PR=3S=IND	-	VP	P	-	-
+1	6	sábado	[sábado]	n	M=S	O	NP	ACC	-	-
+1	7	um	[um]	art	M=S	-	NP	ACC	-	-
+1	8	lanche	[lanche]	n	M=S	O	NP	ACC	-	-
+1	9	e	[e]	conj-c	-	-	O	ACC	-	-
+1	10	uma	[um]	art	F=S	-	NP	ACC	-	-
+1	11	intervenção	[intervenção]	n	F=S	O	NP	ACC	-	-
+1	12	política	[político]	adj	F=S	-	NP	ACC	-	-
+1	13	,	[]	,	-	-	O	ACC	-	-
+1	14	que	[que]	pron-indp	M=P	O	NP	SUBJ	-	-
+1	15	vão	[ir]	v-fin	PR=3P=IND	-	VP	P	-	-
+1	16	decorrer	[decorrer]	v-inf	-	-	VP	P	-	-
+1	17	em	[em]	prp	-	-	PP	ADVL	-	-
+1	18	o	[o]	art	M=S	-	NP	ADVL	-	-
+1	19	Centro	[centro]	n	M=S	O	NP	ADVL	-	-
+1	20	de	[de]	prp	-	-	PP	ADVL	-	-
+1	21	Trabalho	[trabalho]	n	M=S	O	NP	ADVL	-	-
+1	22	de	[de]	prp	-	-	PP	ADVL	-	-
+1	23	o	[o]	art	M=S	-	NP	ADVL	-	-
+1	24	PCP	[PCP]	prop	M=S	-	NP	ADVL	-	-
+1	25	.	[.]	.	-	-	O	O	-	-
+
+2	0	.	[.]	.	-	-	O	O	-	-
+
+3	0	Esta	[este]	pron-det	F=S	-	NP	SUBJ	-	-
+3	1	iniciativa	[iniciativa]	n	F=S	-	NP	SUBJ	-	-
+3	2	insere	[inserir]	v-fin	PR=3S=IND	-	VP	P	-	-
+3	3	-se	[]	pron-pers	F=3S=ACC	-	NP	O	-	-
+3	4	em	[em]	prp	-	-	PP	ADVL	-	-
+3	5	as	[o]	art	F=P	-	NP	ADVL	-	-
+3	6	comemorações	[comemorar]	n	F=P	-	NP	ADVL	-	-
+3	7	de	[de]	prp	-	-	PP	ADVL	-	-
+3	8	os	[o]	art	M=P	-	NP	ADVL	-	-
+3	9	78	[]	num	M=P	-	NP	ADVL	-	-
+3	10	anos	[ano]	n	M=P	-	NP	ADVL	-	-
+3	11	de	[de]	prp	-	-	PP	ADVL	-	-
+3	12	existência	[existência]	n	F=S	-	NP	ADVL	-	-
+3	13	de	[de]	prp	-	-	PP	ADVL	-	-
+3	14	o	[o]	art	M=S	-	NP	ADVL	-	-
+3	15	PCP	[PCP]	prop	M=S	-	NP	ADVL	-	-
+3	16	,	[]	,	-	-	O	ADVL	-	-
+3	17	que	[que]	pron-indp	M=S	-	NP	SUBJ	-	-
+3	18	se	[se]	pron-pers	M=3S=ACC	-	NP	ACC	-	-
+3	19	celebram	[celebrar]	v-fin	PR=3P=IND	-	VP	P	-	-
+3	20	precisamente	[preciso]	adv	-	-	ADVP	ADVL	-	-
+3	21	dia	[dia]	n	M=S	-	NP	ACC	-	-
+3	22	6	[]	num	M=P	-	NP	ACC	-	-
+3	23	.	[.]	.	-	-	O	O	-	-
+
+4	0	.	[.]	.	-	-	O	O	-	-
+

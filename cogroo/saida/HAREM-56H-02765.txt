@@ -1,0 +1,138 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Escutismo	[escutismo, escuta]	n	M=S	O	NP	SUBJ
+0	1	distingue	[distinguir]	v-fin	PR=3S=IND	-	VP	P
+0	2	Câmara	[câmara]	n	F=S	O	NP	ACC
+0	3	de	[de]	prp	-	-	PP	ACC
+0	4	Santo_Tirso	[]	prop	M=S	O	NP	ACC
+0	5	.	[.]	.	-	-	O	O
+
+1	0	O	[o]	art	M=S	-	NP	SUBJ
+1	1	Corpo_Nacional_de_Escutas	[]	prop	M=S	O	NP	SUBJ
+1	2	(	[(]	(	-	-	O	SUBJ
+1	3	CNE	[CNE]	prop	F=S	O	NP	APP
+1	4	)	[)]	)	-	-	O	O
+1	5	atribuiu	[atribuir]	v-fin	PS=3S=IND	-	VP	P
+1	6	ontem	[ontem]	adv	-	-	ADVP	ADVL
+1	7	a	[a]	prp	-	-	PP	PIV
+1	8	a	[o]	art	F=S	-	NP	PIV
+1	9	Câmara_de_Santo_Tirso	[]	prop	F=S	O	NP	PIV
+1	10	o	[o]	art	M=S	-	NP	ACC
+1	11	diploma	[diploma]	n	M=S	O	NP	ACC
+1	12	de	[de]	prp	-	-	PP	ACC
+1	13	Mérito_Nacional	[]	prop	M=S	O	NP	ACC
+1	14	,	[]	,	-	-	O	ACC
+1	15	a	[o]	art	F=S	-	NP	ACC
+1	16	sua	[sua]	pron-det	F=S	O	NP	ACC
+1	17	mais	[mais]	adv	-	-	NP	ACC
+1	18	alta	[alto]	adj	F=S	-	NP	ACC
+1	19	distinção	[distinção]	n	F=S	-	NP	ACC
+1	20	,	[]	,	-	-	O	O
+1	21	por	[por]	prp	-	-	PP	ADVL
+1	22	o	[o]	art	M=S	-	NP	ADVL
+1	23	«	[]	«	-	-	NP	ADVL
+1	24	apoio	[apoio]	n	M=S	O	NP	ADVL
+1	25	incondicional	[incondicional, condicional]	adj	M=S	-	NP	ADVL
+1	26	de	[de]	prp	-	-	PP	ADVL
+1	27	a	[o]	art	F=S	-	NP	ADVL
+1	28	autarquia	[autarquia]	n	F=S	O	NP	ADVL
+1	29	a	[a]	prp	-	-	PP	ADVL
+1	30	o	[o]	art	M=S	-	NP	ADVL
+1	31	escutismo	[escutismo, escuta]	n	M=S	O	NP	ADVL
+1	32	em	[em]	prp	-	-	PP	ADVL
+1	33	o	[o]	art	M=S	-	NP	ADVL
+1	34	concelho	[concelho]	n	M=S	O	NP	ADVL
+1	35	»	[]	»	-	-	O	O
+1	36	.	[.]	.	-	-	O	O
+
+2	0	.	[.]	.	-	-	O	O
+
+3	0	A	[o]	art	F=S	-	NP	SUBJ
+3	1	atribuição	[atribuição, atribuir]	n	F=S	O	NP	SUBJ
+3	2	de	[de]	prp	-	-	PP	SUBJ
+3	3	esta	[este]	pron-det	F=S	O	NP	SUBJ
+3	4	distinção	[distinção]	n	F=S	-	NP	SUBJ
+3	5	surge	[surgir]	v-fin	PR=3S=IND	-	VP	P
+3	6	em	[em]	prp	-	-	PP	ADVL
+3	7	o	[o]	art	M=S	-	NP	ADVL
+3	8	âmbito	[âmbito]	n	M=S	O	NP	ADVL
+3	9	de	[de]	prp	-	-	PP	ADVL
+3	10	as	[o]	art	F=P	-	NP	ADVL
+3	11	comemorações	[comemorar]	n	F=P	O	NP	ADVL
+3	12	de	[de]	prp	-	-	PP	ADVL
+3	13	os	[o]	art	M=P	-	NP	ADVL
+3	14	75	[]	num	M=P	-	NP	ADVL
+3	15	anos	[ano]	n	M=P	O	NP	ADVL
+3	16	de	[de]	prp	-	-	PP	ADVL
+3	17	existência	[existência]	n	F=S	O	NP	ADVL
+3	18	de	[de]	prp	-	-	PP	ADVL
+3	19	o	[o]	art	M=S	-	NP	ADVL
+3	20	Movimento_Escuteiro_de_Portugal	[]	prop	M=S	O	NP	ADVL
+3	21	,	[]	,	-	-	O	ADVL
+3	22	cujas	[cujo]	pron-det	F=P	O	NP	SUBJ
+3	23	festividades	[festividade, festivo]	n	F=P	-	NP	SUBJ
+3	24	decorreram	[decorrer]	v-fin	MQP=3P=IND	-	VP	P
+3	25	durante	[durante]	prp	-	-	PP	ADVL
+3	26	o	[o]	art	M=S	-	NP	ADVL
+3	27	mês	[mês]	n	M=S	O	NP	ADVL
+3	28	de	[de]	prp	-	-	PP	ADVL
+3	29	Dezembro	[dezembro]	n	M=S	O	NP	ADVL
+3	30	.	[.]	.	-	-	O	O
+
+4	0	.	[.]	.	-	-	O	O
+
+5	0	«	[]	«	-	-	O	O
+5	1	A	[o]	art	F=S	-	NP	SUBJ
+5	2	Câmara_de_Santo_Tirso	[]	n	F=S	O	NP	SUBJ
+5	3	tem	[ter]	v-fin	PR=3S=IND	-	VP	P
+5	4	apoiado	[apoiar]	v-pcp	M=S	-	VP	P
+5	5	,	[]	,	-	-	O	O
+5	6	incondicionalmente	[incondicional]	adv	-	-	ADVP	ADVL
+5	7	e	[e]	conj-c	-	-	O	ADVL
+5	8	desde	[desde]	prp	-	-	PP	ADVL
+5	9	sempre	[sempre]	adv	-	-	PP	ADVL
+5	10	,	[]	,	-	-	O	O
+5	11	o	[o]	art	M=S	-	NP	SUBJ
+5	12	escutismo	[escutismo, escuta]	n	M=S	O	NP	SUBJ
+5	13	em	[em]	prp	-	-	PP	SUBJ
+5	14	o	[o]	art	M=S	-	NP	SUBJ
+5	15	concelho	[concelho]	n	M=S	O	NP	SUBJ
+5	16	,	[]	,	-	-	O	SUBJ
+5	17	criando	[criar]	v-ger	-	-	VP	P
+5	18	melhores	[melhor]	adj	F=P	-	NP	ACC
+5	19	condições	[condição]	n	F=P	O	NP	ACC
+5	20	para	[para]	prp	-	-	PP	ACC
+5	21	que	[que]	conj-s	-	-	PP	ACC
+5	22	os	[o]	art	M=P	-	NP	SUBJ
+5	23	Agrupamentos	[agrupar]	n	M=P	O	NP	SUBJ
+5	24	de	[de]	prp	-	-	PP	SUBJ
+5	25	Escuteiros	[escuteiro]	n	M=P	O	NP	SUBJ
+5	26	existentes	[]	v-pcp	M=P	-	VP	P
+5	27	em	[em]	prp	-	-	PP	ADVL
+5	28	o	[o]	art	M=S	-	NP	ADVL
+5	29	município	[município]	n	M=S	O	NP	ADVL
+5	30	façam	[fazer]	v-fin	PR=3P=SUBJ	-	VP	P
+5	31	chegar	[chegar]	v-inf	-	-	VP	P
+5	32	a	[a]	prp	-	-	PP	PIV
+5	33	as	[o]	art	F=P	-	NP	PIV
+5	34	escolas	[escola]	n	F=P	O	NP	PIV
+5	35	e	[e]	conj-c	-	-	O	PIV
+5	36	a	[a]	prp	-	-	PP	PIV
+5	37	os	[o]	art	M=P	-	NP	PIV
+5	38	jovens	[jovem]	adj	M=P	-	NP	PIV
+5	39	locais	[local]	n	M=P	O	NP	PIV
+5	40	os	[o]	art	M=P	-	NP	PIV
+5	41	seus	[seu]	pron-det	M=P	O	NP	PIV
+5	42	inúmeros	[inúmero]	adj	M=P	-	NP	PIV
+5	43	projectos	[]	n	M=P	-	NP	PIV
+5	44	educativos	[educativo]	adj	M=P	-	NP	PIV
+5	45	»	[]	»	-	-	O	O
+5	46	,	[]	,	-	-	O	O
+5	47	sublinhou	[sublinhar]	v-fin	PS=3S=IND	-	VP	P
+5	48	fonte	[fonte]	n	F=S	O	NP	ACC
+5	49	de	[de]	prp	-	-	PP	ACC
+5	50	a	[o]	art	F=S	-	NP	ACC
+5	51	CNE	[CNE]	prop	F=S	O	NP	ACC
+5	52	.	[.]	.	-	-	O	O
+
+6	0	.	[.]	.	-	-	O	O
+

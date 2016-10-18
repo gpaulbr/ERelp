@@ -1,0 +1,507 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	Nihonline	[]	prop	M=S	O	NP	O	-	-
+0	1	.	[.]	.	-	-	O	O	-	-
+
+1	0	Destaques	[destaque]	n	M=P	O	NP	O	-	-
+1	1	.	[.]	.	-	-	O	O	-	-
+
+2	0	Conheça_Marcio_Suzuki	[]	prop	M=S	O	NP	SUBJ	-	-
+2	1	,	[]	,	-	-	O	O	-	-
+2	2	o	[o]	art	M=S	-	NP	SUBJ	-	-
+2	3	cóuboi	[]	n	M=S	O	NP	SUBJ	-	-
+2	4	nikkei	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+2	5	que	[que]	conj-s	-	-	O	ACC	-	-
+2	6	sonha	[sonhar]	v-fin	PR=3S=IND	-	VP	P	-	-
+2	7	seguir	[seguir]	v-inf	-	-	VP	P	-	-
+2	8	carreira	[carreira]	n	F=S	O	NP	ACC	-	-
+2	9	em	[em]	prp	-	-	PP	ACC	-	-
+2	10	Las_Vegas	[]	prop	M=S	O	NP	ACC	-	-
+2	11	em	[em]	prp	-	-	PP	ACC	-	-
+2	12	os	[o]	art	M=P	-	NP	ACC	-	-
+2	13	Estados_Unidos	[]	prop	M=P	O	NP	ACC	-	-
+2	14	.	[.]	.	-	-	O	O	-	-
+
+3	0	.	[.]	.	-	-	O	O	-	-
+
+4	0	Baladas	[]	prop	F=P	O	NP	O	-	-
+4	1	:	[:]	:	-	-	O	O	-	-
+
+5	0	Confira	[conferir]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+5	1	as	[o]	art	F=P	-	NP	ACC	-	-
+5	2	datas	[data]	n	F=P	O	NP	ACC	-	-
+5	3	de	[de]	prp	-	-	PP	ACC	-	-
+5	4	as	[o]	art	F=P	-	NP	ACC	-	-
+5	5	próximas	[próximo]	adj	F=P	-	NP	ACC	-	-
+5	6	festas	[festa]	n	F=P	O	NP	ACC	-	-
+5	7	de	[de]	prp	-	-	PP	ACC	-	-
+5	8	a	[o]	art	F=S	-	NP	ACC	-	-
+5	9	comunidade	[comunidade]	n	F=S	O	NP	ACC	-	-
+5	10	jovem	[jovem]	adj	F=S	-	NP	ACC	-	-
+5	11	nipo-brasileira	[]	n	M=S	O	NP	ACC	-	-
+5	12	Lançamento	[]	prop	M=S	O	NP	ACC	-	-
+5	13	!	[]	!	-	-	O	O	-	-
+
+6	0	.	[.]	.	-	-	O	O	-	-
+
+7	0	Maria_Helena_Sato	[]	prop	F=S	O	NP	SUBJ	-	-
+7	1	acaba	[acabar]	v-fin	PR=3S=IND	-	VP	P	-	-
+7	2	de	[de]	prp	-	-	VP	P	-	-
+7	3	lançar	[lançar]	v-inf	-	-	VP	P	-	-
+7	4	o	[o]	art	M=S	-	NP	ACC	-	-
+7	5	livro	[livro]	n	M=S	O	NP	ACC	-	-
+7	6	"	["]	"	-	-	O	ACC	-	-
+7	7	Bonsais	[]	prop	M=S	O	NP	ACC	-	-
+7	8	e	[e]	conj-c	-	-	O	ACC	-	-
+7	9	Haicais	[]	prop	M=S	O	NP	ACC	-	-
+7	10	"	["]	"	-	-	O	ACC	-	-
+7	11	em	[em]	prp	-	-	PP	ADVL	-	-
+7	12	prol	[prol]	n	M=S	O	NP	ADVL	-	-
+7	13	de	[de]	prp	-	-	PP	ADVL	-	-
+7	14	a	[o]	art	F=S	-	NP	ADVL	-	-
+7	15	Igreja_Santa_Cruz	[]	prop	F=S	O	NP	ADVL	-	-
+7	16	.	[.]	.	-	-	O	O	-	-
+
+8	0	.	[.]	.	-	-	O	O	-	-
+
+9	0	Dizem	[dizer]	v-fin	PR=3P=IND	-	VP	P	-	-
+9	1	que	[que]	conj-s	-	-	O	ACC	-	-
+9	2	a	[o]	art	F=S	-	NP	SUBJ	-	-
+9	3	máquina	[máquina]	n	F=S	O	NP	SUBJ	-	-
+9	4	tem	[ter]	v-fin	PR=3S=IND	-	VP	P	-	-
+9	5	derrotado	[derrotar]	v-pcp	M=S	-	VP	P	-	-
+9	6	o	[o]	art	M=S	-	NP	ACC	-	-
+9	7	homem	[homem]	n	M=S	O	NP	ACC	-	-
+9	8	.	[.]	.	-	-	O	O	-	-
+
+10	0	.	[.]	.	-	-	O	O	-	-
+
+11	0	em	[em]	prp	-	-	PP	ADVL	-	-
+11	1	esse	[esse]	pron-det	M=S	O	NP	ADVL	-	-
+11	2	game	[gamar]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+11	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+11	4	homem	[homem]	n	M=S	O	NP	SC	-	-
+11	5	contra	[contra]	prp	-	-	PP	SC	-	-
+11	6	homem	[homem]	n	M=S	-	NP	SC	-	-
+11	7	.	[.]	.	-	-	O	O	-	-
+
+12	0	.	[.]	.	-	-	O	O	-	-
+
+13	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+13	1	nosso	[nosso]	pron-det	M=S	O	NP	SUBJ	-	-
+13	2	reporter	[]	n	M=S	-	NP	SUBJ	-	-
+13	3	"	["]	"	-	-	O	SUBJ	-	-
+13	4	Jappa	[]	prop	F=S	O	NP	SUBJ	-	-
+13	5	"	["]	"	-	-	O	SUBJ	-	-
+13	6	esteve	[estar]	v-fin	PS=3S=IND	-	VP	P	-	-
+13	7	presente	[presente]	adj	M=S	-	NP	SC	-	-
+13	8	em	[em]	prp	-	-	PP	ADVL	-	-
+13	9	uma	[um]	art	F=S	-	NP	ADVL	-	-
+13	10	de	[de]	prp	-	-	PP	ADVL	-	-
+13	11	as	[o]	art	F=P	-	NP	ADVL	-	-
+13	12	edições	[edição]	n	F=P	O	NP	ADVL	-	-
+13	13	de	[de]	prp	-	-	PP	ADVL	-	-
+13	14	o	[o]	art	M=S	-	NP	ADVL	-	-
+13	15	Mercado_Mundo_Mix	[]	prop	M=S	O	NP	ADVL	-	-
+13	16	,	[]	,	-	-	O	O	-	-
+13	17	confira	[conferir]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+13	18	a	[o]	art	F=S	-	NP	ACC	-	-
+13	19	reportagem	[reportagem]	n	F=S	O	NP	ACC	-	-
+13	20	.	[.]	.	-	-	O	O	-	-
+
+14	0	.	[.]	.	-	-	O	O	-	-
+
+15	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+15	1	Grupo_Escoteiro_Caramuru	[]	prop	M=S	O	NP	SUBJ	-	-
+15	2	prepara	[preparar]	v-fin	PR=3S=IND	-	VP	P	-	-
+15	3	mais	[mais]	adv	-	-	NP	ACC	-	-
+15	4	um	[um]	num	M=S	-	NP	ACC	-	-
+15	5	super_Bazar	[]	n	M=S	O	NP	ACC	-	-
+15	6	para	[para]	prp	-	-	PP	ACC	-	-
+15	7	você	[você]	pron-pers	M/F=3S=NOM	O	NP	ACC	-	-
+15	8	!	[]	!	-	-	O	O	-	-
+
+16	0	.	[.]	.	-	-	O	O	-	-
+
+17	0	Confira	[conferir]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+17	1	!	[]	!	-	-	O	O	-	-
+17	2	.	[.]	.	-	-	O	O	-	-
+
+18	0	Últimas_Notícias_Amazing_Party	[]	adj	M/F=S	-	NP	O	-	-
+18	1	:	[:]	:	-	-	O	O	-	-
+
+19	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+19	1	criatividade	[criatividade]	n	F=S	O	NP	SUBJ	-	-
+19	2	e	[e]	conj-c	-	-	O	SUBJ	-	-
+19	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+19	4	animação	[animar]	n	F=S	O	NP	SUBJ	-	-
+19	5	de	[de]	prp	-	-	PP	SUBJ	-	-
+19	6	o	[o]	art	M=S	-	NP	SUBJ	-	-
+19	7	pessoal	[pessoal]	n	M=S	O	NP	SUBJ	-	-
+19	8	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+19	9	a	[o]	art	F=S	-	NP	ACC	-	-
+19	10	marca	[marca]	n	F=S	O	NP	ACC	-	-
+19	11	registrada	[]	v-pcp	F=S	-	NP	ACC	-	-
+19	12	de	[de]	prp	-	-	PP	ACC	-	-
+19	13	esta	[este]	pron-det	F=S	O	NP	ACC	-	-
+19	14	festa	[festa]	n	F=S	-	NP	ACC	-	-
+19	15	.	[.]	.	-	-	O	O	-	-
+
+20	0	.	[.]	.	-	-	O	O	-	-
+
+21	0	Você	[você]	pron-pers	M/F=3S=NOM	O	NP	SUBJ	-	-
+21	1	sabia	[saber]	v-fin	IMPF=3S=IND	-	VP	P	-	-
+21	2	que	[que]	conj-s	-	-	O	ACC	-	-
+21	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+21	4	Kendi_Yamai	[]	prop	M=S	O	NP	SUBJ	-	-
+21	5	(	[(]	(	-	-	O	SUBJ	-	-
+21	6	Planet_Dance	[]	prop	M=S	O	NP	APP	-	-
+21	7	)	[)]	)	-	-	O	O	-	-
+21	8	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+21	9	candidato	[candidato]	n	M=S	O	NP	SC	-	-
+21	10	a	[a]	prp	-	-	PP	SC	-	-
+21	11	vereador	[vereador, verear]	n	M=S	O	NP	SC	-	-
+21	12	em	[em]	prp	-	-	PP	SC	-	-
+21	13	a	[o]	art	F=S	-	NP	SC	-	-
+21	14	cidade	[cidade]	n	F=S	O	NP	SC	-	-
+21	15	de	[de]	prp	-	-	PP	SC	-	-
+21	16	Sorocaba	[]	prop	F=S	O	NP	SC	-	-
+21	17	?	[?]	?	-	-	O	O	-	-
+
+22	0	.	[.]	.	-	-	O	O	-	-
+
+23	0	Pois	[]	adv	-	-	ADVP	ADVL	-	-
+23	1	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+23	2	,	[]	,	-	-	O	SC	-	-
+23	3	tanto	[tanto]	adv	-	-	ADVP	ADVL	-	-
+23	4	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+23	5	verdade	[verdade]	n	F=S	O	NP	SC	-	-
+23	6	que	[que]	pron-indp	F=S	O	NP	ACC	-	-
+23	7	a	[o]	art	F=S	-	NP	SUBJ	-	-
+23	8	Nihonline	[]	prop	F=S	O	NP	SUBJ	-	-
+23	9	está	[estar]	v-fin	PR=3S=IND	-	VP	P	-	-
+23	10	torcendo	[torcer]	v-ger	-	-	VP	P	-	-
+23	11	para	[para]	prp	-	-	PP	ADVL	-	-
+23	12	que	[que]	conj-s	-	-	PP	ADVL	-	-
+23	13	ele	[ele]	pron-pers	M=3S=NOM	O	NP	SUBJ	-	-
+23	14	consiga	[conseguir]	v-fin	PR=1S=SUBJ	-	VP	P	-	-
+23	15	chegar	[chegar]	v-inf	-	-	VP	P	-	-
+23	16	lá	[lá]	adv	-	-	ADVP	ADVL	-	-
+23	17	.	[.]	.	-	-	O	O	-	-
+
+24	0	.	[.]	.	-	-	O	O	-	-
+
+25	0	Boa_Sorte_Kendi	[]	prop	M=S	O	NP	O	-	-
+25	1	!	[]	!	-	-	O	O	-	-
+
+26	0	.	[.]	.	-	-	O	O	-	-
+
+27	0	Promoções_Cadastre	[]	prop	M=S	O	NP	O	-	-
+27	1	-se	[]	pron-pers	M=3S=ACC	O	NP	O	-	-
+27	2	para	[para]	prp	-	-	PP	O	-	-
+27	3	concorrer	[concorrer]	v-inf	-	-	VP	P	-	-
+27	4	a	[a]	prp	-	-	PP	PIV	-	-
+27	5	vip's	[]	n	M=P	O	NP	PIV	-	-
+27	6	em	[em]	prp	-	-	PP	ADVL	-	-
+27	7	as	[o]	art	F=P	-	NP	ADVL	-	-
+27	8	seguintes	[seguinte]	adj	F=P	-	NP	ADVL	-	-
+27	9	festas	[festa]	n	F=P	O	NP	ADVL	-	-
+27	10	:	[:]	:	-	-	O	O	-	-
+
+28	0	.	[.]	.	-	-	O	O	-	-
+
+29	0	-	[]	-	-	-	O	O	-	-
+29	1	Amazing_Party_III	[]	prop	M=S	O	NP	SUBJ	-	-
+29	2	-	[]	-	-	-	O	SUBJ	-	-
+29	3	Metro_Tech_6_-_Whisky_Party	[]	prop	M=S	O	NP	SUBJ	-	-
+29	4	&gt	[]	prop	M=S	O	NP	SUBJ	-	-
+29	5	;	[;]	;	-	-	O	O	-	-
+
+30	0	Whisky_Party	[]	prop	M=S	O	NP	SUBJ	-	-
+30	1	(	[(]	(	-	-	O	SUBJ	-	-
+30	2	Campinas	[Campinas]	prop	M=S	O	NP	SUBJ	-	-
+30	3	)	[)]	)	-	-	O	SUBJ	-	-
+30	4	:	[:]	:	-	-	O	O	-	-
+
+31	0	Aqui	[aqui]	adv	-	-	ADVP	ADVL	-	-
+31	1	em	[em]	prp	-	-	PP	ADVL	-	-
+31	2	a	[o]	art	F=S	-	NP	ADVL	-	-
+31	3	Nihonline	[]	prop	F=S	O	NP	ADVL	-	-
+31	4	você	[você]	pron-pers	M/F=3S=NOM	O	NP	SUBJ	-	-
+31	5	ganha	[ganhar]	v-fin	PR=3S=IND	-	VP	P	-	-
+31	6	desconto	[desconto]	n	M=S	O	NP	ACC	-	-
+31	7	para	[para]	prp	-	-	PP	ADVL	-	-
+31	8	esta	[este]	pron-det	F=S	O	NP	ADVL	-	-
+31	9	super_festa	[]	n	F=S	-	NP	ADVL	-	-
+31	10	!	[]	!	-	-	O	O	-	-
+
+32	0	.	[.]	.	-	-	O	O	-	-
+
+33	0	Esporte_Diversos_Judo	[]	prop	M=S	O	NP	O	-	-
+33	1	:	[:]	:	-	-	O	O	-	-
+
+34	0	Esse	[esse]	pron-det	M=S	O	NP	SUBJ	-	-
+34	1	ano	[ano]	n	M=S	-	NP	SUBJ	-	-
+34	2	não	[não]	adv	-	-	ADVP	ADVL	-	-
+34	3	deu	[dar]	v-fin	PS=3S=IND	-	VP	P	-	-
+34	4	para	[para]	prp	-	-	PP	PIV	-	-
+34	5	a	[o]	art	F=S	-	NP	PIV	-	-
+34	6	nossa	[nosso]	pron-det	F=S	O	NP	PIV	-	-
+34	7	Vânia_Ishii	[]	n	F=S	-	NP	PIV	-	-
+34	8	,	[]	,	-	-	O	O	-	-
+34	9	mas	[mas]	conj-c	-	-	O	O	-	-
+34	10	você	[você]	pron-pers	M/F=3S=NOM	O	NP	SUBJ	-	-
+34	11	conseguiu	[conseguir]	v-fin	PS=3S=IND	-	VP	P	-	-
+34	12	entender	[entender]	v-inf	-	-	VP	P	-	-
+34	13	a	[o]	art	F=S	-	NP	ACC	-	-
+34	14	luta	[luta]	n	F=S	O	NP	ACC	-	-
+34	15	?	[?]	?	-	-	O	O	-	-
+
+35	0	.	[.]	.	-	-	O	O	-	-
+
+36	0	Se	[se]	conj-s	-	-	O	ADVL	-	-
+36	1	a	[o]	art	F=S	-	NP	SUBJ	-	-
+36	2	resposta	[resposta]	n	F=S	O	NP	SUBJ	-	-
+36	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+36	4	não	[não]	adv	-	-	ADVP	ADVL	-	-
+36	5	,	[]	,	-	-	O	O	-	-
+36	6	então	[então]	adv	-	-	ADVP	ADVL	-	-
+36	7	clique	[clicar]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+36	8	aqui	[aqui]	adv	-	-	ADVP	ADVL	-	-
+36	9	!	[]	!	-	-	O	O	-	-
+
+37	0	.	[.]	.	-	-	O	O	-	-
+
+38	0	Cultura	[]	prop	F=S	O	NP	O	-	-
+38	1	:	[:]	:	-	-	O	O	-	-
+
+39	0	Venha	[vir]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+39	1	conhecer	[conhecer]	v-inf	-	-	VP	P	-	-
+39	2	o	[o]	art	M=S	-	NP	ACC	-	-
+39	3	Museu	[museu]	n	M=S	O	NP	ACC	-	-
+39	4	de	[de]	prp	-	-	PP	ACC	-	-
+39	5	a	[o]	art	F=S	-	NP	ACC	-	-
+39	6	Imigração_Japonesa	[]	prop	F=S	O	NP	ACC	-	-
+39	7	,	[]	,	-	-	O	ACC	-	-
+39	8	um	[um]	num	M=S	-	NP	ACC	-	-
+39	9	de	[de]	prp	-	-	PP	ACC	-	-
+39	10	os	[o]	art	M=P	-	NP	ACC	-	-
+39	11	maiores	[maior]	adj	M=P	-	NP	ACC	-	-
+39	12	patrimônios	[patrimônio]	n	M=P	O	NP	ACC	-	-
+39	13	de	[de]	prp	-	-	PP	ACC	-	-
+39	14	a	[o]	art	F=S	-	NP	ACC	-	-
+39	15	comunidade	[comunidade]	n	F=S	O	NP	ACC	-	-
+39	16	nipo-brasileira	[]	n	F=S	O	NP	ACC	-	-
+39	17	.	[.]	.	-	-	O	O	-	-
+
+40	0	.	[.]	.	-	-	O	O	-	-
+
+41	0	Beisebol	[]	prop	M=S	O	NP	SUBJ	-	-
+41	1	e	[e]	conj-c	-	-	O	SUBJ	-	-
+41	2	Softbol	[]	prop	M=S	O	NP	SUBJ	-	-
+41	3	:	[:]	:	-	-	O	O	-	-
+
+42	0	Este	[este]	pron-det	M=S	O	NP	SUBJ	-	-
+42	1	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+42	2	um	[um]	num	M=S	-	NP	SC	-	-
+42	3	de	[de]	prp	-	-	PP	SC	-	-
+42	4	os	[o]	art	M=P	-	NP	SC	-	-
+42	5	esportes	[]	n	M=P	O	NP	SC	-	-
+42	6	que	[que]	pron-indp	M=P	O	NP	SUBJ	-	-
+42	7	mais	[mais]	adv	-	-	ADVP	ADVL	-	-
+42	8	possui	[possuir]	v-fin	PR=3S=IND	-	VP	P	-	-
+42	9	praticantes	[praticante]	n	M=P	O	NP	ACC	-	-
+42	10	nikkeys	[]	adj	M=P	-	NP	ACC	-	-
+42	11	,	[]	,	-	-	O	O	-	-
+42	12	venha	[vir]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+42	13	saber	[saber]	v-inf	-	-	VP	P	-	-
+42	14	um	[um]	art	M=S	-	NP	ACC	-	-
+42	15	pouco	[pouco]	pron-det	M=S	O	NP	ACC	-	-
+42	16	mais	[mais]	adv	-	-	ADVP	ADVL	-	-
+42	17	sobre	[sobre]	prp	-	-	PP	ADVL	-	-
+42	18	ele	[ele]	pron-pers	M=3S=NOM	O	NP	ADVL	-	-
+42	19	.	[.]	.	-	-	O	O	-	-
+
+43	0	.	[.]	.	-	-	O	O	-	-
+
+44	0	Abeuni	[]	prop	M=S	O	NP	O	-	-
+44	1	:	[:]	:	-	-	O	O	-	-
+
+45	0	Saiba	[saber]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+45	1	um	[um]	art	M=S	-	NP	ACC	-	-
+45	2	pouco	[pouco]	pron-det	M=S	O	NP	ACC	-	-
+45	3	mais	[mais]	adv	-	-	NP	ACC	-	-
+45	4	sobre	[sobre]	prp	-	-	PP	ACC	-	-
+45	5	uma	[um]	art	F=S	-	NP	ACC	-	-
+45	6	de	[de]	prp	-	-	PP	ACC	-	-
+45	7	as	[o]	art	F=P	-	NP	ACC	-	-
+45	8	miores	[]	adj	F=P	-	NP	ACC	-	-
+45	9	entidades	[entidade]	n	F=P	O	NP	ACC	-	-
+45	10	de	[de]	prp	-	-	PP	ACC	-	-
+45	11	a	[o]	art	F=S	-	NP	ACC	-	-
+45	12	comunidade	[comunidade]	n	F=S	O	NP	ACC	-	-
+45	13	,	[]	,	-	-	O	O	-	-
+45	14	veja	[ver]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+45	15	também	[também]	adv	-	-	ADVP	ADVL	-	-
+45	16	o	[o]	art	M=S	-	NP	SC	-	-
+45	17	relato	[relato]	n	M=S	O	NP	SC	-	-
+45	18	de	[de]	prp	-	-	PP	SC	-	-
+45	19	alguns	[algum]	pron-det	M=P	O	NP	SC	-	-
+45	20	integrantes	[]	n	M=P	-	NP	SC	-	-
+45	21	.	[.]	.	-	-	O	O	-	-
+
+46	0	.	[.]	.	-	-	O	O	-	-
+
+47	0	Atletas	[atleta]	n	M=P	O	NP	SUBJ	-	-
+47	1	brasileiros	[brasileiro]	adj	M=P	-	NP	SUBJ	-	-
+47	2	brilham	[brilhar]	v-fin	PR=3P=IND	-	VP	P	-	-
+47	3	em	[em]	prp	-	-	PP	ADVL	-	-
+47	4	o	[o]	art	M=S	-	NP	ADVL	-	-
+47	5	"	["]	"	-	-	NP	ADVL	-	-
+47	6	Hungarian_Youth_Table_Tennis_World_Festival	[]	prop	M=S	O	NP	ADVL	-	-
+47	7	"	["]	"	-	-	NP	ADVL	-	-
+47	8	-	[]	-	-	-	O	ADVL	-	-
+47	9	na_foto_ao	[]	prp	-	-	PP	ADVL	-	-
+47	10	o	[o]	art	M=S	-	NP	ADVL	-	-
+47	11	lado	[lado]	n	M=S	O	NP	ADVL	-	-
+47	12	:	[:]	:	-	-	O	O	-	-
+
+48	0	Lincon_Yassuda	[]	prop	M=S	O	NP	SUBJ	-	-
+48	1	,	[]	,	-	-	O	SUBJ	-	-
+48	2	Gustavo_Tsuboi	[]	prop	M=S	O	NP	SUBJ	-	-
+48	3	e	[e]	conj-c	-	-	O	SUBJ	-	-
+48	4	seu	[seu]	pron-det	M=S	O	NP	SUBJ	-	-
+48	5	parceiro	[parceiro]	n	M=S	-	NP	SUBJ	-	-
+48	6	romeno	[romeno]	adj	M=S	-	NP	SUBJ	-	-
+48	7	Ibirapuera	[]	prop	M=S	O	NP	SUBJ	-	-
+48	8	ganha	[ganhar]	v-fin	PR=3S=IND	-	VP	P	-	-
+48	9	mudas	[mudo]	n	F=P	O	NP	ACC	-	-
+48	10	de	[de]	prp	-	-	PP	ACC	-	-
+48	11	cerejeira	[cerejeira]	n	F=S	O	NP	ACC	-	-
+48	12	:	[:]	:	-	-	O	O	-	-
+
+49	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+49	1	parque	[parque]	n	M=S	O	NP	SUBJ	-	-
+49	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+49	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+49	4	Ibirapuera	[]	prop	M=S	O	NP	SUBJ	-	-
+49	5	ganhou	[ganhar]	v-fin	PS=3S=IND	-	VP	P	-	-
+49	6	100	[]	num	M=P	-	NP	ACC	-	-
+49	7	pés	[pé]	n	M=P	O	NP	ACC	-	-
+49	8	de	[de]	prp	-	-	PP	ACC	-	-
+49	9	cerejeira	[cerejeira]	n	F=S	O	NP	ACC	-	-
+49	10	.	[.]	.	-	-	O	O	-	-
+
+50	0	.	[.]	.	-	-	O	O	-	-
+
+51	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+51	1	iniciativa	[iniciativa]	n	F=S	O	NP	SUBJ	-	-
+51	2	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+51	3	de	[de]	prp	-	-	PP	SC	-	-
+51	4	a	[o]	art	F=S	-	NP	SC	-	-
+51	5	Comissão_das_Cidades_Irmãs_São_Paulo	[]	prop	F=S	O	NP	SC	-	-
+51	6	-	[]	-	-	-	O	SC	-	-
+51	7	Osaka	[Osaka]	prop	M=S	O	NP	SC	-	-
+51	8	,	[]	,	-	-	O	SC	-	-
+51	9	que	[que]	pron-indp	M=S	O	NP	SUBJ	-	-
+51	10	plantou-as	[]	v-fin	PS=3S=IND	-	VP	P	-	-
+51	11	próximo	[próximo]	adj	M=S	-	NP	SC	-	-
+51	12	a	[a]	prp	-	-	PP	SC	-	-
+51	13	o	[o]	art	M=S	-	NP	SC	-	-
+51	14	Pavilhão_Japonês	[]	n	M=S	O	NP	SC	-	-
+51	15	.	[.]	.	-	-	O	O	-	-
+
+52	0	.	[.]	.	-	-	O	O	-	-
+
+53	0	Coma	[]	prop	F=S	O	NP	O	-	-
+53	1	a	[a]	prp	-	-	PP	O	-	-
+53	2	a	[o]	art	F=S	-	NP	O	-	-
+53	3	vontade	[vontade]	n	F=S	O	NP	O	-	-
+53	4	:	[:]	:	-	-	O	O	-	-
+
+54	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+54	1	equipe	[]	n	F=S	O	NP	SUBJ	-	-
+54	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+54	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+54	4	Jornal	[jornal]	n	M=S	O	NP	SUBJ	-	-
+54	5	de	[de]	prp	-	-	PP	SUBJ	-	-
+54	6	o	[o]	art	M=S	-	NP	SUBJ	-	-
+54	7	Nikkey	[]	prop	M=S	O	NP	SUBJ	-	-
+54	8	esteve	[estar]	v-fin	PS=3S=IND	-	VP	P	-	-
+54	9	pesquisando	[pesquisar]	v-ger	-	-	VP	P	-	-
+54	10	um	[um]	art	M=S	-	NP	ACC	-	-
+54	11	lado	[lado]	n	M=S	O	NP	ACC	-	-
+54	12	gostoso	[gostoso]	adj	M=S	-	NP	ACC	-	-
+54	13	de	[de]	prp	-	-	PP	ACC	-	-
+54	14	a	[o]	art	F=S	-	NP	ACC	-	-
+54	15	Liberdade	[liberdade]	n	F=S	O	NP	ACC	-	-
+54	16	em	[em]	prp	-	-	PP	ACC	-	-
+54	17	São_Paulo	[]	prop	M=S	O	NP	ACC	-	-
+54	18	.	[.]	.	-	-	O	O	-	-
+
+55	0	.	[.]	.	-	-	O	O	-	-
+
+56	0	Leia	[ler]	v-fin	PR=1S=SUBJ	-	VP	P	-	-
+56	1	a	[o]	art	F=S	-	NP	ACC	-	-
+56	2	matéria	[matéria]	n	F=S	O	NP	ACC	-	-
+56	3	sobre	[sobre]	prp	-	-	PP	ACC	-	-
+56	4	alguns	[algum]	pron-det	M=P	O	NP	ACC	-	-
+56	5	tipos	[tipo]	n	M=P	-	NP	ACC	-	-
+56	6	de	[de]	prp	-	-	PP	ACC	-	-
+56	7	bentô	[]	n	M=P	O	NP	ACC	-	-
+56	8	"	["]	"	-	-	O	ACC	-	-
+56	9	que	[que]	pron-indp	F=P	O	NP	SUBJ	-	-
+56	10	podem	[poder, podar]	v-fin	PR=3P=IND	-	VP	P	-	-
+56	11	ser	[ser]	v-inf	-	-	VP	P	-	-
+56	12	encontrados	[encontrar]	v-pcp	M=P	-	VP	P	-	-
+56	13	.	[.]	.	-	-	O	O	-	-
+
+57	0	.	[.]	.	-	-	O	O	-	-
+
+58	0	Receba	[]	prop	M=S	O	NP	SUBJ	-	-
+58	1	gratuitamente	[gratuito]	adv	-	-	ADVP	ADVL	-	-
+58	2	Há	[haver]	v-fin	PR=3S=IND	-	VP	P	-	-
+58	3	pouco	[pouco]	pron-det	M=S	O	NP	ACC	-	-
+58	4	de	[de]	prp	-	-	PP	ACC	-	-
+58	5	as	[o]	art	F=P	-	NP	ACC	-	-
+58	6	eleições	[eleição]	n	F=P	O	NP	ACC	-	-
+58	7	,	[]	,	-	-	O	O	-	-
+58	8	você	[você]	pron-pers	M/F=3S=NOM	O	NP	SUBJ	-	-
+58	9	pretende	[pretender]	v-fin	PR=3S=IND	-	VP	P	-	-
+58	10	votar	[votar]	v-inf	-	-	VP	P	-	-
+58	11	de	[de]	prp	-	-	PP	PIV	-	-
+58	12	que	[que]	conj-s	-	-	PP	PIV	-	-
+58	13	maneira	[maneira]	n	F=S	O	NP	PIV	-	-
+58	14	?	[?]	?	-	-	O	O	-	-
+
+59	0	.	[.]	.	-	-	O	O	-	-
+
+60	0	Já	[já]	adv	-	-	ADVP	ADVL	-	-
+60	1	tenho	[ter]	v-fin	PR=1S=IND	-	VP	P	-	-
+60	2	candidato	[candidato]	n	M=S	O	NP	ACC	-	-
+60	3	Em	[em]	prp	-	-	PP	ADVL	-	-
+60	4	um	[um]	art	M=S	-	NP	ADVL	-	-
+60	5	conhecido	[conhecer]	v-pcp	M=S	-	NP	ADVL	-	-
+60	6	Em	[em]	prp	-	-	PP	ADVL	-	-
+60	7	um	[um]	art	M=S	-	NP	ADVL	-	-
+60	8	indicado	[indicar]	v-pcp	M=S	-	NP	ADVL	-	-
+60	9	Branco	[branco]	n	M=S	O	NP	ADVL	-	-
+60	10	ou	[ou]	conj-c	-	-	O	O	-	-
+60	11	Nulo_Não	[]	adv	-	-	ADVP	ADVL	-	-
+60	12	sei	[saber]	v-fin	PR=1S=IND	-	VP	P	-	-
+60	13	ainda	[ainda]	adv	-	-	ADVP	ADVL	-	-
+60	14	Política_de_Privacidade	[]	prp	-	-	PP	SA	-	-
+60	15	|	[]	pron-det	F=S	O	NP	SA	-	-
+60	16	Termos_de_Uso	[]	n	M=S	-	NP	SA	-	-
+60	17	|	[]	adj	M=S	-	NP	SA	-	-
+60	18	Fale_Conosco_Nihonline	[]	prop	M=S	O	NP	SA	-	-
+60	19	.com.br	[]	.	-	-	O	O	-	-
+60	20	.	[.]	.	-	-	O	O	-	-
+
+61	0	-	[]	-	-	-	O	O	-	-
+61	1	2000	[]	num	F=P	-	NP	SUBJ	-	-
+61	2	-	[]	-	-	-	NP	SUBJ	-	-
+61	3	Todos	[todo]	pron-det	M=P	O	NP	SUBJ	-	-
+61	4	direitos	[direito]	n	M=P	-	NP	SUBJ	-	-
+61	5	reservados	[reservar]	v-pcp	M=P	-	NP	SUBJ	-	-
+61	6	.	[.]	.	-	-	O	O	-	-
+

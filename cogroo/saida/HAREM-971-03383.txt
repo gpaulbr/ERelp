@@ -1,0 +1,484 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Actv_Home_Page	[]	prop	M=S	O	NP	O
+0	1	.	[.]	.	-	-	O	O
+
+1	0	Aeroclube	[]	prop	M=S	O	NP	O
+1	1	de	[de]	prp	-	-	PP	O
+1	2	Torres_Vedras_Esta_Página	[]	prop	M=S	O	NP	O
+1	3	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+1	4	em	[em]	prp	-	-	PP	SA
+1	5	o	[o]	art	M=S	-	NP	SA
+1	6	SAPO	[]	prop	M=S	O	NP	SA
+1	7	.	[.]	.	-	-	O	O
+
+2	0	.	[.]	.	-	-	O	O
+
+3	0	[	[]	[	-	-	O	O
+3	1	Page_Banner_Image	[]	prop	M=S	O	NP	SUBJ
+3	2	]	[]	]	-	-	O	O
+3	3	.	[.]	.	-	-	O	O
+
+4	0	.	[.]	.	-	-	O	O
+
+5	0	Benvindos	[]	n	M=P	O	NP	O
+5	1	a	[a]	prp	-	-	PP	O
+5	2	a	[o]	art	F=S	-	NP	O
+5	3	página	[página]	n	F=S	O	NP	O
+5	4	Web	[]	prop	F=S	O	NP	O
+5	5	de	[de]	prp	-	-	PP	O
+5	6	o	[o]	art	M=S	-	NP	O
+5	7	Aeroclube	[]	prop	M=S	O	NP	O
+5	8	de	[de]	prp	-	-	PP	O
+5	9	Torres_Vedras	[]	prop	M=S	O	NP	O
+5	10	.	[.]	.	-	-	O	O
+
+6	0	.	[.]	.	-	-	O	O
+
+7	0	Se	[se]	conj-s	-	-	O	ADVL
+7	1	quer	[querer]	v-fin	PR=3S=IND	-	VP	P
+7	2	saber	[saber]	v-inf	-	-	VP	P
+7	3	algo	[algo]	adv	-	-	ADVP	ADVL
+7	4	mais	[mais]	adv	-	-	ADVP	ADVL
+7	5	de	[de]	prp	-	-	PP	ADVL
+7	6	o	[o]	art	M=S	-	NP	ADVL
+7	7	nosso	[nosso]	pron-det	M=S	O	NP	ADVL
+7	8	clube	[clube]	n	M=S	-	NP	ADVL
+7	9	,	[]	,	-	-	O	ADVL
+7	10	de	[de]	prp	-	-	PP	ADVL
+7	11	as	[o]	art	F=P	-	NP	ADVL
+7	12	nossas	[nosso]	pron-det	F=P	O	NP	ADVL
+7	13	actividades	[]	n	F=P	-	NP	ADVL
+7	14	,	[]	,	-	-	O	ADVL
+7	15	ou	[ou]	conj-c	-	-	O	ADVL
+7	16	de	[de]	prp	-	-	PP	ADVL
+7	17	o	[]	pron-det	M=S	-	NP	ADVL
+7	18	que	[que]	pron-indp	M=S	O	NP	SUBJ
+7	19	poderá	[poder]	v-fin	FUT=3S=IND	-	VP	P
+7	20	usufruir	[usufruir]	v-inf	-	-	VP	P
+7	21	sendo	[ser]	v-ger	-	-	VP	P
+7	22	sócio	[sócio]	n	M=S	O	NP	ACC
+7	23	de	[de]	prp	-	-	PP	ACC
+7	24	o	[o]	art	M=S	-	NP	ACC
+7	25	nosso	[nosso]	pron-det	M=S	-	NP	ACC
+7	26	clube	[clube]	n	M=S	-	NP	ACC
+7	27	,	[]	,	-	-	O	O
+7	28	prossiga	[prosseguir]	v-fin	PR=3S=SUBJ	-	VP	P
+7	29	em	[em]	prp	-	-	PP	ADVL
+7	30	esta	[este]	pron-det	F=S	-	NP	ADVL
+7	31	visita	[visita]	n	F=S	-	NP	ADVL
+7	32	a	[a]	prp	-	-	PP	PIV
+7	33	a	[o]	art	F=S	-	NP	PIV
+7	34	nossa	[nosso]	pron-det	F=S	-	NP	PIV
+7	35	página	[página]	n	F=S	-	NP	PIV
+7	36	.	[.]	.	-	-	O	O
+
+8	0	.	[.]	.	-	-	O	O
+
+9	0	em	[em]	prp	-	-	PP	ADVL
+9	1	esta	[este]	pron-det	F=S	-	NP	ADVL
+9	2	página	[página]	n	F=S	-	NP	ADVL
+9	3	de	[de]	prp	-	-	PP	ADVL
+9	4	o	[o]	art	M=S	-	NP	ADVL
+9	5	ACTV	[]	prop	M=S	-	NP	ADVL
+9	6	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P
+9	7	ficar	[ficar]	v-inf	-	-	VP	P
+9	8	a	[a]	prp	-	-	PP	PIV
+9	9	conhecer	[conhecer]	v-inf	-	-	VP	P
+9	10	um	[um]	num	M=S	-	NP	ACC
+9	11	de	[de]	prp	-	-	PP	ACC
+9	12	os	[o]	art	M=P	-	NP	ACC
+9	13	mais	[mais]	adv	-	-	NP	ACC
+9	14	antigos	[antigo]	adj	M=P	-	NP	ACC
+9	15	Aeroclubes	[]	n	M=P	-	NP	ACC
+9	16	nacionais	[nacional]	adj	M=P	-	NP	ACC
+9	17	.	[.]	.	-	-	O	O
+
+10	0	.	[.]	.	-	-	O	O
+
+11	0	Dar	[]	prop	M=S	-	NP	O
+11	1	a	[a]	prp	-	-	PP	O
+11	2	conhecer	[conhecer]	v-inf	-	-	VP	P
+11	3	alguns	[algum]	pron-det	M=P	-	NP	ACC
+11	4	apontamentos	[apontar]	n	M=P	-	NP	ACC
+11	5	históricos	[histórico]	adj	M=P	-	NP	ACC
+11	6	,	[]	,	-	-	O	O
+11	7	mas	[mas]	conj-c	-	-	O	O
+11	8	principalmente	[principal]	adv	-	-	ADVP	ADVL
+11	9	as	[o]	art	F=P	-	NP	ACC
+11	10	nossa	[nosso]	pron-det	F=S	-	NP	ACC
+11	11	actividades	[]	n	F=P	-	NP	ACC
+11	12	,	[]	,	-	-	O	O
+11	13	de	[de]	prp	-	-	PP	ADVL
+11	14	lazer	[lazer]	n	M=S	-	NP	ADVL
+11	15	ou	[ou]	conj-c	-	-	O	ADVL
+11	16	formação	[formação, formar]	n	F=S	-	NP	ADVL
+11	17	profissional	[profissional]	adj	F=S	-	NP	ADVL
+11	18	,	[]	,	-	-	O	ADVL
+11	19	tal	[tal]	pron-indp	M=S	-	NP	SUBJ
+11	20	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+11	21	o	[o]	art	M=S	-	NP	SC
+11	22	nosso	[nosso]	pron-det	M=S	-	NP	SC
+11	23	objectivo	[]	n	M=S	-	NP	SC
+11	24	.	[.]	.	-	-	O	O
+
+12	0	.	[.]	.	-	-	O	O
+
+13	0	Disfrute	[]	v-fin	PR=3S=IND	-	VP	P
+13	1	de	[de]	prp	-	-	PP	PIV
+13	2	esta	[este]	pron-det	F=S	-	NP	PIV
+13	3	informação	[informação, informar]	n	F=S	-	NP	PIV
+13	4	.	[.]	.	-	-	O	O
+
+14	0	.	[.]	.	-	-	O	O
+
+15	0	E	[e]	conj-c	-	-	O	O
+15	1	venha	[vir]	v-fin	PR=1S=SUBJ	-	VP	P
+15	2	ter	[ter]	v-inf	-	-	VP	P
+15	3	connosco	[]	n	F=S	-	NP	ACC
+15	4	para	[para]	prp	-	-	PP	ACC
+15	5	nos	[nos]	pron-pers	M/F=1P=ACC	-	NP	ACC
+15	6	conhecer	[conhecer]	v-inf	-	-	VP	P
+15	7	melhor	[melhor]	adj	M=S	-	NP	OC
+15	8	e	[e]	conj-c	-	-	O	O
+15	9	,	[]	,	-	-	O	O
+15	10	quem	[quem]	pron-indp	M=S	-	NP	SUBJ
+15	11	sabe	[saber]	v-fin	PR=3S=IND	-	VP	P
+15	12	,	[]	,	-	-	O	O
+15	13	dar	[dar]	v-inf	-	-	VP	P
+15	14	os	[o]	art	M=P	-	NP	ACC
+15	15	seus	[seu]	pron-det	M=P	-	NP	ACC
+15	16	primeiros	[]	adj	M=P	-	NP	ACC
+15	17	passos	[passo]	n	M=P	-	NP	ACC
+15	18	em	[em]	prp	-	-	PP	ADVL
+15	19	esta	[este]	pron-det	F=S	-	NP	ADVL
+15	20	aventura	[aventura]	n	F=S	-	NP	ADVL
+15	21	que	[que]	pron-indp	F=S	-	NP	SUBJ
+15	22	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+15	23	VOAR	[]	prop	M=S	-	NP	SC
+15	24	!	[]	!	-	-	O	O
+15	25	.	[.]	.	-	-	O	O
+
+16	0	[	[]	[	-	-	O	O
+16	1	HRule_Image	[]	prop	M=S	-	NP	SUBJ
+16	2	]	[]	]	-	-	O	O
+16	3	.	[.]	.	-	-	O	O
+
+17	0	.	[.]	.	-	-	O	O
+
+18	0	Quem	[quem]	pron-indp	M/F=S	-	NP	SUBJ
+18	1	Somos	[ser]	v-fin	PR=1P=IND	-	VP	P
+18	2	.	[.]	.	-	-	O	O
+
+19	0	Somos	[ser]	v-fin	PR=1P=IND	-	VP	P
+19	1	um	[um]	num	M=S	-	NP	ACC
+19	2	de	[de]	prp	-	-	PP	ACC
+19	3	os	[o]	art	M=P	-	NP	ACC
+19	4	mais	[mais]	adv	-	-	NP	ACC
+19	5	antigos	[antigo]	adj	M=P	-	NP	ACC
+19	6	aeroclubes	[]	n	M=P	-	NP	ACC
+19	7	nacionais	[nacional]	adj	M=P	-	NP	ACC
+19	8	,	[]	,	-	-	O	O
+19	9	comemoramos	[comemorar]	v-fin	PR=1P=IND	-	VP	P
+19	10	este	[este]	pron-det	M=S	-	NP	ADVL
+19	11	ano	[ano]	n	M=S	-	NP	ADVL
+19	12	51	[]	num	M=P	-	NP	ACC
+19	13	anos	[ano]	n	M=P	-	NP	ACC
+19	14	de	[de]	prp	-	-	PP	ACC
+19	15	existência	[existência]	n	F=S	-	NP	ACC
+19	16	.	[.]	.	-	-	O	O
+
+20	0	.	[.]	.	-	-	O	O
+
+21	0	Voamos	[voar]	v-fin	PR=1P=IND	-	VP	P
+21	1	e	[e]	conj-c	-	-	O	O
+21	2	ensinamos	[ensinar]	v-fin	PR=1P=IND	-	VP	P
+21	3	a	[a]	prp	-	-	VP	P
+21	4	voar	[voar]	v-inf	-	-	VP	P
+21	5	desde	[desde]	prp	-	-	PP	ADVL
+21	6	1946	[]	num	M=S	-	NP	ADVL
+21	7	!	[]	!	-	-	O	O
+21	8	.	[.]	.	-	-	O	O
+
+22	0	Somos	[ser]	v-fin	PR=1P=IND	-	VP	P
+22	1	um	[um]	art	M=S	-	NP	ACC
+22	2	clube	[clube]	n	M=S	-	NP	ACC
+22	3	dedicado	[dedicar]	v-pcp	M=S	-	VP	P
+22	4	a	[a]	prp	-	-	PP	PIV
+22	5	a	[o]	art	F=S	-	NP	PIV
+22	6	divulgação	[divulgar]	n	F=S	-	NP	PIV
+22	7	e	[e]	conj-c	-	-	O	PIV
+22	8	a	[a]	prp	-	-	PP	PIV
+22	9	o	[o]	art	M=S	-	NP	PIV
+22	10	ensino	[ensino]	n	M=S	-	NP	PIV
+22	11	aeronáutico	[aeronáutico]	adj	M=S	-	NP	PIV
+22	12	,	[]	,	-	-	O	O
+22	13	oferecemos	[oferecer]	v-fin	PS=1P=IND	-	VP	P
+22	14	em	[em]	prp	-	-	PP	ADVL
+22	15	ambiente	[ambiente]	n	M=S	-	NP	ADVL
+22	16	de	[de]	prp	-	-	PP	ADVL
+22	17	amizade	[amizade]	n	F=S	-	NP	ADVL
+22	18	,	[]	,	-	-	O	O
+22	19	os	[o]	art	M=P	-	NP	ACC
+22	20	mais	[mais]	adv	-	-	NP	ACC
+22	21	baixos	[baixo]	adj	M=P	-	NP	ACC
+22	22	preços	[preço]	n	M=P	-	NP	ACC
+22	23	e	[e]	conj-c	-	-	O	ACC
+22	24	grande	[grande]	adj	F=S	-	NP	ACC
+22	25	qualidade	[qualidade]	n	F=S	-	NP	ACC
+22	26	.	[.]	.	-	-	O	O
+
+23	0	.	[.]	.	-	-	O	O
+
+24	0	Estamos	[estar]	v-fin	PR=1P=IND	-	VP	P
+24	1	situados	[situar]	v-pcp	M=P	-	VP	P
+24	2	junto	[junto]	adv	-	-	ADVP	ADVL
+24	3	a	[a]	prp	-	-	PP	ADVL
+24	4	a	[o]	art	F=S	-	NP	ADVL
+24	5	praia	[praia]	n	F=S	-	NP	ADVL
+24	6	de	[de]	prp	-	-	PP	ADVL
+24	7	Santa_Cruz	[]	prop	M=S	-	NP	ADVL
+24	8	,	[]	,	-	-	O	O
+24	9	em	[em]	prp	-	-	PP	ADVL
+24	10	o	[o]	art	M=S	-	NP	ADVL
+24	11	concelho	[concelho]	n	M=S	-	NP	ADVL
+24	12	de	[de]	prp	-	-	PP	ADVL
+24	13	Torres_Vedras	[]	prop	M=S	-	NP	ADVL
+24	14	,	[]	,	-	-	O	O
+24	15	tendo	[ter]	v-ger	-	-	VP	P
+24	16	a	[o]	art	F=S	-	NP	ACC
+24	17	nossa	[nosso]	pron-det	F=S	-	NP	ACC
+24	18	sede	[sede]	n	F=S	-	NP	ACC
+24	19	em	[em]	prp	-	-	PP	ADVL
+24	20	as	[o]	art	F=P	-	NP	ADVL
+24	21	nossas	[nosso]	pron-det	F=P	-	NP	ADVL
+24	22	instalações	[instalar]	n	F=P	-	NP	ADVL
+24	23	em	[em]	prp	-	-	PP	ADVL
+24	24	o	[o]	art	M=S	-	NP	ADVL
+24	25	aeródromo	[aeródromo]	n	M=S	-	NP	ADVL
+24	26	municipal	[municipal]	adj	M=S	-	NP	ADVL
+24	27	.	[.]	.	-	-	O	O
+
+25	0	.	[.]	.	-	-	O	O
+
+26	0	Dispomos	[dispor]	v-fin	PR=1P=IND	-	VP	P
+26	1	uma	[um]	art	F=S	-	NP	ACC
+26	2	frota	[frota]	n	F=S	-	NP	ACC
+26	3	de	[de]	prp	-	-	PP	ACC
+26	4	9	[]	num	M=P	-	NP	ACC
+26	5	aviões	[avião]	n	M=P	-	NP	ACC
+26	6	,	[]	,	-	-	O	ACC
+26	7	de	[de]	prp	-	-	PP	ACC
+26	8	2	[]	num	M=P	-	NP	ACC
+26	9	e	[e]	conj-c	-	-	NP	ACC
+26	10	4	[]	num	M=P	-	NP	ACC
+26	11	lugares	[lugar]	n	M=P	-	NP	ACC
+26	12	,	[]	,	-	-	O	ACC
+26	13	um	[um]	art	M=S	-	NP	ACC
+26	14	planador	[planador, planar]	n	M=S	-	NP	ACC
+26	15	e	[e]	conj-c	-	-	O	ACC
+26	16	um	[um]	art	M=S	-	NP	ACC
+26	17	ultra_ligeiro	[]	adv	-	-	NP	ACC
+26	18	com	[com]	prp	-	-	PP	ACC
+26	19	motor	[motor]	n	M=S	-	NP	ACC
+26	20	.	[.]	.	-	-	O	O
+
+27	0	.	[.]	.	-	-	O	O
+
+28	0	A	[o]	art	F=S	-	NP	SUBJ
+28	1	nossa	[nosso]	pron-det	F=S	-	NP	SUBJ
+28	2	Escola	[escola]	n	F=S	-	NP	SUBJ
+28	3	de	[de]	prp	-	-	PP	SUBJ
+28	4	Pilotagem	[pilotagem]	n	F=S	-	NP	SUBJ
+28	5	utiliza	[utilizar]	v-fin	PR=3S=IND	-	VP	P
+28	6	3	[]	num	F=P	-	NP	ACC
+28	7	salas	[sala]	n	F=P	-	NP	ACC
+28	8	de	[de]	prp	-	-	PP	ACC
+28	9	aulas	[aula]	n	F=P	-	NP	ACC
+28	10	,	[]	,	-	-	O	O
+28	11	1	[]	num	M=S	-	NP	O
+28	12	quais	[qual]	pron-det	M=P	-	NP	O
+28	13	em	[em]	prp	-	-	PP	O
+28	14	Lisboa	[Lisboa]	prop	M=S	-	NP	O
+28	15	,	[]	,	-	-	O	O
+28	16	estando	[estar]	v-ger	-	-	VP	P
+28	17	equipada	[equipar]	v-pcp	F=S	-	VP	P
+28	18	com	[com]	prp	-	-	PP	ADVL
+28	19	modernos	[moderno]	adj	M=P	-	NP	ADVL
+28	20	meios	[meio]	n	M=P	-	NP	ADVL
+28	21	audio	[]	adj	M=S	-	NP	ADVL
+28	22	visuais	[visual]	adj	M=P	-	NP	ADVL
+28	23	.	[.]	.	-	-	O	O
+
+29	0	.	[.]	.	-	-	O	O
+
+30	0	Dispomos	[dispor]	v-fin	PR=1P=IND	-	VP	P
+30	1	um	[um]	art	M=S	-	NP	ACC
+30	2	laboratório	[laboratório]	n	M=S	-	NP	ACC
+30	3	para	[para]	prp	-	-	PP	ACC
+30	4	a	[o]	art	F=S	-	NP	ACC
+30	5	prática	[prática]	n	F=S	-	NP	ACC
+30	6	de	[de]	prp	-	-	PP	ACC
+30	7	comunicações	[comunicação, comunicar]	n	F=P	-	NP	ACC
+30	8	aeronáuticas	[aeronáutico]	adj	F=P	-	NP	ACC
+30	9	e	[e]	conj-c	-	-	O	ACC
+30	10	de	[de]	prp	-	-	PP	ACC
+30	11	um	[um]	art	M=S	-	NP	ACC
+30	12	treinador	[treinador, treinar]	n	M=S	-	NP	ACC
+30	13	de	[de]	prp	-	-	PP	ACC
+30	14	procedimentos	[proceder]	n	M=P	-	NP	ACC
+30	15	de	[de]	prp	-	-	PP	ACC
+30	16	voo	[voo]	n	M=S	-	NP	ACC
+30	17	assistido	[assistir]	v-pcp	M=S	-	VP	P
+30	18	por	[por]	prp	-	-	PP	O
+30	19	computador	[computador, computar]	n	M=S	-	NP	O
+30	20	.	[.]	.	-	-	O	O
+
+31	0	.	[.]	.	-	-	O	O
+
+32	0	Voam	[voar]	v-fin	PR=3P=IND	-	VP	P
+32	1	connosco	[]	n	M=S	-	NP	ACC
+32	2	actualmente	[]	adv	-	-	NP	ACC
+32	3	dezenas	[]	pron-det	F=P	-	NP	ACC
+32	4	de	[de]	prp	-	-	PP	ACC
+32	5	pilotos	[piloto]	n	M=P	-	NP	ACC
+32	6	todos	[todo]	pron-det	M=P	-	NP	SUBJ
+32	7	os	[o]	art	M=P	-	NP	SUBJ
+32	8	anos	[ano]	n	M=P	-	NP	SUBJ
+32	9	,	[]	,	-	-	O	SUBJ
+32	10	por	[por]	prp	-	-	PP	SUBJ
+32	11	prazer	[prazer]	n	M=S	-	NP	SUBJ
+32	12	,	[]	,	-	-	O	SUBJ
+32	13	para	[para]	prp	-	-	PP	SUBJ
+32	14	treino	[treino]	n	M=S	-	NP	SUBJ
+32	15	ou	[ou]	conj-c	-	-	O	SUBJ
+32	16	para	[para]	prp	-	-	PP	SUBJ
+32	17	aumentar	[aumentar]	v-inf	-	-	VP	P
+32	18	a	[o]	art	F=S	-	NP	ACC
+32	19	sua	[sua]	pron-det	F=S	-	NP	ACC
+32	20	experiência	[experiência]	n	F=S	-	NP	ACC
+32	21	de	[de]	prp	-	-	PP	ACC
+32	22	voo	[voo]	n	M=S	-	NP	ACC
+32	23	,	[]	,	-	-	O	O
+32	24	tendo	[ter]	v-ger	-	-	VP	P
+32	25	em	[em]	prp	-	-	PP	ADVL
+32	26	vista	[vista]	n	F=S	-	NP	ADVL
+32	27	um	[um]	art	M=S	-	NP	ACC
+32	28	futuro	[futuro]	n	M=S	-	NP	ACC
+32	29	acesso	[acesso]	n	M=S	-	NP	ACC
+32	30	a	[a]	prp	-	-	PP	ACC
+32	31	uma	[um]	art	F=S	-	NP	ACC
+32	32	carreira	[carreira]	n	F=S	-	NP	ACC
+32	33	de	[de]	prp	-	-	PP	ACC
+32	34	piloto	[piloto]	n	M=S	-	NP	ACC
+32	35	profissional	[profissional]	adj	M=S	-	NP	ACC
+32	36	.	[.]	.	-	-	O	O
+
+33	0	.	[.]	.	-	-	O	O
+
+34	0	A	[o]	art	F=S	-	NP	SUBJ
+34	1	nossa	[nosso]	pron-det	F=S	-	NP	SUBJ
+34	2	Escola	[escola]	n	F=S	-	NP	SUBJ
+34	3	de	[de]	prp	-	-	PP	SUBJ
+34	4	Pilotagem	[]	prop	M=S	-	NP	SUBJ
+34	5	ajudou	[ajudar]	v-fin	PS=3S=IND	-	VP	P
+34	6	a	[a]	prp	-	-	VP	P
+34	7	formar	[formar]	v-inf	-	-	VP	P
+34	8	dezenas	[]	pron-det	F=S	-	NP	ACC
+34	9	de	[de]	prp	-	-	PP	ACC
+34	10	pilotos	[piloto]	n	M=P	-	NP	ACC
+34	11	particulares	[particular]	adj	M=P	-	NP	ACC
+34	12	e	[e]	conj-c	-	-	NP	ACC
+34	13	profissionais	[profissional]	adj	M=P	-	NP	ACC
+34	14	,	[]	,	-	-	O	O
+34	15	sendo	[ser]	v-ger	-	-	VP	P
+34	16	actualmente	[]	adv	-	-	ADVP	ADVL
+34	17	dirigida	[dirigir]	v-pcp	F=S	-	VP	P
+34	18	por	[por]	prp	-	-	PP	O
+34	19	o	[o]	art	M=S	-	NP	O
+34	20	Cmdt	[]	prop	M=S	-	NP	O
+34	21	.	[.]	.	-	-	O	O
+
+35	0	João_Filhó	[]	prop	M=S	-	NP	O
+35	1	,	[]	,	-	-	O	O
+35	2	um	[um]	art	M=S	-	NP	SUBJ
+35	3	profissional	[profissional]	n	M=S	-	NP	SUBJ
+35	4	de	[de]	prp	-	-	PP	SUBJ
+35	5	a	[o]	art	F=S	-	NP	SUBJ
+35	6	aviação	[aviar]	n	F=S	-	NP	SUBJ
+35	7	que	[que]	pron-indp	F=S	-	NP	SUBJ
+35	8	trabalha	[trabalhar]	v-fin	PR=3S=IND	-	VP	P
+35	9	em	[em]	prp	-	-	PP	ADVL
+35	10	a	[o]	art	F=S	-	NP	ADVL
+35	11	Portugália	[]	prop	F=S	-	NP	ADVL
+35	12	,	[]	,	-	-	O	O
+35	13	e	[e]	conj-c	-	-	O	O
+35	14	que	[que]	conj-s	-	-	O	O
+35	15	é	[ser]	v-fin	PR=3S=IND	-	VP	P
+35	16	um	[um]	art	M=S	-	NP	SC
+35	17	entre	[entre]	prp	-	-	PP	ADVL
+35	18	as	[o]	art	F=P	-	NP	ADVL
+35	19	dezenas	[]	pron-det	F=P	-	NP	ADVL
+35	20	de	[de]	prp	-	-	PP	ADVL
+35	21	profissionais	[profissional]	n	M=P	-	NP	ADVL
+35	22	que	[que]	pron-indp	M=P	-	NP	SUBJ
+35	23	iniciaram	[iniciar]	v-fin	MQP=3P=IND	-	VP	P
+35	24	ou	[ou]	conj-c	-	-	O	O
+35	25	reforçaram	[reforçar]	v-fin	PS=3P=IND	-	VP	P
+35	26	a	[o]	art	F=S	-	NP	ACC
+35	27	sua	[sua]	pron-det	F=S	-	NP	ACC
+35	28	actividade	[]	n	F=S	-	NP	ACC
+35	29	de	[de]	prp	-	-	PP	ACC
+35	30	pilotos	[piloto]	n	M=P	-	NP	ACC
+35	31	em	[em]	prp	-	-	PP	ACC
+35	32	o	[o]	art	M=S	-	NP	ACC
+35	33	ACTV	[]	prop	M=S	-	NP	ACC
+35	34	.	[.]	.	-	-	O	O
+
+36	0	.	[.]	.	-	-	O	O
+
+37	0	Comentários	[comentário]	n	M=P	-	NP	SUBJ
+37	1	sobre	[sobre]	prp	-	-	PP	SUBJ
+37	2	esta	[este]	pron-det	F=S	-	NP	SUBJ
+37	3	página	[página]	n	F=S	-	NP	SUBJ
+37	4	podem	[poder, podar]	v-fin	PR=3P=IND	-	VP	P
+37	5	ser	[ser]	v-inf	-	-	VP	P
+37	6	enviados	[enviar]	v-pcp	M=P	-	VP	P
+37	7	por	[por]	prp	-	-	PP	O
+37	8	e	[e]	conj-c	-	-	O	O
+37	9	-	[]	-	-	-	NP	O
+37	10	mail	[]	adj	F=S	-	NP	O
+37	11	para	[para]	prp	-	-	PP	O
+37	12	pedromaya	[]	n	F=S	-	NP	O
+37	13	@mail	[]	adj	M=S	-	NP	O
+37	14	.telepac.pt	[]	prop	M=S	-	NP	O
+37	15	.	[.]	.	-	-	O	O
+
+38	0	Contactos	[contacto]	n	M=P	-	NP	O
+38	1	com	[com]	prp	-	-	PP	O
+38	2	o	[o]	art	M=S	-	NP	O
+38	3	ACTV	[]	prop	M=S	-	NP	O
+38	4	para	[para]	prp	-	-	PP	ADVL
+38	5	:	[:]	:	-	-	O	O
+
+39	0	.	[.]	.	-	-	O	O
+
+40	0	ACTV	[]	prp	-	-	PP	ADVL
+40	1	Aeródromo	[aeródromo]	n	M=S	-	NP	ADVL
+40	2	Municipal	[municipal]	adj	M=S	-	NP	ADVL
+40	3	de	[de]	prp	-	-	PP	ADVL
+40	4	Santa_Cruz_2560_SILVEIRA	[]	prop	M=S	-	NP	ADVL
+40	5	.	[.]	.	-	-	O	ADVL
+40	6	ou	[ou]	conj-c	-	-	O	ADVL
+40	7	por	[por]	prp	-	-	PP	ADVL
+40	8	e	[e]	conj-c	-	-	O	ADVL
+40	9	-	[]	-	-	-	NP	ADVL
+40	10	mail	[]	adj	F=P	-	NP	ADVL
+40	11	para	[para]	prp	-	-	PP	ADVL
+40	12	opsactv	[]	art	M=S	-	NP	ADVL
+40	13	@actv.pt	[]	n	M=S	-	NP	ADVL
+40	14	ou	[ou]	conj-c	-	-	O	ADVL
+40	15	pedromaya	[]	n	F=S	-	NP	ADVL
+40	16	@mail	[]	adj	F=S	-	NP	ADVL
+40	17	.telepac.pt	[]	prop	M=S	-	NP	ADVL
+40	18	.	[.]	.	-	-	O	O
+

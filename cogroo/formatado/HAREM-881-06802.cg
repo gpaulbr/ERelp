@@ -1,0 +1,451 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	Campanhas	[campanha]	n	F=P	O	NP	O	-	-
+0	1	.	[.]	.	-	-	O	O	-	-
+
+1	0	Donativos	[donativo]	n	M=P	O	NP	O	-	-
+1	1	.	[.]	.	-	-	O	O	-	-
+
+2	0	Pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+2	1	fazer	[fazer]	v-inf	-	-	VP	P	-	-
+2	2	o	[o]	art	M=S	-	NP	ACC	-	-
+2	3	seu	[seu]	pron-det	M=S	O	NP	ACC	-	-
+2	4	donativo	[donativo]	n	M=S	-	NP	ACC	-	-
+2	5	para	[para]	prp	-	-	PP	ACC	-	-
+2	6	o	[o]	art	M=S	-	NP	ACC	-	-
+2	7	Comité_Português	[]	prop	M=S	O	NP	ACC	-	-
+2	8	para	[para]	prp	-	-	PP	ACC	-	-
+2	9	a	[o]	art	F=S	-	NP	ACC	-	-
+2	10	UNICEF	[UNICEF]	prop	F=S	O	NP	ACC	-	-
+2	11	utilizando	[utilizar]	v-ger	-	-	VP	P	-	-
+2	12	umas	[um]	pron-det	F=P	O	NP	ACC	-	-
+2	13	de	[de]	prp	-	-	PP	ACC	-	-
+2	14	as	[o]	art	F=P	-	NP	ACC	-	-
+2	15	seguintes	[seguinte]	adj	F=P	-	NP	ACC	-	-
+2	16	vias	[via]	n	F=P	O	NP	ACC	-	-
+2	17	:	[:]	:	-	-	O	O	-	-
+
+3	0	.	[.]	.	-	-	O	O	-	-
+
+4	0	-	[]	-	-	-	NP	SUBJ	-	-
+4	1	Transferência	[transferência]	n	F=S	O	NP	SUBJ	-	-
+4	2	bancária	[bancário]	adj	F=S	-	NP	SUBJ	-	-
+4	3	junto	[junto]	adv	-	-	ADVP	ADVL	-	-
+4	4	de	[de]	prp	-	-	PP	ADVL	-	-
+4	5	o	[o]	art	M=S	-	NP	ADVL	-	-
+4	6	Banco_Sotto_Mayor	[]	prop	M=S	O	NP	ADVL	-	-
+4	7	-	[]	-	-	-	O	ADVL	-	-
+4	8	Agência_Fontes_Pereira_de_Melo	[]	prop	F=S	O	NP	ADVL	-	-
+4	9	,	[]	,	-	-	O	ADVL	-	-
+4	10	para	[para]	prp	-	-	PP	ADVL	-	-
+4	11	o	[o]	art	M=S	-	NP	ADVL	-	-
+4	12	NIB	[NIB]	prop	M=S	O	NP	ADVL	-	-
+4	13	00.33.0000.50131901229.05	[]	num	M=P	-	NP	ADVL	-	-
+4	14	(	[(]	(	-	-	O	ADVL	-	-
+4	15	pode	[poder, podar]	v-fin	PR=3S=IND	-	VP	P	-	-
+4	16	efectuar	[]	v-inf	-	-	VP	P	-	-
+4	17	esta	[este]	pron-det	F=S	O	NP	ACC	-	-
+4	18	transferência	[transferência]	n	F=S	-	NP	ACC	-	-
+4	19	por	[por]	prp	-	-	PP	PIV	-	-
+4	20	a	[o]	art	F=S	-	NP	PIV	-	-
+4	21	Internet	[]	prop	F=S	O	NP	PIV	-	-
+4	22	através	[através]	adv	-	-	ADVP	PIV	-	-
+4	23	de	[de]	prp	-	-	PP	PIV	-	-
+4	24	o	[o]	art	M=S	-	NP	PIV	-	-
+4	25	site	[site]	n	M=S	O	NP	PIV	-	-
+4	26	de	[de]	prp	-	-	PP	PIV	-	-
+4	27	o	[o]	art	M=S	-	NP	PIV	-	-
+4	28	seu	[seu]	pron-det	M=S	O	NP	PIV	-	-
+4	29	banco	[banco]	n	M=S	-	NP	PIV	-	-
+4	30	)	[)]	)	-	-	O	PIV	-	-
+4	31	.	[.]	.	-	-	O	O	-	-
+
+5	0	-	[]	-	-	-	O	O	-	-
+5	1	Por	[por]	prp	-	-	PP	ADVL	-	-
+5	2	cheque	[cheque]	n	M=S	O	NP	ADVL	-	-
+5	3	passado	[passar]	v-pcp	M=S	-	VP	P	-	-
+5	4	a	[a]	prp	-	-	PP	PIV	-	-
+5	5	a	[o]	art	F=S	-	NP	PIV	-	-
+5	6	ordem	[ordem]	n	F=S	O	NP	PIV	-	-
+5	7	de	[de]	prp	-	-	PP	PIV	-	-
+5	8	o	[o]	art	M=S	-	NP	PIV	-	-
+5	9	Comité_Português	[]	prop	M=S	O	NP	PIV	-	-
+5	10	para	[para]	prp	-	-	PP	PIV	-	-
+5	11	a	[o]	art	F=S	-	NP	PIV	-	-
+5	12	UNICEF	[UNICEF]	prop	F=S	O	NP	PIV	-	-
+5	13	e	[e]	conj-c	-	-	O	PIV	-	-
+5	14	enviado	[enviar]	v-pcp	M=S	-	O	PIV	-	-
+5	15	para	[para]	prp	-	-	PP	PIV	-	-
+5	16	a	[o]	art	F=S	-	NP	PIV	-	-
+5	17	Avenida_António_Augusto_de_Aguiar	[]	prop	F=S	O	NP	PIV	-	-
+5	18	,	[]	,	-	-	O	PIV	-	-
+5	19	56-3.º	[]	num	M=P	-	NP	PIV	-	-
+5	20	Esq.º	[]	prop	M=S	O	NP	PIV	-	-
+5	21	,	[]	,	-	-	O	PIV	-	-
+5	22	1069-115	[]	num	M=P	-	NP	PIV	-	-
+5	23	LISBOA	[]	prop	M=P	O	NP	PIV	-	-
+5	24	.	[.]	.	-	-	O	O	-	-
+
+6	0	-	[]	-	-	-	O	O	-	-
+6	1	Por	[por]	prp	-	-	PP	ADVL	-	-
+6	2	vale	[vale]	n	M=S	O	NP	ADVL	-	-
+6	3	postal	[postal]	adj	M=S	-	NP	ADVL	-	-
+6	4	.	[.]	.	-	-	O	O	-	-
+
+7	0	Imprimir	[]	prop	M=S	O	NP	O	-	-
+7	1	.	[.]	.	-	-	O	O	-	-
+
+8	0	Em	[em]	prp	-	-	PP	ADVL	-	-
+8	1	qualquer	[qualquer]	pron-det	M=S	O	NP	ADVL	-	-
+8	2	de	[de]	prp	-	-	PP	ADVL	-	-
+8	3	os	[o]	art	M=P	-	NP	ADVL	-	-
+8	4	casos	[caso]	n	M=P	O	NP	ADVL	-	-
+8	5	,	[]	,	-	-	O	O	-	-
+8	6	por_favor_preencha	[]	adv	-	-	NP	SUBJ	-	-
+8	7	o	[o]	art	M=S	-	NP	SUBJ	-	-
+8	8	seguinte	[seguinte]	adj	M=S	-	NP	SUBJ	-	-
+8	9	formulário	[formulário]	n	M=S	O	NP	SUBJ	-	-
+8	10	(	[(]	(	-	-	O	SUBJ	-	-
+8	11	essencial	[essencial]	adj	M/F=S	-	NP	SUBJ	-	-
+8	12	se	[se]	pron-pers	M/F=3S/P=ACC	O	NP	ACC	-	-
+8	13	pretende	[pretender]	v-fin	PR=3S=IND	-	VP	P	-	-
+8	14	que	[que]	conj-s	-	-	O	ACC	-	-
+8	15	seja	[ser]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+8	16	emitido	[emitir]	v-pcp	M=S	-	VP	P	-	-
+8	17	um	[um]	art	M=S	-	NP	SUBJ	-	-
+8	18	recibo	[recibo]	n	M=S	O	NP	SUBJ	-	-
+8	19	de	[de]	prp	-	-	PP	SUBJ	-	-
+8	20	o	[o]	art	M=S	-	NP	SUBJ	-	-
+8	21	seu	[seu]	pron-det	M=S	O	NP	SUBJ	-	-
+8	22	donativo	[donativo]	n	M=S	-	NP	SUBJ	-	-
+8	23	para	[para]	prp	-	-	PP	SUBJ	-	-
+8	24	efeitos	[efeito]	n	M=P	O	NP	SUBJ	-	-
+8	25	de	[de]	prp	-	-	PP	SUBJ	-	-
+8	26	dedução	[dedução, deduzir]	n	F=S	O	NP	SUBJ	-	-
+8	27	em	[em]	prp	-	-	PP	SUBJ	-	-
+8	28	os	[o]	art	M=P	-	NP	SUBJ	-	-
+8	29	impostos	[imposto]	n	M=P	O	NP	SUBJ	-	-
+8	30	)	[)]	)	-	-	O	SUBJ	-	-
+8	31	:Quero	[]	v-fin	PR=3P=IND	-	VP	P	-	-
+8	32	fazer	[fazer]	v-inf	-	-	VP	P	-	-
+8	33	um	[um]	art	M=S	-	NP	ACC	-	-
+8	34	donativo	[donativo]	n	M=S	-	NP	ACC	-	-
+8	35	de	[de]	prp	-	-	PP	ACC	-	-
+8	36	o	[o]	art	M=S	-	NP	ACC	-	-
+8	37	valor	[valor]	n	M=S	-	NP	ACC	-	-
+8	38	de	[de]	prp	-	-	PP	ACC	-	-
+8	39	:	[:]	:	-	-	O	ACC	-	-
+
+9	0	euros	[euro]	n	M=P	-	NP	SUBJ	-	-
+9	1	Envio	[]	prop	M=S	-	NP	SUBJ	-	-
+9	2	cheque	[]	v-fin	PR=3S=IND	-	VP	P	-	-
+9	3	nª	[]	adj	M=S	-	NP	SC	-	-
+9	4	de	[de]	prp	-	-	PP	SC	-	-
+9	5	o	[o]	art	M=S	-	NP	SC	-	-
+9	6	banco	[banco]	n	M=S	-	NP	SC	-	-
+9	7	a	[a]	prp	-	-	PP	SC	-	-
+9	8	a	[o]	art	F=S	-	NP	SC	-	-
+9	9	ordem	[ordem]	n	F=S	-	NP	SC	-	-
+9	10	de	[de]	prp	-	-	PP	SC	-	-
+9	11	unicef	[]	n	M=S	-	NP	SC	-	-
+9	12	.	[.]	.	-	-	O	O	-	-
+
+10	0	.	[.]	.	-	-	O	O	-	-
+
+11	0	Pretendo	[pretender]	v-fin	PR=1S=IND	-	VP	P	-	-
+11	1	fazer	[fazer]	v-inf	-	-	VP	P	-	-
+11	2	uma	[um]	art	F=S	-	NP	ACC	-	-
+11	3	transferência	[transferência]	n	F=S	-	NP	ACC	-	-
+11	4	bancária	[bancário]	adj	F=S	-	NP	ACC	-	-
+11	5	de	[de]	prp	-	-	PP	ACC	-	-
+11	6	a	[o]	art	F=S	-	NP	ACC	-	-
+11	7	conta	[conta]	n	F=S	-	NP	ACC	-	-
+11	8	nº	[]	n	M=S	-	NP	ACC	-	-
+11	9	de	[de]	prp	-	-	PP	ACC	-	-
+11	10	o	[o]	art	M=S	-	NP	ACC	-	-
+11	11	banco	[banco]	n	M=S	-	NP	ACC	-	-
+11	12	para	[para]	prp	-	-	PP	ACC	-	-
+11	13	a	[o]	art	F=S	-	NP	ACC	-	-
+11	14	Unicef	[]	prop	F=S	-	NP	ACC	-	-
+11	15	(	[(]	(	-	-	O	ACC	-	-
+11	16	BPSM_NIB	[]	prop	F=S	-	NP	ACC	-	-
+11	17	00.33.0000.50131901229.05	[]	num	F=P	-	NP	ACC	-	-
+11	18	)	[)]	)	-	-	O	ACC	-	-
+11	19	.	[.]	.	-	-	O	O	-	-
+
+12	0	.	[.]	.	-	-	O	O	-	-
+
+13	0	Nome	[nome]	n	M=S	-	NP	O	-	-
+13	1	:	[:]	:	-	-	O	O	-	-
+
+14	0	Apelido	[apelido]	n	M=S	-	NP	O	-	-
+14	1	:	[:]	:	-	-	O	O	-	-
+
+15	0	Empresa	[empresa]	n	F=S	-	NP	O	-	-
+15	1	:	[:]	:	-	-	O	O	-	-
+
+16	0	Telefone	[]	prop	M=S	-	NP	O	-	-
+16	1	:	[:]	:	-	-	O	O	-	-
+
+17	0	Morada	[morada]	n	F=S	-	NP	O	-	-
+17	1	:	[:]	:	-	-	O	O	-	-
+
+18	0	Código_Postal	[]	prop	M=S	-	NP	O	-	-
+18	1	:	[:]	:	-	-	O	O	-	-
+
+19	0	-	[]	-	-	-	O	O	-	-
+19	1	Localidade	[]	prop	F=S	-	NP	O	-	-
+19	2	:	[:]	:	-	-	O	O	-	-
+
+20	0	E-	[]	n	F=S	-	NP	O	-	-
+20	1	mail	[]	adj	F=S	-	NP	O	-	-
+20	2	:	[:]	:	-	-	O	O	-	-
+
+21	0	Quero	[querer]	v-fin	PR=1S=IND	-	VP	P	-	-
+21	1	receber	[receber]	v-inf	-	-	VP	P	-	-
+21	2	um	[um]	art	M=S	-	NP	ACC	-	-
+21	3	recibo	[recibo]	n	M=S	-	NP	ACC	-	-
+21	4	:	[:]	:	-	-	O	O	-	-
+
+22	0	Sim_Não_Contribuinte_Nº	[]	prop	M=S	-	NP	O	-	-
+22	1	:	[:]	:	-	-	O	O	-	-
+
+23	0	*	[]	n	M=S	-	NP	O	-	-
+23	1	.	[.]	.	-	-	O	O	-	-
+
+24	0	*	[]	v-fin	-	-	VP	P	-	-
+24	1	necessário	[necessário]	adj	M=S	-	NP	SC	-	-
+24	2	para	[para]	prp	-	-	PP	SC	-	-
+24	3	a	[o]	art	F=S	-	NP	SC	-	-
+24	4	emissão	[emissão]	n	F=S	-	NP	SC	-	-
+24	5	de	[de]	prp	-	-	PP	SC	-	-
+24	6	o	[o]	art	M=S	-	NP	SC	-	-
+24	7	recibo	[recibo]	n	M=S	-	NP	SC	-	-
+24	8	.	[.]	.	-	-	O	O	-	-
+
+25	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+25	1	seu	[seu]	pron-det	M=S	-	NP	SUBJ	-	-
+25	2	donativo	[donativo]	n	M=S	-	NP	SUBJ	-	-
+25	3	é	[ser]	v-fin	PR=3S=IND	-	VP	P	-	-
+25	4	dedutível	[dedutível]	adj	M=S	-	NP	SC	-	-
+25	5	em	[em]	prp	-	-	PP	ADVL	-	-
+25	6	os	[o]	art	M=P	-	NP	ADVL	-	-
+25	7	impostos	[imposto]	n	M=P	-	NP	ADVL	-	-
+25	8	,	[]	,	-	-	O	ADVL	-	-
+25	9	a	[a]	prp	-	-	PP	ADVL	-	-
+25	10	o	[o]	art	M=S	-	NP	ADVL	-	-
+25	11	abrigo	[abrigo]	n	M=S	-	NP	ADVL	-	-
+25	12	de	[de]	prp	-	-	PP	ADVL	-	-
+25	13	o	[o]	art	M=S	-	NP	ADVL	-	-
+25	14	estatuto	[estatuto]	n	M=S	-	NP	ADVL	-	-
+25	15	de	[de]	prp	-	-	PP	ADVL	-	-
+25	16	o	[o]	art	M=S	-	NP	ADVL	-	-
+25	17	mecenato	[mecenato]	n	M=S	-	NP	ADVL	-	-
+25	18	(	[(]	(	-	-	O	ADVL	-	-
+25	19	Dec	[]	prop	M=S	-	NP	ADVL	-	-
+25	20	.	[.]	.	-	-	O	O	-	-
+
+26	0	40	[]	num	F=P	-	NP	O	-	-
+26	1	:	[:]	:	-	-	O	O	-	-
+
+27	0	Lei	[lei]	n	F=S	-	NP	O	-	-
+27	1	nº74/99	[]	adj	F=S	-	NP	O	-	-
+27	2	)	[)]	)	-	-	O	O	-	-
+27	3	.	[.]	.	-	-	O	O	-	-
+
+28	0	Caso	[]	conj-s	-	-	O	ADVL	-	-
+28	1	envie	[enviar]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+28	2	cheque	[cheque]	n	M=S	-	NP	SC	-	-
+28	3	ou	[ou]	conj-c	-	-	O	O	-	-
+28	4	vale	[valer, valar]	v-fin	PR=3S=IND	-	VP	P	-	-
+28	5	postal	[postal]	adj	M=S	-	NP	SC	-	-
+28	6	,	[]	,	-	-	O	O	-	-
+28	7	imprima	[imprimir]	v-fin	PR=1/3S=SUBJ	-	VP	P	-	-
+28	8	o	[o]	art	M=S	-	NP	SUBJ	-	-
+28	9	formulário	[formulário]	n	M=S	-	NP	SUBJ	-	-
+28	10	preenchido	[preencher]	v-pcp	M=S	-	NP	SUBJ	-	-
+28	11	correctamente	[]	adv	-	-	ADVP	ADVL	-	-
+28	12	e	[e]	conj-c	-	-	O	O	-	-
+28	13	junte	[juntar]	v-fin	PR=3S=SUBJ	-	VP	P	-	-
+28	14	-o	[]	pron-pers	M=3S=ACC	-	NP	ACC	-	-
+28	15	a	[a]	prp	-	-	PP	ADVL	-	-
+28	16	o	[o]	art	M=S	-	NP	ADVL	-	-
+28	17	seu	[seu]	pron-det	M=S	-	NP	ADVL	-	-
+28	18	donativo	[donativo]	n	M=S	-	NP	ADVL	-	-
+28	19	.	[.]	.	-	-	O	O	-	-
+
+29	0	.	[.]	.	-	-	O	O	-	-
+
+30	0	Imprimir	[]	prop	M=S	-	NP	O	-	-
+30	1	.	[.]	.	-	-	O	O	-	-
+
+31	0	Acção	[]	n	F=S	-	NP	O	-	-
+31	1	de	[de]	prp	-	-	PP	O	-	-
+31	2	o	[o]	art	M=S	-	NP	O	-	-
+31	3	comité	[comité]	n	M=S	-	NP	O	-	-
+31	4	português	[português]	adj	M=S	-	NP	O	-	-
+31	5	.	[.]	.	-	-	O	O	-	-
+
+32	0	em	[em]	prp	-	-	PP	ADVL	-	-
+32	1	um	[um]	art	M=S	-	NP	ADVL	-	-
+32	2	mundo	[mundo]	n	M=S	-	NP	ADVL	-	-
+32	3	sem	[sem]	prp	-	-	PP	ADVL	-	-
+32	4	fronteiras	[fronteiro]	n	F=P	-	NP	ADVL	-	-
+32	5	.	[.]	.	-	-	O	O	-	-
+
+33	0	Longe	[]	prop	M=S	-	NP	O	-	-
+33	1	de	[de]	prp	-	-	PP	O	-	-
+33	2	os	[o]	art	M=P	-	NP	O	-	-
+33	3	olhares	[olhar]	v-fin	M=P	-	VP	P	-	-
+33	4	de	[de]	prp	-	-	PP	PIV	-	-
+33	5	a	[o]	art	F=S	-	NP	PIV	-	-
+33	6	comunicação	[comunicação, comunicar]	n	F=S	-	NP	PIV	-	-
+33	7	social	[social]	adj	F=S	-	NP	PIV	-	-
+33	8	,	[]	,	-	-	O	PIV	-	-
+33	9	a	[o]	art	F=S	-	NP	SUBJ	-	-
+33	10	UNICEF	[UNICEF]	prop	F=S	-	NP	SUBJ	-	-
+33	11	também	[também]	adv	-	-	ADVP	ADVL	-	-
+33	12	trabalha	[trabalhar]	v-fin	PR=3S=IND	-	VP	P	-	-
+33	13	em	[em]	prp	-	-	PP	PIV	-	-
+33	14	programas	[programa]	n	M=P	-	NP	PIV	-	-
+33	15	de	[de]	prp	-	-	PP	PIV	-	-
+33	16	médio	[médio]	n	M=S	-	NP	PIV	-	-
+33	17	e	[e]	conj-c	-	-	O	PIV	-	-
+33	18	longo	[longo]	adj	M=S	-	NP	PIV	-	-
+33	19	prazo	[prazo]	n	M=S	-	NP	PIV	-	-
+33	20	.	[.]	.	-	-	O	O	-	-
+
+34	0	Para	[para]	prp	-	-	PP	ADVL	-	-
+34	1	estes	[este]	pron-det	M=P	-	NP	ADVL	-	-
+34	2	resultados	[]	n	M=P	-	NP	ADVL	-	-
+34	3	muitos	[muito]	pron-det	M=P	-	NP	ADVL	-	-
+34	4	contribuiram	[]	n	PS/MQP=3P=IND	-	NP	ADVL	-	-
+34	5	.	[.]	.	-	-	O	O	-	-
+
+35	0	v	[]	adj	M/F=S	-	NP	O	-	-
+35	1	Os	[o]	art	M=P	-	NP	SUBJ	-	-
+35	2	Escolas	[]	prop	M=P	-	NP	SUBJ	-	-
+35	3	e	[e]	conj-c	-	-	O	SUBJ	-	-
+35	4	Universidades	[]	prop	F=P	-	NP	SUBJ	-	-
+35	5	venderam	[vender]	v-fin	PS=3P=IND	-	VP	P	-	-
+35	6	os	[o]	art	M=P	-	NP	ACC	-	-
+35	7	nossos	[nosso]	pron-det	M=P	-	NP	ACC	-	-
+35	8	cartões	[cartão]	n	M=P	-	NP	ACC	-	-
+35	9	.	[.]	.	-	-	O	O	-	-
+
+36	0	.	[.]	.	-	-	O	O	-	-
+
+37	0	v	[]	adj	M/F=S	-	NP	ADVL	-	-
+37	1	Uma	[um]	art	F=S	-	NP	SUBJ	-	-
+37	2	iniciativa	[iniciativa]	n	F=S	-	NP	SUBJ	-	-
+37	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+37	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+37	5	Solvay_Portuguesa	[]	prop	F=S	-	NP	SUBJ	-	-
+37	6	,	[]	,	-	-	O	O	-	-
+37	7	reuniu	[reunir]	v-fin	PS=3S=IND	-	VP	P	-	-
+37	8	.	[.]	.	-	-	O	O	-	-
+
+38	0	965.081$00	[]	num	F=P	-	NP	ADVL	-	-
+38	1	para	[para]	prp	-	-	PP	ADVL	-	-
+38	2	Timor	[Timor]	prop	M=S	-	NP	ADVL	-	-
+38	3	.	[.]	.	-	-	O	O	-	-
+
+39	0	.	[.]	.	-	-	O	O	-	-
+
+40	0	v	[]	adj	M/F=S	-	NP	O	-	-
+40	1	Uma	[um]	art	F=S	-	NP	O	-	-
+40	2	colaboração	[colaboração, colaborar]	n	F=S	-	NP	O	-	-
+40	3	regular	[regular]	adj	F=S	-	NP	O	-	-
+40	4	de	[de]	prp	-	-	PP	O	-	-
+40	5	a	[o]	art	F=S	-	NP	O	-	-
+40	6	Soporcel	[]	prop	F=S	-	NP	O	-	-
+40	7	,	[]	,	-	-	O	O	-	-
+40	8	contribuiu	[contribuir]	v-fin	PS=3S=IND	-	VP	P	-	-
+40	9	com	[com]	prp	-	-	PP	ADVL	-	-
+40	10	1.043.000$00	[]	num	M=P	-	NP	ADVL	-	-
+40	11	,	[]	,	-	-	O	ADVL	-	-
+40	12	enviados	[enviar]	v-pcp	M=P	-	VP	P	-	-
+40	13	para	[para]	prp	-	-	PP	ADVL	-	-
+40	14	os	[o]	art	M=P	-	NP	ADVL	-	-
+40	15	recursos	[recurso]	n	M=P	-	NP	ADVL	-	-
+40	16	gerais	[geral]	adj	M=P	-	NP	ADVL	-	-
+40	17	de	[de]	prp	-	-	PP	ADVL	-	-
+40	18	a	[o]	art	F=S	-	NP	ADVL	-	-
+40	19	UNICEF	[UNICEF]	prop	F=S	-	NP	ADVL	-	-
+40	20	.	[.]	.	-	-	O	O	-	-
+
+41	0	.	[.]	.	-	-	O	O	-	-
+
+42	0	v	[]	adj	M/F=S	-	NP	ADVL	-	-
+42	1	Uma	[um]	art	F=S	-	NP	SUBJ	-	-
+42	2	acção	[]	n	F=S	-	NP	SUBJ	-	-
+42	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+42	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+42	5	Cartier	[]	prop	F=S	-	NP	SUBJ	-	-
+42	6	,	[]	,	-	-	O	SUBJ	-	-
+42	7	doou	[doar]	v-fin	PS=3S=IND	-	VP	P	-	-
+42	8	2.000.000$00	[]	num	F=P	-	NP	ACC	-	-
+42	9	para	[para]	prp	-	-	PP	ADVL	-	-
+42	10	os	[o]	art	M=P	-	NP	ADVL	-	-
+42	11	órfãos	[órfão]	n	M=P	-	NP	ADVL	-	-
+42	12	de	[de]	prp	-	-	PP	ADVL	-	-
+42	13	Moçambique	[Moçambique]	prop	M=S	-	NP	ADVL	-	-
+42	14	.	[.]	.	-	-	O	O	-	-
+
+43	0	.	[.]	.	-	-	O	O	-	-
+
+44	0	v	[]	adj	M/F=S	-	NP	O	-	-
+44	1	A	[o]	art	F=S	-	NP	SUBJ	-	-
+44	2	campanha	[campanha]	n	F=S	-	NP	SUBJ	-	-
+44	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+44	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+44	5	Tioccha	[]	prop	F=S	-	NP	SUBJ	-	-
+44	6	,	[]	,	-	-	O	SUBJ	-	-
+44	7	ofereceu	[oferecer]	v-fin	PS=3S=IND	-	VP	P	-	-
+44	8	1.000.000$00	[]	num	F=P	-	NP	ACC	-	-
+44	9	para	[para]	prp	-	-	PP	ADVL	-	-
+44	10	os	[o]	art	M=P	-	NP	ADVL	-	-
+44	11	recursos	[recurso]	n	M=P	-	NP	ADVL	-	-
+44	12	gerais	[geral]	adj	M=P	-	NP	ADVL	-	-
+44	13	de	[de]	prp	-	-	PP	ADVL	-	-
+44	14	a	[o]	art	F=S	-	NP	ADVL	-	-
+44	15	UNICEF	[UNICEF]	prop	F=S	-	NP	ADVL	-	-
+44	16	.	[.]	.	-	-	O	O	-	-
+
+45	0	.	[.]	.	-	-	O	O	-	-
+
+46	0	v	[]	adj	M/F=S	-	NP	O	-	-
+46	1	A	[o]	art	F=S	-	NP	SUBJ	-	-
+46	2	acção	[]	n	F=S	-	NP	SUBJ	-	-
+46	3	de	[de]	prp	-	-	PP	SUBJ	-	-
+46	4	a	[o]	art	F=S	-	NP	SUBJ	-	-
+46	5	Portugal_Telecom	[]	prop	F=S	-	NP	SUBJ	-	-
+46	6	resultou	[resultar]	v-fin	PS=3S=IND	-	VP	P	-	-
+46	7	em	[em]	prp	-	-	PP	ADVL	-	-
+46	8	10.000.000$00	[]	num	M=P	-	NP	ADVL	-	-
+46	9	para	[para]	prp	-	-	PP	PIV	-	-
+46	10	o	[o]	art	M=S	-	NP	PIV	-	-
+46	11	Kosovo	[Kosovo]	prop	M=S	-	NP	PIV	-	-
+46	12	.	[.]	.	-	-	O	O	-	-
+
+47	0	.	[.]	.	-	-	O	O	-	-
+
+48	0	v	[]	adj	M/F=S	-	NP	ADVL	-	-
+48	1	A	[o]	art	F=S	-	NP	SUBJ	-	-
+48	2	participação	[participação, participar]	n	F=S	-	NP	SUBJ	-	-
+48	3	anual	[anual]	adj	F=S	-	NP	SUBJ	-	-
+48	4	em	[em]	prp	-	-	PP	SUBJ	-	-
+48	5	uma	[um]	art	F=S	-	NP	SUBJ	-	-
+48	6	campanha	[campanha]	n	F=S	-	NP	SUBJ	-	-
+48	7	de	[de]	prp	-	-	PP	SUBJ	-	-
+48	8	a	[o]	art	F=S	-	NP	SUBJ	-	-
+48	9	Seguradora_Allianz_Portugal	[]	prop	F=S	-	NP	SUBJ	-	-
+48	10	,	[]	,	-	-	O	SUBJ	-	-
+48	11	permitiu	[permitir]	v-fin	PS=3S=IND	-	VP	P	-	-
+48	12	enviar	[enviar]	v-inf	-	-	VP	P	-	-
+48	13	5.083.618$00	[]	num	F=P	-	NP	ACC	-	-
+48	14	para	[para]	prp	-	-	PP	ACC	-	-
+48	15	Timor	[Timor]	prop	M=S	-	NP	ACC	-	-
+48	16	.	[.]	.	-	-	O	O	-	-
+
+49	0	.	[.]	.	-	-	O	O	-	-
+

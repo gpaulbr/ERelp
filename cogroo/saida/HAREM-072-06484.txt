@@ -1,0 +1,370 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure
+0	0	Jornal_Light_News	[]	prop	M=S	O	NP	O
+0	1	-	[]	-	-	-	O	O
+0	2	Agosto	[agosto]	n	M=S	O	NP	O
+0	3	2000	[]	num	M=P	-	NP	O
+0	4	.	[.]	.	-	-	O	O
+
+1	0	mm	[milimetro]	n	M=S	O	NP	O
+1	1	Agosto	[agosto]	n	M=S	O	NP	O
+1	2	2000	[]	num	M=P	-	NP	O
+1	3	·	[]	n	M=P	O	NP	O
+1	4	Babados	[babar]	v-pcp	M=P	-	NP	O
+1	5	-	[]	-	-	-	O	O
+1	6	Encontrei	[encontrar]	v-fin	PS=1S=IND	-	VP	P
+1	7	com	[com]	prp	-	-	PP	PIV
+1	8	a	[o]	art	F=S	-	NP	PIV
+1	9	modelo	[modelo]	n	F=S	O	NP	PIV
+1	10	Aline_Nakashima	[]	prop	F=S	O	NP	PIV
+1	11	em	[em]	prp	-	-	PP	ADVL
+1	12	Nova_Iorque	[]	prop	M=S	O	NP	ADVL
+1	13	e	[e]	conj-c	-	-	O	O
+1	14	saímos	[sair]	v-fin	PR=1P=IND	-	VP	P
+1	15	para	[para]	prp	-	-	PP	ADVL
+1	16	almoçar	[almoçar]	v-inf	-	-	PP	ADVL
+1	17	.	[.]	.	-	-	O	O
+
+2	0	.	[.]	.	-	-	O	O
+
+3	0	Ela	[ele]	pron-pers	F=3S=NOM	O	NP	SUBJ
+3	1	me	[me]	pron-pers	M/F=1S=ACC	O	NP	ACC
+3	2	contou	[contar]	v-fin	PS=3S=IND	-	VP	P
+3	3	de	[de]	prp	-	-	PP	PIV
+3	4	os	[o]	art	M=P	-	NP	PIV
+3	5	seus	[seu]	pron-det	M=P	O	NP	PIV
+3	6	trabalhos	[trabalho]	n	M=P	-	NP	PIV
+3	7	,	[]	,	-	-	O	PIV
+3	8	entre	[entre]	prp	-	-	PP	PIV
+3	9	eles	[ele]	pron-pers	M=3P=NOM	O	NP	PIV
+3	10	fotos	[foto]	n	F=P	O	NP	PIV
+3	11	para	[para]	prp	-	-	PP	PIV
+3	12	DKNY	[]	prop	M=S	O	NP	PIV
+3	13	e	[e]	conj-c	-	-	O	PIV
+3	14	campanha	[campanha]	n	F=S	O	NP	PIV
+3	15	mundial	[mundial]	adj	F=S	-	NP	PIV
+3	16	de	[de]	prp	-	-	PP	PIV
+3	17	Ralfh_Lauren	[]	prop	M=S	O	NP	PIV
+3	18	.	[.]	.	-	-	O	O
+
+4	0	.	[.]	.	-	-	O	O
+
+5	0	-	[]	-	-	-	O	O
+5	1	Enquanto	[]	adv	-	-	ADVP	ADVL
+5	2	isso	[isso]	pron-indp	M=S	O	NP	O
+5	3	a	[o]	art	F=S	-	NP	SUBJ
+5	4	modelo	[modelo]	n	F=S	O	NP	SUBJ
+5	5	Nathália_Costa	[]	prop	F=S	O	NP	SUBJ
+5	6	descansou	[descansar]	v-fin	PS=3S=IND	-	VP	P
+5	7	uns	[um]	pron-det	M=P	O	NP	ACC
+5	8	dias	[dia]	n	M=P	-	NP	ACC
+5	9	em	[em]	prp	-	-	PP	ADVL
+5	10	o	[o]	art	M=S	-	NP	ADVL
+5	11	Brasil	[Brasil]	prop	M=S	O	NP	ADVL
+5	12	,	[]	,	-	-	O	O
+5	13	após	[após]	prp	-	-	PP	ADVL
+5	14	temporada	[temporada]	n	F=S	O	NP	ADVL
+5	15	em	[em]	prp	-	-	PP	ADVL
+5	16	Tóquio	[Tóquio]	prop	M=S	O	NP	ADVL
+5	17	.	[.]	.	-	-	O	O
+
+6	0	.	[.]	.	-	-	O	O
+
+7	0	Retorna	[retornar]	v-fin	PR=3S=IND	-	VP	P
+7	1	a	[a]	prp	-	-	PP	SA
+7	2	os	[o]	art	M=P	-	NP	SA
+7	3	Estados_Unidos	[]	prop	M=P	O	NP	SA
+7	4	onde	[onde]	adv	-	-	ADVP	ADVL
+7	5	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+7	6	morando	[morar]	v-ger	-	-	VP	P
+7	7	,	[]	,	-	-	O	O
+7	8	para	[para]	prp	-	-	PP	ADVL
+7	9	fazer	[fazer]	v-inf	-	-	VP	P
+7	10	a	[o]	art	F=S	-	NP	ACC
+7	11	campanha	[campanha]	n	F=S	O	NP	ACC
+7	12	de	[de]	prp	-	-	PP	ACC
+7	13	a	[o]	art	F=S	-	NP	ACC
+7	14	Gap	[]	prop	F=S	O	NP	ACC
+7	15	.	[.]	.	-	-	O	O
+
+8	0	.	[.]	.	-	-	O	O
+
+9	0	-	[]	-	-	-	O	O
+9	1	Neide_Mello	[]	prop	M=S	O	NP	SUBJ
+9	2	e	[e]	conj-c	-	-	O	SUBJ
+9	3	Mariza_Romero	[]	prop	M=S	O	NP	SUBJ
+9	4	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P
+9	5	descansar	[descansar]	v-inf	-	-	VP	P
+9	6	em	[em]	prp	-	-	PP	ADVL
+9	7	a	[o]	art	F=S	-	NP	ADVL
+9	8	Bahia	[]	prop	F=S	O	NP	ADVL
+9	9	.	[.]	.	-	-	O	O
+
+10	0	.	[.]	.	-	-	O	O
+
+11	0	Que	[que]	pron-det	F=S	O	NP	O
+11	1	coisa	[coisa]	n	F=S	-	NP	O
+11	2	boa	[boa]	adj	F=S	-	NP	O
+11	3	.	[.]	.	-	-	O	O
+
+12	0	.	[.]	.	-	-	O	O
+
+13	0	-	[]	-	-	-	O	O
+13	1	Gente	[]	prop	M=S	O	NP	SUBJ
+13	2	,	[]	,	-	-	O	SUBJ
+13	3	a	[a]	prp	-	-	PP	SUBJ
+13	4	Ana_Paula	[]	prop	M=S	O	NP	SUBJ
+13	5	cortou	[cortar]	v-fin	PS=3S=IND	-	VP	P
+13	6	o	[o]	art	M=S	-	NP	ACC
+13	7	cabelo	[cabelo]	n	M=S	O	NP	ACC
+13	8	...	[...]	...	-	-	O	O
+13	9	.	[.]	.	-	-	O	O
+
+14	0	Que	[que]	pron-det	F=S	O	NP	O
+14	1	gracinha	[gracinha, graça]	n	F=S	-	NP	O
+14	2	.	[.]	.	-	-	O	O
+
+15	0	.	[.]	.	-	-	O	O
+
+16	0	-	[]	-	-	-	O	O
+16	1	Lindos	[]	prop	M=P	O	NP	SUBJ
+16	2	os	[o]	art	M=P	-	NP	ACC
+16	3	aparelhos	[aparelho]	n	M=P	O	NP	ACC
+16	4	novos	[novo]	adj	M=P	-	NP	ACC
+16	5	de	[de]	prp	-	-	PP	ACC
+16	6	a	[o]	art	F=S	-	NP	ACC
+16	7	academia	[academia]	n	F=S	O	NP	ACC
+16	8	Energy_Sport	[]	prop	F=S	O	NP	ACC
+16	9	.	[.]	.	-	-	O	O
+
+17	0	.	[.]	.	-	-	O	O
+
+18	0	Parabéns	[]	prop	M=S	O	NP	SUBJ
+18	1	!	[]	!	-	-	O	O
+18	2	.	[.]	.	-	-	O	O
+
+19	0	-	[]	-	-	-	O	O
+19	1	O	[o]	art	M=S	-	NP	SUBJ
+19	2	ICBEU	[]	prop	M=S	O	NP	SUBJ
+19	3	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+19	4	novamente	[novo]	adv	-	-	ADVP	ADVL
+19	5	ampliando	[ampliar]	v-ger	-	-	ADVP	ADVL
+19	6	o	[o]	art	M=S	-	NP	ACC
+19	7	seu	[seu]	pron-det	M=S	O	NP	ACC
+19	8	espaço	[espaço]	n	M=S	-	NP	ACC
+19	9	.	[.]	.	-	-	O	O
+
+20	0	.	[.]	.	-	-	O	O
+
+21	0	Que	[que]	pron-indp	M=S	O	NP	O
+21	1	maravilha	[maravilha]	n	F=S	-	NP	O
+21	2	!	[]	!	-	-	O	O
+21	3	.	[.]	.	-	-	O	O
+
+22	0	-	[]	-	-	-	O	O
+22	1	Muito	[muito]	adv	-	-	ADVP	ADVL
+22	2	disputada	[disputar]	v-pcp	F=S	-	VP	P
+22	3	a	[o]	art	F=S	-	NP	ACC
+22	4	palestra	[palestra]	n	F=S	O	NP	ACC
+22	5	de	[de]	prp	-	-	PP	ACC
+22	6	moda	[moda]	n	F=S	O	NP	ACC
+22	7	e	[e]	conj-c	-	-	O	ACC
+22	8	comportamento	[comportar]	n	M=S	O	NP	ACC
+22	9	realizada	[realizar]	v-pcp	F=S	-	VP	P
+22	10	em	[em]	prp	-	-	PP	ADVL
+22	11	a	[o]	art	F=S	-	NP	ADVL
+22	12	ACI	[]	prop	F=S	O	NP	ADVL
+22	13	para	[para]	prp	-	-	PP	ADVL
+22	14	o	[o]	art	M=S	-	NP	ADVL
+22	15	grupo	[grupo]	n	M=S	O	NP	ADVL
+22	16	de	[de]	prp	-	-	PP	ADVL
+22	17	mulheres	[mulher]	n	F=P	O	NP	ADVL
+22	18	empresárias	[empresário]	n	F=P	O	NP	SC
+22	19	de	[de]	prp	-	-	PP	SC
+22	20	a	[o]	art	F=S	-	NP	SC
+22	21	cidade	[cidade]	n	F=S	O	NP	SC
+22	22	.	[.]	.	-	-	O	O
+
+23	0	.	[.]	.	-	-	O	O
+
+24	0	Celeste	[Celeste]	prop	F=S	O	NP	O
+24	1	Costa	[Costa]	prop	-	O	NP	SUBJ
+24	2	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+24	3	de	[de]	prp	-	-	PP	SA
+24	4	parabéns	[parabéns]	n	M=P	O	NP	SA
+24	5	por	[por]	prp	-	-	PP	SA
+24	6	a	[o]	art	F=S	-	NP	SA
+24	7	idéia	[]	n	F=S	O	NP	SA
+24	8	.	[.]	.	-	-	O	O
+
+25	0	.	[.]	.	-	-	O	O
+
+26	0	-	[]	-	-	-	O	O
+26	1	A	[o]	art	F=S	-	NP	SUBJ
+26	2	Cia	[]	prop	F=S	O	NP	SUBJ
+26	3	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+26	4	ministrando	[ministrar]	v-ger	-	-	VP	P
+26	5	o	[o]	art	M=S	-	NP	ACC
+26	6	segundo	[]	adj	M=S	-	NP	ACC
+26	7	curso	[curso]	n	M=S	O	NP	ACC
+26	8	de	[de]	prp	-	-	PP	ACC
+26	9	Qualidade	[qualidade]	n	F=S	O	NP	ACC
+26	10	de	[de]	prp	-	-	PP	ACC
+26	11	Vida	[]	prop	F=S	O	NP	ACC
+26	12	para	[para]	prp	-	-	PP	ACC
+26	13	mulheres	[mulher]	n	F=P	O	NP	ACC
+26	14	.	[.]	.	-	-	O	O
+
+27	0	.	[.]	.	-	-	O	O
+
+28	0	Obtenham	[obter]	v-fin	IMP=3P	-	VP	P
+28	1	mais	[mais]	pron-det	F=P	O	NP	ACC
+28	2	informações	[informar]	n	F=P	-	NP	ACC
+28	3	em	[em]	prp	-	-	PP	ACC
+28	4	a	[o]	art	F=S	-	NP	ACC
+28	5	Cia.	[]	prop	F=S	O	NP	ACC
+
+29	0	-	[]	-	-	-	O	O
+29	1	Dia	[dia]	n	M=S	O	NP	SUBJ
+29	2	de	[de]	prp	-	-	PP	SUBJ
+29	3	esses	[esse]	pron-det	M=P	O	NP	SUBJ
+29	4	fomos	[ir, ser]	v-fin	PS=1P=IND	-	VP	P
+29	5	jogar	[jogar]	v-inf	-	-	VP	P
+29	6	"	["]	"	-	-	PP	PIV
+29	7	UNO	[]	prop	M=S	O	NP	PIV
+29	8	"	["]	"	-	-	O	PIV
+29	9	em	[em]	prp	-	-	PP	PIV
+29	10	a	[o]	art	F=S	-	NP	PIV
+29	11	residência	[residência]	n	F=S	O	NP	PIV
+29	12	de	[de]	prp	-	-	PP	PIV
+29	13	Sérgio_Porto	[]	prop	M=S	O	NP	PIV
+29	14	e	[e]	conj-c	-	-	O	PIV
+29	15	Mônica_Monteiro	[]	prop	M=S	O	NP	PIV
+29	16	.	[.]	.	-	-	O	O
+
+30	0	.	[.]	.	-	-	O	O
+
+31	0	Foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P
+31	1	muito	[muito]	adv	-	-	ADVP	ADVL
+31	2	divertido	[divertir]	v-pcp	M=S	-	ADVP	ADVL
+31	3	,	[]	,	-	-	O	O
+31	4	temos	[ter]	v-fin	PR=1P=IND	-	VP	P
+31	5	uma	[um]	art	F=S	-	NP	ACC
+31	6	amiga	[amigo]	n	F=S	O	NP	ACC
+31	7	nossa	[nosso]	pron-det	F=S	O	NP	ACC
+31	8	que	[que]	pron-indp	F=S	O	NP	SUBJ
+31	9	comeu	[comer]	v-fin	PS=3S=IND	-	VP	P
+31	10	,	[]	,	-	-	O	O
+31	11	bebeu	[beber]	v-fin	PS=3S=IND	-	VP	P
+31	12	e	[e]	conj-c	-	-	O	O
+31	13	até	[até]	adv	-	-	ADVP	ADVL
+31	14	dormiu	[dormir]	v-fin	PS=3S=IND	-	VP	P
+31	15	em	[em]	prp	-	-	PP	PIV
+31	16	o	[o]	art	M=S	-	NP	PIV
+31	17	sofá	[sofá]	n	M=S	O	NP	PIV
+31	18	.	[.]	.	-	-	O	O
+
+32	0	.	[.]	.	-	-	O	O
+
+33	0	Sem	[sem]	prp	-	-	PP	ADVL
+33	1	falar	[falar]	v-inf	-	-	VP	P
+33	2	em	[em]	prp	-	-	PP	ADVL
+33	3	o	[o]	art	M=S	-	NP	ADVL
+33	4	DADO...	[]	prop	M=S	O	NP	ADVL
+33	5	.	[.]	.	-	-	O	O
+
+34	0	-	[]	-	-	-	NP	O
+34	1	O	[o]	art	M=S	-	NP	O
+34	2	famoso	[famoso]	adj	M=S	-	NP	O
+34	3	cabeleireiro	[cabeleireiro]	n	M=S	O	NP	O
+34	4	de	[de]	prp	-	-	PP	O
+34	5	São_Paulo	[]	prop	M=S	O	NP	O
+34	6	continua	[continuar]	v-fin	PR=3S=IND	-	VP	P
+34	7	vindo	[vir]	v-ger	-	-	VP	P
+34	8	todas	[todo]	pron-det	F=P	O	NP	ACC
+34	9	as	[o]	art	F=P	-	NP	ACC
+34	10	segundas-feiras	[segunda-feira]	n	F=P	-	NP	ACC
+34	11	em	[em]	prp	-	-	PP	ADVL
+34	12	o	[o]	art	M=S	-	NP	ADVL
+34	13	salão	[salão]	n	M=S	O	NP	ADVL
+34	14	de	[de]	prp	-	-	PP	ADVL
+34	15	a	[o]	art	F=S	-	NP	ADVL
+34	16	Cia	[]	prop	F=S	O	NP	ADVL
+34	17	para	[para]	prp	-	-	PP	ADVL
+34	18	cuidar	[cuidar]	v-inf	-	-	VP	P
+34	19	de	[de]	prp	-	-	PP	PIV
+34	20	o	[o]	art	M=S	-	NP	PIV
+34	21	visual	[visual]	adj	M=S	-	NP	PIV
+34	22	de	[de]	prp	-	-	PP	PIV
+34	23	quem	[quem]	pron-indp	M=S	O	NP	PIV
+34	24	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+34	25	em	[em]	prp	-	-	PP	SA
+34	26	a	[o]	art	F=S	-	NP	SA
+34	27	moda	[moda]	n	F=S	O	NP	SA
+34	28	.	[.]	.	-	-	O	O
+
+35	0	.	[.]	.	-	-	O	O
+
+36	0	-	[]	-	-	-	NP	O
+36	1	A	[o]	art	F=S	-	NP	SUBJ
+36	2	modelete	[]	adj	F=S	-	NP	SUBJ
+36	3	Magda	[Magda]	prop	M=S	O	NP	SUBJ
+36	4	e	[e]	conj-c	-	-	O	SUBJ
+36	5	minha	[minha]	pron-det	F=S	O	NP	SUBJ
+36	6	amiga	[amigo]	n	F=S	-	NP	SUBJ
+36	7	Luciana_Abrão	[]	prop	F=S	O	NP	SUBJ
+36	8	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P
+36	9	umas	[um]	pron-det	F=P	O	NP	SC
+36	10	de	[de]	prp	-	-	PP	SC
+36	11	as	[o]	art	F=P	-	NP	SC
+36	12	que	[que]	pron-indp	F=P	O	NP	SUBJ
+36	13	completaram	[completar]	v-fin	MQP=3P=IND	-	VP	P
+36	14	mais	[mais]	adv	-	-	ADVP	ADVL
+36	15	uma	[um]	art	F=S	-	NP	ACC
+36	16	primavera	[primavera]	n	F=S	O	NP	ACC
+36	17	em	[em]	prp	-	-	PP	ACC
+36	18	o	[o]	art	M=S	-	NP	ACC
+36	19	mês	[mês]	n	M=S	O	NP	ACC
+36	20	de	[de]	prp	-	-	PP	ACC
+36	21	agosto	[agosto]	n	M=S	O	NP	ACC
+36	22	.	[.]	.	-	-	O	O
+
+37	0	.	[.]	.	-	-	O	O
+
+38	0	-	[]	-	-	-	O	O
+38	1	Já	[já]	adv	-	-	ADVP	ADVL
+38	2	me	[me]	pron-pers	M/F=1S=ACC	O	NP	DAT
+38	3	falaram	[falar]	v-fin	MQP=3P=IND	-	VP	P
+38	4	que	[que]	conj-s	-	-	O	ACC
+38	5	a	[o]	art	F=S	-	NP	SUBJ
+38	6	Moniquinha	[]	prop	F=S	O	NP	SUBJ
+38	7	está	[estar]	v-fin	PR=3S=IND	-	VP	P
+38	8	indo	[ir]	v-ger	-	-	VP	P
+38	9	dar	[dar]	v-inf	-	-	VP	P
+38	10	pinta	[pinta]	n	F=S	O	NP	ACC
+38	11	em	[em]	prp	-	-	PP	ADVL
+38	12	o	[o]	art	M=S	-	NP	ADVL
+38	13	ponto	[ponto]	n	M=S	O	NP	ADVL
+38	14	de	[de]	prp	-	-	PP	ADVL
+38	15	encontro	[encontro]	n	M=S	O	NP	ADVL
+38	16	.	[.]	.	-	-	O	O
+
+39	0	.	[.]	.	-	-	O	O
+
+40	0	Não	[não]	adv	-	-	ADVP	ADVL
+40	1	estou	[estar]	v-fin	PR=1S=IND	-	VP	P
+40	2	entendendo	[entender]	v-ger	-	-	VP	P
+40	3	.	[.]	.	-	-	O	O
+
+41	0	.	[.]	.	-	-	O	O
+
+42	0	·	[]	n	M=S	O	NP	O
+42	1	.	[.]	.	-	-	O	O
+
+43	0	.	[.]	.	-	-	O	O
+
+44	0	Conheça	[conhecer]	v-fin	PR=1/3S=SUBJ	-	VP	P
+44	1	:	[:]	:	-	-	O	O
+
+45	0	Colunistas_Light_News_A.C._Parcerias_Anuncie_Sugestão_de_Pauta_Contato_XDreams_Multimídia_'2000	[]	prop	M=S	O	NP	O
+45	1	.	[.]	.	-	-	O	O
+

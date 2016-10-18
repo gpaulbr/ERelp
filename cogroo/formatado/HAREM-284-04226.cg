@@ -1,0 +1,291 @@
+ID_S	ID	Token	Lemma	PoS	Feat	Head	NP	Structure	NE	REL
+0	0	Sunab	[]	prop	M=S	O	NP	SUBJ	-	-
+0	1	autua	[autuar]	v-fin	PR=3S=IND	-	VP	P	-	-
+0	2	empresas	[empresa]	n	F=P	O	NP	ACC	-	-
+0	3	por	[por]	prp	-	-	PP	O	-	-
+0	4	alta	[alta, alto]	n	F=S	O	NP	O	-	-
+0	5	abusiva	[abusivo]	adj	F=S	-	NP	O	-	-
+0	6	de	[de]	prp	-	-	PP	O	-	-
+0	7	os	[o]	art	M=P	-	NP	O	-	-
+0	8	preços	[preço]	n	M=P	O	NP	O	-	-
+0	9	.	[.]	.	-	-	O	O	-	-
+
+1	0	de	[de]	prp	-	-	PP	ADVL	-	-
+1	1	a	[o]	art	F=S	-	NP	ADVL	-	-
+1	2	Sucursal	[sucursal]	n	M=S	O	NP	ADVL	-	-
+1	3	de	[de]	prp	-	-	PP	ADVL	-	-
+1	4	Brasília	[Brasília]	prop	M=S	O	NP	ADVL	-	-
+1	5	e	[e]	conj-c	-	-	O	ADVL	-	-
+1	6	de	[de]	prp	-	-	PP	ADVL	-	-
+1	7	a	[o]	art	F=S	-	NP	ADVL	-	-
+1	8	Reportagem_Local	[]	prop	F=S	O	NP	ADVL	-	-
+1	9	.	[.]	.	-	-	O	O	-	-
+
+2	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+2	1	Sunab	[]	prop	F=S	O	NP	SUBJ	-	-
+2	2	(	[(]	(	-	-	O	SUBJ	-	-
+2	3	Superintendência_Nacional_de_Abastecimento	[]	prop	F=S	O	NP	APP	-	-
+2	4	)	[)]	)	-	-	O	O	-	-
+2	5	autuou	[autuar]	v-fin	PS=3S=IND	-	VP	P	-	-
+2	6	62	[]	num	M=P	-	NP	ACC	-	-
+2	7	estabelecimentos	[estabelecer]	n	M=P	O	NP	ACC	-	-
+2	8	comerciais	[comercial]	adj	M=P	-	NP	ACC	-	-
+2	9	em	[em]	prp	-	-	PP	ADVL	-	-
+2	10	16	[]	num	M=P	-	NP	ADVL	-	-
+2	11	Estados	[estado]	n	M=P	O	NP	ADVL	-	-
+2	12	entre	[entre]	prp	-	-	PP	ADVL	-	-
+2	13	27	[]	num	M=P	-	NP	ADVL	-	-
+2	14	de	[de]	prp	-	-	PP	ADVL	-	-
+2	15	junho	[junho]	n	M=S	O	NP	ADVL	-	-
+2	16	e	[e]	conj-c	-	-	O	ADVL	-	-
+2	17	8	[]	num	M=P	-	NP	ADVL	-	-
+2	18	de	[de]	prp	-	-	PP	ADVL	-	-
+2	19	julho	[julho]	n	M=S	O	NP	ADVL	-	-
+2	20	último	[último]	adj	M=S	-	NP	ADVL	-	-
+2	21	.	[.]	.	-	-	O	O	-	-
+
+3	0	.	[.]	.	-	-	O	O	-	-
+
+4	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+4	1	motivo	[motivo]	n	M=S	O	NP	SUBJ	-	-
+4	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+4	3	a	[o]	art	F=S	-	NP	SUBJ	-	-
+4	4	autuação	[autuar]	n	F=S	O	NP	SUBJ	-	-
+4	5	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+4	6	a	[o]	art	F=S	-	NP	SC	-	-
+4	7	prática	[prática]	n	F=S	O	NP	SC	-	-
+4	8	de	[de]	prp	-	-	PP	SC	-	-
+4	9	aumento	[aumento]	n	M=S	O	NP	SC	-	-
+4	10	abusivo	[abusivo]	adj	M=S	-	NP	SC	-	-
+4	11	de	[de]	prp	-	-	PP	SC	-	-
+4	12	preços	[preço]	n	M=P	O	NP	SC	-	-
+4	13	acima_da	[]	prp	-	-	PP	SC	-	-
+4	14	a	[o]	art	F=S	-	NP	SC	-	-
+4	15	variação	[variação, variar]	n	F=S	O	NP	SC	-	-
+4	16	de	[de]	prp	-	-	PP	SC	-	-
+4	17	os	[o]	art	M=P	-	NP	SC	-	-
+4	18	custos	[custo]	n	M=P	O	NP	SC	-	-
+4	19	de	[de]	prp	-	-	PP	SC	-	-
+4	20	acordo	[acordo]	n	M=S	O	NP	SC	-	-
+4	21	com	[com]	prp	-	-	PP	SC	-	-
+4	22	a	[o]	art	F=S	-	NP	SC	-	-
+4	23	nova	[nova, novo]	adj	F=S	-	NP	SC	-	-
+4	24	Lei_Antitruste	[]	n	M=S	O	NP	SC	-	-
+4	25	(nº	[]	prp	-	-	PP	SC	-	-
+4	26	8.884/94	[]	num	M=P	-	NP	SC	-	-
+4	27	)	[)]	)	-	-	O	SC	-	-
+4	28	.	[.]	.	-	-	O	O	-	-
+
+5	0	.	[.]	.	-	-	O	O	-	-
+
+6	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+6	1	fiscalização	[fiscalizar]	n	F=S	O	NP	SUBJ	-	-
+6	2	também	[também]	adv	-	-	ADVP	ADVL	-	-
+6	3	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+6	4	motivada	[motivar]	v-pcp	F=S	-	VP	P	-	-
+6	5	por	[por]	prp	-	-	PP	O	-	-
+6	6	o	[o]	art	M=S	-	NP	O	-	-
+6	7	descumprimento	[cumprir]	n	M=S	O	NP	O	-	-
+6	8	de	[de]	prp	-	-	PP	O	-	-
+6	9	normas	[norma]	n	F=P	O	NP	O	-	-
+6	10	de	[de]	prp	-	-	PP	O	-	-
+6	11	comercialização	[comercializar]	n	F=S	O	NP	O	-	-
+6	12	.	[.]	.	-	-	O	O	-	-
+
+7	0	.	[.]	.	-	-	O	O	-	-
+
+8	0	Entre	[entre]	prp	-	-	PP	ADVL	-	-
+8	1	os	[o]	art	M=P	-	NP	ADVL	-	-
+8	2	autuados	[autuar]	v-pcp	M=P	-	NP	ADVL	-	-
+8	3	,	[]	,	-	-	O	O	-	-
+8	4	estão	[estar]	v-fin	PR=3P=IND	-	VP	P	-	-
+8	5	seis	[seis]	num	M=P	-	NP	SUBJ	-	-
+8	6	supermercados	[supermercado]	n	M=P	O	NP	SUBJ	-	-
+8	7	e	[e]	conj-c	-	-	O	SUBJ	-	-
+8	8	oito	[oito]	num	F=P	-	NP	SUBJ	-	-
+8	9	indústrias	[indústria]	n	F=P	O	NP	SUBJ	-	-
+8	10	.	[.]	.	-	-	O	O	-	-
+
+9	0	.	[.]	.	-	-	O	O	-	-
+
+10	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+10	1	Sunab	[]	prop	F=S	O	NP	SUBJ	-	-
+10	2	também	[também]	adv	-	-	ADVP	ADVL	-	-
+10	3	constatou	[constatar]	v-fin	PS=3S=IND	-	VP	P	-	-
+10	4	a	[o]	art	F=S	-	NP	ACC	-	-
+10	5	prática	[prática]	n	F=S	O	NP	ACC	-	-
+10	6	de	[de]	prp	-	-	PP	ACC	-	-
+10	7	aumento	[aumento]	n	M=S	O	NP	ACC	-	-
+10	8	abusivo	[abusivo]	adj	M=S	-	NP	ACC	-	-
+10	9	de	[de]	prp	-	-	PP	ACC	-	-
+10	10	preços	[preço]	n	M=P	O	NP	ACC	-	-
+10	11	em	[em]	prp	-	-	PP	ADVL	-	-
+10	12	outros	[outro]	pron-det	M=P	O	NP	ADVL	-	-
+10	13	23	[]	num	M=P	-	NP	ADVL	-	-
+10	14	estabelecimentos	[estabelecer]	n	M=P	-	NP	ADVL	-	-
+10	15	comerciais	[comercial]	adj	M=P	-	NP	ADVL	-	-
+10	16	.	[.]	.	-	-	O	O	-	-
+
+11	0	.	[.]	.	-	-	O	O	-	-
+
+12	0	Supermercados	[]	prop	M=P	O	NP	O	-	-
+12	1	.	[.]	.	-	-	O	O	-	-
+
+13	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+13	1	Procuradoria	[procuradoria]	n	F=S	O	NP	SUBJ	-	-
+13	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+13	3	o	[o]	art	M=S	-	NP	SUBJ	-	-
+13	4	Estado	[estado]	n	M=S	O	NP	SUBJ	-	-
+13	5	de	[de]	prp	-	-	PP	SUBJ	-	-
+13	6	São_Paulo	[]	prop	M=S	O	NP	SUBJ	-	-
+13	7	deve	[dever]	v-fin	PR=3S=IND	-	VP	P	-	-
+13	8	finalizar	[finalizar]	v-inf	-	-	VP	P	-	-
+13	9	os	[o]	art	M=P	-	NP	ACC	-	-
+13	10	pareceres	[parecer]	n	M=P	O	NP	ACC	-	-
+13	11	sobre	[sobre]	prp	-	-	PP	ADVL	-	-
+13	12	os	[o]	art	M=P	-	NP	ADVL	-	-
+13	13	sete	[sete]	num	M=P	-	NP	ADVL	-	-
+13	14	supermercados	[supermercado]	n	M=P	O	NP	ADVL	-	-
+13	15	autuados	[autuar]	v-pcp	M=P	-	VP	P	-	-
+13	16	por	[por]	prp	-	-	PP	O	-	-
+13	17	o	[o]	art	M=S	-	NP	O	-	-
+13	18	Procon	[]	prop	M=S	O	NP	O	-	-
+13	19	dentro_de	[]	prp	-	-	PP	ADVL	-	-
+13	20	uma	[um]	art	F=S	-	NP	ADVL	-	-
+13	21	semana	[semana]	n	F=S	O	NP	ADVL	-	-
+13	22	.	[.]	.	-	-	O	O	-	-
+
+14	0	.	[.]	.	-	-	O	O	-	-
+
+15	0	Os	[o]	art	M=P	-	NP	SUBJ	-	-
+15	1	autuados	[autuar]	v-pcp	M=P	-	NP	SUBJ	-	-
+15	2	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P	-	-
+15	3	:	[:]	:	-	-	O	O	-	-
+
+16	0	O	[o]	art	M=S	-	NP	SUBJ	-	-
+16	1	Barateiro	[barateiro]	n	M=S	O	NP	SUBJ	-	-
+16	2	,	[]	,	-	-	O	SUBJ	-	-
+16	3	Carrefour	[]	prop	M=S	O	NP	SUBJ	-	-
+16	4	,	[]	,	-	-	O	SUBJ	-	-
+16	5	Pão_de_Açúcar	[]	prop	M=S	O	NP	SUBJ	-	-
+16	6	,	[]	,	-	-	O	SUBJ	-	-
+16	7	Cândia	[]	prop	F=S	O	NP	SUBJ	-	-
+16	8	,	[]	,	-	-	O	SUBJ	-	-
+16	9	Extra	[]	prop	F=S	O	NP	SUBJ	-	-
+16	10	,	[]	,	-	-	O	SUBJ	-	-
+16	11	Eldorado	[]	prop	M=S	O	NP	SUBJ	-	-
+16	12	e	[e]	conj-c	-	-	O	SUBJ	-	-
+16	13	Paes_Mendonça	[]	prop	M=S	O	NP	SUBJ	-	-
+16	14	.	[.]	.	-	-	O	O	-	-
+
+17	0	.	[.]	.	-	-	O	O	-	-
+
+18	0	Eles	[ele]	pron-pers	M=3P=NOM	O	NP	SUBJ	-	-
+18	1	teriam	[ter]	v-fin	COND=3P	-	VP	P	-	-
+18	2	vendido	[vender]	v-pcp	M=S	-	VP	P	-	-
+18	3	em	[em]	prp	-	-	PP	ADVL	-	-
+18	4	março	[março]	n	M=S	O	NP	ADVL	-	-
+18	5	acima_da	[]	prp	-	-	PP	ADVL	-	-
+18	6	a	[o]	art	F=S	-	NP	ADVL	-	-
+18	7	média	[média, médio]	n	F=S	O	NP	ADVL	-	-
+18	8	de	[de]	prp	-	-	PP	ADVL	-	-
+18	9	os	[o]	art	M=P	-	NP	ADVL	-	-
+18	10	últimos	[último]	adj	M=P	-	NP	ADVL	-	-
+18	11	quatro	[quatro]	num	M=P	-	NP	ADVL	-	-
+18	12	meses	[mês]	n	M=P	O	NP	ADVL	-	-
+18	13	de	[de]	prp	-	-	PP	ADVL	-	-
+18	14	93	[]	num	M=P	-	NP	ADVL	-	-
+18	15	.	[.]	.	-	-	O	O	-	-
+
+19	0	.	[.]	.	-	-	O	O	-	-
+
+20	0	Os	[o]	art	M=P	-	NP	SUBJ	-	-
+20	1	supermercadistas	[]	n	M=P	O	NP	SUBJ	-	-
+20	2	apresentaram	[apresentar]	v-fin	MQP=3P=IND	-	VP	P	-	-
+20	3	defesa	[defesa]	n	F=S	O	NP	ACC	-	-
+20	4	.	[.]	.	-	-	O	O	-	-
+
+21	0	.	[.]	.	-	-	O	O	-	-
+
+22	0	Averiguação	[]	prop	F=S	O	NP	O	-	-
+22	1	.	[.]	.	-	-	O	O	-	-
+
+23	0	As	[o]	art	F=P	-	NP	SUBJ	-	-
+23	1	empresas	[empresa]	n	F=P	O	NP	SUBJ	-	-
+23	2	de	[de]	prp	-	-	PP	SUBJ	-	-
+23	3	vale-refeição	[]	n	M=P	O	NP	SUBJ	-	-
+23	4	deverão	[dever]	v-fin	FUT=3P=IND	-	VP	P	-	-
+23	5	ser	[ser]	v-inf	-	-	VP	P	-	-
+23	6	alvo	[alvo]	n	M=S	O	NP	SC	-	-
+23	7	de	[de]	prp	-	-	PP	SC	-	-
+23	8	um	[um]	art	M=S	-	NP	SC	-	-
+23	9	processo	[processo]	n	M=S	O	NP	SC	-	-
+23	10	de	[de]	prp	-	-	PP	SC	-	-
+23	11	averiguação	[averiguar]	n	F=S	O	NP	SC	-	-
+23	12	preliminar	[preliminar]	adj	F=S	-	NP	SC	-	-
+23	13	feito	[fazer]	v-pcp	M=S	-	VP	P	-	-
+23	14	por	[por]	prp	-	-	PP	O	-	-
+23	15	o	[o]	art	M=S	-	NP	O	-	-
+23	16	governo	[governo]	n	M=S	O	NP	O	-	-
+23	17	.	[.]	.	-	-	O	O	-	-
+
+24	0	.	[.]	.	-	-	O	O	-	-
+
+25	0	Em	[em]	prp	-	-	PP	ADVL	-	-
+25	1	representação	[representação, representar]	n	F=S	O	NP	ADVL	-	-
+25	2	entregue	[]	v-pcp	F=S	-	VP	P	-	-
+25	3	ontem	[ontem]	adv	-	-	ADVP	ADVL	-	-
+25	4	a	[a]	prp	-	-	PP	PIV	-	-
+25	5	o	[o]	art	M=S	-	NP	PIV	-	-
+25	6	Ministério_da_Justiça	[]	prop	M=S	O	NP	PIV	-	-
+25	7	,	[]	,	-	-	O	O	-	-
+25	8	elas	[ele]	pron-pers	F=3P=NOM	O	NP	SUBJ	-	-
+25	9	foram	[ir, ser]	v-fin	MQP=3P=IND	-	VP	P	-	-
+25	10	acusadas	[acusar]	v-pcp	F=P	-	VP	P	-	-
+25	11	de	[de]	prp	-	-	PP	PIV	-	-
+25	12	terem	[ter]	v-inf	3P	-	VP	P	-	-
+25	13	formado	[formar]	v-pcp	M=S	-	VP	P	-	-
+25	14	cartel	[cartel]	n	M=S	O	NP	ACC	-	-
+25	15	para	[para]	prp	-	-	PP	ACC	-	-
+25	16	aumentar	[aumentar]	v-inf	-	-	VP	P	-	-
+25	17	em	[em]	prp	-	-	PP	ADVL	-	-
+25	18	até	[até]	prp	-	-	PP	ADVL	-	-
+25	19	200	[]	num	M=P	-	NP	ADVL	-	-
+25	20	%	[]	n	M=P	O	NP	ADVL	-	-
+25	21	a	[o]	art	F=S	-	NP	SUBJ	-	-
+25	22	taxa	[taxa]	n	F=S	O	NP	SUBJ	-	-
+25	23	cobrada	[cobrar]	v-pcp	F=S	-	VP	P	-	-
+25	24	por	[por]	prp	-	-	PP	O	-	-
+25	25	os	[o]	art	M=P	-	NP	O	-	-
+25	26	seus	[seu]	pron-det	M=P	O	NP	O	-	-
+25	27	serviços	[serviço]	n	M=P	-	NP	O	-	-
+25	28	.	[.]	.	-	-	O	O	-	-
+
+26	0	.	[.]	.	-	-	O	O	-	-
+
+27	0	A	[o]	art	F=S	-	NP	SUBJ	-	-
+27	1	representação	[representação, representar]	n	F=S	O	NP	SUBJ	-	-
+27	2	foi	[ir, ser]	v-fin	PS=3S=IND	-	VP	P	-	-
+27	3	encaminhada	[encaminhar]	v-pcp	F=S	-	VP	P	-	-
+27	4	por	[por]	prp	-	-	PP	O	-	-
+27	5	o	[o]	art	M=S	-	NP	O	-	-
+27	6	comerciante	[comerciante]	n	M=S	O	NP	O	-	-
+27	7	paulista	[]	adj	M=S	-	NP	O	-	-
+27	8	Ronaldo_Cheguri_de_Almeida	[]	prop	M=S	O	NP	O	-	-
+27	9	,	[]	,	-	-	O	O	-	-
+27	10	em	[em]	prp	-	-	PP	ADVL	-	-
+27	11	nome	[nome]	n	M=S	O	NP	ADVL	-	-
+27	12	de	[de]	prp	-	-	PP	ADVL	-	-
+27	13	cerca_de	[]	adv	-	-	NP	ADVL	-	-
+27	14	300	[]	num	M=P	-	NP	ADVL	-	-
+27	15	donos	[dono]	n	M=P	O	NP	ADVL	-	-
+27	16	de	[de]	prp	-	-	PP	ADVL	-	-
+27	17	bares	[bar]	n	M=P	O	NP	ADVL	-	-
+27	18	e	[e]	conj-c	-	-	O	ADVL	-	-
+27	19	restaurantes	[restaurante]	n	M=P	O	NP	ADVL	-	-
+27	20	de	[de]	prp	-	-	PP	ADVL	-	-
+27	21	São_Paulo	[]	prop	M=S	O	NP	ADVL	-	-
+27	22	.	[.]	.	-	-	O	O	-	-
+
+28	0	.	[.]	.	-	-	O	O	-	-
+
